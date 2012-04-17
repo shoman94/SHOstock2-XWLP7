@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/message_compose_action_bar_custom" android:background="@drawable/hub_title_bg" android:padding="0.0px" android:layout_width="fill_parent" android:layout_height="78.0px" android:layout_margin="0.0px"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="24.0px" android:textColor="@color/amoled_color1" android:ellipsize="end" android:gravity="left|center" android:id="@id/header_title" android:paddingLeft="12.0px" android:paddingRight="10.0px" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_margin="0.0px" android:text="@string/notification_new_title" android:singleLine="true" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <LinearLayout android:id="@id/dummy_layout" android:padding="0.0px" android:layout_width="14.0px" android:layout_height="fill_parent" android:layout_margin="0.0px" android:layout_alignParentRight="true" />
+    <LinearLayout android:id="@id/header_button_icon_mail" android:background="@drawable/message_compose_header_button_icon_bg" android:layout_width="86.0px" android:layout_height="54.0px" android:layout_marginLeft="10.0px" android:layout_toLeftOf="@id/dummy_layout" android:layout_centerVertical="true">
+        <ImageView android:gravity="center" android:padding="0.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="0.0px" android:src="@drawable/email_icon_05" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/header_button_icon_clip" android:background="@drawable/message_compose_header_button_icon_bg" android:layout_width="86.0px" android:layout_height="54.0px" android:layout_marginLeft="10.0px" android:layout_toLeftOf="@id/header_button_icon_mail" android:layout_centerVertical="true">
+        <ImageView android:gravity="center" android:padding="0.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="0.0px" android:src="@drawable/email_icon_attach" />
+    </LinearLayout>
+</RelativeLayout>

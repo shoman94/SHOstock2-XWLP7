@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/menu_context_delete_group" android:visible="false" android:title="@string/menu_deleteContact">
+        <menu>
+            <group>
+                <item android:id="@id/submenu_context_delete_group_only" android:title="@string/group_only" />
+                <item android:id="@id/submenu_context_delete_group_and_member" android:title="@string/group_with_member" />
+            </group>
+        </menu>
+    </item>
+    <item android:id="@id/menu_context_send_message" android:visible="false" android:title="@string/menu_send_message" />
+    <item android:id="@id/menu_context_send_email" android:visible="false" android:title="@string/menu_send_email" />
+    <item android:id="@id/menu_context_edit_group" android:visible="false" android:title="@string/editGroupDescription" />
+</menu>

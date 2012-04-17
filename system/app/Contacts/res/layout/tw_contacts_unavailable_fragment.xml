@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:ex="http://schemas.android.com/apk/res/com.android.contacts">
+    <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/no_contacts_help_text">
+        <ImageView android:id="@id/noitem_image_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/noitems_text_based" />
+        <TextView android:textAppearance="@style/TwMainListNoContactsTextAppearance" android:id="@id/message" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="@style/TwMainListNoContactsTextAppearance" android:id="@id/secondary_message" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="48.0dip" android:layout_marginRight="48.0dip">
+            <Button android:id="@id/import_failure_uninstall_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="@string/upgrade_out_of_memory_uninstall" />
+            <Button android:id="@id/import_failure_retry_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="@string/upgrade_out_of_memory_retry" />
+            <ProgressBar android:layout_gravity="center_horizontal" android:id="@id/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

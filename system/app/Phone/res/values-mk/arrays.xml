@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listCameraEffectMenuArray">
+        <item>Исклучено</item>
+        <item>Сива</item>
+        <item>Сипа</item>
+        <item>Зелена</item>
+        <item>Вода</item>
+        <item>Негатив</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Избриши</item>
+    </string-array>
+    <string-array name="pref_roaming_options_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="default_setup_choices">
+        <item>Автоматски</item>
+        <item>Рачно</item>
+    </string-array>
+    <string-array name="default_setup_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Основна мрежа</item>
+        <item>Прикриј го бројот</item>
+        <item>Прикажи број</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>Основно</item>
+        <item>Прикриј</item>
+        <item>Прикажи</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Global</item>
+        <item>Само EVDO</item>
+        <item>CDMA w/o EVDO</item>
+        <item>Автоматски CDMA/EVDO</item>
+        <item>Автоматски GSM/WCDMA</item>
+        <item>Само WCDMA</item>
+        <item>Само GSM</item>
+        <item>Пожелно GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>Француски</item>
+        <item>Шпански</item>
+        <item>Јапонски</item>
+        <item>Корејски</item>
+        <item>Кинески</item>
+        <item>Хебрејски</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Само домашна</item>
+        <item>Автоматски</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Само домашна мрежа</item>
+        <item>Сродни мрежи</item>
+        <item>Која било мрежа</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EVDO</item>
+        <item>Само CDMA</item>
+        <item>Само EVDO</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Исклучен режим TTY</item>
+        <item>Целосно TTY</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Норм.</item>
+        <item>Долго</item>
+    </string-array>
+    <string-array name="dtmf_tone_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

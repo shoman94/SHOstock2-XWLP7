@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d resultados de %2$s</item>
+        <item quantity="one">%1$d result from %2$s</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Mensajes eliminados</item>
+        <item quantity="one">Mensaje eliminado</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Mover mensajes</item>
+        <item quantity="one">Mover mensaje</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$d unread (%2$s)</item>
+        <item quantity="one">%1$d no leídos (%2$s)</item>
+        <item quantity="few">%1$d unread (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">en %d cuentas</item>
+        <item quantity="few">en %d cuentas</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">Cuentas %d</item>
+        <item quantity="one">Cuenta %d</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d seleccionado</item>
+        <item quantity="one">%d seleccionado</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">Archivos adjuntos %1$d</item>
+        <item quantity="one">Archivo adjunto %1$d</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">%1$d mensajes movidos a %2$s</item>
+        <item quantity="one">%1$d mensaje movido a %2$s</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultados para %2$s</item>
+        <item quantity="one">%s result for \"%s\"</item>
+    </plurals>
+</resources>

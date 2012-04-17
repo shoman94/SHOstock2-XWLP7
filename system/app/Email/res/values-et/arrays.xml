@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Edukas.</item>
+        <item>Tõrget pole</item>
+        <item>{0} kasutaja limiit on ületatud</item>
+        <item>Kasutajate limiit ületatud</item>
+        <item>Duplikaatkasutaja: {0}</item>
+        <item>Duplikaatkasutaja</item>
+        <item>Duplikaatseade: {0}</item>
+        <item>Duplikaatseade</item>
+        <item>Kasutajat ei leitud: {0}</item>
+        <item>Kasutajat ei leitud</item>
+        <item>Kehtetu kuupäevavorming: {0}. Oodatud {1}.</item>
+        <item>Kehtetu kuupäevavorming</item>
+        <item>Kehtetu kuupäevavorming: {0}. Oodatud {1}</item>
+        <item>Kehtetu kuupäevavorming</item>
+        <item>Puudub kohustuslik parameeter: {0}</item>
+        <item>Kohustuslik parameeter puudub</item>
+        <item>Ilmnes tõrge. Palun proovige uuesti.</item>
+        <item>Sisemine tõrge</item>
+        <item>Pakutud ettevalmistamise ID-d ({0}) ei leitud üheltki Edasimüüjalt, kellele kasutajal on juurdepääs.</item>
+        <item>Kaubamärki ei leitud</item>
+        <item>Aegumiskuupäeva pole seadistatud</item>
+        <item>Aegumiskuupäeva pole seadistatud</item>
+        <item>Juurdepääs keelatud</item>
+        <item>Juurdepääs keelatud</item>
+        <item>API juurdepääs pole lubatud: {0}</item>
+        <item>API juurdepääs pole lubatud</item>
+        <item>Ilmnes tõrge. Palun proovige uuesti.</item>
+        <item>Vigane päringu tõrge</item>
+        <item>Sisemine tõrge: {0}</item>
+        <item>Sisemine tõrge</item>
+        <item>Pakutud üksikasjadega tellimus on juba olemas</item>
+        <item>Duplikaattellimus</item>
+        <item>Leitud mitu vastavat tellimust</item>
+        <item>Leitud mitu vastavat tellimust</item>
+        <item>Seansi käivitamisel ilmnes tõrge. Palun proovige uuesti.</item>
+        <item>Ühenduse tõrge</item>
+        <item>Päringut {0} ei leitud</item>
+        <item>Päringut ei leitud</item>
+        <item>Mittekooskõlalised parameetrid: {0} ja {1}</item>
+        <item>Mittekooskõlalised parameetrid</item>
+        <item>Kehtetu msisdn-i vorming{0}</item>
+        <item>msisdn-i kehtetu vorming</item>
+        <item>Kehtetu toote parameeter: {0}</item>
+        <item>Kehtetu toote parameeter</item>
+        <item>Konnektorit ei leitud. Kinnitage sisestatud Konnektori ID.</item>
+        <item>Konnektorit ei leitud</item>
+        <item>Tellimust ei leitud</item>
+        <item>Tellimust ei leitud</item>
+        <item>Andmete saatmisel ilmnes tõrge. Palun proovige uuesti.</item>
+        <item>Andmete tõrge</item>
+        <item>Paljunduskutse AOM-platvormile nurjus</item>
+        <item>Paljunduskutse AOM-platvormile nurjus</item>
+        <item>Teie toimingu lõpule viimine võttis liiga kaua aega ja see aegus. Palun proovige uuesti.</item>
+        <item>Ajakatkestus</item>
+        <item>Meilikontoga ei saa ühendust. Ühendus peaks taastuma automaatselt. Probleemi püsimisel kontrollige oma võrgu seadeid või võtke abi saamiseks ühendust oma teenusepakkujaga.</item>
+        <item>Ühenduse probleem</item>
+        <item>Võrk on ajutiselt kättesaamatu või telefon on lennurežiimis. Ühendus taastatakse automaatselt, kui võrk muutub kättesaadavaks.</item>
+        <item>Ühendus katkes</item>
+        <item>Server on nüüd hõivatud. Palun proovige uuesti.</item>
+        <item>Server hõivatud</item>
+        <item>Üldise IPS-taotluse tõrge</item>
+        <item>IPC-taotlus nurjus</item>
+        <item>Autentimine nurjus: {0}</item>
+        <item>Autentimine nurjus</item>
+        <item>Kehtiva litsentsi saamiseks võtke ühendust oma teenusepakkujaga.</item>
+        <item>Litsentsi ei aktsepteeritud</item>
+        <item>Kliendi ID-d ei leitud SMS-i sisust</item>
+        <item>Kliendi ID-d ei leitud SMS-i sisust</item>
+        <item>Kliendi ID-ga ei leitud ühtegi klienti ({0}).</item>
+        <item>Määratud kliendi ID-ga ei leitud ühtegi klienti</item>
+        <item>Antud MSISDN-i teave on kehtetu või puudub: {0}</item>
+        <item>MSISDN-i teavet pole või see on kehtetu.</item>
+        <item>Kehtetu MSISDN-i vorming: {0}. Oodatud on arvuline väärtus.</item>
+        <item>Kehtetu MSISDN-i vorming</item>
+        <item>Kehtetu Kliendi id vorming: {0}. Oodatud on arvuline väärtus.</item>
+        <item>Kliendi id kehtetu vorming</item>
+        <item>Valideerimistaotlusest ei leitud oodatud laadimispäist</item>
+        <item>Laadimispäise valideerimine nurjus</item>
+        <item>MSISDN {0} on süsteemis juba olemas.</item>
+        <item>MSISDN on juba olemas</item>
+        <item>MSISDN {0} ei eksisteeri süsteemis.</item>
+        <item>MSISDN-i ei eksisteeri</item>
+        <item>Selle [konnektor] uuesti installimiseks sisestage oma ajutine parool.</item>
+        <item>Nõutav parool</item>
+        <item>Teie valitud ID on juba kasutusel. Palun valige mõni muu.</item>
+        <item>ID on juba kasutusel</item>
+        <item>Pakutud ajutine parool on vale.</item>
+        <item>Ühenduse tõrge</item>
+        <item>Konnektor on keelatud.</item>
+        <item>Konnektor keelatud</item>
+        <item>Teenus pole lubatud</item>
+        <item>Teenus pole lubatud</item>
+        <item>Pakutud toote versioon ei vasta vahesüsteemile installitud versioonile</item>
+        <item>Toote versiooni lahknevus</item>
+        <item>Tehing nurjus määramata põhjusel: {0}</item>
+        <item>Tehing nurjus määramata põhjusel</item>
+        <item>Autentimine nurjus: {0}</item>
+        <item>Autentimine nurjus</item>
+        <item>Juurdepääs pole lubatud: {0}</item>
+        <item>Juurdepääs pole lubatud</item>
+        <item>Kasutajakonto {0} on blokeeritud</item>
+        <item>Konto blokeeritud</item>
+        <item>Mõned tehingupaketid nurjusid.</item>
+        <item>Osa tehingupaketist nurjus.</item>
+        <item>Loendi kutse tagastas {0} kirjet, limiit on {1}.</item>
+        <item>Tagastusloendi suuruselimiit ületatud</item>
+        <item>Pakettkutse taotles {0} tehingut, limiit on {1}.</item>
+        <item>Pakett-tehingu taotluse suuruselimiit ületatud</item>
+        <item>API kutse tehti puuduva kohustusliku parameetrita: {0}</item>
+        <item>API kutses puudub nõutud parameeter.</item>
+        <item>Parameeter {0} oli selle API kutse jaoks kehtetu.</item>
+        <item>API kutse sisaldas kehtetut parameetrit.</item>
+        <item>Ilmnes andmebaasi tõrge järgmise taotluse töötlemisel: {0}</item>
+        <item>API kutsega ilmnes andmebaasi tõrge.</item>
+        <item>Metamärgi tähemärke ei saa selle juurdepääsu mandidaadiga kasutada.</item>
+        <item>Illegaalne metamärgi tähemärkide kasutus.</item>
+        <item>Nõutud parameetris kehtetu metamärgi tähemärk: {0}</item>
+        <item>Taotluses kehtetud metamärgi tähemärgid.</item>
+        <item>SOAP-taotlus võeti vastu puuduva või vale päisega.</item>
+        <item>SOAP-taotlus võeti vastu puuduva või vale päisega.</item>
+        <item>SOAP-taotlus võeti vastu puuduva kohustusliku päise parameetrita:{0}</item>
+        <item>SOAP-taotlus võeti vastu puuduva päise parameetriga.</item>
+        <item>SOAP-taotlus võeti vastu IP-aadressilt: {0}. Sellel aadressil pole luba API kasutamiseks.</item>
+        <item>SOAP-taotlus võeti vastu blokeeritud IP-aadressilt.</item>
+        <item>API juurdepääs pole lubatud: {0}</item>
+        <item>API juurdepääs pole lubatud</item>
+        <item>SOAP-taotlus nurjus määramata põhjusel: {0}</item>
+        <item>SOAP-taotlus nurjus määramata põhjusel</item>
+        <item>createAccountSubscriptioni API kutse vajab parameetrit AccountID või MSISDN.</item>
+        <item>createAccountSubscription kutsuti ilma AccountID-ta või MSISDN-ta.</item>
+        <item>Toote parameetri kasutamiseks listAccountSubscriptionis vajab API kutse vähemalt ühte MSISDN-i, AccountID-d või GroupID-d.</item>
+        <item>listAccountSubscriptions kutsuti Toote parameetriga, mitte ID-parameetriga.</item>
+        <item>Pakutud tellimuse tuvastamise kriteerium vastab mitmele kirjele. Uuendust ei töödelda.</item>
+        <item>Tellimuse tuvastamise kriteeriumile vastab mitu kirjet.</item>
+        <item>Pakuti tuvastuse parameetrite kehtetu kogum.</item>
+        <item>Pakutud kehtetu ID-parameetrite kogum.</item>
+        <item>updateAccountSubscription API kutse tehti ilma ühegi välja uuendamiseta.</item>
+        <item>Uuenduseks pole ühtegi välja.</item>
+        <item>Pakutud tellimuse tuvastamise kriteerium ei vasta ühelegi kirjele. Ühtegi uuendust ei töödeldud.</item>
+        <item>Tellimuse tuvastamise kriteeriumile ei vasta ühtegi kirjet.</item>
+        <item>Toote parameetri kasutamiseks deleteAccountSubscriptionis vajab API kutse vähemalt ühte MSISDN-i, AccountID-d või GroupID-d.</item>
+        <item>deleteAccountSubscriptions kutsuti Toote parameetriga, mitte ID-parameetriga.</item>
+        <item>Pakutud tellimuse tuvastamise kriteerium vastab mitmele kirjele. Uuendust ei töödelda.</item>
+        <item>Tellimuse tuvastamise kriteeriumile vastab mitu kirjet.</item>
+        <item>updateConnectorSubscription API kutse vajab parameetrit SubscriptionId või ConnectorId.</item>
+        <item>Pakutud kehtetu ID-parameetrite kogum.</item>
+        <item>updateConnectorSubscription API kutse tehti ilma ühegi välja uuendamiseta.</item>
+        <item>Uuenduseks pole ühtegi välja.</item>
+        <item>Pakutud tellimuse tuvastamise kriteerium ei vasta ühelegi kirjele. Ühtegi uuendust ei töödeldud.</item>
+        <item>Tellimuse tuvastamise kriteeriumile ei vasta ühtegi kirjet.</item>
+        <item>Kui createPreProvisionedAccount API kutse tehakse koos CE-ga (tootena), peavad olema pakutud ettevalmistamise ID ja ISP-serveri kaubamärgi ID. Kui tooteks on midagi muud, peab pakutud olema konnektori ID.</item>
+        <item>createPreProvisionedAccount kutsuti kehtetute parameetritega.</item>
+        <item>Andmebaasist ei leitud sisestatud ettevõtte nime või sisestatud ettevalmistamise ID ei vastanud ISP-ettevõttele.</item>
+        <item>Parameetreid kasutavat ettevõtet ei leitud.</item>
+        <item>ISP-serveri kaubamärgi ID-d ei leitud andmebaasist.</item>
+        <item>ISP-serveri kaubamärgi ID-d ei leitud andmebaasist.</item>
+        <item>Sisendi kaubamärgi ID jaoks leitud ISP-server ei toeta antud tootetüüpi.</item>
+        <item>Sisendi kaubamärgi ID jaoks leitud ISP-server ei toeta antud tootetüüpi.</item>
+        <item>Uuendusele vastab mitu kontot. Parooli ei saa uuendada.</item>
+        <item>changeAccountPassword vastab rohkem kui ühele kontole.</item>
+        <item>Vastavale uuendusele ei leitud ühtegi kontot. Ühtegi parooli ei uuendata.</item>
+        <item>changeAccountPassword ei vasta ühelegi kontole.</item>
+        <item>Parooli uuendamise katses ilmnes tõrge, mille põhjuseks oli tõenäoliselt kehtetu parool.</item>
+        <item>changeAccountPassword katse parooli uuendamiseks nurjus.</item>
+        <item>A request made for listing user information but given parameters do not match any existing user</item>
+        <item>getUserInformation cannot find user with given parameters</item>
+        <item>isValidConnectorId kutsuti juba kasutusel ID-ga.</item>
+        <item>Konnektori ID on juba kasutusel.</item>
+        <item>runScript kutsuti määratud SQL-skriptile kehtetute parameetritega.</item>
+        <item>Kehtetud parameetrid SQL-skriptile.</item>
+        <item>runScript kutsuti tundmatule SQL-skriptile.</item>
+        <item>SQL-skripti ei leitud.</item>
+        <item>Allalaadimise lingi saatmine ei ole API-s lubatud.</item>
+        <item>Kutsuti sendDownloadLink, kui funktsioon polnud lubatud.</item>
+        <item>Sõnumitaotlus SMS-i lüüsile nurjus.</item>
+        <item>Sõnumitaotlus SMS-i lüüsile nurjus.</item>
+        <item>Antud parameetritele ei leitud klienti.</item>
+        <item>Antud parameetritele ei leitud klienti.</item>
+        <item>Meilitestimine nurjus, kuna määratud meiliteenusepakkujat ei leitud. Pakkuja peab olema kas POP3, IMAP, POP3S, IMAPS, SMTP või SMTPS</item>
+        <item>Meiliteenusepakkujat ei leitud</item>
+        <item>Meilitestimine nurjus, kuna ühendus määratud meiliserveriga nurjus. Kontrollige oma postkasti seadeid</item>
+        <item>Ühendus katkes</item>
+        <item>Meilitestimine nurjus, kuna ühendus määratud meiliserveriga nurjus. Kontrollige oma postkasti seadeid</item>
+        <item>Sisendkasti ei leitud</item>
+        <item>Meilitestimine nurjus, kuna sõnumi otsing sisendkaustast nurjus. Kontrollige oma postkasti seadeid.</item>
+        <item>Otsing sisendkastist nurjus</item>
+        <item>Meilitestimine nurjus kehtetu meiliaadressi tõttu. Kontrollige antud meiliaadressi</item>
+        <item>Kehtetu meiliaadress</item>
+        <item>Manuse maksimaalne suurus on ületatud.</item>
+        <item>Manus on liiga suur.</item>
+        <item>Sõnumi keha on liiga suur.</item>
+        <item>Keha on liiga suur.</item>
+        <item>Sisselogimise katse nurjus, kuna {0} ja/või parool on kehtetu. Vaadake üle oma {0} ja parool ning proovige uuesti.</item>
+        <item>Vale sisselogimine</item>
+        <item>Sisselogimiskatse nurjus ühel järgmistest põhjustest: vale {0}, parool või seadistus. Kontrollige veebis, kas {0}, parool ja seaded on õiged ning proovige uuesti.</item>
+        <item>Vale sisselogimine</item>
+        <item>Sisselogimise katse nurjus, kuna {0} on kehtetu. Vaadake üle oma {0} ja proovige uuesti.</item>
+        <item>Kasutajat ei leitud</item>
+        <item>Teie pakutud kasutajanimele on mitmeid registreerimisi. Vaadake üle oma {0} ja parool ning proovige uuesti.</item>
+        <item>Kasutajat ei leitud</item>
+        <item>Meiliserveri seadeid ei leitud. Määratlege oma konto üksikasjad järgmisel ekraanil.</item>
+        <item>Serverit ei leitud</item>
+        <item>Sisselogimine nurjus. Sisestage oma meilikontole kasutajanimi, kui see pole sama, mis teie meiliaadress.</item>
+        <item>Sisselogimine nurjus</item>
+        <item>Selle konto autentimine on liiga mitmeid kordi nurjunud. Oodake lukustusest vabastamist või võtke ühendust administraatoriga.</item>
+        <item>Konto lukustatud</item>
+        <item>See telefoninumber on juba registreeritud. Kinnitage, et olete sisestanud õige telefoninumbri või võtke abi saamiseks ühendust oma teenusepakkujaga.</item>
+        <item>Eelnevalt ettevalmistatud konto on juba olemas</item>
+        <item>Ühendus on parema jõudluse tagamiseks ümbersuunatud teisele serverile. Proovige viimast toimingut uuesti.</item>
+        <item>Ümbersuunatud</item>
+        <item>Meiliserver pole hetkel kättesaadav. Palun proovige hiljem uuesti.</item>
+        <item>Sisselogimine nurjus</item>
+        <item>Meilitestimine nurjus tundmatu tõrke tõttu. Kontrollige oma postkasti seadeid</item>
+        <item>Tundmatu tõrge</item>
+        <item>Selle konto autentimine on liiga mitmeid kordi nurjunud. Konnektor on edasised sisselogimised keelanud. Palun oodake lukustusest vabastamist või võtke ühendust konnektori administraatoriga edasiste sisselogimiskatsete lubamiseks.</item>
+        <item>Sisselogimised keelatud</item>
+        <item>Klõpsake OK, et vaadata üle {0} ja parool / enne uuesti proovimist kontrollige oma RSA-tõendit.</item>
+        <item>Vale RSA-sisselogimine</item>
+        <item>Meiliteenusepakkuja pole teie kasutatavat kliendi versiooni sertifitseerinud. Sertifitseeritud kliendi versiooni saamiseks võtke ühendust oma teenusepakkujaga.</item>
+        <item>Klient ei ole selle ISP jaoks sertifitseeritud.</item>
+        <item>"Pakutud Microsoft Exchange'i serveriaadress ei ole kehtiv veebiaadress. Kinnitage aadress ja proovige uuesti."</item>
+        <item>"Microsoft Exchange'i aadress — kehtetu"</item>
+        <item>Teie pakkuja on saadaval tipptaseme teenusena. Naaske pakkujate loendisse ja valige uuesti.</item>
+        <item>Antud URL ei ole lubatud.</item>
+        <item>Eemaloleva lõpp-punkti avalikku võtit on muudetud. See võib viidata sissetungikatsele. Eemaloleva lõpp-punkti andmed kõrvaldati.</item>
+        <item>Avaliku võtme lahknevus.</item>
+        <item>Uuesti sisselogimine pole võimalik. See viitab sellele, et kasutaja ei saa teenusesse uuesti sisselogimiseks tippida uut mandadaati, kuid kasutaja peab tegema muid toiminguid</item>
+        <item>Uuesti sisselogimine pole võimalik</item>
+        <item>"Teie pakutud aadressil olev server ei vasta. Microsoft Exchange'i ei saa kasutada töökoha meilisõnumitele juurdepääsuks, kui kasutatakse VPN-/SSL-portaali. Valige OK, et pääseda ligi töökoha meilisõnumitele järgmise ühenduse valiku ajal."</item>
+        <item>OWA-aadress — ei vasta</item>
+        <item>"Teie pakutud aadressil olev server ei ole Microsoft Exchange'i server. Kinnitage oma Microsoft Exchange'i serveri aadress ja proovige uuesti."</item>
+        <item>"Microsoft Exchange'i aadress — vale tüüp"</item>
+        <item>Teie parool on aegunud. Muutke personaalarvutis oma parool ja proovige uue parooliga uuesti.</item>
+        <item>Parool aegunud</item>
+        <item>Olete jõudnud ettevalmistavate telefonide limiidini. Palun võtke ühendust oma administraatoriga.</item>
+        <item>Liiga palju telefone</item>
+        <item>Ühtegi märkuste ID-faili pole saadaval. Sisselogimine pole võimalik. Võtke ühendust oma administraatoriga.</item>
+        <item>ID-faili pole saadaval</item>
+        <item>Palutud teenus pole ajutiselt saadaval. Palun proovige hiljem uuesti. Probleemi püsimisel logige oma kontole, kasutades veebibrauserit.</item>
+        <item>ISP-teenus ajutiselt kättesaamatu</item>
+        <item>Nõutud veebi sisselogimine ISP-lt tagastatud. Logige oma kontole, kasutades veebibrauserit.</item>
+        <item>Vajalik veebi sisselogimine</item>
+        <item>Ilmnes ISP tõrge. Palun proovige hiljem uuesti. Probleemi püsimisel proovige logida oma kontole, kasutades veebibrauserit.</item>
+        <item>ISP-lt tagastati tõrge.</item>
+        <item>Mailbox is currently in use. Please try again later.</item>
+        <item>Mailbox is currently in use.</item>
+        <item>No answer for this feed url. Please correct the url or try again later.</item>
+        <item>No answer for this feed url.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Teie toote Exchange Access e-postiga ei saa ühendust. Ühendus peaks taastuma automaatselt; probleemi püsimisel võtke abi saamiseks ühendust oma IT-administraatoriga.</item>
+        <item>Ühenduse probleem</item>
+        <item>Teie {0} e-postiga ei saa ühendust. Ühendus peaks taastuma automaatselt; probleemi püsimisel võtke abi saamiseks ühendust {0}.</item>
+        <item>Ühenduse probleem</item>
+        <item>Konto uuendustoimingu katse nurjus. Palun proovige uuesti.</item>
+        <item>Uuendamine nurjus</item>
+        <item>RPC-päringus olev XML on kehtetu.</item>
+        <item>RPC-s moonutatud XML</item>
+        <item>XML RPC API-s ilmnes sisemine tõrge. Palun proovige uuesti.</item>
+        <item>Sisemine tõrge XML RPC API-s</item>
+        <item>XML RPC-taotluses kehtetud või puuduvad parameetrid. Kontrollige parameetreid ja nende väärtusi.</item>
+        <item>Kehtetud või puuduvad parameetrid</item>
+        <item>Teenus ei saanud teie andmeid salvestada. Palun proovige uuesti.</item>
+        <item>Andmebaasi tõrge</item>
+        <item>Selle nimega organisatsioon on juba olemas. Valige teine nimi.</item>
+        <item>Organisatsioon on juba olemas</item>
+        <item>Teie määratud konnektori ID on juba kasutusel. Palun valige mõni muu.</item>
+        <item>Nimi on juba kasutusel</item>
+        <item>Teie määratud kasutajanimi on juba kasutusel. Palun valige mõni muu kasutajanimi.</item>
+        <item>Kasutajanimi on juba kasutusel</item>
+        <item>See kasutaja on juba olemas.</item>
+        <item>Kasutaja on juba olemas</item>
+        <item>Eelnevalt ettevalmistatud konto, mida soovite luua, on juba olemas. Enne uue konto lisamist peab Konnektori administraator olemasoleva konto eemaldama.</item>
+        <item>Eelnevalt ettevalmistatud konto on juba olemas</item>
+        <item>Selleks tegevuseks puuduvad teil vajalikud juurdepääsuõigused.</item>
+        <item>Juurdepääs keelatud</item>
+        <item>Teie tellimus on aegunud. Võtke tellimuse uuendamiseks ühendust oma pakkujaga.</item>
+        <item>Sisselogimine pole võimalik</item>
+        <item>Teie tellimuse alusel ei tohi rohkem kontosid lisada. Tellimuse värskendamiseks külastage lehte http://eu020.fra.samsungsocialhub.com.</item>
+        <item>Sisselogimine pole võimalik</item>
+        <item>Komplekti Social Hub tellimiseks külastage lehte http://eu020.fra.samsungsocialhub.com.</item>
+        <item>Sisselogimine pole võimalik</item>
+        <item>Avastasime sellel saidil probleemi SSL-sertifikaadiga.</item>
+        <item>Sertifikaadi probleem</item>
+        <item>Antud URL ei kuulu kehtivasse Outlook Web Accessi teenusesse. Kontrollige oma URL-i ja proovige uuesti.</item>
+        <item>Kehtetu teenuseaadress</item>
+        <item>See URL on eelkonfigureeritud. Naaske eelkonfigureeritud pakkujate loendisse ja valige loendist pakkuja.</item>
+        <item>Juurdepääs keelatud</item>
+        <item>Kontakt oli sõnumi saatmise katse ajal võrgust väljas</item>
+        <item>Kontakt võrgust väljas</item>
+        <item>Kontakt oli sõnumi saatmise katse ajal blokeeritud</item>
+        <item>Kontakt blokeeritud</item>
+        <item>Faili suurus ei vastanud failiedastusel määratud väärtusele</item>
+        <item>Faili suuruse lahknevus</item>
+        <item>Võrdõigusvõrgu maksimaalne seanss ületatud</item>
+        <item>Võrdõigusvõrgu maksimaalne seanss ületatud</item>
+        <item>Sünnikuupäev puudub</item>
+        <item>Sünnikuupäev puudub</item>
+        <item>Adressaat ei toeta failiedastust</item>
+        <item>Võrdõigusvõrgu seansi ei toetata</item>
+        <item>Kasutaja peab registreeruma sõnumsideteenusega</item>
+        <item>Registreerimine on aegunud</item>
+        <item>Taotlust ei saa lõpule viia, kuna server on väga hõivatud. Palun proovige hiljem uuesti</item>
+        <item>Server hõivatud</item>
+        <item>Sellel vestlusel puudub VoiceClipi tugi</item>
+        <item>Hääleklippi ei toetata</item>
+        <item>Failiedastuse tegevuse vestluses lubatud vaid kaks osalejat</item>
+        <item>Liiga palju osalejaid</item>
+        <item>Määratud vestluses pole osalejaid</item>
+        <item>Ühtegi osalejat pole kohal</item>
+        <item>Kasutaja vanemal pole õigust Messengeri sisse logida</item>
+        <item>Vajalik vanema luba</item>
+        <item>Vestluse tuvastaja on kehtetu. Kliendi rakendus peaks sellest vestlusest loobuma</item>
+        <item>Kutse ID kehtetu</item>
+        <item>Prooviti teha Kutse taotlust ja kasutaja (kliendi seadmes) kohalviibimise olek on seadistatud valikule Võrgust väljas</item>
+        <item>Kasutaja on võrgust väljas</item>
+        <item>Kutse taotluse käigus prooviti lisada kehtetut kasutajat</item>
+        <item>Tundmatu kasutaja</item>
+        <item>Määratud meilidomeenile ei leitud ühtegi konfiguratsiooni</item>
+        <item>Tundmatu ISP</item>
+        <item>Autentimisel põhineva tõendi nurjumisi käsitsetakse sellest tõrkest erinevalt.</item>
+        <item>Autentimisel põhinev tõend nurjus</item>
+        <item>Selle teenuse kasutamiseks on vajalik tellimus.</item>
+        <item>Tellimus on nõutav</item>
+        <item>Teenust Seven ei ole saadaval.</item>
+        <item>Ühtegi teenust pole saadaval</item>
+        <item>Teid on välja logitud, kuna logisite sisse teisest arvutist või seadmest</item>
+        <item>Konto oli ülevõetud</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Konto loomine ei õnnestu, kui register on Pingis</item>
+        <item>Konto loomine nurjus</item>
+        <item>Kehtetu teenusevõti, kui register on hostiserveris</item>
+        <item>Kehtetu teenusevõti</item>
+        <item>Kehtetu teenuse deskriptor, kui register on hostiserveris</item>
+        <item>Kehtetu teenuse deskriptor</item>
+        <item>Kehtetud kohandatud andmed, kui register on hostiserveris</item>
+        <item>Kehtetud kohandatud andmed</item>
+        <item>Kasutaja on hostiserverisse juba registreeritud</item>
+        <item>Juba registreeritud kasutaja</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Teenuste avastamisel ilmnes tõrge. Palun proovige uuesti.</item>
+        <item>Taotlus nurjus</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Display message text in a tiny font</item>
+        <item>Display message text in a small font</item>
+        <item>Display message text in a normal font</item>
+        <item>Display message text in a large font</item>
+        <item>Display message text in a huge font</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Display 0 line in message preview</item>
+        <item>Kuva sõnumi eelvaates 1 rida</item>
+        <item>Display 2 line in message preview</item>
+        <item>Display 3 line in message preview</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>"Google'i tõlge"</item>
+        <item>Wikipedia</item>
+        <item>Sõnaraamat</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Jaga tekstina</item>
+        <item>Jaga pildina</item>
+    </string-array>
+</resources>

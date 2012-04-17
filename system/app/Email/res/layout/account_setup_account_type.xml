@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/setup_type" android:layout_width="fill_parent" android:layout_height="fill_parent"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:paddingLeft="32.0dip" android:paddingRight="32.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+              xmlns:android="http://schemas.android.com/apk/res/android">
+                <TextView android:textAppearance="@style/accountSetupInfoText" android:textSize="20.0dip" android:gravity="center_horizontal" android:layout_gravity="center" android:id="@id/instructions" android:layout_width="fill_parent" android:layout_height="24.0dip" android:layout_marginTop="69.0dip" android:layout_marginBottom="22.0dip" android:text="@string/account_setup_account_type_instructions" />
+                <Button android:layout_gravity="center" android:id="@id/pop" android:layout_width="250.0dip" android:layout_height="56.0dip" android:layout_marginBottom="15.0dip" android:text="@string/account_setup_account_type_pop_action" />
+                <Button android:layout_gravity="center" android:id="@id/imap" android:layout_width="250.0dip" android:layout_height="56.0dip" android:layout_marginBottom="15.0dip" android:text="@string/account_setup_account_type_imap_action" android:layout_below="@id/pop" />
+                <Button android:layout_gravity="center" android:id="@id/exchange" android:layout_width="250.0dip" android:layout_height="56.0dip" android:text="@string/account_setup_account_type_exchange_action" android:layout_below="@id/imap" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/setup_type_land" android:layout_width="fill_parent" android:layout_height="fill_parent"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:paddingLeft="32.0dip" android:paddingRight="32.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+              xmlns:android="http://schemas.android.com/apk/res/android">
+                <TextView android:textAppearance="@style/accountSetupInfoText" android:textSize="20.0dip" android:gravity="center_horizontal" android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="24.0dip" android:layout_marginTop="22.0dip" android:layout_marginBottom="22.0dip" android:text="@string/account_setup_account_type_instructions" />
+                <Button android:layout_gravity="center" android:id="@id/pop_land" android:layout_width="250.0dip" android:layout_height="56.0dip" android:layout_marginBottom="5.0dip" android:text="@string/account_setup_account_type_pop_action" />
+                <Button android:layout_gravity="center" android:id="@id/imap_land" android:layout_width="250.0dip" android:layout_height="56.0dip" android:layout_marginBottom="5.0dip" android:text="@string/account_setup_account_type_imap_action" android:layout_below="@id/pop" />
+                <Button android:layout_gravity="center" android:id="@id/exchange_land" android:layout_width="250.0dip" android:layout_height="56.0dip" android:text="@string/account_setup_account_type_exchange_action" android:layout_below="@id/imap_land" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:background="@drawable/tw_title_bar_shadow" android:layout_width="fill_parent" android:layout_height="10.0dip" />
+</FrameLayout>

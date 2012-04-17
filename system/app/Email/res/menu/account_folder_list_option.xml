@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_menu_compose" android:id="@id/compose" android:title="@string/compose_action" android:alphabeticShortcut="c" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_menu_refresh" android:id="@id/check_mail" android:title="@string/refresh_action" android:alphabeticShortcut="r" android:showAsAction="ifRoom" />
+    <item android:icon="@android:drawable/ic_menu_add" android:id="@id/add_new_account" android:title="@string/add_account_action" />
+    <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/account_settings" android:title="@string/account_settings_action" android:showAsAction="ifRoom" />
+</menu>

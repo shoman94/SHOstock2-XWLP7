@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/setup_basic" android:paddingLeft="@dimen/setup_padding_left" android:paddingRight="@dimen/setup_padding_right" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <include layout="@layout/account_setup_basics_common_windows_live" />
+                </FrameLayout>
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:background="@drawable/tw_title_bar_shadow" android:layout_width="fill_parent" android:layout_height="10.0dip" />
+    </FrameLayout>
+</ScrollView>

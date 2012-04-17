@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Ní bheidh nasc sonraí ar fáil ar feadh %s nóiméad</item>
+        <item quantity="one">Ní bheith nasc sonraí ar fáil ar feadh %s nóiméad</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Beidh an fón i mód aisghlaoigh Éigeandála ar feadh %s nóiméad. Ní féidir feidhmchláir a bhaineann úsáid as nasc sonraí a úsáid agus an fón sa mhód seo. Scoir anois?</item>
+        <item quantity="one">Beidh an fón i mód aisghlaoigh Éigeandála ar feadh %s nóiméad. Ní féidir feidhmchláir a bhaineann úsáid as nasc sonraí a úsáid agus an fón sa mhód seo. Scoir anois?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Níl an gníomh a roghnaíodh ar fáil sa mhód aisghlaoigh Éigeandála. Beidh an fón sa mhód seo ar feadh %s nóiméad. Scoir anois?</item>
+        <item quantity="one">Níl an gníomh roghnaithe ar fáil sa mhód aisghlaoigh Éigeandála. Beidh an fón sa mhód seo ar feadh 1 nóiméad. Scoir anois?</item>
+    </plurals>
+</resources>

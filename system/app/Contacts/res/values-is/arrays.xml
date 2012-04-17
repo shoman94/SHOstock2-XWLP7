@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dialog_items">
+        <item>Hringja</item>
+        <item>Senda skb.</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Sími</item>
+        <item>SIM-kort</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Allt</item>
+        <item>Sími</item>
+        <item>SIM-kort</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Fornafn, eftirnafn</item>
+        <item>Eftirnafn, fornafn</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Mán</item>
+        <item>Þri</item>
+        <item>Mið</item>
+        <item>Fim</item>
+        <item>Fös</item>
+        <item>Lau</item>
+        <item>Sun</item>
+    </string-array>
+</resources>

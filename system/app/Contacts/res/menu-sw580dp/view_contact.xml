@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/menu_history" android:title="@string/menu_history" />
+    <item android:icon="@drawable/ic_menu_compose_holo_dark" android:id="@id/menu_edit" android:title="@string/menu_editContact" android:alphabeticShortcut="e" />
+    <item android:icon="@drawable/ic_menu_trash_holo_light" android:id="@id/menu_delete" android:title="@string/menu_deleteContact" />
+    <item android:id="@id/menu_join" android:title="@string/menu_join" />
+    <item android:id="@id/menu_separate" android:title="@string/splitConfirmation_title" />
+    <item android:id="@id/menu_set_defalt" android:title="@string/menu_mark_as_default" />
+    <item android:icon="@drawable/ic_menu_mark" android:id="@id/menu_set_ringtone" android:title="@string/menu_set_ring_tone" />
+    <item android:icon="@drawable/ic_menu_share_holo_light" android:id="@id/menu_share" android:title="@string/menu_share_namecard_via" android:alphabeticShortcut="s" />
+    <item android:id="@id/menu_reject_list" android:title="@string/menu_add_reject_list" />
+    <item android:id="@id/menu_print_namecard" android:title="@string/menu_print_namecard" />
+</menu>

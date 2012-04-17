@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:orientation="vertical" class="com.android.contacts.widget.FullHeightLinearLayout" style="@style/ContactPickerLayout"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/list_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <View android:id="@id/divider" android:background="?android:dividerHorizontal" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="?contact_browser_list_padding_left" android:layout_marginRight="?contact_browser_list_padding_right" />
+</view>

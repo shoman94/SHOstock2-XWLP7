@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Organisaatio</item>
+        <item>Huomautus</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Soita</item>
+        <item>Läh. viesti</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Puhelin</item>
+        <item>SIM-kortti</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Kaikki</item>
+        <item>Puhelin</item>
+        <item>SIM-kortti</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Etunimi Sukunimi</item>
+        <item>Sukunimi Etunimi</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
+        <item>Su</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/contact_filter_item_min_height" class="com.android.contacts.list.ContactListFilterView"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/indent" android:layout_width="32.0dip" android:layout_height="fill_parent" />
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/icon" android:layout_width="@dimen/contact_filter_icon_size" android:layout_height="@dimen/contact_filter_icon_size" android:scaleType="fitCenter" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/label" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" />
+</view>

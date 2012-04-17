@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Нема податочна врска %s минути</item>
+        <item quantity="one">Нема податочна врска %s минута</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Телефонот ќе биде во режим за итно враќање повик %s. Апликациите што користат податочно поврзување не можат да се користат во овој режим. Излези?</item>
+        <item quantity="one">Телефонот ќе биде во режим за итно враќање повик %s минута. Апликациите што користат податочно поврзување не можат да се користат во овој режим. Излези?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Избраното дејство не е достапно во режимот за итно враќање повик. Телефонот ќе биде во овој режим %s минути. Излези?</item>
+        <item quantity="one">Избраното дејство не е достапно во режимот за итно враќање повик. Телефонот ќе биде во овој режим 1 минута. Излези?</item>
+    </plurals>
+</resources>

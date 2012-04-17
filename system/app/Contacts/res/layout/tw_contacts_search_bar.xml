@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/tw_search_bar" android:background="@drawable/search_bg_global" android:paddingLeft="4.0dip" android:paddingRight="15.0dip" android:focusable="true" android:descendantFocusability="afterDescendants" android:layout_width="fill_parent" android:layout_height="57.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/create_button" android:layout_width="46.0dip" android:layout_height="46.0dip" android:layout_marginTop="2.0dip" android:src="@drawable/create_contact_icon" android:contentDescription="@string/insertContactDescription" />
+    <SearchView android:id="@id/search_view" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:iconifiedByDefault="false" />
+    <ImageButton android:id="@id/menu_button" android:background="?android:selectableItemBackground" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/list_icon_more_option" android:scaleType="center" android:contentDescription="@android:string/action_menu_overflow_description" />
+</LinearLayout>

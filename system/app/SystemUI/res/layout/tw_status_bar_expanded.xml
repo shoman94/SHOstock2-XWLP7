@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.phone.ExpandedView android:orientation="vertical" android:descendantFocusability="afterDescendants"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:systemui="http://schemas.android.com/apk/res/com.android.systemui">
+    <LinearLayout android:id="@id/quicksetting_scroller" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:systemui="http://schemas.android.com/apk/res/com.android.systemui">
+        <LinearLayout android:orientation="horizontal" android:id="@id/quicksetting_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:id="@id/quickpanel_wifi_btn_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <com.android.systemui.statusbar.policy.QuickSettingButton android:id="@id/quickpanel_wifi_btn" android:background="@drawable/tw_quicksetting_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" systemui:buttonText="@string/quickpanel_wifi_text" systemui:onIcon="@drawable/tw_quick_panel_icon_wifi_on" systemui:offIcon="@drawable/tw_quick_panel_icon_wifi_off" systemui:dimIcon="@drawable/tw_quick_panel_icon_wifi_dim" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/quickpanel_bluetooth_btn_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <ImageView android:background="@drawable/tw_quicksetting_divider" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+                <com.android.systemui.statusbar.policy.QuickSettingButton android:id="@id/quickpanel_bluetooth_btn" android:background="@drawable/tw_quicksetting_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" systemui:buttonText="@string/quickpanel_bluetooth_text" systemui:onIcon="@drawable/tw_quick_panel_icon_bluetooth_on" systemui:offIcon="@drawable/tw_quick_panel_icon_bluetooth_off" systemui:dimIcon="@drawable/tw_quick_panel_icon_bluetooth_dim" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/quickpanel_gps_btn_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <ImageView android:background="@drawable/tw_quicksetting_divider" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+                <com.android.systemui.statusbar.policy.QuickSettingButton android:id="@id/quickpanel_gps_btn" android:background="@drawable/tw_quicksetting_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" systemui:buttonText="@string/quickpanel_gps_text" systemui:onIcon="@drawable/tw_quick_panel_icon_gps_on" systemui:offIcon="@drawable/tw_quick_panel_icon_gps_off" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/quickpanel_mobile_data_btn_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <ImageView android:background="@drawable/tw_quicksetting_divider" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+                <com.android.systemui.statusbar.policy.QuickSettingButton android:id="@id/quickpanel_mobile_data_btn" android:background="@drawable/tw_quicksetting_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" systemui:buttonText="@string/quickpanel_mobile_data_text" systemui:onIcon="@drawable/tw_quick_panel_icon_data_connection_on" systemui:offIcon="@drawable/tw_quick_panel_icon_data_connection_off" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/quickpanel_silent_btn_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <ImageView android:background="@drawable/tw_quicksetting_divider" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+                <com.android.systemui.statusbar.policy.QuickSettingButton android:id="@id/quickpanel_silent_btn" android:background="@drawable/tw_quicksetting_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" systemui:buttonText="@string/quickpanel_silent_mode_text" systemui:onIcon="@drawable/tw_quick_panel_icon_silent_mode_on_on" systemui:offIcon="@drawable/tw_quick_panel_icon_silent_off" systemui:onIcon2="@drawable/tw_quick_panel_icon_silent_on" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/quickpanel_auto_rotation_btn_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <ImageView android:background="@drawable/tw_quicksetting_divider" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+                <com.android.systemui.statusbar.policy.QuickSettingButton android:id="@id/quickpanel_auto_rotation_btn" android:background="@drawable/tw_quicksetting_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" systemui:buttonText="@string/quickpanel_rotation_text" systemui:onIcon="@drawable/tw_quick_panel_icon_rotation_on" systemui:offIcon="@drawable/tw_quick_panel_icon_rotation_off" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/quickpanel_4G_btn_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <ImageView android:background="@drawable/tw_quicksetting_divider" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+                <com.android.systemui.statusbar.policy.QuickSettingButton android:id="@id/quickpanel_4G_btn" android:background="@drawable/tw_quicksetting_bg" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" systemui:buttonText="@string/quickpanel_4G_text" systemui:onIcon="@drawable/tw_quickpanel_icon_4g_on" systemui:offIcon="@drawable/tw_quickpanel_icon_4g_off" systemui:dimIcon="@drawable/tw_quickpanel_icon_4g_dim" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/quickpanel_airplane_mode_btn_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <ImageView android:background="@drawable/tw_quicksetting_divider" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+                <com.android.systemui.statusbar.policy.QuickSettingButton android:id="@id/quickpanel_airplane_mode_btn" android:background="@drawable/tw_quicksetting_bg" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" systemui:buttonText="@string/quickpanel_airplane_mode_text" systemui:onIcon="@drawable/tw_quick_panel_icon_airplane_on" systemui:offIcon="@drawable/tw_quick_panel_icon_airplane_off" systemui:dimIcon="@drawable/tw_quick_panel_icon_airplane_dim" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:background="@drawable/tw_plmn_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <com.android.systemui.statusbar.phone.CarrierLabel android:textSize="17.329987dip" android:textColor="#ffffffff" android:ellipsize="marquee" android:layout_gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="14.669983dip" android:layout_marginTop="8.669983dip" android:layout_marginBottom="10.0dip" android:layout_weight="1.0" />
+        <com.android.systemui.statusbar.policy.DateView android:textAppearance="@style/TextAppearance.StatusBar.Date" android:gravity="right|center" android:id="@id/date" android:paddingLeft="6.669983dip" android:paddingRight="6.669983dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" />
+        <TextView android:textSize="14.0dip" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/clear_all_button" android:background="@drawable/tw_btn_default_small" android:focusable="true" android:clickable="true" android:layout_width="76.66998dip" android:layout_height="34.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="4.0dip" android:layout_marginBottom="5.0dip" android:text="@string/status_bar_clear_all_button" android:contentDescription="@string/accessibility_clear_all" />
+    </LinearLayout>
+    <TextView android:textSize="14.669983dip" android:typeface="sans" android:textColor="#ffffffff" android:gravity="left|center" android:id="@id/noNotificationsTitle" android:background="@drawable/tw_quickpanel_title_background" android:paddingLeft="13.329987dip" android:layout_width="fill_parent" android:layout_height="26.669983dip" android:text="@string/status_bar_no_notifications_title" />
+    <ScrollView android:id="@id/scroll" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="ifContentScrolls">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <LinearLayout android:orientation="vertical" android:id="@id/scroll_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/settings_button" android:background="@drawable/notification_row_bg" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/notification_height">
+                    <ImageView android:layout_width="@dimen/notification_icon_width" android:layout_height="@dimen/notification_icon_height" android:layout_marginLeft="@dimen/notification_icon_marginleft" android:src="@drawable/tw_quickpanel_icon_settings" android:layout_weight="0.0" android:contentDescription="@string/accessibility_settings_button" />
+                    <TextView android:textSize="16.0dip" android:textStyle="bold" android:textColor="#ffffffff" android:paddingLeft="9.339996dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/status_bar_settings_settings_button" android:layout_weight="100.0" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/onGoingCart" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="14.669983dip" android:typeface="sans" android:textColor="#ffffffff" android:gravity="left|center" android:id="@id/onGoingNotificationText" android:background="@drawable/tw_quickpanel_title_background" android:paddingLeft="13.329987dip" android:layout_width="fill_parent" android:layout_height="26.669983dip" android:text="@string/status_bar_ongoing_events_title" />
+                </LinearLayout>
+                <com.android.systemui.statusbar.policy.NotificationRowLayout android:id="@id/onGoingItems" android:layout_width="fill_parent" android:layout_height="wrap_content" systemui:rowHeight="@dimen/notification_height" />
+                <LinearLayout android:orientation="vertical" android:id="@id/notificationCart" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="14.669983dip" android:typeface="sans" android:textColor="#ffffffff" android:gravity="left|center" android:id="@id/latestNotificationText" android:background="@drawable/tw_quickpanel_title_background" android:paddingLeft="13.329987dip" android:layout_width="fill_parent" android:layout_height="26.669983dip" android:text="@string/status_bar_latest_events_title" />
+                </LinearLayout>
+                <com.android.systemui.statusbar.policy.NotificationRowLayout android:id="@id/notificationItems" android:layout_width="fill_parent" android:layout_height="wrap_content" systemui:rowHeight="@dimen/notification_height" />
+                <com.android.systemui.statusbar.policy.NotificationRowLayout android:id="@id/latestItems" android:layout_width="fill_parent" android:layout_height="wrap_content" systemui:rowHeight="@dimen/notification_height" />
+            </LinearLayout>
+        </FrameLayout>
+    </ScrollView>
+</com.android.systemui.statusbar.phone.ExpandedView>

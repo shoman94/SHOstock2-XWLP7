@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/linked_contacts_list_row_divider_top" android:background="?android:dividerHorizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/joined_contact_item" android:layout_width="fill_parent" android:layout_height="64.66998dip">
+        <RelativeLayout android:orientation="horizontal" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="64.66998dip">
+            <LinearLayout android:orientation="horizontal" android:background="?android:selectableItemBackground" android:paddingLeft="6.669983dip" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="64.66998dip" android:layout_toLeftOf="@id/vertical_divider">
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/list_row_imageView" android:layout_width="53.329987dip" android:layout_height="53.329987dip" android:layout_marginRight="6.669983dip" android:src="@drawable/contacts_default_image_small_01" android:scaleType="fitXY" />
+                <LinearLayout android:gravity="left" android:orientation="vertical" android:id="@id/linked_contacts_name_layout" android:layout_width="0.0dip" android:layout_height="64.66998dip" android:layout_marginLeft="9.329987dip" android:layout_weight="1.0">
+                    <TextView android:textAppearance="@style/TwTextAppearanceListTwoLineSecondary1" android:ellipsize="marquee" android:id="@id/account" android:paddingTop="6.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+                    <TextView android:textAppearance="@style/TwTextAppearanceListTwoLinePrimary" android:ellipsize="marquee" android:id="@id/name" android:paddingBottom="6.0dip" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+                </LinearLayout>
+            </LinearLayout>
+            <View android:id="@id/vertical_divider" android:background="?android:dividerVertical" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_toLeftOf="@id/minus_btn_layout" />
+            <LinearLayout android:id="@id/minus_btn_layout" android:layout_width="wrap_content" android:layout_height="64.66998dip" android:layout_alignParentRight="true">
+                <FrameLayout android:id="@id/contact_presence_layout" android:background="?android:selectableItemBackground" android:layout_width="68.0dip" android:layout_height="64.66998dip">
+                    <ImageView android:layout_gravity="center" android:id="@id/linked_contact_unlink_btn" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/btn_circle" />
+                    <ImageView android:layout_gravity="center" android:id="@id/linked_contact_minus_imageView" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/btn_minus" />
+                </FrameLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <View android:id="@id/list_divider" android:background="?android:dividerHorizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

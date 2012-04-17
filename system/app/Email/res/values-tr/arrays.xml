@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Başarılı.</item>
+        <item>Hata yok</item>
+        <item>{0} olan kullanıcı sınırı aşıldı</item>
+        <item>Kullanıcı sınırı aşıldı</item>
+        <item>Yinelenen kullanıcı: {0}</item>
+        <item>Yinelenen kullanıcı</item>
+        <item>Yinelenen aygıt: {0}</item>
+        <item>Yinelenen aygıt</item>
+        <item>Kullanıcı bulunamadı: {0}</item>
+        <item>Kullanıcı bulunamadı</item>
+        <item>Geçersiz tarih biçimi: {0}. Beklenen {1}.</item>
+        <item>Geçersiz tarih biçimi</item>
+        <item>Geçersiz Tarih Biçimi: {0}. Beklenen {1}.</item>
+        <item>Geçersiz Tarih Biçimi</item>
+        <item>Zorunlu Parametre Eksik: {0}</item>
+        <item>Eksik Zorunlu Parametre</item>
+        <item>Bir hata oluştu. Lütfen tekrar deneyin.</item>
+        <item>Dahili hata</item>
+        <item>Girilen ön hazırlık kimliği ({0}) kullanıcının erişimi olan herhangi bir Satıcıda bulunamadı.</item>
+        <item>Marka Bulunamadı</item>
+        <item>Herhangi bir sona erme tarihi ayarlanmamış</item>
+        <item>Herhangi bir sona erme tarihi ayarlanmamış</item>
+        <item>Erişim reddedildi</item>
+        <item>Erişim reddedildi</item>
+        <item>API erişimi şunun için etkin değil: {0}</item>
+        <item>API erişimi etkin değil</item>
+        <item>Bir hata oluştu. Lütfen tekrar deneyin.</item>
+        <item>Kötü istek hatası</item>
+        <item>Dahili Hata: {0}</item>
+        <item>Dahili Hata</item>
+        <item>Sağlanan ayrıntılara sahip abonelik zaten mevcut</item>
+        <item>Yinelenen Abonelik</item>
+        <item>Eşleşen birden fazla abonelik bulundu</item>
+        <item>Eşleşen birden fazla abonelik bulundu</item>
+        <item>Oturum başlatmaya çalışılırken bir hata oluştu. Lütfen daha sonra tekrar deneyin.</item>
+        <item>Bağlantı hatası</item>
+        <item>"'{0}' sorgusu bulunamadı"</item>
+        <item>Sorgu bulunamadı</item>
+        <item>Tutarsız parametreler: {0} ve {1}</item>
+        <item>Tutarsız parametreler</item>
+        <item>Geçersiz msisdn biçimi: {0}</item>
+        <item>Geçersiz msisdn biçimi</item>
+        <item>Geçersiz ürün parametresi: {0}</item>
+        <item>Geçersiz ürün parametresi</item>
+        <item>Bağlayıcınız bulunamadı. Lütfen girdiğiniz Bağlayıcı Kimliğini onaylayın.</item>
+        <item>Bağlayıcı bulunamadı</item>
+        <item>Abonelik bulunamadı</item>
+        <item>Abonelik bulunamadı</item>
+        <item>Veri gönderilirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.</item>
+        <item>Veri hatası</item>
+        <item>AOM platformuna yapılan yineleme çağrısı başarısız</item>
+        <item>AOM platformuna yapılan yineleme çağrısı başarısız</item>
+        <item>Gerçekleştirdiğiniz işlemin tamamlanması çok uzun sürdü. Lütfen daha sonra tekrar deneyin.</item>
+        <item>Zaman aşımı</item>
+        <item>E-posta hesabınıza bağlanılamıyor. Bağlantı otomatik olarak yeniden kurulmalıdır. Sorun devam ederse şebeke ayarlarınızı kontrol edin veya destek için hizmet sağlayıcınızla irtibat kurun.</item>
+        <item>Bağlantı sorunu</item>
+        <item>Şebeke geçici olarak hizmet dışı veya telefon uçak modunda. Şebeke kullanılabilir duruma geldiğinde bağlantı otomatik olarak yeniden kurulacak.</item>
+        <item>Bağlantı başarısız</item>
+        <item>Sunucu şu anda meşgul. Lütfen tekrar deneyin.</item>
+        <item>Sunucu meşgul</item>
+        <item>Genel IPC isteği hatası</item>
+        <item>IPC isteği başarısız</item>
+        <item>Şuna yönelik kimlik doğrulama başarısız oldu: {0}</item>
+        <item>Kimlik doğrulama başarısız</item>
+        <item>Lütfen geçerli bir lisans için hizmet sağlayıcınızla irtibat kurun.</item>
+        <item>Lisans kabul edilmedi.</item>
+        <item>SMS içeriğinde İstemci Kimliği bulunamadı</item>
+        <item>SMS içeriğinde İstemci Kimliği bulunamadı</item>
+        <item>İstemci kimliğine sahip herhangi bir İstemci bulunamadı ({0}).</item>
+        <item>Belirtilen istemci kimliğine sahip herhangi bir İstemci bulunamadı</item>
+        <item>Verilen MSISDN bilgileri geçersiz veya eksik: {0}</item>
+        <item>MSISDN bilgileri verilmemiş veya geçersiz.</item>
+        <item>Geçersiz MSISDN biçimi: {0}. Sayısal bir değer bekleniyordu.</item>
+        <item>Geçersiz MSISDN biçimi</item>
+        <item>Geçersiz İstemci kimliği biçimi: {0}. Sayısal bir değer bekleniyordu.</item>
+        <item>Geçersiz İstemci kimliği biçimi</item>
+        <item>Beklenen doldurma üst bilgisi, doğrulama isteğinde bulunamadı</item>
+        <item>Doldurma üst bilgisi doğrulaması başarısız</item>
+        <item>MSISDN {0} sistemde zaten mevcut.</item>
+        <item>MSISDN zaten var</item>
+        <item>MSISDN {0} sistemde mevcut değil.</item>
+        <item>MSISDN mevcut değil</item>
+        <item>Lütfen bu [bağlayıcıyı] yeniden yüklemek için geçici şifrenizi sağlayın.</item>
+        <item>Şifre gerekiyor</item>
+        <item>Seçtiğiniz kimlik zaten kullanımda. Lütfen farklı bir tane seçin.</item>
+        <item>Kimlik zaten kullanımda</item>
+        <item>Girilen geçici şifre doğru değil.</item>
+        <item>Bağlantı hatası</item>
+        <item>Bağlayıcı devre dışı bırakıldı.</item>
+        <item>Bağlayıcı devre dışı bırakıldı</item>
+        <item>Hizmet etkin değil</item>
+        <item>Hizmet etkin değil</item>
+        <item>Sağlanan ürün sürümü, geçiş sırasında yüklenen sürümle eşleşmiyor</item>
+        <item>Ürün sürümü eşleşmezliği</item>
+        <item>İşlem belirtilmeyen bir nedenle başarısız oldu: {0}</item>
+        <item>İşlem belirtilmeyen bir nedenle başarısız oldu</item>
+        <item>Şuna yönelik kimlik doğrulama başarısız oldu: {0}</item>
+        <item>Kimlik doğrulama başarısız</item>
+        <item>Şunun için erişime izin verilmedi: {0}</item>
+        <item>Erişime izin verilmedi</item>
+        <item>{0} kullanıcı hesabı engellendi</item>
+        <item>Hesap engellendi</item>
+        <item>Bazı toplu işlemler başarısız.</item>
+        <item>Toplu işlemlerin bir kısmı başarısız.</item>
+        <item>Liste çağrısı {0} kayıt döndürdü, sınır {1} şeklindedir.</item>
+        <item>Döndürülen liste, boyut sınırının üzerinde</item>
+        <item>Toplu çağrı {0} işlem isteğinde bulundu, sınır {1} şeklindedir.</item>
+        <item>Toplu işlem isteği, boyut sınırının üzerinde</item>
+        <item>Yapılan API çağrısında zorunlu bir parametre eksikti: {0}</item>
+        <item>API çağrısında gerekli parametre eksik.</item>
+        <item>API çağrısı için {0} parametresi geçersizdi.</item>
+        <item>API çağrısı geçersiz bir parametre içeriyordu.</item>
+        <item>Bu istek işlenirken bir veritabanı hatası oluştu: {0}</item>
+        <item>API çağrısı tarafından veritabanı hatası verildi.</item>
+        <item>Joker karakterler bu erişim kimlik bilgileriyle birlikte kullanılamaz.</item>
+        <item>Joker karakterlerin hatalı kullanımı.</item>
+        <item>İstenilen parametrede geçersiz joker karakter: {0}</item>
+        <item>İstekte geçersiz joker karakterler var.</item>
+        <item>Eksik veya geçersiz bir üst bilgiye sahip SOAP isteği alındı.</item>
+        <item>Eksik veya geçersiz bir üst bilgiye sahip SOAP isteği alındı.</item>
+        <item>Alınan SOAP isteğinde eksik zorunlu üstbilgi parametresi var: {0}</item>
+        <item>Eksik bir üst bilgi parametresine sahip SOAP isteği alındı.</item>
+        <item>"SOAP isteği şu IP adresinden alındı: {0}. Bu IP adresinin API'yi kullanmasına izin verilmiyor."</item>
+        <item>Engellenmiş IP adresinden SOAP isteği alındı.</item>
+        <item>API erişimi şunun için etkin değil: {0}</item>
+        <item>API erişimi etkin değil</item>
+        <item>SOAP isteği belirtilmeyen bir nedenle başarısız oldu: {0}</item>
+        <item>SOAP isteği belirtilmeyen bir nedenle başarısız oldu</item>
+        <item>createAccountSubscription API çağrısı bir AccountID veya MSISDN parametresi gerektiriyor.</item>
+        <item>createAccountSubscription bir AccountID veya MSISDN ile çağrılmadı.</item>
+        <item>listAccountSubscription API çağrısında bir Ürün parametresinin kullanılması en az bir MSISDN, AccountID ve GroupID öğesinin belirtilmesini gerektirir.</item>
+        <item>listAccountSubscriptions öğesi Kimlik parametresiyle değil Ürün parametresiyle çağrılmış.</item>
+        <item>Sağlanan abonelik kimliği ölçütleri birden fazla kayıtla eşleşiyor. Güncelleme işlenmedi.</item>
+        <item>Abonelik kimliği ölçütleri birden fazla kayıtla eşleşiyor.</item>
+        <item>Geçersiz bir kimlik parametresi kümesi girildi.</item>
+        <item>Geçersiz Kimlik parametreleri kümesi sağlandı.</item>
+        <item>Güncellenecek herhangi bir alanı olmayan bir updateAccountSubscription API çağrısı yapıldı.</item>
+        <item>Güncellenecek alan yok.</item>
+        <item>Sağlanan abonelik kimliği ölçütleri hiçbir kayıtla eşleşmiyor. Herhangi bir güncelleme işlenmedi.</item>
+        <item>Abonelik kimliği ölçütleri herhangi bir kayıtla eşleşmiyor.</item>
+        <item>deleteAccountSubscription API çağrısında bir Ürün parametresinin kullanılması en az bir MSISDN, AccountID ve GroupID öğesinin belirtilmesini gerektirir.</item>
+        <item>deleteAccountSubscriptions öğesi Kimlik parametresiyle değil Ürün parametresiyle çağrılmış.</item>
+        <item>Sağlanan abonelik kimliği ölçütleri birden fazla kayıtla eşleşiyor. Güncelleme işlenmedi.</item>
+        <item>Abonelik kimliği ölçütleri birden fazla kayıtla eşleşiyor.</item>
+        <item>updateConnectorSubscription API çağrısı bir SubscriptionId veya ConnectorId parametresi gerektiriyor.</item>
+        <item>Geçersiz Kimlik parametreleri kümesi sağlandı.</item>
+        <item>Güncellenecek herhangi bir alanı olmayan bir updateConnectorSubscription API çağrısı yapıldı.</item>
+        <item>Güncellenecek alan yok.</item>
+        <item>Sağlanan abonelik kimliği ölçütleri hiçbir kayıtla eşleşmiyor. Herhangi bir güncelleme işlenmedi.</item>
+        <item>Abonelik kimliği ölçütleri herhangi bir kayıtla eşleşmiyor.</item>
+        <item>createPreProvisionedAccount API çağrısı ürün olarak CE ile yapılırsa, bir ön hazırlık kimliği ve ISP sunucu markası kimliği girilmelidir. Ürün başka bir şeyse, bir bağlayıcı kimliği girilmelidir.</item>
+        <item>Geçersiz parametrelerle çağrılan createPreProvisionedAccount.</item>
+        <item>Girilen şirket adı veritabanında bulunamadı veya girilen ön hazırlık kimliği ISP şirketiyle eşleşmedi.</item>
+        <item>Parametreleri kullanan bir şirket bulunamadı.</item>
+        <item>ISP sunucu markası kimliği veritabanında bulunamadı.</item>
+        <item>ISP sunucu markası kimliği veritabanında bulunamadı.</item>
+        <item>Giriş markası kimliği için bulunan ISP sunucusu belirtilen ürün türünü desteklemiyor.</item>
+        <item>Giriş markası kimliği için bulunan ISP sunucusu belirtilen ürün türünü desteklemiyor.</item>
+        <item>Güncellemeyle birden fazla hesap eşleşiyor. Şifre güncellenemiyor.</item>
+        <item>changeAccountPassword birden fazla hesapla eşleşti.</item>
+        <item>Güncellemeyle eşleşen hesap bulunamadı. Şifre güncellenmeyecek.</item>
+        <item>changeAccountPassword herhangi bir hesapla eşleşmedi.</item>
+        <item>Şifreyi güncellerken bir hata oluştu. Bu hata büyük olasılıkla geçersiz bir şifreden kaynaklanmıştır.</item>
+        <item>changeAccountPassword, şifreyi güncelleyemedi.</item>
+        <item>A request made for listing user information but given parameters do not match any existing user</item>
+        <item>getUserInformation cannot find user with given parameters</item>
+        <item>isValidConnectorId, zaten kullanılan bir kimlikle birlikte çağrıldı.</item>
+        <item>Bağlayıcı kimliği zaten kullanımda.</item>
+        <item>Belirtilen SQL komut dosyası için geçersiz parametreler ile çağrılan runScript.</item>
+        <item>SQL komut dosyası için geçersiz parametreler.</item>
+        <item>Bilinmeyen SQL komut satırı için runScript çağrıldı.</item>
+        <item>SQL komut dosyası bulunamadı.</item>
+        <item>"İndirme bağlantısını gönderme özelliği API'de etkin değil."</item>
+        <item>Özellik etkin değilken sendDownloadLink çağrıldı.</item>
+        <item>SMS ağ geçidine yapılan ileti talebi başarısız.</item>
+        <item>SMS ağ geçidine yapılan ileti talebi başarısız.</item>
+        <item>Belirtilen parametreler için uygun bir istemci bulunamadı.</item>
+        <item>Belirtilen parametreler için uygun bir istemci bulunamadı.</item>
+        <item>"Belirtilen posta sağlayıcısı bulunamadığından posta testi başarısız oldu. Sağlayıcı olarak POP3, IMAP, POP3S, IMAPS, SMTP veya SMTPS'yi seçmeniz gerekir"</item>
+        <item>Posta sağlayıcısı bulunamadı</item>
+        <item>Belirtilen posta sunucusuna bağlanma işlemi başarısız olduğu için posta testi başarısız oldu. Posta kutusu ayarlarınızı kontrol edin</item>
+        <item>Bağlantı başarısız</item>
+        <item>Belirtilen posta sunucusuna bağlanma işlemi başarısız olduğu için posta testi başarısız oldu. Posta kutusu ayarlarınızı kontrol edin</item>
+        <item>Gelen kutusu bulunamadı</item>
+        <item>Gelen kutusundan ileti arama işlemi başarısız olduğu için posta testi başarısız oldu. Posta kutusu ayarlarınızı kontrol edin</item>
+        <item>Gelen kutusu araması başarısız</item>
+        <item>Geçersiz bir e-posta adresi nedeniyle posta testi başarısız oldu. Verilen e-posta adresini kontrol edin</item>
+        <item>Geçersiz e-posta adresi</item>
+        <item>Ek, maksimum boyutun üstünde.</item>
+        <item>Ekin boyutu çok büyük.</item>
+        <item>İleti gövdesinin boyutu çok büyük.</item>
+        <item>Gövde boyutu çok büyük.</item>
+        <item>Geçersiz bir {0} ve/veya Şifre nedeniyle oturum açma girişimi başarısız oldu. Lütfen {0} ve Şifrenizi kontrol edip tekrar deneyin.</item>
+        <item>Giriş yapma bilgileri yanlış</item>
+        <item>Geçersiz bir {0}, Şifre veya yanlış ayarlar nedeniyle oturum açma girişimi başarısız oldu. Lütfen {0}, Şifre bilgilerinizi ve web üzerindeki ayarları kontrol edip tekrar deneyin.</item>
+        <item>Giriş yapma bilgileri yanlış</item>
+        <item>Geçersiz bir {0} nedeniyle oturum açma girişimi başarısız oldu. Lütfen {0} bilgisini kontrol edip tekrar deneyin.</item>
+        <item>Kullanıcı bulunamadı</item>
+        <item>Girdiğiniz kullanıcı adı için birden fazla kayıt var. Lütfen {0} ve Şifrenizi kontrol edip tekrar deneyin.</item>
+        <item>Kullanıcı bulunamadı</item>
+        <item>Posta sunucunuza yönelik ayarlar bulunamadı. Lütfen sonraki ekranda hesap ayrıntılarınızı girin.</item>
+        <item>Sunucu bulunamadı</item>
+        <item>Giriş yapma başarısız oldu. Lütfen e-posta adresinizle aynı değilse e-posta hesabınıza kullanıcı adınızı sağlayın.</item>
+        <item>Giriş yapma başarısız</item>
+        <item>Bu hesapla yapılan kimlik doğrulaması birçok kez başarısız oldu. Engeli kaldırmak için lütfen bekleyin veya yöneticiyle irtibat kurun.</item>
+        <item>Hesap kilitlendi</item>
+        <item>Bu telefon numarası önceden kaydedilmiş. Lütfen, doğru telefon numarasını girdiğinizi onaylayın veya destek için hizmet sağlayıcınızla irtibata geçin.</item>
+        <item>Ön hazırlığı yapılmış hesap zaten mevcut</item>
+        <item>Daha iyi performans sağlamak için bağlantı farklı bir sunucuya yeniden yönlendirildi. Lütfen son eylemi yeniden deneyin.</item>
+        <item>Yeniden yönlendirildi</item>
+        <item>E-posta sunucusu şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin.</item>
+        <item>Giriş yapma başarısız</item>
+        <item>Bilinmeyen bir hata nedeniyle posta testi başarısız oldu. Posta kutusu ayarlarınızı kontrol edin</item>
+        <item>Bilinmeyen hata</item>
+        <item>Bu hesabın kimlik doğrulaması birçok kez başarısız oldu. Bağlayıcının daha fazla giriş yapması engellendi. Engeli kaldırmak için lütfen bekleyin veya daha fazla giriş yapma girişiminde bulunmak için bağlayıcıyla irtibat kurun.</item>
+        <item>Girişler devre dışı</item>
+        <item>"Yeniden denemeden önce {0} ve Şifrenizi/RSA göstergenizi kontrol etmek için Tamam'ı tıklayın."</item>
+        <item>RSA Giriş Yapma bilgileri yanlış</item>
+        <item>Kullandığınız istemci sürümüne, bu posta sağlayıcısı tarafından sertifika verilmemiş. Sertifikalı bir istemci sürümü edinmek için lütfen sağlayıcınızla irtibat kurun.</item>
+        <item>İstemci bu ISP için sertifika almamış.</item>
+        <item>Sağlanan Microsoft Exchange sunucu adresi geçerli bir web adresi değil. Lütfen adresi onaylayın ve yeniden deneyin.</item>
+        <item>Microsoft Exchange Adresi - geçersiz</item>
+        <item>Sağlayıcınız, premium bir hizmet olarak kullanılabilir durumda. Lütfen sağlayıcı listesine geri dönün ve tekrar seçim yapın.</item>
+        <item>Belirtilen URL izinli değil.</item>
+        <item>Uzak uç noktanın ortak anahtarı değiştirildi. Bu bir yetkisiz giriş olduğunun göstergesi olabilir. Uzak uç noktadan gelen veriler atıldı.</item>
+        <item>Ortak anahtar eşleşmezliği.</item>
+        <item>Yeniden giriş yapılması mümkün değil. Bu durum, kullanıcının hizmete yeniden giriş yapması için yeni kimlik bilgilerini giremeyeceği ancak başka bir işlem gerçekleştirmesi gerektiği anlamına gelir.</item>
+        <item>Yeniden giriş yapmak mümkün değil</item>
+        <item>"Verdiğiniz adresteki sunucu yanıt vermiyor. VPN/SSL portalı kullanılıyorsa, Microsoft Exchange iş yeri e-postalarınıza erişim için kullanılamaz. Lütfen sonraki bağlantı seçeneği ile iş yeri e-postalarınıza ulaşmak için Tamam'ı seçin."</item>
+        <item>OWA Adresi - yanıt vermiyor</item>
+        <item>Verdiğiniz adresteki sunucu bir Microsoft Exchange sunucusu değil. Lütfen Microsoft Exchange sunucusu adresinizi onaylayın ve yeniden deneyin.</item>
+        <item>Microsoft Exchange Adresi - yanlış tür</item>
+        <item>Şifrenizin süresi doldu. Lütfen bilgisayarınızı kullanarak şifrenizi değiştirin ve yeni şifrenizi kullanarak yeniden deneyin.</item>
+        <item>Şifrenin süresi doldu</item>
+        <item>Hazırlayabileceğiniz maksimum telefon sayısına ulaştınız. Lütfen yöneticinizle irtibat kurun.</item>
+        <item>Çok fazla telefon</item>
+        <item>Herhangi bir Not Kimliği Dosyası mevcut değil, giriş yapılamıyor. Lütfen yöneticinizle irtibat kurun.</item>
+        <item>Kimlik Dosyası mevcut değil</item>
+        <item>İstenilen hizmet geçici olarak kullanılamıyor. Lütfen daha sonra tekrar deneyin. Sorun devam ederse, web tarayıcısı kullanarak hesabınızda oturum açın.</item>
+        <item>ISP hizmeti geçici olarak kullanılamıyor</item>
+        <item>"Gerekli olan web'de oturum açma ISP'den döndürüldü. Lütfen, web tarayıcısı kullanarak hesapta oturum açın."</item>
+        <item>Web girişi yapmanız gerekiyor</item>
+        <item>ISP hatası oluştu. Lütfen daha sonra tekrar deneyin. Sorun devam ederse, web tarayıcısı kullanarak hesabınızda oturum açın.</item>
+        <item>"ISP'den hata döndürüldü."</item>
+        <item>Mailbox is currently in use. Please try again later.</item>
+        <item>Mailbox is currently in use.</item>
+        <item>No answer for this feed url. Please correct the url or try again later.</item>
+        <item>No answer for this feed url.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Exchange Access e-postanıza bağlanılamıyor. Bağlantı otomatik olarak yeniden kurulmalıdır; sorun devam ederse destek için BT yöneticinizle irtibat kurun.</item>
+        <item>Bağlantı sorunu</item>
+        <item>{0} e-postanıza bağlanılamıyor. Bağlantı otomatik olarak yeniden kurulmalıdır; sorun devam ederse destek için {0} ile irtibat kurun.</item>
+        <item>Bağlantı sorunu</item>
+        <item>Yapmaya çalıştığınız hesap güncelleme işlemi başarısız. Lütfen tekrar deneyin.</item>
+        <item>Güncelleme başarısız</item>
+        <item>RPC isteğindeki XML geçersizdi.</item>
+        <item>"RPC'de yanlış biçimlendirilmiş XML"</item>
+        <item>"XML RPC API'sinde dahili bir hata oluştu. Lütfen tekrar deneyin."</item>
+        <item>"XML RPC API'de dahili hata"</item>
+        <item>XML RPC talebinde geçersiz veya eksik parametreler var. Parametreleri ve değerlerini kontrol edin.</item>
+        <item>Geçersiz veya eksik parametreler</item>
+        <item>Hizmet verileriniz kaydedemedi. Lütfen tekrar deneyin.</item>
+        <item>Veritabanı Hatası</item>
+        <item>Bu ada sahip bir kuruluş zaten mevcut. Lütfen farklı bir ad seçin.</item>
+        <item>Kuruluş zaten mevcut</item>
+        <item>Belirttiğiniz bağlayıcı kimliği zaten kullanımda. Lütfen farklı bir tane seçin.</item>
+        <item>Ad zaten kullanımda</item>
+        <item>Belirttiğiniz kullanıcı adı zaten kullanımda. lütfen farklı bir kullanıcı adı seçin.</item>
+        <item>Kullanıcı adı zaten kullanımda</item>
+        <item>Bu kullanıcı zaten var.</item>
+        <item>Kullanıcı zaten var</item>
+        <item>Oluşturmak istediğiniz önceden hazırlanmış hesap zaten mevcut. Yeni bir tane eklenmeden önce bu mevcut hesap Bağlayıcı yöneticisi tarafından kaldırılmalıdır.</item>
+        <item>Ön hazırlığı yapılmış hesap zaten mevcut</item>
+        <item>Bu işlemi gerçekleştirmek için yeterli erişim haklarına sahip değilsiniz.</item>
+        <item>Erişim reddedildi</item>
+        <item>Aboneliğinizin süresi doldu. Aboneliğinizi yenilemek için lütfen sağlayıcınızla irtibat kurun.</item>
+        <item>Oturum açılamıyor</item>
+        <item>Aboneliğiniz daha fazla hesap eklemenize izin vermiyor. Aboneliğinizi yükseltmek için lütfen http://eu020.fra.samsungsocialhub.com adresini ziyaret edin.</item>
+        <item>Oturum açılamıyor</item>
+        <item>Social Hub uygulamasına abone olmak için http://eu020.fra.samsungsocialhub.com adresini ziyaret edin.</item>
+        <item>Oturum açılamıyor</item>
+        <item>Bu sitedeki SSL sertifikasında bir sorunla karşılaştık.</item>
+        <item>Sertifika Sorunu</item>
+        <item>"Belirtilen URL geçerli bir Outlook Web Access hizmetine ait değil. Lütfen URL'yi kontrol edin ve tekrar deneyin."</item>
+        <item>Geçersiz hizmet adresi</item>
+        <item>URL önceden yapılandırılmış. Lütfen önceden yapılandırılmış sağlayıcı listesine geri dönün ve listeden sağlayıcınızı seçin.</item>
+        <item>Erişim reddedildi</item>
+        <item>Bir ileti gönderilmeye çalışıldığında kişi çevrimdışıydı</item>
+        <item>Kişi çevrimdışı</item>
+        <item>Bir ileti gönderilmeye çalışıldığında kişi engellenmişti</item>
+        <item>Kişi engellendi</item>
+        <item>Dosya aktarımındaki dosya boyutu belirtilen değerle eşleşmedi</item>
+        <item>Dosya boyutu eşleşmezliği</item>
+        <item>Maksimum p2p oturumu sayısı aşıldı</item>
+        <item>Maksimum p2p oturumu sayısı aşıldı</item>
+        <item>Doğrum tarihi eksik</item>
+        <item>Doğrum tarihi eksik</item>
+        <item>Alıcı, dosya aktarımını desteklemiyor</item>
+        <item>p2p oturumu desteklenmiyor</item>
+        <item>Kullanıcı, İleti Gönderme hizmetine kaydolmalıdır</item>
+        <item>Kaydın süresi geçti</item>
+        <item>Sunucu çok meşgul olduğundan istek gönderilemedi. Lütfen daha sonra tekrar deneyin</item>
+        <item>Sunucu meşgul</item>
+        <item>VoiceClip bu konuşma için desteklenmiyor</item>
+        <item>Ses klibi desteklenmiyor</item>
+        <item>Konuşmada yalnızca iki katılımcının dosya aktarımı işlemi yapmasına izin verilir</item>
+        <item>Çok fazla katılımcı</item>
+        <item>Belirtilen konuşmada hiçbir katılımcı yok</item>
+        <item>Katılımcı yok</item>
+        <item>"Messenger'a giriş, kullanıcının ebeveyni tarafından izin verilmiyor"</item>
+        <item>Ebeveyn izni gerekiyor</item>
+        <item>Konuşma tanımlayıcısı geçersiz. İstemci uygulaması bu konuşmayı terk etmelidir</item>
+        <item>Çağrı kimliği geçersiz</item>
+        <item>Bir Davet isteğinde bulunuldu ve kullanıcının (istemci aygıtındaki) durumu Çevrimdışı olarak ayarlandı</item>
+        <item>Kullanıcı çevrimdışı</item>
+        <item>Geçersiz bir kullanıcı eklemek için bir Davet isteği girişiminde bulunuldu</item>
+        <item>Bilinmeyen kullanıcı</item>
+        <item>Belirtilen e-posta etki alanı için herhangi bir yapılandırma bulunamadı</item>
+        <item>Bilinmeyen ISP</item>
+        <item>Gösterge temelli kimlik doğrulama hataları farklı şekilde ele alındığı için bu hata için de aynı durum söz konusudur.</item>
+        <item>Gösterge Temelli Kimlik Doğrulama Başarısız</item>
+        <item>Bu hizmeti kullanmak için bir abonelik gerekir.</item>
+        <item>Abonelik Gerekli</item>
+        <item>Herhangi bir Seven hizmeti kullanılabilir değil.</item>
+        <item>Kullanılabilir Hizmet Yok</item>
+        <item>Başka bir bilgisayarda veya aygıtta oturum açtığınız için oturumunuz kapatıldı.</item>
+        <item>Hesap devralınmış</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>"Ping'e kayıt yapılırken hesap oluşturulamadı"</item>
+        <item>Hesap Oluşturulamıyor</item>
+        <item>Ana bilgisayar sunucusunda kayıt yapılırken geçersiz hizmet anahtarı</item>
+        <item>Geçersiz Hizmet Anahtarı</item>
+        <item>Ana bilgisayar sunucusunda kayıt yapılırken geçersiz hizmet tanımlayıcısı</item>
+        <item>Geçersiz Hizmet Açıklayıcısı</item>
+        <item>Ana bilgisayar sunucusunda kayıt yapılırken geçersiz özel veriler</item>
+        <item>Geçersiz özel veriler</item>
+        <item>Kullanıcı ana bilgisayar sunucusunda zaten kayıtlı</item>
+        <item>Zaten kayıtlı kullanıcı</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Hizmetler keşfedilirken hata oluştu. Lütfen tekrar deneyin.</item>
+        <item>İstek başarısız</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Mesaj metnini çok küçük boyutlu bir yazı tipinde görüntüle</item>
+        <item>Mesaj metnini küçük boyutlu bir yazı tipinde görüntüle</item>
+        <item>Mesaj metnini normal boyutlu bir yazı tipinde görüntüle</item>
+        <item>Mesaj metnini büyük boyutlu bir yazı tipinde görüntüle</item>
+        <item>Mesaj metnini çok büyük boyutlu bir yazı tipinde görüntüle</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Mesaj önizlemesinde 0 satır görüntüle</item>
+        <item>Mesaj önizlemede 1 satır görüntüle</item>
+        <item>Mesaj önizlemesinde 2 satır görüntüle</item>
+        <item>Mesaj önizlemesinde 3 satır görüntüle</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Google çeviri</item>
+        <item>Wikipedia</item>
+        <item>Sözlük</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Metin olarak paylaş</item>
+        <item>Resim olarak paylaş</item>
+    </string-array>
+    <string-array name="response_options">
+        <item>Göndermeden önce yanıtı düzenle</item>
+        <item>Yanıtı şimdi gönder</item>
+        <item>Yanıt gönderme</item>
+    </string-array>
+</resources>

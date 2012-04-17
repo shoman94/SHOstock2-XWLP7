@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d kontaktů s telefonními čísly</item>
+        <item quantity="one">1 kontakt s telefonním číslem</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d kontaktů</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Počet nalezených položek: %d</item>
+        <item quantity="one">Počet nalezených položek: 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Počet nalezených položek: %d</item>
+        <item quantity="one">Počet nalezených položek: 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">sloučeno ze %0$d zdrojů</item>
+        <item quantity="one">sloučení se nezdařilo</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d skupin</item>
+        <item quantity="one">1 skupina</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">Počet lidí ze skupiny %2$s: %1$d</item>
+        <item quantity="one">Počet lidí ze skupiny %2$s: %1$d</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%d osob</item>
+        <item quantity="one">%d osob</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%d hlasových zpráv</item>
+        <item quantity="one">Hlasová pošta</item>
+    </plurals>
+    <plurals name="listNumberOfTotalContacts">
+        <item quantity="other">Zobrazování %d kontaktů</item>
+        <item quantity="one">Zobrazit 1 kontakt</item>
+    </plurals>
+    <plurals name="copied_N">
+        <item quantity="other">Zkopírováno kontaktů: %d</item>
+        <item quantity="one">Počet zkopírovaných kontaktů: %d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/folder_create" android:orderInCategory="300" android:title="@string/create_folder" android:showAsAction="ifRoom|withText" android:actionLayout="@layout/action_bar_button_create_layout" />
+    <item android:id="@id/folder_done" android:orderInCategory="200" android:title="@string/done_action" android:showAsAction="ifRoom|withText" android:actionLayout="@layout/action_bar_button_done_layout" />
+    <item android:id="@id/folder_cancel" android:orderInCategory="300" android:title="@string/cancel_action" android:showAsAction="ifRoom|withText" android:actionLayout="@layout/action_bar_button_cancel_layout" />
+    <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/folder_delete" android:orderInCategory="1000" android:title="@string/delete_folder" />
+    <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/folder_rename" android:orderInCategory="1200" android:title="@string/rename_folder" />
+</menu>

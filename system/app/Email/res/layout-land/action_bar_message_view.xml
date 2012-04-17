@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/message_view_action_bar_custom" android:padding="0.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/header_button_area" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/header_button_up" android:background="@drawable/header_button_left_background_selector" android:focusable="true" android:layout_width="103.0px" android:layout_height="47.0px" android:layout_marginLeft="14.0px" android:src="@drawable/header_button_up_selector" android:layout_alignParentLeft="true" />
+        <ImageView android:id="@id/header_button_down" android:background="@drawable/header_button_right_background_selector" android:focusable="true" android:layout_width="103.0px" android:layout_height="47.0px" android:layout_marginRight="32.0px" android:src="@drawable/header_button_down_selector" android:layout_toRightOf="@id/header_button_up" />
+    </RelativeLayout>
+</LinearLayout>

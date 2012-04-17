@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dialog_items">
+        <item>Қоңырау соғу</item>
+        <item>Хабар жіберу</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Телефон</item>
+        <item>SIM-карта</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Барлығы</item>
+        <item>Телефон</item>
+        <item>SIM-карта</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Есімі Тегі</item>
+        <item>Тегі Есімі</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Дүй</item>
+        <item>Сей</item>
+        <item>Сәр</item>
+        <item>Бей</item>
+        <item>Жұм</item>
+        <item>Сен</item>
+        <item>Жек</item>
+    </string-array>
+</resources>

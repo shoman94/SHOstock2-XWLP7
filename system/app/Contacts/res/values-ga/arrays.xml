@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dialog_items">
+        <item>Glaoigh</item>
+        <item>Seol tcht</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Fón</item>
+        <item>SIM</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Gach</item>
+        <item>Fón</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Céadainm Sloinne</item>
+        <item>Sloinne Céadainm</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Luan</item>
+        <item>Már</item>
+        <item>Céad</item>
+        <item>Déar</item>
+        <item>Aoin</item>
+        <item>Sath</item>
+        <item>Domh</item>
+    </string-array>
+</resources>

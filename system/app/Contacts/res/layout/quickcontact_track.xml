@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <HorizontalScrollView android:id="@id/track_scroller" android:scrollbars="none" android:fadingEdgeLength="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:id="@id/track" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <View android:id="@id/selected_tab_rectangle" android:background="@drawable/contacts_bar" android:layout_width="60.0dip" android:layout_height="6.0dip" android:layout_alignBottom="@id/track" android:layout_alignParentLeft="true" />
+        </RelativeLayout>
+    </HorizontalScrollView>
+</merge>

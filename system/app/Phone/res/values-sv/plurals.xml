@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Ingen dataanslutning under %s minuter</item>
+        <item quantity="one">Ingen dataanslutning under %s minut</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefonen är i nödmotringningsläge under %s minuter. Program som använder dataanslutningen kan inte användas i det här läget. Avsluta nu?</item>
+        <item quantity="one">Telefonen är i nödmotringningsläge under %s minut. Program som använder dataanslutningen kan inte användas i det här läget. Avsluta nu?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Den valda åtgärden är inte tillgänglig i nödmotringningsläget. Telefonen är i det här läget i %s minuter. Avsluta nu?</item>
+        <item quantity="one">Den valda åtgärden är inte tillgänglig i nödmotringningsläget. Telefonen är i det här läget i 1 minut. Avsluta nu?</item>
+    </plurals>
+</resources>

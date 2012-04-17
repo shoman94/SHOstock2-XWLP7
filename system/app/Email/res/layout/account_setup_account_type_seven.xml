@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:id="@id/error_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="12.0dip" android:text="@string/other_protocol_noti" />
+        <TextView android:id="@id/instructions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="12.0dip" android:layout_marginBottom="23.0dip" android:text="@string/select_protocol" />
+        <View android:id="@id/seperator" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <Button android:id="@id/pop" android:text="@string/account_setup_account_type_pop_action" style="@style/accountSetupSoftButton1Style" />
+        <Button android:id="@id/imap" android:text="@string/account_setup_account_type_imap_action" style="@style/accountSetupSoftButton1Style" />
+    </LinearLayout>
+    <View android:id="@id/top_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/CameraBaseIndicatorLayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.sec.android.app.camera">
+    <com.sec.android.app.camera.widget.TwGuidelineView android:id="@id/guideline" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/IndicatorWifiParentGroup" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:id="@id/wifi_connect_ap_group" android:layout_width="160.0px" android:layout_height="32.0px" android:layout_marginLeft="530.0px" android:layout_marginTop="9.0px">
+            <ImageView android:layout_gravity="center_horizontal" android:id="@id/wifi_connect_ap_name_indicator" android:background="@drawable/camera_popup_list_noconnected05" android:layout_width="48.0px" android:layout_height="48.0px" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/IndicatorParentGroup" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:id="@id/IndicatorGroup" android:layout_width="160.0px" android:layout_height="32.0px" android:layout_marginLeft="530.0px" android:layout_marginTop="9.0px">
+            <TextView android:textSize="22.0px" android:textColor="#ffffffff" android:gravity="center" android:id="@id/remaincount_indicator" android:layout_width="96.0px" android:layout_height="30.0px" android:shadowColor="#ff000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+            <com.sec.android.app.camera.widget.TwIndicatorStorage android:id="@id/storage_indicator_camera" android:layout_width="32.0px" android:layout_height="32.0px" />
+            <com.sec.android.app.camera.widget.TwIndicatorBattery android:id="@id/battery_indicator" android:layout_width="32.0px" android:layout_height="32.0px" />
+        </LinearLayout>
+    </RelativeLayout>
+    <com.sec.android.app.camera.widget.TwIndicatorFocus android:id="@id/focus_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="205.0px" android:layout_below="@id/CameraBaseIndicatorLayout" android:layout_centerHorizontal="true" />
+    <ImageView android:id="@id/lock_indicator" android:background="@drawable/camera_indicator_lock" android:visibility="gone" android:layout_width="32.0px" android:layout_height="32.0px" android:layout_marginLeft="96.0px" android:layout_marginTop="9.0px" android:layout_below="@id/CameraBaseIndicatorLayout" />
+    <TextView android:textSize="18.0sp" android:textColor="#ffffffff" android:gravity="center_horizontal" android:id="@id/textMessage_indicator" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:text="@string/SmileShot_message" android:shadowColor="#ff000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" android:layout_alignParentBottom="true" />
+    <com.sec.android.app.camera.widget.TwTouchFocusRectView android:id="@id/touchFocusRectView" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:textSize="16.0sp" android:textColor="#ffffffff" android:ellipsize="marquee" android:gravity="center" android:id="@id/FocusTextIndicator" android:visibility="gone" android:layout_width="420.0dip" android:layout_height="wrap_content" android:layout_marginBottom="3.0dip" android:text="@string/OnScreen_HelpTextTouchAF" android:singleLine="true" android:shadowColor="#ff000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" android:layout_alignParentBottom="true" android:layout_centerInParent="true" />
+    <ImageView android:background="@drawable/empty" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

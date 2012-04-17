@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_recents_interface_for_tablets">false</bool>
+    <bool name="config_recents_thumbnail_image_fits_to_xy">false</bool>
+    <bool name="config_hspa_data_distinguishable">false</bool>
+    <bool name="config_statusBarShowNumber">false</bool>
+    <bool name="config_showPhoneRSSIForData">false</bool>
+    <bool name="config_showMin3G">false</bool>
+    <bool name="config_useTouchWizGUI">true</bool>
+    <bool name="config_useMiniController">true</bool>
+    <bool name="config_roamingIconDisplay">true</bool>
+    <bool name="config_status_bar_brightness">true</bool>
+    <bool name="config_useStatusBarMarquee">false</bool>
+    <bool name="config_supportVoice">true</bool>
+    <bool name="config_useCaptureView">false</bool>
+</resources>

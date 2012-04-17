@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/menu_done" android:alphabeticShortcut="\n" android:showAsAction="always" />
+    <item android:icon="@drawable/ic_menu_split_holo_light" android:id="@id/menu_split" android:title="@string/menu_splitAggregate" />
+    <item android:icon="@drawable/ic_menu_merge_holo_light" android:id="@id/menu_join" android:title="@string/menu_joinAggregate" />
+    <item android:id="@id/menu_discard" android:title="@string/menu_discard" android:alphabeticShortcut="q" />
+</menu>

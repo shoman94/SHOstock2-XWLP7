@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/mainLayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@id/CertificatesList" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_weight="1.0" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/noCertificateListLayout" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <ImageView android:id="@id/noCertificateImg" android:background="@drawable/email_img_nodata" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:id="@id/noCertificateText" android:text="@string/account_settings_smime_no_certificate" style="@style/noDataTextViewStyle" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:id="@id/importButtonLayout" android:background="@drawable/email_softkey_bg" android:layout_width="fill_parent" android:layout_height="60.0dip">
+        <Button android:textSize="18.0sp" android:id="@id/importButton" android:layout_width="313.0dip" android:layout_height="40.0dip" android:text="@string/account_settings_smime_import_certificate" />
+    </LinearLayout>
+</LinearLayout>

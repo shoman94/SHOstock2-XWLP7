@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listCameraEffectMenuArray">
+        <item>Žiadne</item>
+        <item>Sivá</item>
+        <item>Sépia</item>
+        <item>Zelená</item>
+        <item>Voda</item>
+        <item>Negatív</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Odstrániť</item>
+    </string-array>
+    <string-array name="pref_roaming_options_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="default_setup_choices">
+        <item>Automaticky</item>
+        <item>Manuálne</item>
+    </string-array>
+    <string-array name="default_setup_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Predvolené sieťou</item>
+        <item>Skryť číslo</item>
+        <item>Zobraziť číslo</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>Predvolený</item>
+        <item>Skryť</item>
+        <item>Zobraziť</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Global</item>
+        <item>Iba EVDO</item>
+        <item>CDMA w/o EVDO</item>
+        <item>Automatická sieť CDMA/EVDO</item>
+        <item>Automatická sieť GSM/WCDMA</item>
+        <item>Iba WCDMA</item>
+        <item>Iba GSM</item>
+        <item>Preferovaná sieť GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>Francúzština</item>
+        <item>Španielčina</item>
+        <item>Japončina</item>
+        <item>Kórejčina</item>
+        <item>Čínština</item>
+        <item>Hebrejčina</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Iba domáca sieť</item>
+        <item>Automaticky</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Len domáca sieť</item>
+        <item>Pridružené siete</item>
+        <item>Ľubovoľná sieť</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EVDO</item>
+        <item>Iba CDMA</item>
+        <item>Iba EVDO</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Vypnúť režim TTY</item>
+        <item>Úplné TTY</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normálne</item>
+        <item>Dlhé</item>
+    </string-array>
+    <string-array name="dtmf_tone_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

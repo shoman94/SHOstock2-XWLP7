@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/searchview_land" android:layout_width="262.66406dip" android:layout_height="54.669983dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/searchresult_main" android:background="@drawable/call_dial_panel_bg_h" android:layout_width="262.66406dip" android:layout_height="54.669983dip">
+        <LinearLayout android:orientation="horizontal" android:id="@id/searchresult_list" android:background="@drawable/call_dial_panel_bg01_h" android:layout_width="210.66998dip" android:layout_height="54.669983dip">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/searchresult_picture" android:duplicateParentState="true" android:layout_width="45.329987dip" android:layout_height="45.329987dip" android:layout_margin="4.669983dip" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/searchresult_list_sub" android:paddingTop="4.0dip" android:paddingBottom="2.669983dip" android:duplicateParentState="true" android:layout_width="156.0dip" android:layout_height="54.669983dip">
+                <LinearLayout android:orientation="horizontal" android:id="@id/searchresult_list_sub_name" android:duplicateParentState="true" android:layout_width="156.0dip" android:layout_height="24.0dip">
+                    <TextView android:textSize="18.669983sp" android:textColor="@color/tw_color028" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/searchresult_name" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="24.0dip" android:singleLine="true" />
+                    <TextView android:textSize="18.669983sp" android:textColor="@color/color_text_darkblue" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/searchresult_name_color" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="24.0dip" android:singleLine="true" />
+                    <TextView android:textSize="18.669983sp" android:textColor="@color/tw_color028" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/searchresult_name_end" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="24.0dip" android:singleLine="true" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:id="@id/searchresult_list_sub_number" android:duplicateParentState="true" android:layout_width="156.0dip" android:layout_height="24.0dip">
+                    <TextView android:textSize="18.669983sp" android:textColor="@color/tw_color028" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/searchresult_number" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="24.0dip" android:singleLine="true" />
+                    <TextView android:textSize="18.669983sp" android:textColor="@color/color_text_darkblue" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/searchresult_number_color" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="24.0dip" android:singleLine="true" />
+                    <TextView android:textSize="18.669983sp" android:textColor="@color/tw_color028" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/searchresult_number_end" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="24.0dip" android:singleLine="true" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <RelativeLayout android:gravity="center" android:id="@id/layout_drop" android:background="@drawable/call_dial_panel_bg02_h" android:clickable="true" android:layout_width="52.0dip" android:layout_height="54.669983dip">
+            <TextView android:textSize="20.659973sp" android:textColor="@color/tw_color028" android:id="@id/searchresult_counter" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="24.0dip" android:layout_centerHorizontal="true" />
+            <Button android:id="@id/searchresult_viewbtn" android:background="@drawable/call_dial_more" android:clickable="false" android:duplicateParentState="true" android:layout_width="21.329987dip" android:layout_height="12.0dip" android:layout_centerInParent="true" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <RelativeLayout android:id="@id/add_contacts_btn" android:background="@drawable/call_dial_edit_btn" android:clickable="true" android:layout_width="262.66406dip" android:layout_height="54.669983dip">
+        <RelativeLayout android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0px" android:layout_marginRight="5.0px" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+            <ImageView android:id="@id/call_add_image" android:background="@drawable/call_add" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:textSize="22.0sp" android:textColor="@color/tw_color028" android:ellipsize="marquee" android:id="@id/call_add_text" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/add_2_contacts" android:singleLine="true" android:layout_toRightOf="@id/call_add_image" />
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Organizācija</item>
+        <item>Piezīme</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Zvanīt</item>
+        <item>Sūtīt ziņu</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Tālrunis</item>
+        <item>SIM</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Visas</item>
+        <item>Tālrunis</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Vārds, uzvārds</item>
+        <item>Uzvārds, vārds</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Pr.</item>
+        <item>Ot.</item>
+        <item>Tr.</item>
+        <item>Ce.</item>
+        <item>Pk.</item>
+        <item>Se.</item>
+        <item>Sv.</item>
+    </string-array>
+</resources>

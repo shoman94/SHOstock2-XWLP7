@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Succes.</item>
+        <item>Nicio eroare</item>
+        <item>Limita de utilizator pentru utilizatorul {0} a fost depăşită</item>
+        <item>Limita de utilizator a fost depăşită</item>
+        <item>Utilizator duplicat: {0}</item>
+        <item>Utilizator duplicat</item>
+        <item>Dispozitiv duplicat: {0}</item>
+        <item>Dispozitiv duplicat</item>
+        <item>Utilizatorul nu a fost găsit: {0}</item>
+        <item>Utilizatorul nu a fost găsit</item>
+        <item>Format nevalid pentru dată: {0}. Se aşteaptă {1}.</item>
+        <item>Format de dată nevalid</item>
+        <item>Format nevalid pentru dată: {0}. Se aşteaptă {1}.</item>
+        <item>Format de dată nevalid</item>
+        <item>Lipseşte un parametru obligatoriu: {0}</item>
+        <item>Lipseşte un parametru obligatoriu</item>
+        <item>A survenit o eroare. Încercaţi din nou.</item>
+        <item>Eroare internă</item>
+        <item>ID-ul de alocare furnizat ({0}) nu a fost găsit la niciun Distribuitor la care utilizatorul are acces.</item>
+        <item>Marca nu a fost găsită</item>
+        <item>Nu s-a setat nicio dată a expirării</item>
+        <item>Nu s-a setat nicio dată a expirării</item>
+        <item>Acces refuzat</item>
+        <item>Acces refuzat</item>
+        <item>Accesul API nu este activat pentru:{0}</item>
+        <item>Accesul API nu este activat</item>
+        <item>A survenit o eroare. Încercaţi din nou.</item>
+        <item>Eroare de solicitare eronată</item>
+        <item>Eroare internă: {0}</item>
+        <item>Eroare internă</item>
+        <item>Abonamentul cu detaliile furnizate există deja</item>
+        <item>Abonament duplicat</item>
+        <item>S-au găsit mai multe abonamente care corespund</item>
+        <item>S-au găsit mai multe abonamente care corespund</item>
+        <item>A survenit o eroare la încercarea de a porni o sesiune. Încercaţi din nou.</item>
+        <item>Eroare de conexiune</item>
+        <item>Interogarea {0} nu a fost găsită</item>
+        <item>Interogarea nu a fost găsită</item>
+        <item>Parametri inconsistenţi: {0} şi {1}</item>
+        <item>Parametri inconsistenţi</item>
+        <item>Format MSISDN nevalid: {0}</item>
+        <item>Format MSISDN nevalid</item>
+        <item>Parametru nevalid pentru produs: {0}</item>
+        <item>Parametru nevalid pentru produs</item>
+        <item>Conectorul dvs. nu a fost găsit. Confirmaţi ID-ul de conector pe care l-aţi introdus.</item>
+        <item>Conectorul nu a fost găsit</item>
+        <item>Abonamentul nu a fost găsit</item>
+        <item>Abonamentul nu a fost găsit</item>
+        <item>A survenit o eroare la încercarea de trimitere a datelor. Încercaţi din nou.</item>
+        <item>Eroare de date</item>
+        <item>Apelarea de replicare către platforma AOM nu a reuşit</item>
+        <item>Apelarea de replicare către platforma AOM nu a reuşit</item>
+        <item>Finalizarea acţiunii dvs. a durat prea mult şi a expirat. Încercaţi din nou.</item>
+        <item>Expirare</item>
+        <item>Conectare imposibilă la contul de e-mail. Conexiunea ar trebui să se restabilească automat. Dacă problema persistă, verificaţi setările de reţea sau contactaţi furnizorul de servicii pentru asistenţă.</item>
+        <item>Problemă de conexiune</item>
+        <item>Reţeaua este temporar indisponibilă sau telefonul este în modul avion. Conexiunea va fi restabilită automat când reţeaua devine disponibilă.</item>
+        <item>Conexiune nereuşită</item>
+        <item>Serverul este momentan ocupat. Încercaţi din nou.</item>
+        <item>Server ocupat</item>
+        <item>Eroare la solicitarea IPC generală</item>
+        <item>Solicitarea IPC nu a reuşit</item>
+        <item>Autentificarea nu a reuşit pentru: {0}</item>
+        <item>Autentificarea nu a reuşit</item>
+        <item>Contactaţi furnizorul serviciului pentru o licenţă validă.</item>
+        <item>Licenţa nu este acceptată</item>
+        <item>ID-ul de client nu a fost găsit în conţinutul SMS</item>
+        <item>ID-ul de client nu a fost găsit în conţinutul SMS</item>
+        <item>Nu s-a găsit niciun client cu ID-ul de client ({0}).</item>
+        <item>Nu s-a găsit niciun client cu ID-ul de client specificat</item>
+        <item>Informaţiile MSISDN furnizate nu sunt valide sau lipsesc: {0}</item>
+        <item>Informaţiile MSISDN nu au fost furnizate sau nu sunt valide.</item>
+        <item>Format MSISDN nevalid: {0}. Se aşteaptă o valoare numerică.</item>
+        <item>Format MSISDN nevalid</item>
+        <item>Format nevalid pentru ID client: {0}. Se aşteaptă o valoare numerică.</item>
+        <item>Format nevalid pentru ID client</item>
+        <item>Antetul de încărcare aşteptat nu a fost găsit pentru solicitarea de validare</item>
+        <item>Validarea antetului de încărcare nu a reuşit</item>
+        <item>MSISDN {0} există deja în sistem.</item>
+        <item>MSISDN există deja</item>
+        <item>MSISDN {0} nu există în sistem.</item>
+        <item>MSISDN nu există</item>
+        <item>Furnizaţi parola temporară pentru a reinstala acest [conector].</item>
+        <item>Parolă obligatorie</item>
+        <item>ID-ul pe care l-aţi ales este deja utilizat. Alegeţi un alt ID.</item>
+        <item>ID deja utilizat</item>
+        <item>Parola temporară furnizată este incorectă.</item>
+        <item>Eroare de conexiune</item>
+        <item>Conectorul a fost dezactivat.</item>
+        <item>Conector dezactivat</item>
+        <item>Serviciul nu este activat</item>
+        <item>Serviciul nu este activat</item>
+        <item>Ediţia de produs furnizată nu corespunde cu ediţia instalată pe releu</item>
+        <item>Nepotrivire la ediţia produsului</item>
+        <item>Tranzacţia nu a reuşit dintr-un motiv nespecificat: {0}</item>
+        <item>Tranzacţia nu a reuşit dintr-un motiv nespecificat</item>
+        <item>Autentificarea nu a reuşit pentru: {0}</item>
+        <item>Autentificarea nu a reuşit</item>
+        <item>Acces nepermis pentru: {0}</item>
+        <item>Accesul nu este permis</item>
+        <item>Contul de utilizator {0} este blocat</item>
+        <item>Cont blocat</item>
+        <item>O parte a unui lot de tranzacţii nu a reuşit.</item>
+        <item>O parte a unui lot de tranzacţii nu a reuşit.</item>
+        <item>Apelarea listei a returnat {0} înregistrări, iar limita este {1}.</item>
+        <item>Lista returnată depăşeşte limita sa de dimensiune</item>
+        <item>Apelarea pe loturi a solicitat {0} tranzacţii, iar limita este {1}.</item>
+        <item>Solicitare de tranzacţie pe loturi peste limita sa de dimensiune</item>
+        <item>Apelarea API s-a efectuat în lipsa unui parametru obligatoriu: {0}</item>
+        <item>Apelare API cu un parametru obligatoriu lipsă.</item>
+        <item>Parametrul {0} a for nevalid pentru această apelare API.</item>
+        <item>Apelarea API a conţinut un parametru incorect.</item>
+        <item>A survenit o eroare de bază de date la procesarea acestei solicitări: {0}</item>
+        <item>Eroare de bază de date provenită dintr-o apelare API.</item>
+        <item>Nu se pot utiliza metacaractere cu aceste acreditări de acces.</item>
+        <item>Utilizare nepermisă de metacaractere.</item>
+        <item>Metacaracter nevalid în parametrul solicitării: {0}</item>
+        <item>Metacaractere nevalide în solicitare.</item>
+        <item>Solicitarea SOAP s-a primit cu antet lipsă sau nevalid.</item>
+        <item>Solicitarea SOAP s-a primit cu antet lipsă sau nevalid.</item>
+        <item>Solicitarea SOAP s-a primit fără un parametru obligatoriu pentru antet: {0}</item>
+        <item>Solicitarea SOAP s-a primit cu parametru lipsă pentru antet.</item>
+        <item>Solicitarea SOAP a fost primită de la adresa IP: {0}. Această adresă nu are permisiunea de a utiliza API.</item>
+        <item>S-a primit o solicitare SOAP de la o adresă IP blocată.</item>
+        <item>Accesul API nu este activat pentru:{0}</item>
+        <item>Accesul API nu este activat</item>
+        <item>Solicitarea SOAP nu a reuşit dintr-un motiv nespecificat: {0}</item>
+        <item>Solicitarea SOAP nu a reuşit dintr-un motiv nespecificat</item>
+        <item>Pentru apelarea API createAccountSubscription sunt necesare un AccountID sau un parametru MSISDN.</item>
+        <item>S-a apelat createAccountSubscription fără AccountID sau MSISDN.</item>
+        <item>Pentru a utiliza un parametru Produs în apelarea API listAccountSubscription, trebuie să se furnizeze cel puţin unul dintre MSISDN, AccountID şi GroupID.</item>
+        <item>S-a apelat listAccountSubscriptions cu parametru pentru produs, dar fără niciun parametru ID.</item>
+        <item>Criteriul furnizat pentru identificarea abonamentului corespunde cu mai multe înregistrări. Actualizarea nu a fost procesată.</item>
+        <item>Criteriul de identificare a abonamentului corespunde cu mai multe înregistrări.</item>
+        <item>A fost furnizat un set nevalid de parametri.</item>
+        <item>S-a furnizat un set nevalid de parametri ID.</item>
+        <item>S-a efectuat o apelare API updateAccountSubscription, fără niciun câmp de actualizat.</item>
+        <item>Nu s-a furnizat niciun câmp pentru actualizare.</item>
+        <item>Criteriul furnizat pentru identificarea abonamentului nu corespunde cu nicio înregistrare. Nu s-a procesat nicio actualizare.</item>
+        <item>Criteriul de identificare a abonamentului nu corespunde cu nicio înregistrare.</item>
+        <item>Pentru a utiliza un parametru Produs în apelarea API deleteAccountSubscription, trebuie să se furnizeze cel puţin unul dintre MSISDN, AccountID şi GroupID.</item>
+        <item>S-a apelat deleteAccountSubscriptions cu parametru pentru produs, dar fără niciun parametru ID.</item>
+        <item>Criteriul furnizat pentru identificarea abonamentului corespunde cu mai multe înregistrări. Actualizarea nu a fost procesată.</item>
+        <item>Criteriul de identificare a abonamentului corespunde cu mai multe înregistrări.</item>
+        <item>Pentru apelarea API updateConnectorSubscription sunt necesare un SubscriptionId sau un parametru ConnectorId.</item>
+        <item>S-a furnizat un set nevalid de parametri ID.</item>
+        <item>S-a efectuat o apelare API updateConnectorSubscription, fără niciun câmp de actualizat.</item>
+        <item>Nu s-a furnizat niciun câmp pentru actualizare.</item>
+        <item>Criteriul furnizat pentru identificarea abonamentului nu corespunde cu nicio înregistrare. Nu s-a procesat nicio actualizare.</item>
+        <item>Criteriul de identificare a abonamentului nu corespunde cu nicio înregistrare.</item>
+        <item>Dacă se efectuează o apelare API createPreProvisionedAccount cu CE ca produs, trebuie să se furnizeze un ID de alocare şi un ID de marcă de server ISP. Dacă produsul este orice altceva, trebuie să se furnizeze un ID de conector.</item>
+        <item>S-a apelat createPreProvisionedAccount cu parametri incorecţi.</item>
+        <item>Fie numele de firmă introdus nu a fost găsit în baza de date, fie ID-ul de alocare introdus nu a corespuns cu o firmă ISP.</item>
+        <item>Nu s-a găsit nicio firmă cu aceşti parametri.</item>
+        <item>ID-ul de marcă al serverului ISP nu a fost găsit în baza de date.</item>
+        <item>ID-ul de marcă al serverului ISP nu a fost găsit în baza de date.</item>
+        <item>Serverul ISP găsit pentru ID-ul mărcii de intrare nu acceptă tipul de produs furnizat.</item>
+        <item>Serverul ISP găsit pentru ID-ul mărcii de intrare nu acceptă tipul de produs furnizat.</item>
+        <item>Mai multe conturi corespund actualizării. Parola nu se poate actualiza.</item>
+        <item>changeAccountPassword corespunde cu mai multe conturi.</item>
+        <item>Nu s-a găsi niciun cont care să corespundă actualizării. Nu se poate actualiza nicio parolă.</item>
+        <item>changeAccountPassword nu corespunde cu niciun cont.</item>
+        <item>A survenit o eroare la încercarea de a actualiza parola, probabil din cauza unei parole incorecte.</item>
+        <item>changeAccountPassword nu a reuşit actualizarea parolei.</item>
+        <item>A request made for listing user information but given parameters do not match any existing user</item>
+        <item>getUserInformation cannot find user with given parameters</item>
+        <item>S-a apelat isValidConnectorId a fost apelat cu un ID care este deja utilizat.</item>
+        <item>ID de conector deja utilizat.</item>
+        <item>S-a apelat runScript cu parametri incorecţi pentru scriptul SQL specificat.</item>
+        <item>Parametri incorecţi pentru scriptul SQL.</item>
+        <item>S-a apelat runScript pentru un script SQL necunoscut.</item>
+        <item>Scriptul SQL nu a fost găsit.</item>
+        <item>Caracteristica de trimitere a legăturii de descărcare nu este activată în API.</item>
+        <item>S-a apelat sendDownloadLink când caracteristica nu era activată.</item>
+        <item>Solicitarea mesaj către gateway-ul SMS nu a reuşit.</item>
+        <item>Solicitarea mesaj către gateway-ul SMS nu a reuşit.</item>
+        <item>Nu s-a găsit niciun client pentru parametrii furnizaţi.</item>
+        <item>Nu s-a găsit niciun client pentru parametrii furnizaţi.</item>
+        <item>Testarea mesageriei nu a reuşit din cauză că furnizorul de mesagerie specificat nu a fost găsit. Trebuie să utilizaţi POP3, IMAP, POP3S, IMAPS, SMTP sau SMTPS ca furnizor</item>
+        <item>Furnizorul de mesagerie nu a fost găsit</item>
+        <item>Testarea mesageriei nu a reuşit din cauză că nu a reuşit conexiunea la serverul de mesagerie specificat. Verificaţi setările pentru cutia poştală</item>
+        <item>Conexiune nereuşită</item>
+        <item>Testarea mesageriei nu a reuşit din cauză că nu a reuşit conexiunea la serverul de mesagerie specificat. Verificaţi setările pentru cutia poştală</item>
+        <item>Inbox nu a fost găsit</item>
+        <item>Testarea mesageriei nu a reuşit din cauză că nu a reuşit căutarea mesajului din Inbox. Verificaţi setările pentru cutia poştală</item>
+        <item>Căutarea în Inbox nu a reuşit</item>
+        <item>Testarea mesageriei nu a reuşit din cauza unei adrese de e-mail incorecte. Verificaţi adresa de e-mail introdusă</item>
+        <item>Adresă de e-mail nevalidă</item>
+        <item>Ataşarea depăşeşte dimensiunea maximă.</item>
+        <item>Dimensiunea ataşării este prea mare.</item>
+        <item>Dimensiunea corpului mesajului este prea mare.</item>
+        <item>Dimensiunea corpului este prea mare.</item>
+        <item>Încercarea de conectare nu a reuşit deoarece {0} şi/sau parola nu sunt valide. Verificaţi {0} şi parola, şi încercaţi din nou.</item>
+        <item>Conectare incorectă</item>
+        <item>Încercarea de conectare nu a reuşit deoarece {0}, parola sau setările sunt incorecte. Verificaţi {0}, parola şi setările pe Web, apoi reîncercaţi.</item>
+        <item>Conectare incorectă</item>
+        <item>Încercarea de conectare nu a reuşit deoarece {0} este nevalid. Verificaţi {0} şi încercaţi din nou.</item>
+        <item>Utilizatorul nu a fost găsit</item>
+        <item>Există mai multe înregistrări pentru numele de utilizator pe care l-aţi furnizat. Verificaţi {0} şi parola, şi încercaţi din nou.</item>
+        <item>Utilizatorul nu a fost găsit</item>
+        <item>Nu s-au găsit setările pentru serverul de e-mail. Definiţi detaliile contului în ecranul următor.</item>
+        <item>Serverul nu a fost găsit</item>
+        <item>Conectare nereuşită. Furnizaţi numele de utilizator pentru contul de e-mail, dacă nu este acelaşi cu adresa de e-mail.</item>
+        <item>Conectarea nu a reuşit</item>
+        <item>Autentificarea cu acest cont a eşuat de prea multe ori. Aşteptaţi deblocarea sau contactaţi administratorul.</item>
+        <item>Cont blocat</item>
+        <item>Acest număr de telefon a fost deja înregistrat. Confirmaţi că aţi introdus numărul de telefon corect sau contactaţi furnizorul de servicii pentru asistenţă.</item>
+        <item>Contul pre-alocat există deja</item>
+        <item>Conexiunea a fost redirecţionată către un alt server pentru a asigura performanţe mai bune. Reîncercaţi ultima acţiune.</item>
+        <item>Redirecţionat</item>
+        <item>Serverul de e-mail este temporar indisponibil. Reîncercaţi mai târziu.</item>
+        <item>Conectarea nu a reuşit</item>
+        <item>Testarea mesageriei nu a reuşit din cauza unei erori necunoscute. Verificaţi setările pentru cutia poştală</item>
+        <item>Eroare necunoscută</item>
+        <item>Autentificarea la acest cont nu a reuşit de prea multe ori. Conectările ulterioare au fost respinse de la conector. Aşteptaţi deblocarea sau contactaţi administratorul conectorului pentru a permite încercările ulterioare de conectare.</item>
+        <item>Conectări dezactivate</item>
+        <item>Faceţi clic pe OK pentru a vă verifica {0} şi parola/pentru a vă verifica tokenul RSA înainte să încercaţi din nou.</item>
+        <item>Conectare RSA incorectă</item>
+        <item>Versiunea client pe care o utilizaţi nu este certificată de către acest furnizor de mesagerie. Contactaţi furnizorul pentru a obţine o versiune client certificată.</item>
+        <item>Clientul nu este certificat pentru acest ISP.</item>
+        <item>Adresa de server Microsoft Exchange pe care aţi furnizat-o nu este o adresă Web validă. Confirmaţi adresa şi încercaţi din nou.</item>
+        <item>Adresă Microsoft Exchange - nevalidă</item>
+        <item>Furnizorul este disponibil ca serviciu premium. Reveniţi la lista de furnizori şi selectaţi din nou.</item>
+        <item>URL-ul furnizat nu este permis.</item>
+        <item>Cheia publică a punctului terminal de la distanţă s-a modificat. Acest lucru poate indica o încercare de pătrundere neautorizată. Datele de la punctul terminal de la distanţă au fost eliminate.</item>
+        <item>Nepotrivire de cheie publică.</item>
+        <item>Reconectarea nu este posibilă. Acest lucru indică faptul că utilizatorul nu poate tasta noile acreditări pentru reconectarea la serviciu, ci este necesară o altă acţiune de la utilizator</item>
+        <item>Reconectarea nu este posibilă</item>
+        <item>Serverul de la adresa furnizată nu răspunde. Microsoft Exchange nu poate fi utilizat pentru a accesa mesaje e-mail de la locul de muncă dacă se utilizează un portal VPN/SSL. Alegeţi OK pentru a vă accesa mesajele e-mail de la locul de muncă cu următoarea opţiune de conectare.</item>
+        <item>Adresă OWA - fără răspuns</item>
+        <item>Serverul de la adresa pe care aţi furnizat-o nu este un server Microsoft Exchange. Confirmaţi adresa serverului Microsoft Exchange şi încercaţi din nou.</item>
+        <item>Adresă Microsoft Exchange - tip incorect</item>
+        <item>Parola dvs. a expirat. Schimbaţi-vă parola cu ajutorul PC-ului şi încercaţi din nou cu noua parolă.</item>
+        <item>Parola a expirat</item>
+        <item>Aţi atins limita de telefoane pe care le puteţi aloca. Contactaţi administratorul.</item>
+        <item>Prea multe telefoane</item>
+        <item>Nu este disponibil niciun fişier de ID-uri pentru note, conectare imposibilă. Contactaţi administratorul.</item>
+        <item>Nu este disponibil niciun fişier de ID-uri</item>
+        <item>Serviciul solicitat nu este momentan disponibil. Încercaţi mai târziu. Dacă problema persistă, conectaţi-vă la contul dvs. utilizând browserul Web.</item>
+        <item>Serviciu ISP temporar indisponibil</item>
+        <item>Furnizorul ISP a solicitat conectarea pe Web. Conectaţi-vă la contul dvs. utilizând browserul Web.</item>
+        <item>Conectare la Web necesară</item>
+        <item>Eroare la ISP. Încercaţi mai târziu. Dacă problema persistă, încercaţi să vă conectaţi utilizând browserul Web.</item>
+        <item>Eroare returnată de ISP.</item>
+        <item>Mailbox is currently in use. Please try again later.</item>
+        <item>Mailbox is currently in use.</item>
+        <item>No answer for this feed url. Please correct the url or try again later.</item>
+        <item>No answer for this feed url.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Conectare imposibilă la e-mail-ul Exchange Access. Conexiunea ar trebui să se restabilească automat; dacă problema persistă, contactaţi administratorul IT pentru asistenţă.</item>
+        <item>Problemă de conexiune</item>
+        <item>Conectare imposibilă la e-mail-ul {0}. Conexiunea ar trebui să se restabilească automat; dacă problema persistă, contactaţi {0} pentru asistenţă.</item>
+        <item>Problemă de conexiune</item>
+        <item>Acţiunea de actualizare a contului pe care aţi încercat-o nu a reuşit. Încercaţi din nou.</item>
+        <item>Actualizarea nu a reuşit</item>
+        <item>Codul XML din solicitarea RPC a fost nevalid.</item>
+        <item>XML deformat în RPC</item>
+        <item>A survenit o eroare internă în API RPC XML. Încercaţi din nou.</item>
+        <item>Eroare internă în API RPC XML</item>
+        <item>Parametri lipsă sau incorecţi în solicitarea RPC XML. Verificaţi parametrii şi valorile lor.</item>
+        <item>Parametri incorecţi sau lipsă</item>
+        <item>Serviciul nu a reuşit să vă salveze datele. Încercaţi din nou.</item>
+        <item>Eroare de bază de date</item>
+        <item>Organizaţia cu acest nume există deja. Alegeţi un alt nume.</item>
+        <item>Organizaţia deja există</item>
+        <item>ID-ul de conector specificat este deja utilizat. Alegeţi un alt ID.</item>
+        <item>Nume deja utilizat</item>
+        <item>Numele de utilizator specificat este deja utilizat. Alegeţi un alt nume de utilizator.</item>
+        <item>Nume de utilizator deja utilizat</item>
+        <item>Acest utilizator există deja.</item>
+        <item>Utilizatorul există deja</item>
+        <item>Contul pre-alocat pe care aţi încercat să îl creaţi deja există. Acest cont existent trebuie eliminat de către administratorul conectorului, înainte de a se adăuga unul nou.</item>
+        <item>Contul pre-alocat există deja</item>
+        <item>Nu aveţi drepturi de acces suficiente pentru a efectua această operaţie.</item>
+        <item>Acces refuzat</item>
+        <item>Abonamentul a expirat. Contactaţi furnizorul pentru a vă reînnoi abonamentul.</item>
+        <item>Conectarea nu a reuşit</item>
+        <item>Abonamentul dvs. nu permite adăugarea de conturi. Vizitaţi http://eu020.fra.samsungsocialhub.com pentru upgrade al abonamentului.</item>
+        <item>Conectarea nu a reuşit</item>
+        <item>Vizitaţi http://eu020.fra.samsungsocialhub.com pentru a vă abona la Social Hub.</item>
+        <item>Conectarea nu a reuşit</item>
+        <item>A survenit o problemă cu certificatul SSL pe acest site.</item>
+        <item>Problemă legată de certificat</item>
+        <item>URL-ul furnizat nu aparţine de un serviciu Outlook Web Access valid. Verificaţi URL-ul şi încercaţi din nou.</item>
+        <item>Adresă de serviciu nevalidă</item>
+        <item>Acest URL este preconfigurat. Reveniţi la lista de furnizori preconfiguraţi şi selectaţi-vă furnizorul din listă.</item>
+        <item>Acces refuzat</item>
+        <item>Contactul era offline când s-a încercat trimiterea unui mesaj</item>
+        <item>Contact offline</item>
+        <item>Contactul a fost blocat când s-a încercat trimiterea unui mesaj</item>
+        <item>Contact blocat</item>
+        <item>Dimensiunea fişierului din transferul fişierului nu a corespuns cu valoarea specificată</item>
+        <item>Nepotrivire la dimensiunea fişierului</item>
+        <item>S-a depăşit sesiunea p2p maximă</item>
+        <item>S-a depăşit sesiunea p2p maximă</item>
+        <item>Lipseşte data naşterii</item>
+        <item>Lipseşte data naşterii</item>
+        <item>Destinatarul nu acceptă transferul de fişiere</item>
+        <item>Sesiunea p2p nu este acceptată</item>
+        <item>Utilizatorul trebuie să se înregistreze la serviciul de mesagerie</item>
+        <item>Înregistrare expirată</item>
+        <item>Solicitarea nu se poate finaliza deoarece serverul este prea ocupat. Reîncercaţi mai târziu</item>
+        <item>Server ocupat</item>
+        <item>VoiceClip nu se acceptă pentru această conversaţie</item>
+        <item>Clip de voce neacceptat</item>
+        <item>Numai doi participanţi sunt admişi într-o conversaţie pentru o operaţie de transfer de fişier</item>
+        <item>Prea mulţi participanţi</item>
+        <item>Nu există niciun participant la conversaţia specificată</item>
+        <item>Nu este prezent niciun participant</item>
+        <item>Conectarea la mesagerie nu este permisă de către părintele utilizatorului</item>
+        <item>Este necesară permisiunea unui părinte</item>
+        <item>Identificatorul de conversaţie este nevalid. Aplicaţia client trebuie să abandoneze această conversaţie</item>
+        <item>ID apelare nevalid</item>
+        <item>S-a încercat o solicitare tip Invitaţie, iar starea de prezenţă a utilizatorului (de pe dispozitivul client) este setată pe Offline</item>
+        <item>Utilizator offline</item>
+        <item>O solicitare tip Invitaţie a încercat să adauge un utilizator nevalid</item>
+        <item>Utilizator necunoscut</item>
+        <item>Nu s-a găsit nicio configuraţie pentru domeniul de e-mail specificat</item>
+        <item>ISP necunoscut</item>
+        <item>Autentificările nereuşite pe bază de token sunt tratate diferenţiat, conform acestei erori.</item>
+        <item>Autorizarea pe bază de token nu a reuşit</item>
+        <item>Pentru a utiliza acest serviciu este necesar un abonament.</item>
+        <item>Abonament obligatoriu</item>
+        <item>Nu există niciun serviciu Seven disponibil.</item>
+        <item>Niciun serviciu disponibil</item>
+        <item>Aţi fost deconectat deoarece v-aţi conectat de la un alt computer sau dispozitiv</item>
+        <item>Contul a fost deja preluat</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Creare de cont nereuşită la înregistrarea la Ping</item>
+        <item>Crearea contului nu a reuşit</item>
+        <item>Cheie de serviciu nevalidă la înregistrarea pe serverul gazdă</item>
+        <item>Cheie de serviciu nevalidă</item>
+        <item>Descriptor de serviciu nevalid la înregistrarea pe serverul gazdă</item>
+        <item>Descriptor de serviciu nevalid</item>
+        <item>Date personalizate nevalide la înregistrarea pe serverul gazdă</item>
+        <item>Date personalizate nevalide</item>
+        <item>Utilizatorul s-a înregistrat deja pe serverul gazdă</item>
+        <item>Utilizator deja înregistrat</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>A apărut o eroare la descoperirea serviciilor. Încercaţi din nou.</item>
+        <item>Solicitare nereuşită</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Afişează textul mesajelor cu font foarte mic</item>
+        <item>Afişează textul mesajelor cu font mic</item>
+        <item>Afişează textul mesajelor cu font normal</item>
+        <item>Afişează textul mesajelor cu font mare</item>
+        <item>Afişează textul mesajelor cu font foarte mare</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Afişare 0 linii în previzualizarea mesajului</item>
+        <item>Afişare o linie în previzualizare mesaj</item>
+        <item>Afişare 2 linii în previzualizarea mesajului</item>
+        <item>Afişare 3 linii în previzualizarea mesajului</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Traducere Google</item>
+        <item>Wikipedia</item>
+        <item>Dicţionar</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Partajare ca text</item>
+        <item>Partajare ca imagine</item>
+    </string-array>
+</resources>

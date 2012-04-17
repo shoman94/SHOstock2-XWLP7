@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/spinners_table" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <View android:layout_width="fill_parent" android:layout_height="10.0dip" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/account_check_frequency_label" android:text="@string/account_setup_options_mail_check_frequency_label" style="@style/accountSetupEditFieldTextStyle" />
+            <Spinner android:id="@id/account_check_frequency" style="@style/accountSetupEditFieldValueStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/account_sync_peak_schedule" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/account_sync_peak_schedule_text_view" android:text="@string/sync_schedule_peak_schedule" style="@style/accountSetupEditFieldTextStyle" />
+            <Spinner android:id="@id/account_sync_peak_schedule_spinner" style="@style/accountSetupEditFieldValueStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/account_sync_off_peak_schedule" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/account_sync_peak_off_schedule_text_view" android:text="@string/sync_schedule_off_peak_schedule" style="@style/accountSetupEditFieldTextStyle" />
+            <Spinner android:id="@id/account_sync_off_peak_schedule_spinner" style="@style/accountSetupEditFieldValueStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/account_sync_window_row" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:text="@string/account_setup_options_mail_window_label" style="@style/accountSetupEditFieldTextStyle" />
+            <Spinner android:id="@id/account_sync_window" style="@style/accountSetupEditFieldValueStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/account_sync_email_size" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/account_email_size_label" android:text="@string/account_setup_options_mail_email_size_label" style="@style/accountSetupEditFieldTextStyle" />
+            <Spinner android:id="@id/account_email_size" style="@style/accountSetupEditFieldValueStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/account_sync_period_calendar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/account_sync_period_calendar_text_view" android:text="@string/account_setup_options_calendar_window_label" style="@style/accountSetupEditFieldTextStyle" />
+            <Spinner android:id="@id/account_sync_period_calendar_spinner" style="@style/accountSetupEditFieldValueStyle" />
+        </LinearLayout>
+        <View android:id="@id/account_default_divider_upper" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:orientation="vertical" android:id="@id/account_default_table" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/account_default_string" android:text="@string/account_setup_options_default_label" style="@style/accountSetup2LineTextStyle" />
+                <CheckBox android:id="@id/account_default" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+            </LinearLayout>
+            <View android:id="@id/account_default_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/account_notify_table" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/account_notify_string" android:text="@string/account_setup_options_notify_label" style="@style/accountSetup2LineTextStyle" />
+                <CheckBox android:id="@id/account_notify" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+            </LinearLayout>
+            <View android:id="@id/account_notify_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/account_sync_email_table" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/account_sync_email_string" android:text="@string/account_settings_sync_email_enable" style="@style/accountSetup2LineTextStyle" />
+                <CheckBox android:id="@id/account_sync_email" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+            </LinearLayout>
+            <View android:id="@id/account_sync_email_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/account_sync_contacts_table" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/account_sync_contacts_string" android:text="@string/account_setup_options_sync_contacts_label" style="@style/accountSetup2LineTextStyle" />
+                <CheckBox android:id="@id/account_sync_contacts" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+            </LinearLayout>
+            <View android:id="@id/account_sync_contacts_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/account_sync_calendar_table" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/account_sync_calendar_string" android:text="@string/account_setup_options_sync_calendar_label" style="@style/accountSetup2LineTextStyle" />
+                <CheckBox android:id="@id/account_sync_calendar" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+            </LinearLayout>
+            <View android:id="@id/account_sync_calendar_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/account_sync_tasks_table" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/account_sync_tasks_string" android:text="@string/account_settings_sync_task_enable" style="@style/accountSetup2LineTextStyle" />
+                <CheckBox android:id="@id/account_sync_tasks" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+            </LinearLayout>
+            <View android:id="@id/account_sync_tasks_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/account_sync_sms_table" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/account_sync_sms_string" android:text="@string/account_setup_options_sync_sms_label" style="@style/accountSetup2LineTextStyle" />
+                <CheckBox android:id="@id/account_sync_sms" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+            </LinearLayout>
+            <View android:id="@id/account_sync_smsl_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/account_background_attachments_table" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/account_background_attachments_string" android:text="@string/account_setup_options_background_attachments_label" style="@style/accountSetup2LineTextStyle" />
+                <CheckBox android:id="@id/account_background_attachments" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+            </LinearLayout>
+            <View android:id="@id/account_background_attachments_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

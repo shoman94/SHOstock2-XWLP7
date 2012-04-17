@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/contact_filter_header_min_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TwMainListSearchHeaderTextAppearance" android:id="@id/totalContactsText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    <ProgressBar android:id="@id/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/totalContactsText" android:layout_centerVertical="true" style="?android:attr/progressBarStyleSmall" />
+</RelativeLayout>

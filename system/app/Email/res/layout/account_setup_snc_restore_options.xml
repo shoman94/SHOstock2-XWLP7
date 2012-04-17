@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/description" android:paddingLeft="@dimen/snc_setup_padding_left" android:paddingRight="@dimen/snc_setup_padding_right" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/accountSetupInfoText" android:textSize="20.0dip" android:id="@id/guide_username" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="@dimen/snc_setup_padding_top" android:layout_marginBottom="10.0dip" android:text="@string/snc_default_accounts_label" android:layout_alignParentTop="true" />
+    <View android:id="@id/seperator" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="2.0dip" android:layout_below="@id/guide_username" />
+    <ListView android:id="@android:id/list" android:fadingEdge="none" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="38.0dip" android:layout_marginRight="10.0dip" android:dividerHeight="1.0px" android:layout_below="@id/seperator" />
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <GridView android:id="@id/speed_dial" android:paddingLeft="66.66dip" android:paddingTop="24.0dip" android:paddingRight="66.66dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:listSelector="@android:color/transparent" android:scrollingCache="false" android:horizontalSpacing="20.0dip" android:verticalSpacing="5.3299866dip" android:stretchMode="none" android:columnWidth="120.0dip" android:numColumns="3" />
+    <include layout="@layout/speed_dial_floating" />
+</LinearLayout>

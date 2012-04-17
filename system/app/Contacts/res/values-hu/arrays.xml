@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Szervezet</item>
+        <item>Jegyzet</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Hívás</item>
+        <item>Üz. küldése</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Telefon</item>
+        <item>SIM</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Összes</item>
+        <item>Telefon</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Utónév Vezetéknév</item>
+        <item>Vezetéknév Utónév</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Hét</item>
+        <item>Ke</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+        <item>Vas</item>
+    </string-array>
+</resources>

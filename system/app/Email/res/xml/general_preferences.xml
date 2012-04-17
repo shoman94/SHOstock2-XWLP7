@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/general_preference" android:key="general_preference">
+        <ListPreference android:entries="@array/general_preference_auto_advance_entries" android:title="@string/general_preference_auto_advance_label" android:key="auto_advance" android:summary="@string/general_preference_auto_advance_summary" android:dialogTitle="@string/general_preference_auto_advance_dialog_title" android:entryValues="@array/general_preference_auto_advance_values" />
+        <ListPreference android:entries="@array/general_preference_preview_line_entries" android:title="@string/general_preference_preview_line_label" android:key="preview_line" android:dialogTitle="@string/general_preference_preview_line_label" android:entryValues="@array/general_preference_preview_line_values" />
+        <ListPreference android:entries="@array/account_settings_top_line_info_entries" android:title="@string/account_settings_top_line_mode_label" android:key="top_line_info_mode" android:summary="@string/account_settings_top_line_mode_summary" android:defaultValue="0" android:dialogTitle="@string/account_settings_top_line_mode_label" android:entryValues="@array/account_settings_top_line_info_values" />
+        <CheckBoxPreference android:title="@string/account_settings_confirm_deletions_label" android:key="delete_email_confirm" android:defaultValue="false" />
+        <CheckBoxPreference android:title="@string/account_settings_general_split_mode_label" android:key="split_mode" android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

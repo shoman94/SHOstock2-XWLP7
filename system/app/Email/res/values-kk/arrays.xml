@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Әрекет сәтті орындалды.</item>
+        <item>Қате жоқ.</item>
+        <item>Пайдаланушының {0}-ге тең шегі асырылды</item>
+        <item>Пайдаланушының шегі асырылды</item>
+        <item>Пайдаланушының көшірмесі: {0}</item>
+        <item>Пайдаланушының көшірмесі</item>
+        <item>Құрылғының көшірмесі: {0}</item>
+        <item>Құрылғының көшірмесі</item>
+        <item>Пайдаланушы табылмады: {0}</item>
+        <item>Пайдаланушы табылмады.</item>
+        <item>Жарамсыз күн пішімі: {0}. {1} күтілген.</item>
+        <item>Жарамсыз күн пішімі</item>
+        <item>Жарамсыз күн пішімі: {0}. {1} күтілген</item>
+        <item>Жарамсыз күн пішімі</item>
+        <item>Міндетті параметр жетіспей тұр: {0}</item>
+        <item>Міндетті параметр жетіспей тұр</item>
+        <item>Қате пайда болды. Әрекетті қайталаңыз.</item>
+        <item>Ішкі қате.</item>
+        <item>Берілген басталу нөмірі ({0}) пайдаланушы қатынаса алатын делдалдардың ешқайсысында табылмады.</item>
+        <item>Таңба табылмады</item>
+        <item>Мерзім өту күні белгіленбеген</item>
+        <item>Мерзім өту күні белгіленбеген</item>
+        <item>Қатынасуға рұқсат берілмеді</item>
+        <item>Қатынасуға рұқсат берілмеді</item>
+        <item>Мына үшін API қатынасуы қосылмаған: {0}</item>
+        <item>API қатынасуы қосылмаған</item>
+        <item>Қате пайда болды. Әрекетті қайталаңыз.</item>
+        <item>Жаман сұраныс қатесі</item>
+        <item>Ішкі қате: {0}</item>
+        <item>Ішкі қате</item>
+        <item>Берілген мәліметтерге ие болған жазылым қолданыста бар</item>
+        <item>Жазылымдың көшірмесі</item>
+        <item>Бірнеше сәйкес келетін жазылымдар табылды</item>
+        <item>Бірнеше сәйкес келетін жазылымдар табылды</item>
+        <item>Сеансты бастау әрекеті барысында қате пайда болды. Әрекетті қайталаңыз.</item>
+        <item>Қосылым қатесі</item>
+        <item>{0} сұрауы табылмады.</item>
+        <item>Сұрау табылмады</item>
+        <item>Тиянақсыз параметрлер: {0} және {1}</item>
+        <item>Тиянақсыз параметрлер</item>
+        <item>Жарамсыз msisdn пішімі: {0}</item>
+        <item>Жарамсыз msisdn пішімі</item>
+        <item>Жарамсыз өнім параметрі: {0}</item>
+        <item>Жарамсыз өнім параметрі</item>
+        <item>Қосқышты табу мүмкін болмады. Енгізілген қосқыш ұқсатқышын растаңыз.</item>
+        <item>Қосқыш табылмады</item>
+        <item>Жазылым табылмады</item>
+        <item>Жазылым табылмады</item>
+        <item>Деректерді жіберу барысында қате орын алды. Әрекетті қайталаңыз.</item>
+        <item>Деректер қатесі</item>
+        <item>AOM тұғырына репликалау шақыру сәтсіз аяқталды</item>
+        <item>AOM тұғырына репликалау шақыру сәтсіз аяқталды</item>
+        <item>Әрекетті аяқтау үшін көп уақыт кетті және күту уақыты бітті. Әрекетті қайталаңыз.</item>
+        <item>Үзіліс</item>
+        <item>Электрондық пошта жазбасымен байланысу мүмкін емес. Байланыс автоматты түрде қалпына келуі керек. Егер ақау қайталап шыға берсе, желі параметрлерін тексеріңіз немесе қызмет провайдеріне хабарласыңыз.</item>
+        <item>Байланыс ақауы</item>
+        <item>Желі уақытша жоқ немесе телефон ұшу режимінде. Байланыс желі болған кезде автоматты түрде қалпына келеді.</item>
+        <item>Байланыс сәтсіз аяқталды</item>
+        <item>Қазіргі уақытта сервер бос емес. Әрекетті қайталаңыз.</item>
+        <item>Сервер бос емес</item>
+        <item>Жалпы IPC сұрауы жасалмады</item>
+        <item>IPC сұрауы жасалмады</item>
+        <item>Мына үшін түпнұсқалық растамасы сәтсіз аяқталды: {0}</item>
+        <item>Түпнұсқалық растамасы сәтсіз аяқталды</item>
+        <item>Жарамды лицензияны алу үшін қызмет жеткізушісімен хабарласыңыз.</item>
+        <item>Лицензия қабылданбады</item>
+        <item>SMS мазмұнында тұтынғыш нөмірі табылмады</item>
+        <item>SMS мазмұнында тұтынғыш нөмірі табылмады</item>
+        <item>({0}) тұтынғыш нөміріне ие болған тұтынғыш табылмады</item>
+        <item>Белгіленген тұтынғыш нөміріне ие болған тұтынғыш табылмады.</item>
+        <item>Берілген MSISDN ақпараты жарамсыз немесе жетіспей тұр: {0}</item>
+        <item>MSISDN ақпараты берілмеген немесе жарамсыз.</item>
+        <item>Жарамсыз MSISDN пішімі: {0}. Сандық мән күтілген.</item>
+        <item>Жарамсыз MSISDN пішімі</item>
+        <item>Жарамсыз тұтынғыш нөмірі пішімі: {0}. Сандық мән күтілген.</item>
+        <item>Жарамсыз тұтынғыш нөмірі пішімі</item>
+        <item>Растау сұрауынан толтырылатын тақырып табылмады</item>
+        <item>Толтырылатын тақырып расталмады</item>
+        <item>MSISDN {0} жүйеде бұрыннан бар.</item>
+        <item>MSISDN бұрыннан бар</item>
+        <item>MSISDN {0} жүйеде жоқ.</item>
+        <item>MSISDN жоқ</item>
+        <item>Бұны [қосқышты] қайта орнату үшін уақытша кілтсөзді енгізіңіз.</item>
+        <item>Кілтсөз талап етіледі</item>
+        <item>Сіз таңдаған нөмір қолданыста бар. Басқа нөмір таңдаңыз.</item>
+        <item>Бұл нөмір қолданыста бар</item>
+        <item>Берілген уақытша құпиясөз дұрыс емес.</item>
+        <item>Қосылым қатесі</item>
+        <item>Қосқыш ажыратылды.</item>
+        <item>Қосқыш ажыратылды</item>
+        <item>Қызмет қосылмаған</item>
+        <item>Z7_ERR_SERVICE_NOT_ENABLED</item>
+        <item>Өнім шығарылымы қайта беру серверіне орнатылған шығарылымға сәйкес келмейді</item>
+        <item>Өнім шығарылымы сәйкессіздігі</item>
+        <item>Белгісіз қате себебінен транзакция сәтсіз аяқталды: {0}</item>
+        <item>Белгісіз қате себебінен транзакция сәтсіз аяқталды</item>
+        <item>Мына үшін түпнұсқалық растамасы сәтсіз аяқталды: {0}</item>
+        <item>Түпнұсқалық растамасы сәтсіз аяқталды</item>
+        <item>Мынаға қатынасу үшін рұқсат берілмеді: {0}</item>
+        <item>Қатынасу үшін рұқсат берілмеді</item>
+        <item>Пайдаланушы тіркелгісі {0} бұғатталған</item>
+        <item>Тіркелгі бұғатталған</item>
+        <item>Транзакциялар тобыңың кейбір бөлігі сәтсіз аяқталды.</item>
+        <item>Транзакциялар тобыңың бір бөлігі сәтсіз аяқталды</item>
+        <item>Тізім шақыруы {0} жазба қайтарды, шектеу {1} тең.</item>
+        <item>Қайтарылған тізім мөлшерге қойылған шектен тыс</item>
+        <item>Топ шақыруы {0} транзакция сұрады, шектеу {1} тең.</item>
+        <item>Транзакциялар тобы туралы сұраныс мөлшерге қойылған шектен тыс</item>
+        <item>Жасалған API шақыруында жетіспейтін параметр бар: {0}</item>
+        <item>API шақыруында параметр жетіспейді.</item>
+        <item>{0} параметрі осы API шақыруы үшін жарамсыз еді.</item>
+        <item>API шақыруында жарамсыз параметр бар еді.</item>
+        <item>Осы сұранысты өңдеу барысында дерекқор қатесі орын алды: {0}</item>
+        <item>API шақыруы дерекқор қатесін шығарды.</item>
+        <item>Қойылмалы таңбаларды осы қатынасу мәліметтерімен пайдалануға болмайды.</item>
+        <item>Қойылмалы таңбалар заңсыз қолданылды</item>
+        <item>Сұрау параметрінде жарамсыз қойылмалы таңба бар. {0}</item>
+        <item>Сұрауда жарамсыз қойылмалы таңбалар бар.</item>
+        <item>Алынған SOAP сұранысында тақырып жетіспейді немесе ол жарамсыз.</item>
+        <item>Алынған SOAP сұранысында тақырып жетіспейді немесе ол жарамсыз.</item>
+        <item>Алынған SOAP сұранысында міндетті тақырып параметрі жоқ: {0}</item>
+        <item>Алынған SOAP сұранысында тақырып параметрі жетіспейді.</item>
+        <item>SOAP сұранысы мына IP мекенжайынан алынды: {0}. Бұл мекенжайға API жүйесін пайдалануға рұқсат берілмеген.</item>
+        <item>SOAP сұранысы бұғатталған IP мекенжайынан алынды.</item>
+        <item>Мына үшін API қатынасуы қосылмаған: {0}</item>
+        <item>API қатынасуы қосылмаған</item>
+        <item>SOAP сұранысы белгісіз себептен сәтсіз аяқталды: {0}</item>
+        <item>SOAP сұранысы белгісіз себептен сәтсіз аяқталды</item>
+        <item>createAccountSubscription API шақыруы үшін AccountID немесе MSISDN параметрі талап етіледі.</item>
+        <item>createAccountSubscription шақыруы AccountID немесе MSISDN параметрісіз жіберілді.</item>
+        <item>listAccountSubscription API шақыруында Product параметрін пайдалану үшін кемінде бір MSISDN, AccountID, және GroupID параметрін беру қажет.</item>
+        <item>listAccountSubscriptions шақыруы Product параметрімен, бірақ ID параметрісіз жіберілді.</item>
+        <item>Берілген жазылым идентификациялау шарттары бірнеше жазбаларға сәйкес келеді. Жаңарту өңделмеді.</item>
+        <item>Жазылым идентификациялау шарттары бірнеше жазбаларға сәйкес келеді.</item>
+        <item>Идентификациялау параметрлерінің жарамсыз жиынтығы берілді.</item>
+        <item>ID параметрлерінің жарамсыз жиынтығы берілді.</item>
+        <item>Жаңартылатын өрістері жоқ болған updateAccountSubscription API шақыруы жасалды.</item>
+        <item>Жаңарту үшін ешқандай өрістер берілмеген.</item>
+        <item>Берілген жазылым идентификациялау шарттары ешқандай жазбаларға сәйкес келмейді. Ешқандай жаңарту өңделмеді.</item>
+        <item>Жазылым идентификациялау шарттары ешқандай жазбаларға сәйкес келмейді.</item>
+        <item>deleteAccountSubscription API шақыруында Product параметрін пайдалану үшін кемінде бір MSISDN, AccountID және GroupID параметрін беру қажет.</item>
+        <item>deleteAccountSubscriptions шақыруы Product параметрімен, бірақ ID параметрісіз жасалды.</item>
+        <item>Берілген жазылым идентификациялау шарттары бірнеше жазбаларға сәйкес келеді. Жаңарту өңделмеді.</item>
+        <item>Жазылым идентификациялау шарттары бірнеше жазбаларға сәйкес келеді.</item>
+        <item>updateConnectorSubscription API шақыруы үшін SubscriptionId немесе ConnectorId параметрі талап етіледі.</item>
+        <item>ID параметрлерінің жарамсыз жиынтығы берілді.</item>
+        <item>Жаңартылатын өрістері жоқ болған updateConnectorSubscription API шақыруы жасалды.</item>
+        <item>Жаңарту үшін ешқандай өрістер берілмеген.</item>
+        <item>Берілген жазылым идентификациялау шарттары ешқандай жазбаларға сәйкес келмейді. Ешқандай жаңарту өңделмеді.</item>
+        <item>Жазылым идентификациялау шарттары ешқандай жазбаларға сәйкес келмейді.</item>
+        <item>Егер жасалған createPreProvisionedAccount API шақыруында CE өнім ретінде пайдаланылса, басталу нөмірі мен Интернет жеткізуші серверінің таңба нөмірін беру керек. Егер өнім басқа зат болса, қосқыш нөмірін беру қажет.</item>
+        <item>createPreProvisionedAccount шақыруы жарамсыз параметрлермен жасалды.</item>
+        <item>Енгізілген компания атауы дерекқорда табылмады, немесе енгізілген басталу нөмірі Интернет жеткізуші компанияға сәйкес келмеді.</item>
+        <item>Осы параметрлерді қолданатын компания табылмады.</item>
+        <item>Интернет жеткізуші серверінің таңба нөмірі дерекқорда табылмады.</item>
+        <item>Интернет жеткізуші серверінің таңба нөмірі дерекқорда табылмады.</item>
+        <item>Енгізу таңба нөмірі үшін табылған Интернет жеткізуші сервері берілген өнім түріне қолдау көрсетпейді</item>
+        <item>Енгізу таңба нөмірі үшін табылған Интернет жеткізуші сервері берілген өнім түріне қолдау көрсетпейді</item>
+        <item>Жаңарту үшін бірнеше тіркелгі сәйкес келеді. Кілтсөзді жаңарту мүмкін емес.</item>
+        <item>changeAccountPassword шақыруы бірнеше тіркелгіге сәйкес келді.</item>
+        <item>Жаңарту үшін сәйкес келетін тіркелгілер табылмады. Ешқандай кілтсөз жаңартылмайды.</item>
+        <item>changeAccountPassword шақыруы ешқандай тіркелгіге сәйкес келмеді.</item>
+        <item>Кілтсөзді жаңартуға әрекет жасалғанда қате пайда болды, оның себебі жарамсыз кілтсөз болуы ықтимал.</item>
+        <item>changeAccountPassword шақыруы кілтсөзді жаңарта алмады.</item>
+        <item>A request made for listing user information but given parameters do not match any existing user</item>
+        <item>getUserInformation cannot find user with given parameters</item>
+        <item>isValidConnectorId шақыруы қолданыста бар болған нөмірмен жасалды.</item>
+        <item>Қосқыш нөмірі қолданыста бар.</item>
+        <item>runScript шақыруы белгіленген SQL сценарийіне арналған жарамсыз параметрлермен жасалды.</item>
+        <item>SQL сценарийі үшін жарамсыз параметрлер берілген</item>
+        <item>runScript белгісіз SQL сценарийі үшін шақырылды.</item>
+        <item>SQL сценарийі табылмады.</item>
+        <item>Қотару сілтемесін жіберу мүмкіндігі API жүйесінде қосылмаған.</item>
+        <item>sendDownloadLink шақыруы мүмкіндік қосылмаған жағдайда жасалды.</item>
+        <item>SMS шлюзына хабар сұранысын жіберу сәтсіз аяқталды.</item>
+        <item>SMS шлюзына хабар сұранысын жіберу сәтсіз аяқталды.</item>
+        <item>Берілген параметрлер үшін тұтынғыш табылмады.</item>
+        <item>Берілген параметрлер үшін тұтынғыш табылмады.</item>
+        <item>Белгіленген пошта жеткізушісі табылмағандықтан пошта сынауы сәтсіз аяқталды. Жеткізуші ретінде POP3, IMAP, POP3S, IMAPS, SMTP немесе SMTPS серверін пайдалануыңыз қажет.</item>
+        <item>Пошта жеткізушісі табылмады.</item>
+        <item>Белгіленген пошта серверімен байланыс сәтсіз аяқталғандықтан, пошта сынауы сәтсіз аяқталды. Пошта жәшігінің параметрлерін тексеріңіз</item>
+        <item>Байланыс сәтсіз аяқталды</item>
+        <item>Белгіленген пошта серверімен байланыс сәтсіз аяқталғандықтан, пошта сынауы сәтсіз аяқталды. Пошта жәшігінің параметрлерін тексеріңіз</item>
+        <item>Кіріс қалтасы табылмады</item>
+        <item>Кіріс қалтасында хабар іздеу сәтсіз аяқталғандықтан, пошта сынауы сәтсіз аяқталды. Пошта жәшігінің параметрлерін тексеріңіз</item>
+        <item>Кіріс қалтасын іздеу сәтсіз аяқталды.</item>
+        <item>Электрондық пошта мекенжайы жарамсыз болғандықтан, пошта сынауы сәтсіз аяқталды. Берілген электрондық пошта мекенжайын тексеріңіз</item>
+        <item>Дұрыс емес электрондық пошта мекенжайы</item>
+        <item>Тіркеме мөлшері ең үлкен мөлшерден көп.</item>
+        <item>Тіркеме мөлшері аса үлкен.</item>
+        <item>Хабардың көлемі тым үлкен.</item>
+        <item>Хабардың көлемі тым үлкен.</item>
+        <item>{0}ның немесе құпиясөздің жарамсыз болуына байланысты кіру мүмкін емес. {0} мен кілтсөзді тексеріп, әрекетті қайталаңыз.</item>
+        <item>Кіру мәліметтері дұрыс емес</item>
+        <item>Кіру дұрыс емес {0}, құпия сөзге немесе қате параметрлерге байланысты орындалмады. {0}, құпия сөзі мен интернеттегі параметрлерді тексеріп, әрекетті қайталаңыз.</item>
+        <item>Кіру мәліметтері дұрыс емес</item>
+        <item>Жарамсыз {0} себебінен кіру әрекеті сәтсіз аяқталды. {0}-іңізді тексеріңіз де, қайталаңыз.</item>
+        <item>Пайдаланушы табылмады.</item>
+        <item>Сіз берген пайдаланушы аты бірнеше рет тіркелген. {0} мен кілтсөзді тексеріңіз де, қайталаңыз.</item>
+        <item>Пайдаланушы табылмады.</item>
+        <item>Пошта серверінің параметрлері табылмады. Тіркелгіңіздің мәліметтерін келесі бейнебетте белгілеңіз.</item>
+        <item>Сервер табылмады.</item>
+        <item>Кіру сәтсіз аяқталды. Егер электрондық пошта тіркелгіңіз үшін қолданатын пайдаланушы атыңыз электрондық пошта мекенжайынмен бірдей болмаса, осы пайдаланушы атын беріңіз.</item>
+        <item>Кіру сәтсіз аяқталды</item>
+        <item>Осы тіркелгімен растау әрекеті аса көп жасалып, сәтсіз аяқталды. Құлып шешілгенге дейін күтіңіз немесе әкімшімен хабарласыңыз.</item>
+        <item>Тіркелгі құлыпталған</item>
+        <item>Бұл телефон нөмірі әлдеқашан тіркелген. Дұрыс телефон нөмірін енгізгеніңізге көз жеткізіңіз немесе қызмет жеткізушіңізбен хабарласып, жәрдем сұраңыз.</item>
+        <item>Алдын ала басталған тіркелгі қолданыста бар</item>
+        <item>Жақсырақ қызмет қамтамасыз ету үшін қосылым басқа серверге бағытталды. Соңғы әрекетті қайталаңыз.</item>
+        <item>Бағыты өзгертілген</item>
+        <item>Қазіргі уақытта электрондық пошта сервері қатынаулы емес. Әрекетті кейінірек қайталаңыз.</item>
+        <item>Кіру сәтсіз аяқталды</item>
+        <item>Пошта сынауы белгісіз қате себебінен сәтсіз аяқталды. Пошта жәшігінің параметрлерін тексеріңіз</item>
+        <item>Белгісіз қате</item>
+        <item>Осы тіркелгімен растау әрекеті аса көп жасалып, сәтсіз аяқталды. Осы қосқыштан кіруге тыйым салынды. Құлып шешілгенге дейін күтіңіз немесе қосқыш әкімшісімен хабарласып, жаңа кіру әрекеттерін жасау үшін рұқсат алыңыз.</item>
+        <item>Кіру мүмкіндігі өшірілген</item>
+        <item>Қайталаудан бұрын ОК түймешігін басып, {0} мен кілтсөзді тексеріңіз немесе RSA таңбалауышыңызды тексеріңіз.</item>
+        <item>RSA кіру мәліметтері дұрыс емес</item>
+        <item>Сіз пайдаланып отырған тұтынғыш нұсқасы осы пошта жеткізушісі тарапынан куәландырылмаған. Жеткізушіңізбен хабарласып, куәландырылған тұтынғыш нұсқасын алыңыз.</item>
+        <item>Тұтынғыш осы Интернет жеткізушісі үшін куәландырылмаған.</item>
+        <item>Microsoft Exchange серверінің мекенжайы жарамды веб-мекенжайы емес. Мекенжайды тексеріп, қайта көріңіз.</item>
+        <item>Microsoft Exchange серверінің мекенжайы - жарамсыз</item>
+        <item>Жеткізушіңіз қосымша төлемақы үшін берілетін қызмет ретінде қатынаулы. Жеткізушілер тізіміне қайтыңыз да, жаңадан таңдаңыз.</item>
+        <item>Берілген URL мекенжайына рұқсат берілмеген.</item>
+        <item>Қашықтағы соңғы құрылғының ашық кілті өзгерген. Бұл заңсыз кіру әрекетін білдіруі мүмкін. Қашықтағы соңғы құрылғының деректері жойылып тасталды.</item>
+        <item>Ашық кілт сәйкес емес.</item>
+        <item>Қайту кіру мүмкін емес. Бұл пайдаланушы жаңа кіру мәліметтерін енгізіп, қызметке қайта кіре алмайды, бірақ пайдаланушы тарапынан басқа әрекет жасалу керек деген мағынаны білдіреді.</item>
+        <item>Қайту кіру мүмкін емес.</item>
+        <item>Берілген мекенжайдағы сервер жауап бермейді. VPN/SSL порталы қолданылғанда жұмыстағы электрондық пошта хабарларын алу үшін Microsoft Exchange бағдарламасын қолдануға болмайды. Жұмыстағы электрондық поштаға келесі байланыс опциясы көмегімен қол жеткізу үшін OK параметрін таңдаңыз.</item>
+        <item>OWA мекенжайы жауап бермей жатыр</item>
+        <item>Қамтамасыз етілген мекенжайдағы сервер Microsoft Exchange сервері емес. Microsoft Exchange сервер мекенжайын тексеріп, қайта көріңіз.</item>
+        <item>Microsoft Exchange мекенжайы - қате түрі</item>
+        <item>Құпиясөздің мерзімі аяқталған. Компьютерді пайдаланып құпиясөзді өзгертіңіз және жаңа құпиясөзді пайдаланып әрекетті қайталаңыз.</item>
+        <item>Құпиясөздің мерзімі аяқталған</item>
+        <item>Дайындалатын телефонның шегіне жеттіңіз. Әкімшіге хабарласыңыз.</item>
+        <item>Өте көп телефон</item>
+        <item>Notes ID файлы қолжетімсіз, кіру мүмкін емес. Әкімшіңізге хабарласыңыз.</item>
+        <item>ID файлы жоқ</item>
+        <item>Сұралған қызметті пайдалану уақытша мүмкін емес. Кейін қайта көріңіз. Егер мәселе жойылмаса, тіркелгіге веб-браузер арқылы кіріңіз.</item>
+        <item>ISP қызметін пайдалану уақытша мүмкін емес</item>
+        <item>Талап етілген веб-кіруі провайдерден қайтарылды. Тіркелгіге веб-браузер арқылы кіріңіз.</item>
+        <item>Веб-кіруі қажет</item>
+        <item>Провайдер қызметінде қате орын алды. Кейін қайта көріңіз. Егер мәселе жойылмаса, тіркелгіге веб-браузер арқылы кіріңіз.</item>
+        <item>Провайдерден қате қайтарылды.</item>
+        <item>Mailbox is currently in use. Please try again later.</item>
+        <item>Mailbox is currently in use.</item>
+        <item>No answer for this feed url. Please correct the url or try again later.</item>
+        <item>No answer for this feed url.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>{0} электрондық поштасымен байланысу мүмкін емес. Байланыс автоматты түрде қалпына келуі керек. Егер ақау қайталап шыға берсе, әкімшіге хабарласыңыз.</item>
+        <item>Байланыс ақауы</item>
+        <item>{0} электрондық поштасына байланысу мүмкін емес. Байланыс автоматты түрде қалпына келуі керек. Егер ақау қайталап шыға берсе, {0} хабарласыңыз.</item>
+        <item>Байланыс ақауы</item>
+        <item>Тіркелгіні жаңарту әрекетіңіз сәтсіз аяқталды. Әрекетті қайталаңыз.</item>
+        <item>Жаңарту сәтсіз аяқталды.</item>
+        <item>XML RPC сұрауында жарамсыз болды.</item>
+        <item>RPC ішіндегі пішінсіз XML</item>
+        <item>XML RPC API ішіндегі ішкі қателер болды. Әрекетті қайталаңыз.</item>
+        <item>XML RPC API ішіндегі ішкі қателер</item>
+        <item>XML RPC сұрауында параметр жарамсыз немесе жоқ. Параметрлерді және олардың мәнін тексеріңіз.</item>
+        <item>Жарамсыз немесе жоқ параметр.</item>
+        <item>Қызмет деректерді сақтай алмады. Әрекетті қайталаңыз.</item>
+        <item>Дерекқор қатесі</item>
+        <item>Осы атауға ие болған ұйым әлдеқашан бар. Басқа атау таңдаңыз.</item>
+        <item>Бұл ұйым әлдеқашан бар.</item>
+        <item>Сіз белгілеген қосқыш нөмірі қолданыста бар. Басқа нөмір таңдаңыз.</item>
+        <item>Атау қолданыста бар</item>
+        <item>Сіз белгілеген пайдаланушы аты қолданыста бар. Басқа пайдаланушы атын таңдаңыз.</item>
+        <item>Бұл пайдаланушы аты қолданыста бар</item>
+        <item>Бұл пайдаланушы әлдеқашан бар</item>
+        <item>Пайдаланушы әлдеқашан бар</item>
+        <item>Сіз жасап алуға тырысқан алдын ала басталған тіркелгі әлдеқашан бар. Жаңа тіркелгі қосудан бұрын осы бар тіркелгі қосқыш әкімшісі тарапынан жойылу керек.</item>
+        <item>Алдын ала басталған тіркелгі қолданыста бар</item>
+        <item>Осы амалды орындау үшін Сізде жеткілікті қатынасу құқықтары жоқ.</item>
+        <item>Қатынасуға рұқсат берілмеді</item>
+        <item>Жазылымыңыздың мерзімі бітті. Жазылымыңызды жаңалау үшін жеткізушіңізбен хабарласыңыз.</item>
+        <item>Кіру мүмкін емес</item>
+        <item>Жазылымыңыз жаңа тіркелгілерді қосуға рұқсат бермейді. Жазылымыңызды жаңарту үшін http://eu020.fra.samsungsocialhub.com торабына қараңыз.</item>
+        <item>Кіру мүмкін емес</item>
+        <item>Social Hub өніміне жазылу үшін http://eu020.fra.samsungsocialhub.com торабына қараңыз.</item>
+        <item>Кіру мүмкін емес</item>
+        <item>Бұл торапта SSL сертификатына байланысты қате кездестірдік.</item>
+        <item>Сертификат шығарылымы</item>
+        <item>Берілген URL мекенжайы жарамды Outlook Web Access қызметіне қарасты емес. URL мекенжайын тексеріңіз де, қайталаңыз.</item>
+        <item>Жарамсыз қызмет мекенжайы</item>
+        <item>Осы URL мекенжайы алдын ала теңшелген. Алдын ала теңшелген жеткізушілер тізіміне қайтыңыз да, осы тізімден жеткізушіңізді таңдаңыз.</item>
+        <item>Қатынасуға рұқсат берілмеді</item>
+        <item>Хабар жіберілгенде контакт желіден тыс болды</item>
+        <item>Контакт желіден тыс</item>
+        <item>Хабар жіберілгенде контакт құлыптанған болды</item>
+        <item>Контакт құлыптанды</item>
+        <item>Файл тасымалындағы файл көлемі белгіленген мәнге сәйкес келмеді</item>
+        <item>Файл көлемінің сәйкессіздігі</item>
+        <item>Ең жоғары p2p сеансынан асты</item>
+        <item>Ең жоғары p2p сеансынан асты</item>
+        <item>Туған күні жоқ</item>
+        <item>Туған күні жоқ</item>
+        <item>Алушы файл тасымалдау мүмкіндігіне қолдау көрсетпейді</item>
+        <item>p2p сеансына қолдау көрсетілмейді</item>
+        <item>Пайдаланушы Messaging қызметінде тіркелуі тиіс</item>
+        <item>Тіркелудің уақыты бітті</item>
+        <item>Сервер бос болмағандықтан сұрау өңделмейді. Кейін қайта көріңіз</item>
+        <item>Сервер бос емес</item>
+        <item>Бұл сөйлесу үшін VoiceClip мүмкіндігі қолданбайды</item>
+        <item>Дауыс клипіне қолдау көрсетілмейді</item>
+        <item>Файл тасымалдау әрекетінің сөйлесуінде тек екі қатысушыға рұқсат бар</item>
+        <item>Қатысушылар тым көп</item>
+        <item>Белгіленген сөйлесуде қатысушы жоқ</item>
+        <item>Қатысушылар жоқ</item>
+        <item>Messenger бағдарламасына кіру пайдаланушының әке-шешесімен рұқсат етілмеген</item>
+        <item>Әке-шеше рұқсаты керек</item>
+        <item>Сөйлесу The conversation куәландырғышы жарамсыз. Пайдаланушы бағдарламасы бұл сөйлесуден шығуы керек</item>
+        <item>Шақыру ұқсатқышы жарамсыз</item>
+        <item>Шақыру сұрауы жасалды және пайдаланушының (пайдаланушы құрылғысындағы) желідегі күйі Желіден тыс күйіне орнатылған</item>
+        <item>Пайдаланушы желіден тыс</item>
+        <item>Жарамсыз пайдаланушыны қосу туралы ұсыныс әрекеті жасалды</item>
+        <item>Белгісіз пайдаланушы</item>
+        <item>Белгіленген пошта домені үшін ешбір конфигурация табылмады</item>
+        <item>Белгісіз провайдер</item>
+        <item>Белгі негізіндегі орындалмаған куәландырулар басқаша өңделеді, мына қате сияқты.</item>
+        <item>Белгі негізіндегі куәландыру жасалмады</item>
+        <item>Бұл қызметті пайдалану үшін жазылу керек.</item>
+        <item>Жазылу керек</item>
+        <item>Пайдаланылатын Seven қызметы жоқ.</item>
+        <item>Пайдаланылатын қызмет жоқ</item>
+        <item>Басқа компьютерден немесе құрылғыдан кіргендіктен жүйеден шығарылдыңыз</item>
+        <item>Тіркелгі ұрланды</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Ping қызметіне тіркелгенде тіркелгі жасалмады</item>
+        <item>Тіркелгінің жасалмауы</item>
+        <item>Хост-серверге тіркелу барысында жарамсыз қызмет кілті енгізілді</item>
+        <item>Қызмет кілті жарамсыз</item>
+        <item>Хост-серверге тіркелу барысында жарамсыз қызмет дескрипторы енгізілді</item>
+        <item>Қызмет дескрипторы жарамсыз</item>
+        <item>Хост-серверге тіркелу барысында реттелген жарамсыз деректер енгізілді</item>
+        <item>Реттелген жарамсыз деректер</item>
+        <item>Пайдаланушы хост-серверге бұрыннан тіркелген</item>
+        <item>Бұрыннан тіркелген пайдаланушы</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Қызметтерді анықтау барысында қате орын алды. Әрекетті қайталаңыз.</item>
+        <item>Сұрау жасалмады</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Хабар мәтінін кішкентай қаріппен көрсету</item>
+        <item>Хабар мәтінін кіші қаріппен көрсету</item>
+        <item>Хабар мәтінін қалыпты қаріппен көрсету</item>
+        <item>Хабар мәтінін үлкен қаріппен көрсету</item>
+        <item>Хабар мәтінін ірі қаріппен көрсету</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Display 0 line in message preview</item>
+        <item>Хабар көру режимінде 1 жол көрсету</item>
+        <item>Display 2 line in message preview</item>
+        <item>Display 3 line in message preview</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Google аудару</item>
+        <item>Wikipedia</item>
+        <item>Сөздік</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Мәтін ретінде бөлісу</item>
+        <item>Сурет ретінде бөлісу</item>
+    </string-array>
+</resources>

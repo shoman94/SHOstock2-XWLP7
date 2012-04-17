@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <FrameLayout android:id="@id/common" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+            <include layout="@layout/account_setup_basics_common" />
+        </FrameLayout>
+        <View android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <LinearLayout android:gravity="bottom" android:layout_gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/email_softkeyview_bg" android:layout_width="fill_parent" android:layout_height="56.0dip">
+            <Button android:layout_gravity="center_vertical" android:id="@id/manual_setup" android:layout_width="fill_parent" android:layout_height="54.0dip" android:layout_marginTop="2.0dip" android:text="@string/account_setup_basics_manual_setup_action" android:layout_weight="1.0" android:layout_alignParentLeft="true" />
+            <View android:layout_width="4.0dip" android:layout_height="54.0dip" android:layout_weight="0.0" />
+            <Button android:layout_gravity="center_vertical" android:id="@id/next" android:layout_width="fill_parent" android:layout_height="54.0dip" android:layout_marginTop="2.0dip" android:text="@string/next_action" android:layout_weight="1.0" android:layout_alignParentRight="true" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

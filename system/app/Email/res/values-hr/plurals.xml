@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d rezultata od %2$s</item>
+        <item quantity="one">%1$d rezultata iz domene %2$s</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Poruke obrisane</item>
+        <item quantity="one">Poruka obrisana</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Premjesti poruke</item>
+        <item quantity="one">Premjesti poruku</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$d nepročitanih (%2$s)</item>
+        <item quantity="one">%1$d nepročitano (%2$s)</item>
+        <item quantity="few">%1$d nepročitanih (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">u %d računa</item>
+        <item quantity="few">u %d računa</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%d računa</item>
+        <item quantity="one">%d račun</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d odabrano</item>
+        <item quantity="one">%d odabrano</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">Privici %1$d</item>
+        <item quantity="one">Privitak %1$d</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Odbaciti ove poruke?</item>
+        <item quantity="one">Odbaci ovu poruku?</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">%1$d poruka premješteno u %2$s</item>
+        <item quantity="one">%1$d poruka premještena u %2$s</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d kB</item>
+        <item quantity="one">%d kB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s rezultata za %2$s</item>
+        <item quantity="one">%1$s result for \"%2$s\"</item>
+    </plurals>
+</resources>

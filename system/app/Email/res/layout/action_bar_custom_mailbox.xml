@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="right" android:layout_gravity="right" android:id="@id/mailbox_action_bar" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="21.0dip" android:textColor="#ffebebeb" android:gravity="center_vertical" android:id="@id/mailbox_list_text_view" android:layout_width="300.0dip" android:layout_height="fill_parent" android:layout_margin="3.0dip" android:layout_weight="1.0" />
+    <FrameLayout android:id="@id/mailbox_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:layout_gravity="right|center" android:id="@id/create_btn_layout" android:layout_width="wrap_content" android:layout_height="36.0dip" android:layout_marginRight="6.0dip">
+            <ImageButton android:layout_gravity="center_vertical" android:id="@id/folder_create_btn" android:background="@drawable/message_list_selector_header_btn" android:focusable="true" android:layout_width="40.659973dip" android:layout_height="fill_parent" android:src="@drawable/ic_menu_add" />
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="right|center" android:id="@id/folder_function_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <LinearLayout android:layout_gravity="right|center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:layout_gravity="center" android:id="@id/folder_delete_count_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:maxLength="2" />
+            <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/folder_function_done_layout" android:layout_width="wrap_content" android:layout_height="36.0dip" android:layout_marginRight="2.0dip">
+                <ImageButton android:layout_gravity="center_vertical" android:id="@id/folder_function_done" android:background="@drawable/message_list_selector_header_btn" android:focusable="true" android:layout_width="40.659973dip" android:layout_height="fill_parent" android:src="@drawable/ic_menu_done" />
+            </LinearLayout>
+            <ImageView android:layout_gravity="center" android:id="@id/folder_title_divider" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/mymagazine_email_divider" />
+            <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="36.0dip" android:layout_marginLeft="2.0dip" android:layout_marginRight="9.0dip">
+                <ImageButton android:layout_gravity="center_vertical" android:id="@id/folder_function_cancel" android:background="@drawable/message_list_selector_header_btn" android:focusable="true" android:layout_width="40.659973dip" android:layout_height="fill_parent" android:src="@drawable/ic_menu_cancel" />
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

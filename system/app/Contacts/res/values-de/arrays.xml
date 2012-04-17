@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Organisation</item>
+        <item>Memo</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Anruf</item>
+        <item>Nachr. send.</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Telefon</item>
+        <item>SIM-Karte</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Alle</item>
+        <item>Telefon</item>
+        <item>SIM-Karte</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Vorname Nachname</item>
+        <item>Nachname Vorname</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Mo</item>
+        <item>Di</item>
+        <item>Mi</item>
+        <item>Do</item>
+        <item>Fr</item>
+        <item>Sa</item>
+        <item>So</item>
+    </string-array>
+</resources>

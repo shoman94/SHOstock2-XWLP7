@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Onnistunut.</item>
+        <item>Ei virhettä</item>
+        <item>{0} käyttäjän raja-arvo on ylittynyt</item>
+        <item>Käyttäjien enimmäismäärä on ylittynyt</item>
+        <item>Kaksi samaa käyttäjää: {0}</item>
+        <item>Sama käyttäjä kaksi kertaa</item>
+        <item>Sama laite kaksi kertaa: {0}</item>
+        <item>Sama laite kaksi kertaa</item>
+        <item>Käyttäjää ei löydy: {0}</item>
+        <item>Käyttäjää ei löytynyt</item>
+        <item>Virheellinen päivämäärämuoto: {0}. Odotettu muoto {1}</item>
+        <item>Virheellinen päivämäärän muoto</item>
+        <item>Virheellinen päivämäärämuoto: {0}. Odotettu muoto {1}</item>
+        <item>Virheellinen päivämäärämuoto</item>
+        <item>Pakollinen parametri puuttuu: {0}</item>
+        <item>Pakollinen parametri puuttuu</item>
+        <item>Ilmeni virhe. Yritä uudelleen.</item>
+        <item>Sisäinen virhe</item>
+        <item>Annettua määritystunnusta ({0}) ei löytynyt käyttäjän käytettävissä olevien jälleenmyyjien joukosta.</item>
+        <item>Brändiä ei löytynyt</item>
+        <item>Vanhenemispäivää ei ole määritetty</item>
+        <item>Vanhenemispäivää ei ole määritetty</item>
+        <item>Käyttö evätty</item>
+        <item>Käyttö evätty</item>
+        <item>API-käyttö ei ole sallittu: {0}</item>
+        <item>API-käyttö ei ole käytössä.</item>
+        <item>Ilmeni virhe. Yritä uudelleen.</item>
+        <item>Virhe: virheellinen pyyntö</item>
+        <item>Sisäinen virhe: {0}</item>
+        <item>Sisäinen virhe</item>
+        <item>Tilaus, jolla on määritetyt tiedot, on jo luotu.</item>
+        <item>Kaksi samaa tilausta</item>
+        <item>Haku löysi useita hakutermiä vastaavia tilauksia</item>
+        <item>Haku löysi useita hakutermiä vastaavia tilauksia</item>
+        <item>Yritettäessä aloittaa istuntoa ilmeni virhe. Yritä uudelleen.</item>
+        <item>Yhteysvirhe</item>
+        <item>Kyselyä {0} ei löydy</item>
+        <item>Kyselyä ei löydy</item>
+        <item>Ristiriitaiset parametrit {0} ja {1}</item>
+        <item>Ristiriitaiset parametrit</item>
+        <item>Virheellinen msisdn-muoto: {0}</item>
+        <item>Msisdn-muoto ei kelpaa</item>
+        <item>Virheellinen tuoteparametri: {0}</item>
+        <item>Virheellinen tuoteparametri</item>
+        <item>Yhteyssovellusta ei löytynyt. Tarkista antamasi yhteyssovelluksen tunnus.</item>
+        <item>Yhteyssovellusta ei löytynyt</item>
+        <item>Tilausta ei löytynyt</item>
+        <item>Tilausta ei löytynyt</item>
+        <item>Lähetettäessä tietoja ilmeni virhe. Yritä uudelleen.</item>
+        <item>Datavirhe</item>
+        <item>Replikointikutsu AOM-ympäristöön epäonnistui</item>
+        <item>Replikointikutsu AOM-ympäristöön epäonnistui</item>
+        <item>Toiminnon suorittaminen kesti liian kauan, ja se aikakatkaistiin. Yritä uudelleen.</item>
+        <item>Aikakatkaisu</item>
+        <item>Yhteyden muodostaminen sähköpostitiliin ei onnistu. Yhteyden pitäisi palautua automaattisesti. Jos häiriö ei poistu, tarkista verkon asetukset tai pyydä apua palveluntarjoajalta.</item>
+        <item>Yhteyshäiriö</item>
+        <item>Verkko on väliaikaisesti poissa käytöstä, tai puhelin on lentokonetilassa. Yhteys palautuu automaattisesti, kun verkko tulee käyttöön.</item>
+        <item>Yhteys epäonnistui</item>
+        <item>Palvelin on varattu. Yritä myöhemmin uudelleen.</item>
+        <item>Palvelin on varattu</item>
+        <item>Yleinen IPC-pyyntövirhe</item>
+        <item>IPC-pyyntö epäonnistui</item>
+        <item>Kohteen {0} todennus epäonnistui</item>
+        <item>Todennus epäonnistui</item>
+        <item>Pyydä kelvollinen lisenssi palveluntarjoajalta.</item>
+        <item>Lisenssi ei kelpaa</item>
+        <item>Tekstiviestistä ei löytynyt sovellustunnusta</item>
+        <item>Tekstiviestistä ei löytynyt sovellustunnusta</item>
+        <item>Sovellusta, jolla on tunnus, ei löytynyt ({0}).</item>
+        <item>Sovellusta, jolla on määritetty tunnus, ei löytynyt</item>
+        <item>MSISDN-tiedot puuttuvat, tai ne eivät kelpaa: {0}</item>
+        <item>MSISDN-tiedot puuttuvat, tai ne eivät kelpaa.</item>
+        <item>Virheellinen MSISDN-muoto: {0}. Ohjelma odotti numeroarvoa.</item>
+        <item>MSISDN-muoto ei kelpaa</item>
+        <item>Virheellinen sovellustunnuksen muoto: {0}. Odotettiin numeroarvoa.</item>
+        <item>Virheellinen sovellustunnuksen muoto</item>
+        <item>Odotettua laskutusotsikkoa ei löytynyt vahvistuspyynnöstä</item>
+        <item>Laskutusotsikon vahvistus epäonnistui</item>
+        <item>MSISDN {0} on jo järjestelmässä.</item>
+        <item>MSISDN on jo järjestelmässä</item>
+        <item>MSISDN {0} ei ole järjestelmässä.</item>
+        <item>MSISDN-tietoja ei ole</item>
+        <item>Asenna tämä [yhteyssovellus] uudelleen kirjoittamalla tilapäinen salasana.</item>
+        <item>Salasana on pakollinen</item>
+        <item>Määrittämäsi tunnus on jo käytössä. Valitse toinen tunnus.</item>
+        <item>Tunnus on jo käytössä</item>
+        <item>Annettu tilapäinen salasana on virheellinen.</item>
+        <item>Yhteysvirhe</item>
+        <item>Yhteyssovellus on poistettu käytöstä.</item>
+        <item>Yhteyssovellus on poissa käytöstä</item>
+        <item>Palvelu ei ole käytössä</item>
+        <item>Palvelu ei ole käytössä</item>
+        <item>Annettu tuoteversio ei vastaa välityspalveluun asennettua versiota.</item>
+        <item>Tuoteversiot eivät vastaa toisiaan</item>
+        <item>Tapahtuma epäonnistui määrittämättömästä syystä: {0}</item>
+        <item>Tapahtuma epäonnistui määrittämättömästä syystä</item>
+        <item>Kohteen {0} todennus epäonnistui</item>
+        <item>Todennus epäonnistui</item>
+        <item>Käyttö ei ole sallittu: {0}</item>
+        <item>Käyttö ei ole sallittu</item>
+        <item>Käyttäjän tili {0} on estetty</item>
+        <item>Tili on lukittu</item>
+        <item>Osa tapahtumaerästä epäonnistui.</item>
+        <item>Osa tapahtumaerästä epäonnistui.</item>
+        <item>Luettelokutsu palautti {0} tietuetta. Enimmäismäärä on {1}.</item>
+        <item>Tulosluettelo ylittää enimmäiskoon</item>
+        <item>Eräajokutsu on pyytänyt {0} tapahtumaa. Raja-arvo on {1}.</item>
+        <item>Erätapahtumapyyntö on ylittänyt enimmäiskoon</item>
+        <item>API-kutsusta puuttui pakollinen parametri: {0}</item>
+        <item>API-kutsusta puuttuu pakollinen parametri.</item>
+        <item>Tämän API-kutsun parametri {0} ei kelpaa.</item>
+        <item>API-kutsu sisälsi virheellisen parametrin.</item>
+        <item>Tietokantavirhe ilmeni käsiteltäessä tätä pyyntöä: {0}</item>
+        <item>API-kutsu on palauttanut tietokantavirheen.</item>
+        <item>Yleismerkkejä ei voi käyttää näissä tunnistetiedoissa.</item>
+        <item>Virheellinen yleismerkkien käyttötapa.</item>
+        <item>Virheellinen yleismerkki pyyntöparametrissa: {0}</item>
+        <item>Virheellisiä yleismerkkejä pyynnössä.</item>
+        <item>Ohjelma on vastaanottanut SOAP-pyynnön, jonka otsikkoparametri puuttuu tai on virheellinen.</item>
+        <item>Ohjelma on vastaanottanut SOAP-pyynnön, jonka otsikkoparametri puuttuu tai on virheellinen.</item>
+        <item>Ohjelma on vastaanottanut SOAP-pyynnön, jonka pakollinen otsikkoparametri puuttuu: {0}</item>
+        <item>Ohjelma on vastaanottanut SOAP-pyynnön, jonka otsikkoparametri puuttuu.</item>
+        <item>Järjestelmä vastaanotti SOAP-pyynnön IP-osoitteesta {0}. Tämä osoite ei saa käyttää API-funktioita.</item>
+        <item>Ohjelma on vastaanottanut SOAP-pyynnön estetystä IP-osoitteesta.</item>
+        <item>API-käyttö ei ole sallittu: {0}</item>
+        <item>API-käyttö ei ole käytössä.</item>
+        <item>SOAP-pyyntö epäonnistui määrittämättömästä syystä: {0}</item>
+        <item>SOAP-pyyntö epäonnistui määrittämättömästä syystä</item>
+        <item>createAccountSubscription-API-kutsussa on oltava AccountID- tai MSISDN-parametri.</item>
+        <item>createAccountSubscription-kutsussa ei ole määritetty parametria AccountID tai MSISDN.</item>
+        <item>Tuoteparametrin käyttäminen listAccountSubscription-API-kutsussa edellyttää, että vähintään yksi seuraavista arvoista on määritetty: MSISDN, AccountID ja GroupID.</item>
+        <item>Lähetetyssä listAccountSubscriptions-kutsussa määritettiin tuoteparametri mutta ei tunnusparametria.</item>
+        <item>Haku löysi useita määritettyjä tilaustunnusehtoja vastaavia tietueita. Päivitystä ei käsitelty.</item>
+        <item>Tilaustunnusehdot vastaavat useita tietueita.</item>
+        <item>Määritetyt tunnusparametrit eivät kelpaa.</item>
+        <item>Määritetyt tunnusparametrit eivät kelpaa.</item>
+        <item>On lähetetty updateAccountSubscription-API-kutsu, mutta päivitettäviä kenttiä ei ollut.</item>
+        <item>Päivitettäviä kenttiä ei ole määritetty.</item>
+        <item>Määritettyjä tilaustunnusehtoja vastaavia tietueita ei löytynyt. Päivityksiä ei käsitelty.</item>
+        <item>Tilaustunnusehtoja vastaavia tietueita ei ole.</item>
+        <item>Tuoteparametrin käyttäminen deleteAccountSubscription-API-kutsussa edellyttää, että vähintään yksi seuraavista arvoista on määritetty: MSISDN, AccountID ja GroupID.</item>
+        <item>deleteAccountSubscriptions-kutsussa määritettiin tuoteparametri mutta ei tunnusparametria.</item>
+        <item>Haku löysi useita määritettyjä tilaustunnusehtoja vastaavia tietueita. Päivitystä ei käsitelty.</item>
+        <item>Tilaustunnusehdot vastaavat useita tietueita.</item>
+        <item>UpdateConnectorSubscription-API-kutsu edellyttää parametria SubscriptionId tai ConnectorId.</item>
+        <item>Määritetyt tunnusparametrit eivät kelpaa.</item>
+        <item>updateConnectorSubscription-API-kutsu tehtiin, mutta päivitettäviä kenttiä ei ollut.</item>
+        <item>Päivitettäviä kenttiä ei ole määritetty.</item>
+        <item>Määritettyjä tilaustunnusehtoja vastaavia tietueita ei löytynyt. Päivityksiä ei käsitelty.</item>
+        <item>Tilaustunnusehtoja vastaavia tietueita ei ole.</item>
+        <item>Jos createPreProvisionedAccount-API-kutsun tuoteparametrin arvona on CE, myös määritystunnus ja Internet-palveluntarjoajan bränditunnus on määritettävä. Jos tuoteparametrilla on jokin muu arvo, on määritettävä yhteyssovelluksen tunnus.</item>
+        <item>createPreProvisionedAccount-kutsun parametrit eivät kelpaa.</item>
+        <item>Määrittämäsi yrityksen nimeä ei löytynyt tietokannasta, tai annettu määritystunnus ei vastaa mitään Internet-palveluntarjoajaa.</item>
+        <item>Parametreja käyttävää yritystä ei löytynyt.</item>
+        <item>ISP-palvelimen bränditunnusta ei löydy tietokannasta.</item>
+        <item>ISP-palvelimen bränditunnusta ei löydy tietokannasta.</item>
+        <item>Määritetylle bränditunnukselle löytynyt Internet-palveluntarjoajan palvelin ei tue määritettyä tuotetyyppiä.</item>
+        <item>Määritetylle bränditunnukselle löytynyt Internet-palveluntarjoajan palvelin ei tue määritettyä tuotetyyppiä.</item>
+        <item>Haku löysi useita päivitystä vastaavia tilejä. Salasanaa ei voi päivittää.</item>
+        <item>Löytyi useita changeAccountPassword-kutsua vastaavia tilejä.</item>
+        <item>Päivitystä vastaavia tilejä ei löytynyt. Salasanoja ei päivitetä.</item>
+        <item>changeAccountPassword-kutsua vastaavia tilejä ei ole.</item>
+        <item>Yritettäessä päivittää salasanaa ilmeni virhe. Mahdollinen syy on virheellinen salasana.</item>
+        <item>API-kutsu changeAccountPassword ei onnistunut päivittämään salasanaa.</item>
+        <item>On pyydetty käyttäjätietojen luettelo, mutta yksikään järjestelmässä olevista käyttäjistä ei vastaa annettuja parametreja</item>
+        <item>getUserInformation ei löydä annettujen parametrien mukaista käyttäjää</item>
+        <item>isValidConnectorId-kutsussa käytetty tunnus on jo käytössä.</item>
+        <item>Yhteyssovelluksen tunnus on jo käytössä.</item>
+        <item>runScript-kutsussa käytetyt parametrit eivät kelpaa määritetyssä SQL-komentosarjassa.</item>
+        <item>Virheelliset SQL-komentotiedoston parametrit.</item>
+        <item>On lähetetty tuntemattomaan SQL-komentotiedostoon liittyvä runScript-kutsu.</item>
+        <item>SQL-komentotiedostoa ei löytynyt.</item>
+        <item>Latauslinkkiominaisuuden lähettäminen ei ole käytössä API-funktiossa.</item>
+        <item>Toiminto ei ollut käytettävissä sendDownloadLink-kutsun lähetyksen aikana.</item>
+        <item>Viestipyyntö SMS-yhdyskäytävään epäonnistui.</item>
+        <item>Viestipyyntö SMS-yhdyskäytävään epäonnistui.</item>
+        <item>Parametreja vastaavaa sovellusta ei löytynyt.</item>
+        <item>Parametreja vastaavaa sovellusta ei löytynyt.</item>
+        <item>Postitesti epäonnistui, koska määritettyä postipalvelujen tarjoajaa ei löytynyt. Valitse palveluntarjoajaksi POP3, IMAP, POP3S, IMAPS, SMTP tai SMTPS</item>
+        <item>Sähköpostipalvelun tarjoajaa ei löytynyt</item>
+        <item>Postitesti epäonnistui, koska yhteys määritettyyn postipalvelimeen epäonnistui. Tarkista postilaatikon asetukset.</item>
+        <item>Yhteys epäonnistui</item>
+        <item>Postitesti epäonnistui, koska yhteys määritettyyn postipalvelimeen epäonnistui. Tarkista postilaatikon asetukset.</item>
+        <item>Saapuneet-kansiota ei löytynyt</item>
+        <item>Postitesti epäonnistui, koska viestien haku Saapuneet-kansiosta epäonnistui. Tarkista postilaatikon asetukset.</item>
+        <item>Haku Saapuneet-kansiosta epäonnistui</item>
+        <item>Postitesti on hylännyt virheellisen sähköpostiosoitteen. Tarkista sähköpostiosoite</item>
+        <item>Sähköpostiosoite ei kelpaa</item>
+        <item>Liitteen koko ylittää enimmäiskoon.</item>
+        <item>Liite on liian suuri.</item>
+        <item>Viestin tekstiosa on liian suuri.</item>
+        <item>Tekstiosa on liian suuri.</item>
+        <item>Kirjautumisyritys epäonnistui. Syynä on virheellinen {0} tai salasana. Tarkista {0} sekä salasana ja yritä uudelleen.</item>
+        <item>Virheellinen kirjautuminen</item>
+        <item>Kirjautumisyritys epäonnistui. Syynä on virheellinen {0}, salasana tai virheelliset asetukset. Tarkista {0}, salasana ja Internet-asetukset ja yritä uudelleen.</item>
+        <item>Virheellinen kirjautuminen</item>
+        <item>Kirjautumisyritys epäonnistui. Syynä on virheellinen {0}. Tarkista {0} ja yritä uudelleen.</item>
+        <item>Käyttäjää ei löytynyt</item>
+        <item>Antamallesi käyttäjänimelle on useita rekisteröintejä. Tarkista {0} ja salasana ja yritä sitten uudelleen.</item>
+        <item>Käyttäjää ei löytynyt</item>
+        <item>Postipalvelimen asetuksia ei löytynyt. Määritä tilin tiedot seuraavassa näytössä.</item>
+        <item>Palvelinta ei löytynyt</item>
+        <item>Kirjautuminen epäonnistui. Anna sähköpostitilisi käyttäjänimi, jos se ei ole sama kuin sähköpostiosoitteesi.</item>
+        <item>Kirjautuminen epäonnistui</item>
+        <item>Tämän tilin todennus on epäonnistunut liian monta kertaa. Odota, kunnes tilin lukitus avautuu, tai ota yhteyttä järjestelmänvalvojaan.</item>
+        <item>Tili on lukittu</item>
+        <item>Tämä puhelinnumero on jo rekisteröity. Tarkista, että olet kirjoittanut oikean puhelinnumeron, tai pyydä apua palveluntarjoajalta.</item>
+        <item>Määritetty tili on jo luotu.</item>
+        <item>Yhteys on ohjattu edelleen toiseen palvelimeen, jotta suorituskyky pysyisi mahdollisimman hyvänä. Yritä viimeistä toimintoa uudelleen.</item>
+        <item>Edelleenohjattu</item>
+        <item>Sähköpostipalvelin ei ole käytettävissä. Yritä myöhemmin uudelleen.</item>
+        <item>Kirjautuminen epäonnistui</item>
+        <item>Postitesti epäonnistui virheen {0} vuoksi. Tarkista postilaatikon asetukset.</item>
+        <item>Tuntematon virhe</item>
+        <item>Tämän tilin todennus on epäonnistunut liian monta kertaa. Yhteyssovellus on estänyt uudet sisäänkirjautumiset. Odota, kunnes tilin lukitus on avattu, tai ota yhteyttä yhteyssovelluksen järjestelmänvalvojaan.</item>
+        <item>Kirjautuminen on poissa käytöstä</item>
+        <item>Tarkista {0} ja salasana tai RSA-tunnus valitsemalla OK. Yritä sitten uudelleen.</item>
+        <item>Virheellinen RSA-kirjautuminen</item>
+        <item>Tämä sähköpostin tarjoaja ei ole sertifioinut käyttämääsi sovelluksen versiota. Pyydä sertifioitu sovellusversio palveluntarjoajalta.</item>
+        <item>Sovelluksella ei ole tämän Internet-palveluntarjoajan sertifiointia.</item>
+        <item>Annettu Microsoft Exchange -palvelimen osoite ei ole kelvollinen WWW-osoite. Tarkista osoite ja yritä uudelleen.</item>
+        <item>Microsoft Exchange -osoite ei kelpaa</item>
+        <item>Palveluntarjoaja on käytettävissä lisämaksusta. Palaa palveluntarjoajien luetteloon ja valitse uudelleen.</item>
+        <item>Määritetty URL-osoite ei ole sallittu.</item>
+        <item>Etäpäätepisteen julkinen avain on muuttunut. Tämä voi olla merkki tunkeutumisyrityksestä. Palvelu on hylännyt etäpäätepisteestä vastaanotetut tiedot.</item>
+        <item>Julkiset avaimet eivät vastaa toisiaan.</item>
+        <item>Uudelleenkirjautuminen ei onnistu. Käyttäjä ei voi kirjautua palveluun uudelleen kirjoittamalla uudet tunnustiedot, vaan hänen on toteutettava jokin muu toiminto.</item>
+        <item>Uudelleenkirjautuminen ei onnistu.</item>
+        <item>Antamassasi osoitteessa oleva palvelin ei vastaa. Työsähköpostia ei voi käyttää Microsoft Exchangen kautta, jos VPN- tai SSL-portaali on käytössä. Käytä työsähköpostiasi seuraavan yhteysvaihtoehdon avulla valitsemalla OK.</item>
+        <item>OWA-osoite ei vastaa</item>
+        <item>Antamassasi osoitteessa oleva palvelin ei ole Microsoft Exchange -palvelin. Tarkista Microsoft Exchange -palvelimen osoite ja yritä uudelleen.</item>
+        <item>Microsoft Exchange -osoite - virheellinen tyyppi</item>
+        <item>Salasanasi on vanhentunut. Muuta salasana tietokoneen avulla ja yritä uudelleen uudella salasanalla.</item>
+        <item>Salasana on vanhentunut</item>
+        <item>Määritettävien puhelinten enimmäismäärä on saavutettu. Ota yhteyttä järjestelmänvalvojaan.</item>
+        <item>Liikaa puhelimia</item>
+        <item>Notes-tunnustiedostoa ei ole käytettävissä, joten kirjautuminen ei onnistu. Ota yhteyttä järjestelmänvalvojaan.</item>
+        <item>Tunnustiedostoa ei ole saatavilla</item>
+        <item>Pyydetty palvelu ei ole tällä hetkellä käytettävissä. Yritä myöhemmin uudelleen. Ongelman jatkuessa käytä web-selainta kirjautumiseen.</item>
+        <item>Internet-palveluntarjoajan palvelu ei tällä hetkellä ole käytettävissä</item>
+        <item>Internet-palveluntarjoaja edellyttää WWW-kirjautumista. Kirjaudu tilille selaimella.</item>
+        <item>Vaatii WWW-kirjautumisen</item>
+        <item>Internet-palveluntarjoajan virhe. Yritä myöhemmin uudelleen. Jos häiriö ei poistu, yritä kirjautua selaimella.</item>
+        <item>Internet-palveluntarjoaja on palauttanut virheen.</item>
+        <item>Postilaatikko on käytössä. Yritä myöhemmin uudelleen.</item>
+        <item>Postilaatikko on käytössä.</item>
+        <item>Ei vastausta tähän syöte-URL-osoitteeseen. Korjaa URL-osoite tai yritä myöhemmin uudelleen.</item>
+        <item>Ei vastausta tähän syöte-URL-osoitteeseen.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Yhteyden muodostaminen Exchange Access -sähköpostiin ei onnistu. Yhteyden pitäisi palautua automaattisesti. Jos häiriö ei poistu, pyydä apua IT-järjestelmänvalvojalta.</item>
+        <item>Yhteyshäiriö</item>
+        <item>Yhteyden muodostaminen {0} -sähköpostiin ei onnistu. Yhteyden pitäisi palautua automaattisesti. Jos häiriö ei poistu, pyydä apua {0}lta.</item>
+        <item>Yhteyshäiriö</item>
+        <item>Tilin päivitysyritys epäonnistui. Yritä uudelleen.</item>
+        <item>Päivitys epäonnistui</item>
+        <item>RPC-pyynnön XML oli virheellinen.</item>
+        <item>RPC:n XML on muodoltaan virheellinen</item>
+        <item>Sisäinen virhe XML RPC APIssa. Yritä uudelleen.</item>
+        <item>Sisäinen virhe XML RPC APIssa</item>
+        <item>Virheellisiä tai puuttuvia parametreja XML RPC -pyynnössä. Tarkista parametrit ja niiden arvot.</item>
+        <item>Virheellisiä tai puuttuvia parametreja</item>
+        <item>Palvelu ei voinut tallentaa tietoja. Yritä uudelleen.</item>
+        <item>Tietokantavirhe</item>
+        <item>Tämänniminen organisaatio on jo luotu. Valitse toinen nimi.</item>
+        <item>Organisaatio on jo luotu</item>
+        <item>Määrittämäsi yhteyssovelluksen tunnus on jo käytössä. Valitse toinen tunnus.</item>
+        <item>Nimi on jo käytössä</item>
+        <item>Määrittämäsi käyttäjänimi on jo käytössä. Valitse toinen käyttäjänimi.</item>
+        <item>Käyttäjänimi on jo käytössä</item>
+        <item>Käyttäjä on jo luotu.</item>
+        <item>Käyttäjä on jo luotu</item>
+        <item>Valmiiksi määritetty tili, jonka yritit luoda, on jo luotu. Yhteyssovelluksen järjestelmänvalvojan on poistettava nykyinen tili, ennen kuin voit lisätä uuden.</item>
+        <item>Määritetty tili on jo luotu.</item>
+        <item>Sinulla ei ole tämän toiminnon toteutuksen edellyttämiä käyttöoikeuksia.</item>
+        <item>Käyttö evätty</item>
+        <item>Tilauksesi on päättynyt. Voit uusia tilauksesi ottamalla yhteyden palveluntarjoajaasi.</item>
+        <item>Kirjautuminen ei onnistu</item>
+        <item>Tilauksesi ei salli useampia tilejä. Päivitä tilaus osoitteessa http://eu020.fra.samsungsocialhub.com.</item>
+        <item>Kirjautuminen ei onnistu</item>
+        <item>Tilaa Social Hub -palvelu osoitteessa http://eu020.fra.samsungsocialhub.com.</item>
+        <item>Kirjautuminen ei onnistu</item>
+        <item>Tämän sivuston SSL-varmenteessa ilmeni virhe.</item>
+        <item>Varmenneongelma</item>
+        <item>Määritetty URL-osoite ei ole kelvollisen Outlook Web Access -palvelun osoite. Tarkista URL-osoite ja yritä uudelleen.</item>
+        <item>Virheellinen palvelun osoite</item>
+        <item>Tämä URL-osoite on määritetty valmiiksi. Valitse palveluntarjoaja valmiiksi määritettyjen palveluntarjoajien luettelosta.</item>
+        <item>Käyttö evätty</item>
+        <item>Yhteyshenkilö oli offline-tilassa, kun viestiä yritettiin lähettää</item>
+        <item>Yhteyshenkilö offline-tilassa</item>
+        <item>Yhteyshenkilö oli lukittu, kun viestiä yritettiin lähettää</item>
+        <item>Yhteyshenkilö on lukittu</item>
+        <item>Tiedostonsiirron tiedoston koko ei vastannut määritettyä arvoa</item>
+        <item>Tiedoston koot eivät vastaa toisiaan</item>
+        <item>Vertaisistuntojen enimmäismäärä ylitettiin</item>
+        <item>Vertaisistuntojen enimmäismäärä ylitettiin</item>
+        <item>Syntymäaika puuttuu</item>
+        <item>Syntymäaika puuttuu</item>
+        <item>Vastaanottaja ei tue tiedostonsiirtoa</item>
+        <item>Vertaisistuntoa ei tueta</item>
+        <item>Käyttäjän on rekisteröidyttävä viestinvälityspalveluun</item>
+        <item>Rekisteröinti on vanhentunut</item>
+        <item>Pyyntöä ei voi käsitellä loppuun, sillä palvelin on varattu. Yritä myöhemmin uudelleen.</item>
+        <item>Palvelin on varattu</item>
+        <item>VoiceClipiä ei voi käyttää tässä keskustelussa</item>
+        <item>Äänileikettä ei tueta</item>
+        <item>Vain kaksi osallistujaa sallitaan tiedostonsiirtotoiminnon keskustelussa</item>
+        <item>Liikaa osallistujia</item>
+        <item>Määritetyssä keskustelussa ei ole osallistujia</item>
+        <item>Osallistujia ei ole</item>
+        <item>Käyttäjän vanhempi ei salli Messenger-kirjautumista</item>
+        <item>Vanhemman lupa vaaditaan</item>
+        <item>Keskustelun tunnus ei kelpaa. Sovelluksen on hylättävä tämä keskustelu.</item>
+        <item>Kutsutunnus ei kelpaa</item>
+        <item>Kutsupyyntöä yritettiin ja (asiakaslaitteen) käyttäjän tavoitettavuustilaksi määritetään Offline</item>
+        <item>Käyttäjä offline-tilassa</item>
+        <item>On yritetty antaa kutsupyyntö, joka lisää virheellisen käyttäjän</item>
+        <item>Tuntematon käyttäjä</item>
+        <item>Määritetyn sähköpostitoimialueen kokoonpanoa ei ole löytynyt</item>
+        <item>Tuntematon ISP</item>
+        <item>Tunnukseen perustuvan todennuksen virheitä käsitellään eri tavalla, ja siitä johtuu tämä virhe.</item>
+        <item>Tunnustodennus epäonnistui</item>
+        <item>Tämän palvelun käyttö edellyttää palvelun tilaamista.</item>
+        <item>Vaatii tilauksen</item>
+        <item>Yhtään Seven-palvelua ei ole käytettävissä.</item>
+        <item>Yhtään palvelua ei ole käytettävissä</item>
+        <item>Ohjelma on kirjannut sinut ulos, koska kirjauduit eri tietokoneeseen tai laitteeseen</item>
+        <item>Tili on otettu haltuun</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Tilin luonti epäonnistui rekisteröidyttäessä Ping-palveluun</item>
+        <item>Tilin luonti epäonnistui</item>
+        <item>Virheellinen palvelun avain rekisteröidyttäessä pääkonepalvelimeen</item>
+        <item>Virheellinen palvelun avain</item>
+        <item>Virheellinen palvelun kuvain rekisteröidyttäessä pääkonepalvelimeen</item>
+        <item>Virheellinen palvelun kuvain</item>
+        <item>Virheelliset mukautetut tiedot rekisteröidyttäessä pääkonepalvelimeen</item>
+        <item>Virheelliset mukautetut tiedot</item>
+        <item>Käyttäjä on jo rekisteröitynyt pääkonepalvelimeen</item>
+        <item>Jo rekisteröity käyttäjä</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Palveluita etsittäessä ilmeni virhe. Yritä uudelleen.</item>
+        <item>Pyyntö epäonnistui</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Näytä viestin teksti erittäin pienikokoisena tekstinä</item>
+        <item>Näytä viestin teksti pienikokoisena tekstinä</item>
+        <item>Näytä viestin teksti normaalikokoisena tekstinä</item>
+        <item>Näytä viestin teksti erittäin suurikokoisena tekstinä</item>
+        <item>Näytä viestin teksti erittäin suurikokoisena tekstinä</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Näytä 0 riviä viestin esikatselussa</item>
+        <item>Näytä 1 rivi viestin esikatselussa</item>
+        <item>Näytä 2 riviä viestin esikatselussa</item>
+        <item>Näytä 3 riviä viestin esikatselussa</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Google-käännös</item>
+        <item>Wikipedia</item>
+        <item>Sanakirja</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Jaa tekstinä</item>
+        <item>Jaa kuvana</item>
+    </string-array>
+</resources>

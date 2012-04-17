@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:id="@id/textsize_row" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="96.0px" class="com.android.email.activity.ToolBarScrollView$ItemView"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingRight="12.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="17.0dip" android:minHeight="96.0px">
+        <TextView android:ellipsize="marquee" android:gravity="left|center" android:id="@id/fontsize_item_title" android:paddingRight="0.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" android:layout_centerVertical="true" />
+        <RadioButton android:gravity="right|center" android:id="@id/fontsize_radio_btn" android:focusable="false" android:clickable="true" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    </LinearLayout>
+</view>

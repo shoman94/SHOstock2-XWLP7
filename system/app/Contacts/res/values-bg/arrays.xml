@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Бележка</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Набери</item>
+        <item>Изпр. съобщ.</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Телефон</item>
+        <item>SIM</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Всички</item>
+        <item>Телефон</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Собствено име Фамилия</item>
+        <item>Фамилия Собствено име</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Пон</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чтв</item>
+        <item>Пет</item>
+        <item>Съб</item>
+        <item>Нед</item>
+    </string-array>
+</resources>

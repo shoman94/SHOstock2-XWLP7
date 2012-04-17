@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Žádné datové připojení po dobu %s minut</item>
+        <item quantity="one">Žádné datové připojení po dobu %s minuty</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon bude v režimu tísňového zpětného volání po dobu %s minut. Není možné použít aplikace používající datové připojení. Chcete režim ukončit?</item>
+        <item quantity="one">Telefon bude v režimu tísňového zpětného volání po dobu %s minuty. Není možné použít aplikace používající datové připojení. Chcete režim ukončit?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Vybraná akce není v režimu tísňového zpětného volání k dispozici. Telefon bude v tomto režimu po dobu %s minut. Chcete režim ukončit?</item>
+        <item quantity="one">Vybraná akce není v režimu tísňového zpětného volání k dispozici. Telefon bude v tomto režimu po dobu 1 minuty. Chcete režim ukončit?</item>
+    </plurals>
+</resources>

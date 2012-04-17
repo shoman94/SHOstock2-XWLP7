@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_slider_layout_width">194.66998dip</dimen>
+    <dimen name="default_slider_bar_margin_top">40.0dip</dimen>
+    <dimen name="default_slider_focus_bar_margin_top">32.0dip</dimen>
+    <dimen name="screen_full_width">533.2969dip</dimen>
+</resources>

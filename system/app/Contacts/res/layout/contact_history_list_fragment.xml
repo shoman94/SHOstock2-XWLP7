@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/contact_history_list" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:scrollbarStyle="outsideOverlay" android:id="@android:id/list" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/history_loading_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:id="@id/progress" android:layout_width="48.0dip" android:layout_height="48.0dip" />
+        <TextView android:textSize="19.0sp" android:textColor="@color/progress_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:text="@string/contact_list_loading" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@android:id/empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/noitem_image_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/noitems_text_based" />
+        <TextView android:textAppearance="@style/TwMainListNoContactsTextAppearance" android:id="@id/emptyText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/history_no_data" />
+    </LinearLayout>
+</LinearLayout>

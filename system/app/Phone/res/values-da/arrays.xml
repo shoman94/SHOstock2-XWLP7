@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listCameraEffectMenuArray">
+        <item>Ingen</item>
+        <item>Grå</item>
+        <item>Sepia</item>
+        <item>Grøn</item>
+        <item>Vand</item>
+        <item>Negativ</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Slet</item>
+    </string-array>
+    <string-array name="pref_roaming_options_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="default_setup_choices">
+        <item>Automatisk</item>
+        <item>Manuel</item>
+    </string-array>
+    <string-array name="default_setup_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Netværksstandard</item>
+        <item>Skjul nummer</item>
+        <item>Vis nummer</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>Standard</item>
+        <item>Skjul</item>
+        <item>Vis</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Global</item>
+        <item>Kun EVDO</item>
+        <item>CDMA w/o EVDO</item>
+        <item>Automatisk CDMA/EVDO</item>
+        <item>Automatisk GSM/WCDMA</item>
+        <item>Kun WCDMA</item>
+        <item>Kun GSM</item>
+        <item>Foretrukken GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>Fransk</item>
+        <item>Spansk</item>
+        <item>Japansk</item>
+        <item>Koreansk</item>
+        <item>Kinesisk</item>
+        <item>Hebræisk</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Kun hjemmenetværk</item>
+        <item>Automatisk</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Kun hjemme netværk</item>
+        <item>Associerede netværk</item>
+        <item>Et hvilket som helst netværk</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EVDO</item>
+        <item>Kun CDMA</item>
+        <item>Kun EVDO</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY er slået fra</item>
+        <item>Fuld TTY</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Lang</item>
+    </string-array>
+    <string-array name="dtmf_tone_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

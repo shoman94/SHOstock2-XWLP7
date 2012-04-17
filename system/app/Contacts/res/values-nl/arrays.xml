@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Organisatie</item>
+        <item>Notitie</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Gesprek</item>
+        <item>Bericht verz</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Telefoon</item>
+        <item>SIM</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Alles</item>
+        <item>Telefoon</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Voornaam Achternaam</item>
+        <item>Achternaam Voornaam</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>MA</item>
+        <item>DI</item>
+        <item>WO</item>
+        <item>DO</item>
+        <item>VR</item>
+        <item>ZA</item>
+        <item>ZO</item>
+    </string-array>
+</resources>

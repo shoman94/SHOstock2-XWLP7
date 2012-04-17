@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Klart</item>
+        <item>Inget fel</item>
+        <item>Den tillåtna maxgränsen på {0} användare har överskridits</item>
+        <item>Det finns för många användare</item>
+        <item>Duplicerad användare: {0}</item>
+        <item>Duplicerad användare</item>
+        <item>Duplicerad enhet: {0}</item>
+        <item>Duplicerad enhet</item>
+        <item>Användaren kan inte hittas: {0}</item>
+        <item>Det gick inte att hitta användaren</item>
+        <item>Ogiltigt datumformat: {0}. {1} förväntades.</item>
+        <item>Ogiltigt datumformat</item>
+        <item>Ogiltigt datumformat: {0}. {1} förväntades</item>
+        <item>Ogiltigt datumformat</item>
+        <item>En obligatorisk parameter saknas: {0}</item>
+        <item>En obligatorisk parameter saknas</item>
+        <item>Ett fel uppstod. Försök igen.</item>
+        <item>Internt fel</item>
+        <item>Det anslutnings-ID ({0}) som angetts kunde inte hittas hos någon av de leverantörer som användaren har tillgång till.</item>
+        <item>Det gick inte att hitta märket</item>
+        <item>Inget utgångsdatum har angetts</item>
+        <item>Inget utgångsdatum har angetts</item>
+        <item>Åtkomst nekad</item>
+        <item>Åtkomst nekad</item>
+        <item>API-åtkomst är inte aktiv för: {0}</item>
+        <item>API-åtkomst är inte aktiv</item>
+        <item>Ett fel uppstod. Försök igen.</item>
+        <item>Fel: ogiltig begäran</item>
+        <item>Internt fel: {0}</item>
+        <item>Internt fel</item>
+        <item>Det finns redan ett abonnemang med den angivna informationen</item>
+        <item>Duplicerat abonnemang</item>
+        <item>Flera matchande abonnemang hittades</item>
+        <item>Flera matchande abonnemang hittades</item>
+        <item>Ett fel uppstod när en session försökte starta. Försök igen.</item>
+        <item>Anslutningsfel</item>
+        <item>Det gick inte att hitta frågan {0}</item>
+        <item>Det gick inte att hitta frågan</item>
+        <item>Inkonsekventa parametrar: {0} och {1}</item>
+        <item>Inkonsekventa parametrar</item>
+        <item>Ogiltigt msisdn-format: {0}</item>
+        <item>Ogiltigt msisdn-format</item>
+        <item>Ogiltig produktparameter: {0}</item>
+        <item>Ogiltig produktparameter</item>
+        <item>Det gick inte att hitta din anslutning. Kontrollera det anslutnings-ID du har angett.</item>
+        <item>Det gick inte att hitta anslutningen</item>
+        <item>Abonnemanget kunde inte hittas</item>
+        <item>Abonnemanget kunde inte hittas</item>
+        <item>Ett fel inträffade när data skickades. Försök igen.</item>
+        <item>Datafel</item>
+        <item>Det gick inte att göra ett replikeringsanrop till AOM-plattformen</item>
+        <item>Det gick inte att göra ett replikeringsanrop till AOM-plattformen</item>
+        <item>Det tog för lång tid att slutföra åtgärden. Försök igen.</item>
+        <item>Timeout</item>
+        <item>Det går inte att skapa en anslutning till ditt e-postkonto. Anslutningen återställs automatiskt. Om problemet kvarstår kontrollerar du nätverksinställningarna eller också be tjänsteleverantören om hjälp.</item>
+        <item>Anslutningsproblem</item>
+        <item>Nätverket är för tillfället inte tillgängligt eller också är telefonen i flygläge. Anslutningen återställs automatiskt när nätverket blir tillgängligt.</item>
+        <item>Anslutningen misslyckades</item>
+        <item>Servern är upptagen. Försök igen.</item>
+        <item>Servern är upptagen</item>
+        <item>Allmän IPC-begäran misslyckades</item>
+        <item>IPC-begäran misslyckades</item>
+        <item>Autentiseringen misslyckades för {0}</item>
+        <item>Autentiseringen misslyckades</item>
+        <item>Kontakta din tjänsteleverantör för att få en giltig licens.</item>
+        <item>Licensen accepterades inte</item>
+        <item>Det fanns inget klient-ID i SMS-meddelandet</item>
+        <item>Det fanns inget klient-ID i SMS-meddelandet</item>
+        <item>Det gick inte att hitta någon klient med klient-ID ({0}).</item>
+        <item>Det gick inte att hitta någon klient med det angivna klient-ID:t</item>
+        <item>Den angivna MSISDN-informationen är ogiltig eller saknas: {0}</item>
+        <item>MSISDN-informationen är ogiltig eller saknas.</item>
+        <item>Ogiltigt MSISDN-format: {0}. Ett numeriskt värde förväntades.</item>
+        <item>Ogiltigt MSISDN-format</item>
+        <item>Ogiltigt ID-format för klient: {0}. Ett numeriskt värde förväntades.</item>
+        <item>Ogiltigt format för klient-ID</item>
+        <item>Det gick inte att hitta det förväntade laddningshuvudet i valideringsbegäran</item>
+        <item>Valideringen av laddningshuvudet misslyckades</item>
+        <item>MSISDN {0} finns redan i systemet.</item>
+        <item>MSISDN finns redan</item>
+        <item>MSISDN {0} finns inte i systemet.</item>
+        <item>MSISDN finns inte</item>
+        <item>Ange ditt tillfälliga lösenord för att installera om den här [anslutningen].</item>
+        <item>Ett lösenord måste anges</item>
+        <item>Det ID som du valde används redan. Försök med ett annat ID.</item>
+        <item>Detta ID används redan</item>
+        <item>Det tillfälliga lösenord som har angetts är felaktigt.</item>
+        <item>Anslutningsfel</item>
+        <item>Anslutningen har inaktiverats.</item>
+        <item>Anslutningen är inaktiverad</item>
+        <item>Tjänsten har inte aktiverats</item>
+        <item>Tjänsten har inte aktiverats</item>
+        <item>Produktversionen som har angetts stämmer inte med versionen som har installerats på relät</item>
+        <item>Produktversionsfel</item>
+        <item>Transaktionen misslyckades på grund av en ej angiven orsak: {0}</item>
+        <item>Transaktionen misslyckades på grund av en ej angiven orsak</item>
+        <item>Autentiseringen misslyckades för {0}</item>
+        <item>Autentiseringen misslyckades</item>
+        <item>Åtkomst medgavs ej för: {0}</item>
+        <item>Åtkomst medgavs ej</item>
+        <item>Användarkontot {0} har blockerats</item>
+        <item>Kontot har blockerats</item>
+        <item>Några av transaktionerna i en batch misslyckades.</item>
+        <item>Några av transaktionerna i en batch misslyckades.</item>
+        <item>Listanropet returnerade {0} poster – gränsen är {1}.</item>
+        <item>Den lista som returnerades var för stor</item>
+        <item>Batchanropet begärde att få genomföra {0} transaktioner. Det maximala antalet är {1}.</item>
+        <item>Batchtransaktionens begäran är större än dess storleksgräns.</item>
+        <item>API-anropet saknade en obligatorisk parameter: {0}</item>
+        <item>En obligatorisk parameter saknas i API-anropet.</item>
+        <item>Parametern {0} var ogiltig för det här API-anropet.</item>
+        <item>API-anropet innehöll en ogiltig parameter.</item>
+        <item>Ett databasfel inträffade vid bearbetningen av följande begäran: {0}</item>
+        <item>Ett API-anrop kastade ett databasfel.</item>
+        <item>Det går inte att använda jokertecken i de här autentiseringsuppgifterna.</item>
+        <item>Otillåten användning av jokertecken.</item>
+        <item>Ogiltigt jokertecken i parameterbegäran: {0}</item>
+        <item>Ogiltig användning av jokertecken i förfrågan.</item>
+        <item>En SOAP-begäran, där huvudet saknades eller var ogiltigt, togs emot.</item>
+        <item>En SOAP-begäran, där huvudet saknades eller var ogiltigt, togs emot.</item>
+        <item>Den SOAP-begäran som togs emot saknade en obligatorisk rubikparameter: {0}</item>
+        <item>En SOAP-begäran, där en rubikparameter saknades, togs emot.</item>
+        <item>En SOAP-begäran mottogs från följande IP-adress: {0}. Den här adressen får inte använda API:n.</item>
+        <item>En SOAP-begäran togs emot från en blockerad IP-adress.</item>
+        <item>API-åtkomst är inte aktiv för: {0}</item>
+        <item>API-åtkomst är inte aktiv</item>
+        <item>SOAP-begäran misslyckades på grund av en ej angiven orsak: {0}</item>
+        <item>SOAP-begäran misslyckades på grund av en ej angiven orsak</item>
+        <item>API-anropet till createAccountSubscription måste innehålla en av parametrarna AccountID eller MSISDN.</item>
+        <item>AccountID eller MSISDN saknades när createAccountSubscription anropades.</item>
+        <item>Användning av parametern Product i API-anropet listAccountSubscription kräver att minst en av MSISDN, AccountID eller GroupID anges.</item>
+        <item>listAccountSubscriptions anropades med en produktparameter, men utan någon ID-parameter.</item>
+        <item>De angivna kriterierna för identifiering av abonnemanget matchade flera poster. Ingen uppdatering gjordes.</item>
+        <item>Kriterierna för identifiering av abonnemanget matchar flera poster.</item>
+        <item>En ogiltig uppsättning ID-parametrar angavs.</item>
+        <item>En ogiltig uppsättning ID-parametrar angavs.</item>
+        <item>Ett API-anrop, utan några ingående fält som behövde uppdateras, gjordes till updateAccountSubscription.</item>
+        <item>Det finns inga angivna fält att uppdatera.</item>
+        <item>De angivna kriterierna för identifiering av abonnemanget matchar inte några poster. Ingen uppdatering gjordes.</item>
+        <item>Kriterierna för identifiering av abonnemanget matchar inga poster.</item>
+        <item>Användning av parametern Product i API-anropet deleteAccountSubscription kräver att minst en av MSISDN, AccountID eller GroupID anges.</item>
+        <item>deleteAccountSubscriptions anropades med en produktparameter, men utan någon ID-parameter.</item>
+        <item>De angivna kriterierna för identifiering av abonnemanget matchade flera poster. Ingen uppdatering gjordes.</item>
+        <item>Kriterierna för identifiering av abonnemanget matchar flera poster.</item>
+        <item>API-anropet till updateConnectorSubscription måste innehålla en av parametrarna SubscriptionId eller ConnectorId.</item>
+        <item>En ogiltig uppsättning ID-parametrar angavs.</item>
+        <item>Ett API-anrop, utan några fält som behövde uppdateras, gjordes till updateConnectorSubscription.</item>
+        <item>Det finns inga angivna fält att uppdatera.</item>
+        <item>De angivna kriterierna för identifiering av abonnemanget matchar inte några poster. Ingen uppdatering gjordes.</item>
+        <item>Kriterierna för identifiering av abonnemanget matchar inga poster.</item>
+        <item>Om ett API-anrop med CE som produkt görs till createPreProvisionedAccount, måste ett anslutnings-ID och märkes-ID för Internetleverantörens server anges. För alla andra produktvärden måste ett anslutnings-ID anges.</item>
+        <item>createPreProvisionedAccount anropades med ogiltiga parametrar.</item>
+        <item>Det angivna företagsnamnet kunde inte hittas i databasen, eller så matchar det anslutnings-ID som angetts inte någon Internetleverantör.</item>
+        <item>Det gick inte att hitta ett företag som använder sig av dessa parametrar.</item>
+        <item>Märkes-ID:t för Internetleverantörens server kunde inte hittas i databasen.</item>
+        <item>Märkes-ID:t för Internetleverantörens server kunde inte hittas i databasen.</item>
+        <item>Internetleverantörens server upptäckte att det angivna märkes-ID:t inte stöder den angivna produkttypen.</item>
+        <item>Internetleverantörens server upptäckte att det angivna märkes-ID:t inte stöder den angivna produkttypen.</item>
+        <item>Det finns flera matchande konton som kan uppdateras. Lösenordet kan inte uppdateras.</item>
+        <item>changeAccountPassword matchade fler än ett konto.</item>
+        <item>Det gick inte att hitta några konton som matchar uppdateringen. Inga lösenord kommer att uppdateras.</item>
+        <item>changeAccountPassword matchade inga konton.</item>
+        <item>Ett fel uppstod vid ett försök att uppdatera lösenordet. Felet orsakades troligen av ett ogiltigt lösenord.</item>
+        <item>Det gick inte att uppdatera lösenordet med changeAccountPassword.</item>
+        <item>En begäran om att lista användarinformation gjordes, men angivna parametrar matchar inte någon befintlig användare</item>
+        <item>getUserInformation kan inte att hitta användaren med de angivna parametrarna</item>
+        <item>isValidConnectorId gjorde ett anrop med ett ID som redan används.</item>
+        <item>Detta anslutnings-ID används redan.</item>
+        <item>runScript anropade det angivna SQL-skriptet med ogiltiga parametrar.</item>
+        <item>Ogiltiga parametrar för SQL-skript.</item>
+        <item>runScript anropade ett okänt SQL-skript.</item>
+        <item>Det gick inte att hitta något SQL-skript.</item>
+        <item>Funktionen för att skicka en länk för hämtning är inte aktiverad i API:n.</item>
+        <item>sendDownloadLink anropades när funktionen var inaktiverad.</item>
+        <item>En meddelandebegäran till en SMS-gateway misslyckades.</item>
+        <item>En meddelandebegäran till en SMS-gateway misslyckades.</item>
+        <item>Det gick inte att hitta en klient för de angivna parametrarna.</item>
+        <item>Det gick inte att hitta en klient för de angivna parametrarna.</item>
+        <item>E-posttestet misslyckades eftersom det inte gick att hitta den angivna e-postleverantören. Du behöver använda POP3, IMAP, POP3S, IMAPS, SMTP eller SMTPS beroende på vad din leverantör använder</item>
+        <item>Det gick inte att hitta e-postleverantören</item>
+        <item>E-posttestet misslyckades eftersom det inte gick att ansluta till den angivna servern. Kontrollera inställningarna för din e-postlåda</item>
+        <item>Anslutningen misslyckades</item>
+        <item>E-posttestet misslyckades eftersom det inte gick att ansluta till den angivna servern. Kontrollera inställningarna för din e-postlåda</item>
+        <item>Det gick inte att hitta inkorgen</item>
+        <item>E-posttestet misslyckades eftersom sökningen av meddelanden från inkorgen misslyckades. Kontrollera inställningarna för din e-postlåda</item>
+        <item>Det gick inte att göra en sökning i inkorgen</item>
+        <item>E-posttestet misslyckades på grund av en ogiltig e-postadress. Kontrollera den angivna e-postadressen</item>
+        <item>Ogiltig e-postadress</item>
+        <item>Den bifogade filen är större än den maximalt tillåtna storleken.</item>
+        <item>Den bifogade filen är för stor.</item>
+        <item>Meddelandetexten är för stor.</item>
+        <item>Meddelandetexten är för stor.</item>
+        <item>Försöket med att logga in misslyckades p.g.a ogiltig {0} och/eller Lösenord. Kontrollera {0} och lösenord innan du försöker igen.</item>
+        <item>Felaktig inloggning</item>
+        <item>Det gick inte att logga in på grund av ett ogiltigt {0}, lösenord eller felaktiga inställningar. Kontrollera ditt {0}, lösenord och inställningarna på Internet och försök igen.</item>
+        <item>Felaktig inloggning</item>
+        <item>Försöket med att logga in misslyckades p.g.a. ogiltig {0}. Kontrollera {0} och försök igen.</item>
+        <item>Det gick inte att hitta användaren</item>
+        <item>Det finns flera registreringar för det angivna användarnamnet. Kontrollera {0} och lösenord innan du försöker igen.</item>
+        <item>Det gick inte att hitta användaren</item>
+        <item>Det gick inte att hitta några inställningar för din e-postserver. Ange kontoinformationen på följande skärm.</item>
+        <item>Det går inte att hitta servern</item>
+        <item>Inloggningen misslyckades. Ange användarnamnet för ditt e-postkonto, om det inte är identiskt med din e-postadress.</item>
+        <item>Inloggningen misslyckades</item>
+        <item>Autentiseringen för det här kontot har misslyckats för många gånger. Vänta på att en upplåsning görs eller kontakta administratören.</item>
+        <item>Kontot har låsts</item>
+        <item>Telefonnumret är redan registrerat. Kontrollera att du har angett rätt telefonnummer eller kontakta din tjänsteleverantör för hjälp.</item>
+        <item>Det finns redan ett fördefinierat konto</item>
+        <item>Anslutningen har dirigerats om till en annan server för att ge bättre prestanda. Försök utföra den senaste åtgärden igen.</item>
+        <item>Omdirigerad</item>
+        <item>E-postservern är för tillfället inte tillgänglig. Försök igen senare.</item>
+        <item>Inloggningen misslyckades</item>
+        <item>E-posttestet misslyckades p.g.a. ett {0}-fel. Kontrollera inställningarna för din e-postlåda</item>
+        <item>Okänt fel</item>
+        <item>Autentiseringen för det här kontot har misslyckats alltför många gånger. Det går inte att göra fler inloggningar via den här anslutningen. Vänta på att en upplåsning görs eller kontakta administratören för anslutningen om du vill kunna göra fler försök att logga in.</item>
+        <item>Möjligheten att logga in har inaktiverats</item>
+        <item>Klicka på OK för att kontrollera {0} och Lösenord/kontrollera din RSA-token innan du försöker igen.</item>
+        <item>Felaktig RSA-inloggning</item>
+        <item>Den klient som du använder har inte certifierats av den här e-post-leverantören. Kontakta leverantören om du vill få en certifierad version.</item>
+        <item>Klienten är inte certifierad av den här Internetleverantören.</item>
+        <item>Den angivna Microsoft Exchange-serveradressen är inte en giltig webbadress. Kontrollera att adressen är korrekt och försök igen.</item>
+        <item>Microsoft Exchange-adress – ogiltig</item>
+        <item>Din leverantör finns som premiumtjänst. Återgå till listan över leverantörer och försök igen.</item>
+        <item>Den URL som har angetts får inte användas.</item>
+        <item>Den offentliga nyckeln för fjärrslutpunkten har ändrats. Det kan tyda på ett intrångsförsök. Data från fjärrslutpunkten har ignorerats.</item>
+        <item>Offentlig nyckel matchar inte.</item>
+        <item>Det går inte att logga in igen. Detta innebär att användaren inte kan skriva in de nya autentiseringsuppgifterna för att logga in igen till tjänsten. Någon annan typ av användaråtgärd krävs</item>
+        <item>Det går inte att logga in igen</item>
+        <item>Servern på den adress du angav är otillgänglig. Det går inte att använda Microsoft Exchange för att få tillgång till arbetsplatsens e-post om en VPN-/SSL-portal används. Välj OK för att ansluta till arbetsplatsens e-post med nästa anslutningsalternativ.</item>
+        <item>OWA-adress – svarar inte</item>
+        <item>Servern på den adress du angav är inte en Microsoft Exchange-server. Bekräfta din Microsoft Exchange-serveradress och försök igen.</item>
+        <item>Microsoft Exchange-adress – felaktig typ</item>
+        <item>Ditt lösenord har gått ut. Ändra lösenordet via datorn och försök igen med ditt nya lösenord.</item>
+        <item>Lösenordet har upphört</item>
+        <item>Du har nått gränsen för hur många telefoner du kan lägga till. Kontakta administratören.</item>
+        <item>För många telefoner</item>
+        <item>Det gick inte att logga in. Det finns ingen ID-fil för Notes. Kontakta administratören.</item>
+        <item>Det finns ingen ID-fil</item>
+        <item>Tjänsten som begärdes är inte tillgänglig för närvarande. Försök igen senare. Logga in på kontot via webbläsaren om problemet kvarstår.</item>
+        <item>Internetleverantörens tjänst är inte tillgänglig just nu</item>
+        <item>Webbinloggning krävs har returnerats från Internetleverantören. Logga in på kontot via webbläsaren.</item>
+        <item>Webbinloggning krävs</item>
+        <item>Ett Internetleverantörsfel har inträffat. Försök igen senare. Prova att logga in på kontot via webbläsaren om problemet kvarstår.</item>
+        <item>Ett fel har returnerats från Internetleverantören.</item>
+        <item>E-postlådan används för närvarande. Försök igen senare.</item>
+        <item>E-postlådan används för närvarande.</item>
+        <item>URL-flödet svarar inte. Korrigera URL:en och försök igen senare.</item>
+        <item>URL-flödet svarar inte.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Det går inte att skapa en anslutning till ditt Exchange Access-e-postkonto. Anslutningen återställs automatiskt. Om problemet kvarstår ber du IT-administratören om hjälp.</item>
+        <item>Anslutningsproblem</item>
+        <item>Det går inte att skapa en anslutning till ditt {0}-e-postkonto. Anslutningen återställs automatiskt. Om problemet kvarstår be {0} om hjälp.</item>
+        <item>Anslutningsproblem</item>
+        <item>Det gick inte att uppdatera kontot. Försök igen.</item>
+        <item>Uppdateringen misslyckades</item>
+        <item>XML i RPC-begäran var ogiltig.</item>
+        <item>Felaktig XML i RPC</item>
+        <item>Ett internt fel i XML RPC API har inträffat. Försök igen.</item>
+        <item>Internt fel i XML RPC API</item>
+        <item>Ogiltiga eller saknade parametrar i XML RPC-begäran. Kontrollera parametrar och deras värden.</item>
+        <item>Ogiltiga eller saknade parametrar</item>
+        <item>Det gick inte att spara dina data. Försök igen.</item>
+        <item>Databasfel</item>
+        <item>Det finns redan en organisation med det här namnet. Välj ett annat namn.</item>
+        <item>Organisationen finns redan</item>
+        <item>Det angivna anslutnings-ID:t används redan. Välj ett annat.</item>
+        <item>Namnet används redan</item>
+        <item>Det angivna användarnamnet används redan. Försök med ett annat användarnamn.</item>
+        <item>Användarnamnet används redan</item>
+        <item>Användaren finns redan.</item>
+        <item>Användaren finns redan</item>
+        <item>Det fördefinierade konto som du försökte skapa finns redan. Det befintliga kontot måste tas bort av anslutningsadministratören innan du kan lägga till ett nytt konto.</item>
+        <item>Det finns redan ett fördefinierat konto</item>
+        <item>Du har inte tillräcklig behörighet för att kunna utföra den här åtgärden.</item>
+        <item>Åtkomst nekad</item>
+        <item>Ditt abonnemang har upphört att gälla. Kontakta din leverantör för att förnya abonnemanget.</item>
+        <item>Det går inte att logga in</item>
+        <item>Ditt abonnemang tillåter inte att du lägger till fler konton. Du kan uppgradera ditt abonnemang på http://eu020.fra.samsungsocialhub.com.</item>
+        <item>Det går inte att logga in</item>
+        <item>Besök http://eu020.fra.samsungsocialhub.com för att abonnera på Social Hub.</item>
+        <item>Det går inte att logga in</item>
+        <item>Ett problem har uppstått med SSL-certifikatet på den här webbplatsen.</item>
+        <item>Certifikatsproblem</item>
+        <item>Den URL som angavs tillhör inte en giltig OWA-tjänst. Kontrollera URL:en och försök igen.</item>
+        <item>Ogiltig adress för tjänst</item>
+        <item>Denna URL är förkonfigurerad. Återgå till listan för förkonfigurerade leverantörer och markera din leverantör i listan.</item>
+        <item>Åtkomst nekad</item>
+        <item>Kontakten var offline när ett meddelande skulle skickas</item>
+        <item>Kontakten är offline</item>
+        <item>Kontakten blockerades när ett meddelande skulle skickas</item>
+        <item>Kontakten har blockerats</item>
+        <item>Överföringens filstorlek matchade inte värdet som angavs</item>
+        <item>Filstorleken matchar inte</item>
+        <item>Det maximala antalet p2p-sessioner har överskridits</item>
+        <item>Det maximala antalet p2p-sessioner har överskridits</item>
+        <item>Födelsedatum saknas</item>
+        <item>Födelsedatum saknas</item>
+        <item>Mottagaren stöder inte filöverföring</item>
+        <item>p2p-sessionen stöds inte</item>
+        <item>Användaren måste registrera sig för meddelandetjänsten</item>
+        <item>Registreringen har upphört att gälla</item>
+        <item>Begäran kan inte slutföras eftersom servern är upptagen. Försök igen senare</item>
+        <item>Servern är upptagen</item>
+        <item>VoiceClip stöds inte för den här konversationen</item>
+        <item>Röstklipp stöds inte</item>
+        <item>Det får bara finnas två deltagare i en konversation för en filöverföring</item>
+        <item>Det finns för många deltagare</item>
+        <item>Det finns inga deltagare i den angivna konversationen</item>
+        <item>Det finns inga deltagare</item>
+        <item>Användarens målsman tillåter inte meddelandeinloggning</item>
+        <item>Målsmans tillstånd krävs</item>
+        <item>Konversationens identifierare är ogiltig. Klientprogrammet bör lämna konversationen</item>
+        <item>Ogiltigt anrops-ID</item>
+        <item>Försökte skicka en inbjudningsbegäran och användarens närvarostatus (på klientenheten) har ställts in på offline</item>
+        <item>Användaren är offline</item>
+        <item>Försökte skicka en inbjudningsbegäran och lägga till en ogiltig användare</item>
+        <item>Okänd användare</item>
+        <item>Det gick inte att hitta någon konfiguration för den angivna e-postdomänen</item>
+        <item>Okänd Internetleverantör</item>
+        <item>Fel vid tokenbaserad autentisering hanteras annorlunda, därav det här felet.</item>
+        <item>Tokenbaserad autentisering misslyckades</item>
+        <item>Det krävs ett abonnemang för att använda den här tjänsten.</item>
+        <item>Abonnemang krävs</item>
+        <item>Det finns ingen tillgänglig Seven-tjänst.</item>
+        <item>Ingen tjänst tillgänglig</item>
+        <item>Du har loggats ut eftersom du loggat in på en annan dator eller enhet</item>
+        <item>Kontot övertogs</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Det gick inte att skapa ett konto vid registrering hos Ping</item>
+        <item>Det gick inte att skapa konto</item>
+        <item>Ogiltig tjänstnyckel vid registrering på värdserver</item>
+        <item>Ogiltig tjänstnyckel</item>
+        <item>Ogiltig tjänstbeskrivning vid registrering på värdserver</item>
+        <item>Ogiltig tjänstbeskrivning</item>
+        <item>Ogiltiga anpassade data vid registrering på värdserver</item>
+        <item>Ogiltiga anpassade data</item>
+        <item>Användaren har redan registrerats på värdservern</item>
+        <item>Användaren är redan registrerad</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Ett fel inträffade när tjänster skulle identifieras. Försök igen.</item>
+        <item>Begäran misslyckades</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Visa meddelandetext med mycket litet teckensnitt</item>
+        <item>Visa meddelandetext med litet teckensnitt</item>
+        <item>Visa meddelandetext med normalt teckensnitt</item>
+        <item>Visa meddelandetext med stort teckensnitt</item>
+        <item>Visa meddelandetext med mycket stort teckensnitt</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Visa 0 rader i meddelandeförhandsgranskningen</item>
+        <item>Visa 1 rad för meddelandeförhandsgranskning</item>
+        <item>Visa 2 rader i meddelandeförhandsgranskningen</item>
+        <item>Visa 3 rader i meddelandeförhandsgranskningen</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Google Översätt</item>
+        <item>Wikipedia</item>
+        <item>Ordbok</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Dela som text</item>
+        <item>Dela som bild</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Conexiune de date inexistentă timp de %s (de) minute</item>
+        <item quantity="one">Conexiune de date inexistentă timp de %s minute</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefonul va fi in modul de Apelare inversă de urgenţă timp de %s (de) minute. Aplicaţiile care utilizează conexiuni de date nu pot fi utilizate în acest mod. Ieşiţi acum?</item>
+        <item quantity="one">Telefonul va fi în modul de Apelare inversă de urgenţă timp de %s minut. Aplicaţiile care utilizează conexiuni de date nu pot fi utilizate în acest mod. Ieşiţi acum?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Acţiunea selectată nu este disponibilă în modul de Apelare inversă de urgenţă. Telefonul se va afla în acest mod timp de %s (de) minute. Ieşiţi acum?</item>
+        <item quantity="one">Acţiunea selectată nu este disponibilă în modul de Apelare inversă de urgenţă. Telefonul se va afla în acest mod timp de 1 minut. Ieşiţi acum?</item>
+    </plurals>
+</resources>

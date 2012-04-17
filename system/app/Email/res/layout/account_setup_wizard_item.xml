@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="95.0dip" android:layout_height="195.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/account_icon" android:layout_width="88.0dip" android:layout_height="84.0dip" />
+    <TextView android:textSize="18.0sp" android:typeface="sans" android:textColor="@color/account_setup_info_text_color" android:ellipsize="marquee" android:gravity="center" android:id="@id/provider_name" android:paddingTop="14.0dip" android:layout_width="88.0dip" android:layout_height="55.0dip" />
+</LinearLayout>

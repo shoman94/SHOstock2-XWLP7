@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/accountSetupInfoText" android:textSize="18.0dip" android:id="@id/instructions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="35.0dip" android:layout_marginBottom="23.0dip" android:text="@string/accounts_welcome" />
+    <View android:id="@id/seperator" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+    <TextView android:textSize="20.0sp" android:textColor="?android:textColorPrimary" android:id="@id/select_service" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="10.0dip" android:text="@string/account_select_service" />
+    <Spinner android:id="@id/spinner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="13.0dip" android:layout_marginRight="14.0dip" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/account_premium_table" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/account_premium_string" android:text="@string/set_as_premium_account" style="@style/accountSetup2LineTextStyle" />
+        <CheckBox android:id="@id/account_premium" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+    </LinearLayout>
+    <EditText android:id="@id/account_email" android:hint="@string/account_setup_basics_email_hint" android:maxLength="320" android:inputType="textEmailAddress" android:imeOptions="actionNext" style="@style/accountSetupEditFieldValueStyle" />
+    <EditText android:id="@id/account_password" android:nextFocusDown="@id/next" android:hint="@string/account_setup_basics_password_hint" android:maxLength="320" android:inputType="textPassword" android:imeOptions="actionDone" style="@style/accountSetupEditFieldValueStyle" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/show_password_table" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/show_password_string" android:text="@string/account_setup_basic_show_password" style="@style/accountSetup2LineTextStyle" />
+        <CheckBox android:id="@id/show_password" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+    </LinearLayout>
+    <View android:id="@id/top_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/account_default_table" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="22.0dip" android:id="@id/account_default_string" android:text="@string/account_setup_basics_default_label" style="@style/accountSetup2LineTextStyle" />
+        <CheckBox android:id="@id/account_default" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+    </LinearLayout>
+    <View android:id="@id/account_default_divider_1" android:background="@drawable/email_contents_line" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+</LinearLayout>

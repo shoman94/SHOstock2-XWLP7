@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Gelukt.</item>
+        <item>Geen fout</item>
+        <item>Gebruikerslimiet van {0} gebruiker(s) is overschreden</item>
+        <item>Gebruikerslimiet overschreden</item>
+        <item>Dubbele gebruiker: {0}</item>
+        <item>Dubbele gebruiker</item>
+        <item>Dubbel apparaat: {0}</item>
+        <item>Dubbel apparaat</item>
+        <item>Gebruiker is niet gevonden: {0}</item>
+        <item>Gebruiker is niet gevonden</item>
+        <item>Ongeldige datumnotatie: {0}. Verwacht wordt {1}.</item>
+        <item>Ongeldige datumnotatie</item>
+        <item>Ongeldige datumnotatie: {0}. Verwacht wordt {1}</item>
+        <item>Ongeldige datumnotatie</item>
+        <item>Ontbrekende vereiste parameter: {0}</item>
+        <item>Ontbrekende vereiste parameter</item>
+        <item>Er is een fout opgetreden. Probeer het opnieuw.</item>
+        <item>Interne fout</item>
+        <item>De opgegeven provisioning-ID {0} is niet gevonden bij de leveranciers waartoe de gebruiker toegang heeft.</item>
+        <item>Merk is niet gevonden</item>
+        <item>Geen vervaldatum opgegeven</item>
+        <item>Geen vervaldatum opgegeven</item>
+        <item>Toegang geweigerd</item>
+        <item>Toegang geweigerd</item>
+        <item>API-toegang is niet ingeschakeld voor: {0}</item>
+        <item>API-toegang is niet ingeschakeld</item>
+        <item>Er is een fout opgetreden. Probeer het opnieuw.</item>
+        <item>Fout door ongeldige aanvraag</item>
+        <item>Interne fout: {0}</item>
+        <item>Interne fout</item>
+        <item>Er bestaat al een abonnement met de opgegeven gegevens</item>
+        <item>Dubbel abonnement</item>
+        <item>Meerdere overeenkomende abonnementen gevonden</item>
+        <item>Meerdere overeenkomende abonnementen gevonden</item>
+        <item>Er is een fout opgetreden bij een poging om een sessie te starten. Probeer het opnieuw.</item>
+        <item>Verbindingsfout</item>
+        <item>Query {0} is niet gevonden</item>
+        <item>Query is niet gevonden</item>
+        <item>Niet-consistente parameters: {0} en {1}</item>
+        <item>Niet-consistente parameters</item>
+        <item>Ongeldige msisdn-notatie: {0}</item>
+        <item>Ongeldige msisdn-notatie</item>
+        <item>Ongeldige productparameter: {0}</item>
+        <item>Ongeldige productparameter</item>
+        <item>Uw connector kan niet worden gevonden. Controleer de Connector-ID die u hebt opgegeven.</item>
+        <item>Connector is niet gevonden</item>
+        <item>Abonnement niet gevonden</item>
+        <item>Abonnement niet gevonden</item>
+        <item>Er is een fout opgetreden bij het verzenden van gegevens. Probeer het opnieuw.</item>
+        <item>Gegevensfout</item>
+        <item>Replicatieaanroep naar AOM-platform is mislukt</item>
+        <item>Replicatieaanroep naar AOM-platform is mislukt</item>
+        <item>Uw actie duurde te lang en er is een time-out opgetreden. Probeer het opnieuw.</item>
+        <item>Time-out</item>
+        <item>Kan geen verbinding maken met uw e-mailaccount. De verbinding hoort automatisch te worden hervat. Controleer de netwerkinstellingen of neem contact op met uw IT-beheerder als het probleem zich blijft voordoen.</item>
+        <item>Verbindingsprobleem</item>
+        <item>Het netwerk is tijdelijk niet beschikbaar of de telefoon bevindt zich in vliegtuigmodus. De verbinding wordt automatisch hersteld zodra het netwerk weer beschikbaar is.</item>
+        <item>Verbinding mislukt</item>
+        <item>De server is momenteel bezet. Probeer het opnieuw.</item>
+        <item>Server bezet</item>
+        <item>Algemene fout bij IPC-aanvraag</item>
+        <item>IPC-aanvraag is mislukt</item>
+        <item>Verificatie mislukt voor: {0}</item>
+        <item>Verificatie is mislukt</item>
+        <item>Neem contact op met uw serviceprovider voor een geldige licentie.</item>
+        <item>Licentie niet geaccepteerd</item>
+        <item>Client-ID is niet gevonden in sms-inhoud</item>
+        <item>Client-ID niet gevonden in sms-inhoud</item>
+        <item>Er is geen client gevonden met client-ID ({0}).</item>
+        <item>Er is geen client gevonden met de opgegeven client-ID</item>
+        <item>Opgegeven MSISDN-informatie is ongeldig of ontbreekt: {0}</item>
+        <item>MSISDN-informatie niet opgegeven of ongeldig.</item>
+        <item>Ongeldige MSISDN-notatie: {0}. Een numerieke waarde wordt verwacht.</item>
+        <item>Ongeldige MSISDN-notatie</item>
+        <item>Ongeldige notatie voor Client-ID: {0}. Een numerieke waarde wordt verwacht.</item>
+        <item>Ongeldige notatie van Client-ID</item>
+        <item>Verwachte kostenkoptekst is niet gevonden in de validatieaanvraag</item>
+        <item>Validatie van kostenkoptekst is mislukt</item>
+        <item>MSISDN {0} bestaat al in het systeem.</item>
+        <item>MSISDN bestaat al</item>
+        <item>MSISDN {0} bestaat niet in het systeem.</item>
+        <item>MSISDN bestaat niet</item>
+        <item>Geef uw tijdelijke wachtwoord op om deze [connector] opnieuw te installeren.</item>
+        <item>Wachtwoord vereist</item>
+        <item>De ID die u hebt geselecteerd, wordt al gebruikt. Selecteer een andere ID.</item>
+        <item>ID wordt al gebruikt</item>
+        <item>Het tijdelijke wachtwoord dat is verstrekt, is onjuist.</item>
+        <item>Verbindingsfout</item>
+        <item>Connector is uitgeschakeld.</item>
+        <item>Connector uitgeschakeld</item>
+        <item>De service is niet ingeschakeld</item>
+        <item>Service is niet ingeschakeld</item>
+        <item>De verstrekte productversie komt niet overeen met de versie die is geïnstalleerd op de relay</item>
+        <item>Productversie komt niet overeen</item>
+        <item>Transactie mislukt door onbekende oorzaak: {0}</item>
+        <item>Transactie is mislukt door onbekende oorzaak</item>
+        <item>Verificatie is mislukt voor: {0}</item>
+        <item>Verificatie is mislukt</item>
+        <item>Toegang niet toegestaan voor: {0}</item>
+        <item>Toegang niet toegestaan</item>
+        <item>Gebruikersaccount {0} is geblokkeerd</item>
+        <item>Account geblokkeerd</item>
+        <item>Enkele transacties uit een batch zijn mislukt.</item>
+        <item>Enkele transacties uit een batch zijn mislukt.</item>
+        <item>Lijstaanroep heeft {0} records geretourneerd. De limiet is {1}.</item>
+        <item>Retourlijst is te groot</item>
+        <item>Batchaanroep vroeg om {0} transacties. De limiet is echter {1}.</item>
+        <item>Aanvraag voor batchtransactie is te groot</item>
+        <item>De API-aanroep is gemaakt met een ontbrekende verplichte parameter: {0}</item>
+        <item>In API-aanroep ontbreekt vereiste parameter.</item>
+        <item>Parameter {0} is ongeldig voor deze API-aanroep.</item>
+        <item>API-aanroep bevat een ongeldige parameter.</item>
+        <item>Er is een databasefout opgetreden tijdens het verwerken van deze aanvraag: {0}</item>
+        <item>Databasefout opgetreden door API-aanroep</item>
+        <item>Er kunnen geen jokertekens worden gebruikt met deze toegangsreferenties.</item>
+        <item>Ongeldig gebruik van jokertekens.</item>
+        <item>Ongeldig jokerteken in aanvraagparameter: {0}</item>
+        <item>Ongeldige jokertekens in aanvraag.</item>
+        <item>SOAP-aanvraag ontvangen met ontbrekende of ongeldige koptekst.</item>
+        <item>SOAP-aanvraag ontvangen met ontbrekende of ongeldige koptekst.</item>
+        <item>De SOAP-aanvraag is ontvangen met een ontbrekende verplichte koptekstparameter: {0}</item>
+        <item>SOAP-aanvraag ontvangen met ontbrekende koptekstparameter.</item>
+        <item>De SOAP-aanvraag is ontvangen van IP-adres: {0}. Dit adres mag de API niet gebruiken.</item>
+        <item>SOAP-aanvraag ontvangen van een geblokkeerd IP-adres.</item>
+        <item>API-toegang is niet ingeschakeld voor: {0}</item>
+        <item>API-toegang is niet ingeschakeld</item>
+        <item>SOAP-aanvraag mislukt door onbekende oorzaak: {0}</item>
+        <item>SOAP-aanvraag is mislukt door onbekende oorzaak</item>
+        <item>De createAccountSubscription API-aanroep vereist de parameter AccountID of MSISDN.</item>
+        <item>createAccountSubscription aangeroepen zonder AccountID of MSISDN.</item>
+        <item>Om de parameter Product te kunnen gebruiken in de listAccountSubscription API-aanroep moet ten minste een van de volgende nummers worden opgegeven: MSISDN, AccountID en GroupID.</item>
+        <item>listAccountSubscriptions is aangeroepen met parameter Product maar zonder parameter-ID.</item>
+        <item>Opgegeven identificatiecriteria voor abonnement komen overeen met meerdere records. Update is niet verwerkt.</item>
+        <item>Identificatiecriteria voor abonnement komen overeen met meerdere records.</item>
+        <item>Er is een ongeldige set identificatieparameters verstrekt.</item>
+        <item>Er is een ongeldige set ID-parameters verstrekt.</item>
+        <item>De updateAccountSubscription API-aanroep is gedaan, zonder velden om bij te werken.</item>
+        <item>Geen velden opgegeven voor update.</item>
+        <item>Opgegeven identificatiecriteria voor abonnement komen niet overeen met een record. Update is niet verwerkt.</item>
+        <item>Identificatiecriteria voor abonnement komen niet overeen met een record.</item>
+        <item>Om de parameter Product te kunnen gebruiken in de deleteAccountSubscription API-aanroep moet ten minste een van de volgende nummers worden opgegeven: MSISDN, AccountID en GroupID.</item>
+        <item>deleteAccountSubscriptions is aangeroepen met parameter Product maar geen parameter ID.</item>
+        <item>Opgegeven identificatiecriteria voor abonnement komen overeen met meerdere records. Update is niet verwerkt.</item>
+        <item>Identificatiecriteria voor abonnement komen overeen met meerdere records.</item>
+        <item>De updateConnectorSubscription API-aanroep vereist de parameter SubscriptionId of ConnectorId.</item>
+        <item>Er is een ongeldige set ID-parameters verstrekt.</item>
+        <item>De updateConnectorSubscription API-aanroep is gedaan, zonder velden om bij te werken.</item>
+        <item>Geen velden opgegeven voor update.</item>
+        <item>Opgegeven identificatiecriteria voor abonnement komen met geen records overeen. Update is niet verwerkt.</item>
+        <item>Identificatiecriteria voor abonnement komen niet overeen met een record.</item>
+        <item>Als de createPreProvisionedAccount API-aanroep is gemaakt met CE als product, moet er een provisioning-ID en merk-ID voor de ISP-server worden opgegeven. Als het een ander product betreft, moet er een connector-ID worden opgegeven.</item>
+        <item>createPreProvisionedAccount aangeroepen met ongeldige parameters.</item>
+        <item>De opgegeven bedrijfsnaam is niet gevonden in de database of de opgegeven provisioning-ID komt niet overeen met een ISP-bedrijf.</item>
+        <item>Kan geen bedrijf vinden met behulp van de parameters.</item>
+        <item>Merk-ID van ISP-server is niet gevonden in de database.</item>
+        <item>Merk-ID van ISP-server is niet gevonden in de database.</item>
+        <item>De ISP-server die is gevonden voor de ID van het inputmerk, ondersteunt het opgegeven producttype niet.</item>
+        <item>De ISP-server die is gevonden voor de ID van het inputmerk, ondersteunt het opgegeven producttype niet.</item>
+        <item>Meer dan een account komt overeen voor update. Wachtwoord kan niet worden bijgewerkt.</item>
+        <item>changeAccountPassword komt overeen met meer dan een account.</item>
+        <item>Er zijn geen accounts gevonden die overeenkomen voor update. Er wordt geen wachtwoord bijgewerkt.</item>
+        <item>changeAccountPassword komt niet overeen met een account.</item>
+        <item>Er is een fout opgetreden bij een poging het wachtwoord bij te werken, mogelijk veroorzaakt door een ongeldig wachtwoord.</item>
+        <item>changeAccountPassword kan het wachtwoord niet bijwerken.</item>
+        <item>A request made for listing user information but given parameters do not match any existing user</item>
+        <item>getUserInformation cannot find user with given parameters</item>
+        <item>isValidConnectorId is aangeroepen met een ID die al wordt gebruikt.</item>
+        <item>Connector-ID wordt al gebruikt.</item>
+        <item>runScript aangeroepen met ongeldige parameters voor opgegeven SQL-script.</item>
+        <item>Ongeldige parameters voor SQL-script</item>
+        <item>runScript heeft onbekend SQL-script aangeroepen.</item>
+        <item>SQL-script is niet gevonden.</item>
+        <item>Het verzenden van een downloadkoppeling is niet ingeschakeld in API.</item>
+        <item>sendDownloadLink aangeroepen wanneer functie niet is ingeschakeld.</item>
+        <item>Berichtaanvraag naar sms-gateway is mislukt.</item>
+        <item>Berichtaanvraag naar sms-gateway is mislukt.</item>
+        <item>Er kan geen client worden gevonden voor de opgegeven parameters.</item>
+        <item>Er kan geen client worden gevonden voor de opgegeven parameters.</item>
+        <item>E-mailtest is mislukt omdat de opgegeven e-mailprovider niet is gevonden. U moet POP3, IMAP, POP3S, IMAPS, SMTP of SMTPS gebruiken als de provider</item>
+        <item>E-mailprovider niet gevonden</item>
+        <item>E-mailtest is mislukt omdat de verbinding naar de opgegeven e-mailserver is mislukt. Controleer de instellingen van uw postvak</item>
+        <item>Verbinding is mislukt</item>
+        <item>E-mailtest is mislukt omdat de verbinding naar de opgegeven e-mailserver is mislukt. Controleer de instellingen van uw postvak</item>
+        <item>Postvak IN is niet gevonden</item>
+        <item>E-mailtest is mislukt omdat zoeken naar bericht vanuit Postvak IN is mislukt. Controleer de instellingen van uw postvak.</item>
+        <item>Zoeken in Postvak IN mislukt</item>
+        <item>E-mailtest is mislukt vanwege ongeldig e-mailadres. Controleer het opgegeven e-mailadres</item>
+        <item>Ongeldig e-mailadres</item>
+        <item>Bijlage is te groot.</item>
+        <item>De bijlage is te groot.</item>
+        <item>De tekst van het bericht is te lang.</item>
+        <item>Tekst is te groot.</item>
+        <item>De aanmeldpoging is mislukt vanwege een ongeldige {0} en/of wachtwoord. Controleer uw {0} en wachtwoord en probeer het opnieuw.</item>
+        <item>Aanmelding onjuist</item>
+        <item>Uw poging om in te loggen is mislukt door een onjuist {0}, wachtwoord of onjuiste instellingen. Controleer uw {0}, wachtwoord en internetinstellingen en probeer het opnieuw.</item>
+        <item>Aanmelding onjuist</item>
+        <item>De aanmeldpoging is mislukt vanwege een ongeldige {0}. Controleer uw {0} en probeer het opnieuw.</item>
+        <item>Gebruiker is niet gevonden</item>
+        <item>Er zijn meerdere registraties voor de gebruikersnaam die u hebt opgegeven. Controleer uw {0} en wachtwoord en probeer het opnieuw.</item>
+        <item>Gebruiker is niet gevonden</item>
+        <item>Er zijn geen instellingen voor uw e-mailserver gevonden. Geef uw accountgegevens op in het volgende scherm.</item>
+        <item>Server is niet gevonden</item>
+        <item>Aanmelding is mislukt. Geef bij uw e-mailaccount uw gebruikersnaam op als deze niet hetzelfde is als uw e-mailadres.</item>
+        <item>Aanmelding is mislukt</item>
+        <item>Verificatie met dit account is te vaak mislukt. Wacht tot de vergrendeling van het account is opgeheven of neem contact op met de beheerder.</item>
+        <item>Account vergrendeld</item>
+        <item>Dit telefoonnummer is al geregistreerd. Controleer of u het juiste telefoonnummer hebt opgegeven of neem contact op met uw serviceprovider voor hulp.</item>
+        <item>Vooraf geconfigureerd account bestaat al.</item>
+        <item>De verbinding is naar een andere server omgeleid voor betere prestaties. Probeer de laatste actie opnieuw.</item>
+        <item>Omgeleid</item>
+        <item>De e-mailserver is momenteel niet beschikbaar. Probeer het later opnieuw.</item>
+        <item>Aanmelding is mislukt</item>
+        <item>E-mailtest mislukt vanwege een onbekende fout. Controleer de instellingen van uw postvak.</item>
+        <item>Onbekende fout</item>
+        <item>Verificatie van dit account is te vaak mislukt. Verdere aanmeldingspogingen worden geblokkeerd vanaf de connector. Wacht tot de blokkering is opgeheven of neem contact op met de connectorbeheerder om verdere aanmeldingspogingen toe te staan.</item>
+        <item>Aanmeldingen uitgeschakeld</item>
+        <item>Klik op OK om uw {0} en wachtwoord te controleren/controleer uw RSA-token voordat u het opnieuw probeert.</item>
+        <item>RSA-aanmelding onjuist</item>
+        <item>De clientversie die u gebruikt, is niet gecertificeerd door deze e-mailprovider. Neem contact op met uw provider voor een gecertificeerde clientversie.</item>
+        <item>Client is niet gecertificeerd voor deze ISP.</item>
+        <item>Het opgegeven adres van de Microsoft Exchange-server is geen geldig webadres. Controleer het adres en probeer het opnieuw.</item>
+        <item>Microsoft Exchange-adres - ongeldig</item>
+        <item>Uw provider is beschikbaar als een premium-service. Ga terug naar de lijst met providers en selecteer opnieuw.</item>
+        <item>De opgegeven URL is niet toegestaan.</item>
+        <item>De openbare sleutel van het externe eindpunt is gewijzigd. Dit kan wijzen op een inbraakpoging. Gegevens van externe eindpunt zijn genegeerd.</item>
+        <item>Openbare sleutel komt niet overeen.</item>
+        <item>Opnieuw aanmelden niet mogelijk. Dit geeft aan dat de gebruiker niet de nieuwe referenties kan typen om zich opnieuw aan te melden bij de service, maar dat er een andere actie is vereist van de gebruiker.</item>
+        <item>Opnieuw aanmelden niet mogelijk</item>
+        <item>De server op het opgegeven adres reageert niet. Microsoft Exchange kan niet worden gebruikt voor zakelijke e-mail als een VPN/SSL-portal wordt gebruikt. Kies OK voor toegang tot uw zakelijke e-mail met de volgende verbindingsoptie.</item>
+        <item>OWA-adres - reageert niet</item>
+        <item>De server op het opgegeven adres is geen Microsoft Exchange-server. Controleer het adres van uw Microsoft Exchange-server en probeer het opnieuw.</item>
+        <item>Microsoft Exchange-adres - onjuist type</item>
+        <item>Uw wachtwoord is verlopen. Wijzig uw wachtwoord op uw pc en probeer het opnieuw met uw nieuwe wachtwoord.</item>
+        <item>Wachtwoord verlopen</item>
+        <item>U hebt de limiet bereikt voor de telefoons die u kunt configureren. Neem contact op met uw beheerder.</item>
+        <item>Te veel telefoons</item>
+        <item>Er is geen bestand voor Notes-ID beschikbaar. Kan niet aanmelden. Neem contact op met de beheerder.</item>
+        <item>Geen ID-bestand beschikbaar</item>
+        <item>De aangevraagde service is tijdelijk niet beschikbaar. Probeer het later opnieuw. Meld u aan bij uw account met de webbrowser als het probleem zich blijft voordoen.</item>
+        <item>ISP-service tijdelijk niet beschikbaar</item>
+        <item>Webaanmelding vereist geretourneerd door ISP. Meld u aan bij uw account met de webbrowser.</item>
+        <item>Aanmelden via web is vereist</item>
+        <item>Er is een ISP-fout opgetreden. Probeer het later opnieuw. Meld u aan met de webbrowser als het probleem zich blijft voordoen.</item>
+        <item>Fout geretourneerd door ISP.</item>
+        <item>Mailbox is currently in use. Please try again later.</item>
+        <item>Mailbox is currently in use.</item>
+        <item>No answer for this feed url. Please correct the url or try again later.</item>
+        <item>No answer for this feed url.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Kan geen verbinding maken met uw Exchange Access-e-mail. De verbinding hoort automatisch te worden hervat. Als het probleem zich blijft voordoen, kunt u contact opnemen met uw IT-beheerder voor hulp.</item>
+        <item>Verbindingsprobleem</item>
+        <item>Kan geen verbinding maken met uw {0}-e-mail. De verbinding hoort automatisch te worden hervat. Als het probleem zich blijft voordoen, kunt u contact opnemen met {0} voor hulp.</item>
+        <item>Verbindingsprobleem</item>
+        <item>Uw poging tot het bijwerken van het account is mislukt. Probeer het opnieuw.</item>
+        <item>Bijwerken mislukt</item>
+        <item>De XML in de RPC-aanvraag is ongeldig.</item>
+        <item>Onjuist gevormde XML in RPC</item>
+        <item>Er is een interne fout in XML RPC API opgetreden. Probeer het opnieuw.</item>
+        <item>Interne fout in XML RPC API</item>
+        <item>Ongeldige of ontbrekende parameters in de XML RPC-aanvraag. Controleer de parameters en hun waarden.</item>
+        <item>Ongeldige of ontbrekende parameters</item>
+        <item>Service kan uw gegevens niet opslaan. Probeer het opnieuw.</item>
+        <item>Databasefout</item>
+        <item>Er bestaat al een organisatie met deze naam. Selecteer een andere naam.</item>
+        <item>Organisatie bestaat al</item>
+        <item>De connector-ID die u hebt opgegeven, wordt al gebruikt. Selecteer een andere connector-ID.</item>
+        <item>Naam wordt al gebruikt</item>
+        <item>De gebruikersnaam die u hebt opgegeven, wordt al gebruikt. Selecteer een andere gebruikersnaam.</item>
+        <item>Gebruikersnaam wordt al gebruikt</item>
+        <item>Deze gebruiker bestaat al.</item>
+        <item>Gebruiker bestaat al</item>
+        <item>Het vooraf geconfigureerde account dat u probeert te maken, bestaat al. Het bestaande account moet worden verwijderd door de Connector-beheerder voordat er een nieuw account wordt toegevoegd.</item>
+        <item>Vooraf geconfigureerd account bestaat al</item>
+        <item>U beschikt niet over voldoende toegangsrechten om deze bewerking uit te voeren.</item>
+        <item>Toegang geweigerd</item>
+        <item>Uw abonnement is verlopen. Neem contact op met uw provider om het abonnement te verlengen.</item>
+        <item>Kan niet aanmelden</item>
+        <item>Uw abonnement staat het toevoegen van meer accounts niet toe. Ga naar http://eu020.fra.samsungsocialhub.com om uw abonnement bij te werken.</item>
+        <item>Kan niet aanmelden</item>
+        <item>Ga naar http://eu020.fra.samsungsocialhub.com om een abonnement te nemen op Social Hub.</item>
+        <item>Kan niet aanmelden</item>
+        <item>Er is een probleem opgetreden met het SSL-certificaat op deze site.</item>
+        <item>Probleem met certificaat</item>
+        <item>Opgegeven URL hoort niet bij een geldige Outlook Web Access-service. Controleer de URL en probeer het opnieuw.</item>
+        <item>Ongeldig service-adres</item>
+        <item>Deze URL is vooraf geconfigureerd. Ga terug naar de lijst met vooraf geconfigureerde providers en selecteer daar uw provider.</item>
+        <item>Toegang geweigerd</item>
+        <item>Contact was offline toen er werd geprobeerd een bericht te verzenden</item>
+        <item>Contact offline</item>
+        <item>Contact was geblokkeerd toen er werd geprobeerd een bericht te verzenden</item>
+        <item>Contact is geblokkeerd</item>
+        <item>Bestandsgrootte in bestandsoverdracht komt niet overeen met de opgegeven waarde</item>
+        <item>Bestandsgrootte komt niet overeen</item>
+        <item>Max p2p-sessie overschreden</item>
+        <item>Max p2p-sessie overschreden</item>
+        <item>Geboortedatum ontbreekt</item>
+        <item>Geboortedatum ontbreekt</item>
+        <item>De ontvanger ondersteunt geen bestandsoverdracht</item>
+        <item>p2p-sessie wordt niet ondersteund</item>
+        <item>De gebruiker moet zich registreren bij de berichtenservice</item>
+        <item>Registratie is verlopen</item>
+        <item>De aanvraag kan niet worden uitgevoerd omdat de server bezet is. Probeer het later opnieuw</item>
+        <item>Server bezet</item>
+        <item>VoiceClip wordt niet ondersteund voor dit gesprek</item>
+        <item>Voiceclip niet ondersteund</item>
+        <item>Er zijn slechts twee deelnemers toegestaan in een gesprek bij een bestandsoverdracht</item>
+        <item>Te veel deelnemers</item>
+        <item>Er zijn geen deelnemers in het opgegeven gesprek</item>
+        <item>Geen deelnemers aanwezig</item>
+        <item>Aanmelden bij chatten wordt niet toegestaan door de ouder van de gebruiker</item>
+        <item>Toestemming van ouder vereist</item>
+        <item>De gespreks-ID is ongeldig. De clienttoepassing moet dit gesprek staken</item>
+        <item>Bel-ID ongeldig</item>
+        <item>Er was een poging voor een uitnodigingsaanvraag en de aanwezigheidsstatus van de gebruiker (op het clientapparaat) is ingesteld op Offline</item>
+        <item>Gebruiker offline</item>
+        <item>Een aanvraag voor een uitnodiging heeft geprobeerd een ongeldige gebruiker toe te voegen</item>
+        <item>Onbekende gebruiker</item>
+        <item>Er is geen configuratie gevonden voor het opgegeven e-maildomein</item>
+        <item>Onbekende ISP</item>
+        <item>Op tokens gebaseerde verificatiefouten worden op een andere manier verwerkt, vandaar deze fout.</item>
+        <item>Verificatie op basis van token mislukt</item>
+        <item>Er is een abonnement nodig om deze service te gebruiken.</item>
+        <item>Abonnement vereist</item>
+        <item>Er is geen Seven-service beschikbaar.</item>
+        <item>Geen service beschikbaar</item>
+        <item>U bent afgemeld omdat u zich hebt aangemeld op een andere computer of ander apparaat</item>
+        <item>Account is overgenomen</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Maken van account is mislukt bij registreren op Ping</item>
+        <item>Kan account niet maken</item>
+        <item>Ongeldige servicesleutel bij registreren op hostserver</item>
+        <item>Ongeldige servicesleutel</item>
+        <item>Ongeldige servicedescriptor bij registreren op hostserver</item>
+        <item>Ongeldige servicedescriptor</item>
+        <item>Ongeldige aangepaste gegevens bij registreren op hostserver</item>
+        <item>Ongeldige aangepaste gegevens</item>
+        <item>De gebruiker is al geregistreerd op de hostserver</item>
+        <item>Reeds geregistreerde gebruiker</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Er is een fout opgetreden bij het detecteren van services. Probeer het opnieuw.</item>
+        <item>Aanvraag is mislukt</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Berichttekst weergeven in zeer klein lettertype</item>
+        <item>Berichttekst weergeven in klein lettertype</item>
+        <item>Berichttekst weergeven in normaal lettertype</item>
+        <item>Berichttekst weergeven in groot lettertype</item>
+        <item>Berichttekst weergeven in zeer groot lettertype</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>0 regels weergeven in berichtvoorbeeld</item>
+        <item>1 regel weergeven in berichtvoorbeeld</item>
+        <item>2 regels weergeven in berichtvoorbeeld</item>
+        <item>3 regels weergeven in berichtvoorbeeld</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Vertalen via Google</item>
+        <item>Wikipedia</item>
+        <item>Woordenboek</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Delen als tekst</item>
+        <item>Delen als afbeelding</item>
+    </string-array>
+</resources>

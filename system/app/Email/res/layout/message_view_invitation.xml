@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/invite_section" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="20.0dip" android:textColor="@color/detailview_invite_text_color" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/going" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_marginLeft="3.0dip" android:layout_marginRight="3.0dip" android:text="@string/message_view_invite_text" android:singleLine="true" android:layout_above="@id/accept" />
+    <Button android:textSize="20.0dip" android:textColor="@color/detailview_invite_text_color" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/deleteCalEvent" android:background="@drawable/email_text_bg" android:paddingLeft="11.0dip" android:paddingRight="3.0dip" android:layout_width="fill_parent" android:layout_height="68.0dip" android:text="@string/message_view_invite_delete" android:singleLine="true" />
+    <View android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:orientation="vertical" android:id="@id/response_options_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="@drawable/email_text_bg" android:paddingLeft="4.0dip" android:paddingRight="3.0dip" android:layout_width="fill_parent" android:layout_height="68.0dip">
+            <CheckBox android:textSize="20.0dip" android:textColor="@color/detailview_invite_text_color" android:ellipsize="end" android:id="@id/accept" android:paddingLeft="50.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/message_view_invite_accept" android:singleLine="true" />
+        </LinearLayout>
+        <View android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="@drawable/email_text_bg" android:paddingLeft="4.0dip" android:paddingRight="3.0dip" android:layout_width="fill_parent" android:layout_height="68.0dip">
+            <CheckBox android:textSize="20.0dip" android:textColor="@color/detailview_invite_text_color" android:ellipsize="end" android:id="@id/maybe" android:paddingLeft="50.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/message_view_invite_maybe" android:singleLine="true" />
+        </LinearLayout>
+        <View android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="@drawable/email_text_bg" android:paddingLeft="4.0dip" android:paddingRight="3.0dip" android:layout_width="fill_parent" android:layout_height="68.0dip">
+            <CheckBox android:textSize="20.0dip" android:textColor="@color/detailview_invite_text_color" android:ellipsize="end" android:id="@id/decline" android:paddingLeft="50.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/message_view_invite_decline" android:singleLine="true" />
+        </LinearLayout>
+        <View android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="@drawable/email_text_bg" android:paddingLeft="4.0dip" android:paddingRight="3.0dip" android:layout_width="fill_parent" android:layout_height="68.0dip">
+            <CheckBox android:textSize="20.0dip" android:textColor="@color/detailview_invite_text_color" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/propose_new_time" android:paddingLeft="50.0dip" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/message_view_invite_propose_new_time" android:singleLine="true" />
+        </LinearLayout>
+        <View android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    </LinearLayout>
+    <Button android:textSize="20.0dip" android:textColor="@color/detailview_invite_text_color" android:ellipsize="end" android:gravity="center_vertical" android:orientation="vertical" android:id="@id/invite_link" android:background="@drawable/email_text_bg" android:paddingLeft="11.0dip" android:layout_width="fill_parent" android:layout_height="68.0dip" android:text="@string/message_view_invite_view" android:singleLine="true" />
+</LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingBottom="6.669983dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/list_divider" android:background="@color/list_divider_color" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <include android:id="@id/header" android:visibility="gone" layout="@layout/select_contact_title_header" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:paddingTop="8.669983dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="6.669983dip">
+            <TextView android:textAppearance="@style/TwTextAppearanceListTwoLineSecondary1" android:id="@id/upper_text" android:paddingLeft="13.329987dip" android:paddingRight="11.329987dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="58.669983dip" android:layout_marginBottom="4.0dip" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="58.669983dip">
+                <TextView android:textAppearance="@style/TwTextAppearanceListTwoLinePrimary" android:layout_gravity="center_vertical" android:id="@id/main_text" android:paddingLeft="13.329987dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <TextView android:textAppearance="@style/TwTextAppearanceListTwoLinePrimary" android:layout_gravity="center_vertical" android:id="@id/note_text" android:paddingLeft="13.329987dip" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="right|center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="6.669983dip">
+            <CheckBox android:gravity="center_vertical" android:id="@id/select_list_row_checkbox" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="12.0dip" android:scaleType="centerInside" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

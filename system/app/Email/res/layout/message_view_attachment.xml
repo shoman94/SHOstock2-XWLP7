@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="68.0px"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:orientation="horizontal" android:background="@drawable/email_text_bg" android:layout_width="fill_parent" android:layout_height="42.0dip">
+        <ImageView android:id="@id/attachment_icon" android:layout_width="48.0px" android:layout_height="48.0px" android:layout_marginLeft="20.0px" android:layout_marginTop="10.0px" android:layout_marginRight="10.0px" android:layout_marginBottom="10.0px" android:src="@drawable/icon_attach" android:scaleType="fitCenter" android:layout_weight="0.0" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="68.0px">
+            <RelativeLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginTop="10.0px" android:layout_marginRight="10.0px" android:layout_marginBottom="8.0px" android:layout_weight="1.0">
+                <ProgressBar android:gravity="center" android:id="@id/progress" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="15.0px" android:layout_marginTop="2.0px" android:max="100" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" style="?android:attr/progressBarStyleHorizontal" />
+                <TextView android:textSize="24.0px" android:textColor="@color/text_black_color" android:gravity="bottom|right|center" android:id="@id/attachment_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_above="@id/progress" android:layout_alignParentRight="true" />
+                <TextView android:textSize="24.0px" android:textColor="@color/text_black_color" android:ellipsize="middle" android:gravity="bottom|left|center" android:id="@id/attachment_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_toLeftOf="@id/attachment_info" android:layout_above="@id/progress" android:layout_alignParentLeft="true" />
+            </RelativeLayout>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="4.0px">
+                <ImageButton android:layout_gravity="center" android:id="@id/saveicon" android:background="@drawable/message_view_attach_save_icon_selector" android:layout_width="52.0px" android:layout_height="50.0px" android:layout_marginTop="8.0px" android:layout_marginBottom="8.0px" />
+                <Button android:textSize="24.0px" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center" android:id="@id/cancel" android:background="@drawable/winset_button" android:padding="0.0dip" android:visibility="gone" android:layout_width="52.0px" android:layout_height="47.0px" android:layout_marginLeft="4.0px" android:text="@string/message_view_attachment_cancel_action" android:singleLine="true" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

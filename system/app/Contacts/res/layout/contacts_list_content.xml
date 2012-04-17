@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:id="@id/search_bar_layout" android:visibility="gone" layout="@layout/tw_contacts_search_bar" />
+        <include android:id="@id/contacts_unavailable_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" layout="@layout/tw_contacts_list_unavailable_view" />
+        <include android:id="@id/empty_view" android:visibility="gone" layout="@layout/tw_common_empty_item_layout" />
+        <FrameLayout android:id="@id/list_content_frame" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <LinearLayout android:orientation="vertical" android:id="@id/pinned_header_list_layout" android:background="?contact_browser_background" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:orientation="vertical" android:id="@id/account_filter_header_container" android:background="@drawable/account_filter_header_background" android:paddingTop="@dimen/contact_browser_list_top_margin" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="@dimen/contact_browser_list_header_right_margin" android:minHeight="@dimen/contact_browser_list_header_height">
+                    <TextView android:textAppearance="@style/TwMainListAccountFilterHeaderTextAppearance" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/account_filter_header" android:paddingLeft="?list_item_header_text_indent" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="0.0dip" android:singleLine="true" android:layout_weight="1.0" />
+                </LinearLayout>
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                    <view android:id="@android:id/list" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="?contact_browser_list_padding_left" android:layout_marginRight="?contact_browser_list_padding_right" android:fastScrollEnabled="false" class="com.android.contacts.widget.PinnedHeaderListView" />
+                </LinearLayout>
+                <ViewStub android:id="@id/footer_stub" android:layout="@layout/footer_panel" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout android:id="@id/tw_index_scroll_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.sec.android.touchwiz.widget.TwIndexScrollView android:id="@id/tw_index_scroll_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+          xmlns:touchwiz="http://schemas.android.com/apk/res/touchwiz" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/menu_context_edit" android:title="@string/menu_editContact" />
+    <item android:id="@id/menu_context_delete" android:title="@string/menu_deleteContact" />
+    <item android:id="@id/menu_context_join" android:title="@string/menu_joinAggregate" />
+    <item android:id="@id/menu_context_share_contact_information" android:title="@string/menu_share_contact_info" />
+    <item android:id="@id/menu_context_add_to_favorite" android:title="@string/menu_addStar" />
+    <item android:id="@id/menu_context_add_to_group" android:title="@string/menu_add_to_group" />
+    <item android:id="@id/menu_context_add_to_reject_list" android:title="@string/add_2_block_list" />
+    <item android:id="@id/menu_context_share_namecard_via" android:title="@string/menu_share_namecard_via" />
+    <item android:id="@id/menu_context_print_namecard" android:title="@string/menu_print_namecard" />
+</menu>

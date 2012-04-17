@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/list_title_bar" android:visibility="gone" layout="@layout/group_browse_list_account_header" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingRight="@dimen/list_item_right_padding" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/list_two_line_height">
+        <View android:id="@id/indent" android:layout_width="@dimen/list_item_left_padding" android:layout_height="fill_parent" />
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textAppearance="@style/ListPrimaryTextAppearance" android:ellipsize="marquee" android:id="@id/group_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <TextView android:textAppearance="@style/ListSecondaryTextAppearance" android:ellipsize="marquee" android:id="@id/group_account" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        </LinearLayout>
+    </LinearLayout>
+    <View android:id="@id/list_divider" android:background="@drawable/divider_horizontal_dark_opaque" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

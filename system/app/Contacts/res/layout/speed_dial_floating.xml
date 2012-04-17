@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/speed_dial_floating" android:background="@drawable/contacts_speeddial_bg" android:layout_width="93.32999dip" android:layout_height="110.66dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/item_photo" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+    <TextView android:textSize="12.0dip" android:typeface="sans" android:textColor="@android:color/white" android:ellipsize="end" android:gravity="bottom|center" android:id="@id/item_name" android:background="@drawable/contacts_speeddial_name_bg" android:paddingLeft="5.3299866dip" android:paddingRight="5.3299866dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:singleLine="true" />
+    <ImageView android:id="@id/item_reorder_press" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/contacts_speeddial_reorder_press" />
+</RelativeLayout>

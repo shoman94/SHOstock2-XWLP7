@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:color="@color/mailbox_list_mailbox_name_selected_color_pressed_white_theme" />
+    <item android:color="@color/mailbox_list_mailbox_name_selected_color_white_theme" />
+</selector>

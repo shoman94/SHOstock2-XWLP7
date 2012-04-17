@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Powodzenie.</item>
+        <item>Brak błędu</item>
+        <item>Przekroczono maksymalny limit użytkowników: {0}</item>
+        <item>Przekroczono limit użytkowników</item>
+        <item>Duplikat użytkownika: {0}</item>
+        <item>Duplikat użytkownika</item>
+        <item>Duplikat urządzenia: {0}</item>
+        <item>Duplikat urządzenia</item>
+        <item>Nie znaleziono użytkownika: {0}</item>
+        <item>Nie znaleziono użytkownika</item>
+        <item>Nieprawidłowy format daty: {0}. Oczekiwano {1}.</item>
+        <item>Nieprawidłowy format daty</item>
+        <item>Nieprawidłowy format daty: {0}. Oczekiwano {1}</item>
+        <item>Nieprawidłowy format daty</item>
+        <item>Brak wymaganego parametru: {0}</item>
+        <item>Brak wymaganego parametru</item>
+        <item>Wystąpił błąd. Spróbuj ponownie.</item>
+        <item>Błąd wewnętrzny</item>
+        <item>Podany identyfikator konfiguracji ({0}) nie pasuje do żadnego sprzedawcy, do którego użytkownik ma dostęp.</item>
+        <item>Nie znaleziono marki</item>
+        <item>Nie ustawiono daty ważności</item>
+        <item>Nie ustawiono daty ważności</item>
+        <item>Odmowa dostępu</item>
+        <item>Odmowa dostępu</item>
+        <item>Nie włączono dostępu do interfejsu API dla: {0}</item>
+        <item>Nie włączono dostępu do interfejsu API</item>
+        <item>Wystąpił błąd. Spróbuj ponownie.</item>
+        <item>Błąd — nieprawidłowe żądanie</item>
+        <item>Błąd wewnętrzny: {0}</item>
+        <item>Błąd wewnętrzny</item>
+        <item>Subskrypcja o podanych danych już istnieje</item>
+        <item>Duplikat subskrypcji</item>
+        <item>Znaleziono wiele pasujących subskrypcji</item>
+        <item>Znaleziono wiele pasujących subskrypcji</item>
+        <item>Podczas próby rozpoczęcia sesji wystąpił błąd. Spróbuj ponownie.</item>
+        <item>Błąd połączenia</item>
+        <item>Nie znaleziono wyników zapytania: {0}</item>
+        <item>Nie znaleziono zapytania</item>
+        <item>Niespójne parametry: {0} i {1}</item>
+        <item>Niespójne parametry</item>
+        <item>Nieprawidłowy format MSISDN: {0}</item>
+        <item>Nieprawidłowy format MSISDN</item>
+        <item>Nieprawidłowy parametr produktu: {0}</item>
+        <item>Nieprawidłowy parametr produktu</item>
+        <item>Nie można znaleźć połączenia. Potwierdź wprowadzony identyfikator połączenia.</item>
+        <item>Nie znaleziono połączenia</item>
+        <item>Nie znaleziono subskrypcji</item>
+        <item>Nie znaleziono subskrypcji</item>
+        <item>Podczas próby wysłania danych wystąpił błąd. Spróbuj ponownie.</item>
+        <item>Błąd danych</item>
+        <item>Wywołanie replikacji do platformy AOM nie powiodło się</item>
+        <item>Wywołanie replikacji do platformy AOM nie powiodło się</item>
+        <item>Działanie trwało zbyt długo i upłynął dozwolony limit czasu. Spróbuj ponownie.</item>
+        <item>Upłynął limit czasu</item>
+        <item>Nie można połączyć z kontem poczty e-mail. Połączenie powinno zostać przywrócone automatycznie. Jeśli problem będzie nadal występował, sprawdź ustawienia sieci lub skontaktuj się z usługodawcą w celu uzyskania pomocy.</item>
+        <item>Problem z połączeniem</item>
+        <item>Sieć jest tymczasowo niedostępna lub telefon działa w trybie samolotowym. Połączenie zostanie automatycznie przywrócone, gdy sieć będzie dostępna.</item>
+        <item>Połączenie nie powiodło się</item>
+        <item>Serwer jest zajęty. Spróbuj ponownie.</item>
+        <item>Serwer zajęty</item>
+        <item>Ogólne niepowodzenie żądania IPC</item>
+        <item>Żądanie IPC nie powiodło się</item>
+        <item>Niepowodzenie uwierzytelniania dla: {0}</item>
+        <item>Niepowodzenie uwierzytelniania</item>
+        <item>Skontaktuj się z usługodawcą, aby uzyskać prawidłową licencję.</item>
+        <item>Nie zaakceptowano licencji</item>
+        <item>Nie znaleziono identyfikatora klienta w treści wiadomości SMS</item>
+        <item>Nie znaleziono identyfikatora klienta w treści wiadomości SMS</item>
+        <item>Nie znaleziono klienta z identyfikatorem {0}.</item>
+        <item>Nie znaleziono klienta o określonym identyfikatorze</item>
+        <item>Podane informacje MSISDN są nieprawidłowe lub niekompletne: {0}</item>
+        <item>Informacje MSISDN są niekompletne lub nieprawidłowe.</item>
+        <item>Nieprawidłowy format MSISDN: {0}. Oczekiwano wartości numerycznej.</item>
+        <item>Nieprawidłowy format MSISDN</item>
+        <item>Nieprawidłowy format identyfikatora klienta: {0}. Oczekiwano wartości numerycznej.</item>
+        <item>Nieprawidłowy format identyfikatora klienta</item>
+        <item>Nie znaleziono oczekiwanego nagłówka ładowania dla żądania sprawdzenia poprawności</item>
+        <item>Sprawdzanie poprawności nagłówka ładowania nie powiodło się</item>
+        <item>MSISDN {0} już istnieje w systemie.</item>
+        <item>MSISDN już istnieje</item>
+        <item>MSISDN {0} nie istnieje w systemie.</item>
+        <item>MSISDN nie istnieje</item>
+        <item>Poda tymczasowe hasło, aby ponownie zainstalować [połączenie].</item>
+        <item>Hasło wymagane</item>
+        <item>Wybrany identyfikator jest już w użyciu. Wybierz inny identyfikator.</item>
+        <item>Identyfikator już w użyciu</item>
+        <item>Podane hasło tymczasowe jest nieprawidłowe.</item>
+        <item>Błąd połączenia</item>
+        <item>Połączenie zostało wyłączone.</item>
+        <item>Połączenie wyłączone</item>
+        <item>Usługa jest wyłączona</item>
+        <item>Usługa wyłączona</item>
+        <item>Podana wersja produktu nie jest zgodna z wersją zainstalowaną na serwerze przekazywania</item>
+        <item>Niezgodność wersji produktu</item>
+        <item>Transakcja nie powiodła się z nieokreślonego powodu: {0}</item>
+        <item>Transakcja nie powiodła się z nieokreślonego powodu</item>
+        <item>Niepowodzenie uwierzytelniania dla: {0}</item>
+        <item>Niepowodzenie uwierzytelniania</item>
+        <item>Dostęp niedozwolony dla: {0}</item>
+        <item>Dostęp niedozwolony</item>
+        <item>Konto użytkownika {0} jest zablokowane</item>
+        <item>Konto zablokowane</item>
+        <item>Określone transakcje zbiorcze nie powiodły się.</item>
+        <item>Część transakcji zbiorczych nie powiodła się.</item>
+        <item>Wywołanie listy zwróciło następującą liczbę rekordów: {0}. Limit wynosi {1}.</item>
+        <item>Lista zwrotna przekracza limit rozmiaru</item>
+        <item>Wywołanie zbiorcze zawierało żądanie następującej liczby transakcji {0}. Dozwolony limit to {1}.</item>
+        <item>Żądanie transakcji zbiorczej przekracza limit rozmiaru</item>
+        <item>Użyto wywołania interfejsu API bez wymaganego parametru: {0}</item>
+        <item>Brak wymaganego parametru w wywołaniu interfejsu API.</item>
+        <item>Parametr {0} był nieprawidłowy dla tego wywołania interfejsu API.</item>
+        <item>Wywołanie interfejsu API zawierało nieprawidłowy parametr.</item>
+        <item>Błąd bazy danych podczas przetwarzania następującego żądania: {0}</item>
+        <item>Błąd bazy danych spowodowany wywołaniem interfejsu API.</item>
+        <item>W przypadku tych poświadczeń dostępu nie można używać znaków zastępczych.</item>
+        <item>Niedozwolone użycie znaków zastępczych.</item>
+        <item>Nieprawidłowy znak zastępczy w parametrze żądania: {0}</item>
+        <item>Nieprawidłowe znaki zastępcze w żądaniu.</item>
+        <item>Otrzymano żądanie SOAP z brakującym lub nieprawidłowym nagłówkiem.</item>
+        <item>Otrzymano żądanie SOAP z brakującym lub nieprawidłowym nagłówkiem.</item>
+        <item>Otrzymano żądanie SOAP bez wymaganego parametru nagłówka: {0}</item>
+        <item>Otrzymano żądanie SOAP z brakującym parametrem nagłówka.</item>
+        <item>Odebrano żądanie SOAP z następującego adresu IP: {0}. Ten adres nie może używać interfejsu API.</item>
+        <item>Otrzymano żądanie SOAP z zablokowanego adresu IP.</item>
+        <item>Nie włączono dostępu do interfejsu API dla: {0}</item>
+        <item>Nie włączono dostępu do interfejsu API</item>
+        <item>Żądanie SOAP nie powiodło się z nieokreślonego powodu: {0}</item>
+        <item>Żądanie SOAP nie powiodło się z nieokreślonego powodu</item>
+        <item>Wywołanie interfejsu API createAccountSubscription wymaga parametru AccountID lub MSISDN.</item>
+        <item>Użyto wywołania createAccountSubscription bez parametru AccountID lub MSISDN.</item>
+        <item>Użycie parametru produktu w wywołaniu interfejsu API listAccountSubscription wymaga podania co najmniej jednego identyfikatora MSISDN, AccountID i GroupID.</item>
+        <item>listAccountSubscriptions — wywołanie z parametrem produktu, ale bez parametru identyfikatora.</item>
+        <item>Podane kryteria identyfikacji subskrypcji pasują do wielu rekordów. Nie przetworzono aktualizacji.</item>
+        <item>Kryteria identyfikacji subskrypcji są zgodne z wieloma rekordami.</item>
+        <item>Podano nieprawidłowy zestaw parametrów identyfikacji.</item>
+        <item>Podano nieprawidłowy zestaw parametrów identyfikatora.</item>
+        <item>Użyto wywołania interfejsu API updateAccountSubscription bez pól do zaktualizowania.</item>
+        <item>Nie podano pól do aktualizacji.</item>
+        <item>Podane kryteria identyfikacji subskrypcji nie pasują do żadnych rekordów. Nie przetworzono aktualizacji.</item>
+        <item>Kryteria identyfikacji subskrypcji nie są zgodne z żadnymi rekordami.</item>
+        <item>Użycie parametru produktu w wywołaniu interfejsu API deleteAccountSubscription wymaga podania co najmniej jednego identyfikatora MSISDN, AccountID i GroupID.</item>
+        <item>deleteAccountSubscriptions — wywołanie z parametrem produktu, ale bez parametru identyfikatora.</item>
+        <item>Podane kryteria identyfikacji subskrypcji pasują do wielu rekordów. Nie przetworzono aktualizacji.</item>
+        <item>Kryteria identyfikacji subskrypcji są zgodne z wieloma rekordami.</item>
+        <item>Wywołanie interfejsu API updateConnectorSubscription wymaga parametru SubscriptionId lub ConnectorId.</item>
+        <item>Podano nieprawidłowy zestaw parametrów identyfikatora.</item>
+        <item>Użyto wywołania interfejsu API updateConnectorSubscription bez pól do zaktualizowania.</item>
+        <item>Nie podano pól do aktualizacji.</item>
+        <item>Podane kryteria identyfikacji subskrypcji nie pasują do żadnych rekordów. Nie przetworzono aktualizacji.</item>
+        <item>Kryteria identyfikacji subskrypcji nie są zgodne z żadnymi rekordami.</item>
+        <item>Jeśli wywołanie interfejsu API createPreProvisionedAccount zostało użyte z parametrem CE jako produktem, należy podać identyfikatory konfiguracji oraz marki serwera usługodawcy internetowego. Jeśli produkt jest inny, należy podać identyfikator połączenia.</item>
+        <item>createPreProvisionedAccount — wywołanie z nieprawidłowymi parametrami.</item>
+        <item>Ne znaleziono wprowadzonej nazwy firmy w bazie danych lub wprowadzony identyfikator konfiguracji nie jest zgodny z firmą usługodawcy internetowego.</item>
+        <item>Nie można znaleźć firmy za pomocą parametrów.</item>
+        <item>W bazie danych nie znaleziono identyfikatora marki serwera usługodawcy internetowego.</item>
+        <item>W bazie danych nie znaleziono identyfikatora marki serwera usługodawcy internetowego.</item>
+        <item>Serwer usługodawcy internetowego znaleziony dla wprowadzonego identyfikatora marki nie obsługuje tego typu produktu.</item>
+        <item>Serwer usługodawcy internetowego znaleziony dla wprowadzonego identyfikatora marki nie obsługuje tego typu produktu.</item>
+        <item>Co najmniej jedno konto pasuje do aktualizacji. Nie można zaktualizować hasła.</item>
+        <item>changeAccountPassword — wywołanie zgodne z więcej niż jednym kontem.</item>
+        <item>Nie znaleziono kont pasujących do aktualizacji. Hasła nie zostaną zaktualizowane.</item>
+        <item>changeAccountPassword — brak zgodnych kont.</item>
+        <item>Podczas próby aktualizacji hasła wystąpił błąd (prawdopodobnie ze względu na nieprawidłowe hasło).</item>
+        <item>changeAccountPassword — niepowodzenie aktualizacji hasła.</item>
+        <item>A request made for listing user information but given parameters do not match any existing user</item>
+        <item>getUserInformation cannot find user with given parameters</item>
+        <item>isValidConnectorId — wywołanie z identyfikatorem, który jest już używany.</item>
+        <item>Identyfikator połączenia już w użyciu.</item>
+        <item>runScript — wywołanie z nieprawidłowymi parametrami określonego skryptu SQL.</item>
+        <item>Nieprawidłowe parametry skryptu SQL.</item>
+        <item>runScript — wywołanie dla nieznanego skryptu SQL.</item>
+        <item>Nie znaleziono skryptu SQL.</item>
+        <item>Funkcja wysyłania łączy do pobieranych plików nie jest włączona w interfejsie API.</item>
+        <item>sendDownloadLink — wywołanie przy wyłączonej funkcji.</item>
+        <item>Żądanie wiadomości przekazane do bramki SMS nie powiodło się.</item>
+        <item>Żądanie wiadomości przekazane do bramki SMS nie powiodło się.</item>
+        <item>Nie można znaleźć klienta o podanych parametrach.</item>
+        <item>Nie można znaleźć klienta o podanych parametrach.</item>
+        <item>Test poczty nie powiódł się, ponieważ nie znaleziono określonego dostawcy poczty e-mail. Należy wybrać dostawcę POP3, IMAP, POP3S, IMAPS, SMTP lub SMTPS</item>
+        <item>Nie znaleziono dostawcy poczty</item>
+        <item>Test poczty nie powiódł się ze względu na błąd połączenia z określonym serwerem poczty. Sprawdź ustawienia skrzynki pocztowej.</item>
+        <item>Połączenie nie powiodło się</item>
+        <item>Test poczty nie powiódł się ze względu na błąd połączenia z określonym serwerem poczty. Sprawdź ustawienia skrzynki pocztowej.</item>
+        <item>Nie znaleziono skrzynki odbiorczej</item>
+        <item>Test poczty nie powiódł się ze względu na błąd wyszukiwania w skrzynce odbiorczej. Sprawdź ustawienia skrzynki pocztowej.</item>
+        <item>Wyszukiwanie w skrzynce odbiorczej nie powiodło się</item>
+        <item>Test poczty nie powiódł się ze względu na nieprawidłowy adres e-mail. Sprawdź podany adres e-mail</item>
+        <item>Nieprawidłowy adres e-mail</item>
+        <item>Rozmiar załącznika przekracza maksymalny limit.</item>
+        <item>Rozmiar załącznika jest zbyt duży.</item>
+        <item>Rozmiar wiadomości jest zbyt duży.</item>
+        <item>Rozmiar wiadomości jest zbyt duży.</item>
+        <item>Próba zalogowania się zakończona niepowodzeniem z powodu nieprawidłowej {0} i/lub hasła. Sprawdź wartość {0} i Hasło, a następnie spróbuj ponownie.</item>
+        <item>Logowanie nieudane</item>
+        <item>Próba zalogowania się zakończona niepowodzeniem z powodu nieprawidłowej wartości {0}, błędnego hasła lub niepoprawnych ustawień. Sprawdź {0}, hasło i ustawienia w Internecie, a następnie spróbuj ponownie.</item>
+        <item>Logowanie nieudane</item>
+        <item>Próba zalogowania się zakończona niepowodzeniem z powodu nieprawidłowej wartości {0}. Sprawdź wartość {0}, a następnie spróbuj ponownie.</item>
+        <item>Nie znaleziono użytkownika</item>
+        <item>Podana nazwa użytkownika została wielokrotnie zarejestrowana. Sprawdź wartość {0} i hasło, a następnie spróbuj ponownie.</item>
+        <item>Nie znaleziono użytkownika</item>
+        <item>Nie znaleziono ustawień serwera poczty. Zdefiniuj dane konta na następnym ekranie.</item>
+        <item>Nie znaleziono serwera</item>
+        <item>Logowanie nie powiodło się. Podaj nazwę użytkownika konta poczty e-mail, jeśli różni się ona od adresu e-mail.</item>
+        <item>Logowanie nie powiodło się</item>
+        <item>Zbyt wiele nieudanych prób uwierzytelnienia na tym koncie. Zaczekaj na odblokowanie lub skontaktuj się z administratorem.</item>
+        <item>Konto zablokowane</item>
+        <item>Ten numer telefonu został już zarejestrowany. Upewnij się, że wprowadzono poprawny numer telefonu, lub skontaktuj się z usługodawcą w celu uzyskania pomocy.</item>
+        <item>Wstępnie skonfigurowane konto już istnieje</item>
+        <item>Połączenie zostało przekierowane do innego serwera w celu zapewnienia wyższej wydajności. Spróbuj ponownie wykonać ostatnie działanie.</item>
+        <item>Przekierowano</item>
+        <item>Serwer poczty e-mail jest obecnie niedostępny. Spróbuj ponownie później.</item>
+        <item>Logowanie nie powiodło się</item>
+        <item>Test poczty nie powiódł się ze względu na nieznany błąd. Sprawdź ustawienia skrzynki pocztowej</item>
+        <item>Nieznany błąd</item>
+        <item>Zbyt wiele nieudanych prób uwierzytelnienia tego konta. Możliwość logowania się w ramach połączenia została zablokowana. Zaczekaj na odblokowanie lub skontaktuj się z administratorem połączenia, aby zezwolił na kolejne próby zalogowania się.</item>
+        <item>Logowanie wyłączone</item>
+        <item>Kliknij przycisk OK, aby sprawdzić {0} i hasło/sprawdzić token RSA przed kolejną próbą.</item>
+        <item>Logowanie RSA niepoprawne</item>
+        <item>Używana wersja klienta nie uzyskała certyfikatu tego dostawcy poczty e-mail. Skontaktuj się z usługodawcą, aby uzyskać certyfikowaną wersję klienta.</item>
+        <item>Klient nie ma certyfikatu tego usługodawcy internetowego.</item>
+        <item>Adres serwera usługi Microsoft Exchange nie jest prawidłowym adresem internetowym. Potwierdź adres i spróbuj ponownie.</item>
+        <item>Adres Microsoft Exchange — nieprawidłowy</item>
+        <item>Usługa jest dostępna w ramach oferty Premium dostawców. Powróć do listy dostawców i ponownie dokonaj wyboru.</item>
+        <item>Podany adres URL jest niedozwolony.</item>
+        <item>Klucz publiczny zdalnego urządzenia końcowego został zmieniony. Może to oznaczać próbę włamania. Dane zostały usunięte ze zdalnego urządzenia końcowego.</item>
+        <item>Niezgodny klucz publiczny.</item>
+        <item>Ponowne zalogowanie niemożliwe. Oznacza to, że użytkownik nie może wprowadzić nowych poświadczeń, ponieważ wymagane jest inne działanie</item>
+        <item>Ponowne zalogowanie niemożliwe</item>
+        <item>Serwer pod podanym adresem nie odpowiada. Usługa Microsoft Exchange nie może być używana do obsługi służbowej poczty e-mail, jeśli stosowany jest portal VPN/SSL. Wybierz opcję OK, aby uzyskać dostęp do służbowej poczty e-mail przy użyciu następne opcji połączenia.</item>
+        <item>Adres usługi OWA — nie odpowiada</item>
+        <item>Serwer pod podanym adresem nie jest serwerem usługi Microsoft Exchange. Potwierdź adres serwera usługi Microsoft Exchange i spróbuj ponownie.</item>
+        <item>Adres Microsoft Exchange — niepoprawny typ</item>
+        <item>Hasło utraciło ważność. Zmień hasło przy użyciu komputera i spróbuj ponownie, podając nowe hasło.</item>
+        <item>Hasło utraciło ważność</item>
+        <item>Osiągnięto limit liczby skonfigurowanych telefonów. Skontaktuj się z administratorem.</item>
+        <item>Zbyt wiele telefonów</item>
+        <item>Brak dostępnego pliku identyfikatora usługi Notes — nie można się zalogować. Skontaktuj się z administratorem.</item>
+        <item>Brak dostępnego pliku identyfikatora</item>
+        <item>Żądana usługa jest tymczasowo niedostępna. Spróbuj ponownie później. Jeśli problem będzie nadal występował, zaloguj się na konto przy użyciu przeglądarki internetowej.</item>
+        <item>Usługa internetowa tymczasowo niedostępna</item>
+        <item>Usługodawca internetowy zwrócił żądanie zalogowania się przez sieć WWW. Zaloguj się na konto przy użyciu przeglądarki internetowej.</item>
+        <item>Wymagane zalogowanie się w Internecie</item>
+        <item>Wystąpił problem z usługodawcą internetowym. Spróbuj ponownie później. Jeśli problem będzie nadal występował, spróbuj zalogować się przy użyciu przeglądarki internetowej.</item>
+        <item>Usługodawca internetowy zwrócił błąd.</item>
+        <item>Mailbox is currently in use. Please try again later.</item>
+        <item>Mailbox is currently in use.</item>
+        <item>No answer for this feed url. Please correct the url or try again later.</item>
+        <item>No answer for this feed url.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Nie można połączyć z pocztą e-mail Exchange Access. Połączenie powinno zostać przywrócone automatycznie. Jeśli problem będzie nadal występował, skontaktuj się z administratorem systemu informatycznego w celu uzyskania pomocy.</item>
+        <item>Problem z połączeniem</item>
+        <item>Nie można połączyć z pocztą e-mail {0}. Połączenie powinno zostać przywrócone automatycznie. Jeśli problem będzie nadal występował, skontaktuj się z administratorem usługi {0} w celu uzyskania pomocy.</item>
+        <item>Problem z połączeniem</item>
+        <item>Próba aktualizacji konta nie powiodła się. Spróbuj ponownie.</item>
+        <item>Aktualizacja nie powiodła się</item>
+        <item>Kod XML w żądaniu RPC był nieprawidłowy.</item>
+        <item>Nieprawidłowy format kodu XML w wywołaniu RPC</item>
+        <item>Wystąpił wewnętrzny błąd w interfejsie API XML RPC. Spróbuj ponownie.</item>
+        <item>Błąd wewnętrzny: w interfejsie API XML RPC</item>
+        <item>Nieprawidłowe lub brakujące parametry w żądaniu XML RPC. Sprawdź parametry i wartości.</item>
+        <item>Nieprawidłowe lub brakujące parametry</item>
+        <item>Nie można zapisać danych w usłudze. Spróbuj ponownie.</item>
+        <item>Błąd bazy danych</item>
+        <item>Organizacja o tej nazwie już istnieje. Wybierz inną nazwę.</item>
+        <item>Organizacja już istnieje</item>
+        <item>Określony identyfikator połączenia jest już w użyciu. Wybierz inny identyfikator.</item>
+        <item>Nazwa już w użyciu</item>
+        <item>Określona nazwa użytkownika jest już w użyciu. Wybierz inną nazwę.</item>
+        <item>Nazwa użytkownika już w użyciu</item>
+        <item>Ten użytkownik już istnieje.</item>
+        <item>Użytkownik już istnieje</item>
+        <item>Wstępnie skonfigurowane konto, które miało zostać utworzone, już istnieje. Przed utworzeniem nowego konta dotychczasowe konto musi zostać usunięte przez administratora połączenia.</item>
+        <item>Wstępnie skonfigurowane konto już istnieje</item>
+        <item>Nie masz wystarczających uprawnień do wykonania tej operacji.</item>
+        <item>Odmowa dostępu</item>
+        <item>Upłynął termin ważności subskrypcji. Skontaktuj się z usługodawcą, aby odnowić subskrypcję.</item>
+        <item>Nie można zalogować</item>
+        <item>Subskrypcja nie umożliwia dodania kolejnych kont. Przejdź do witryny http://eu020.fra.samsungsocialhub.com, aby zaktualizować subskrypcję.</item>
+        <item>Nie można zalogować</item>
+        <item>Przejdź do witryny http://eu020.fra.samsungsocialhub.com, aby zasubskrybować usługę Social Hub.</item>
+        <item>Nie można zalogować</item>
+        <item>Wystąpił problem z certyfikatem SSL w tej witrynie.</item>
+        <item>Problem z certyfikatem</item>
+        <item>Podany adres URL nie jest prawidłowym adresem usługi Outlook Web Access. Sprawdź adres URL i spróbuj ponownie.</item>
+        <item>Nieprawidłowy adres usługi</item>
+        <item>Ten adres URL jest wstępnie skonfigurowany. Powróć do listy wstępnie skonfigurowanych dostawców i dokonaj wyboru.</item>
+        <item>Odmowa dostępu</item>
+        <item>Podczas próby wysłania wiadomości kontakt był offline</item>
+        <item>Kontakt offline</item>
+        <item>Podczas próby wysłania wiadomości kontakt był zablokowany</item>
+        <item>Kontakt zablokowany</item>
+        <item>Rozmiar przesyłanego pliku nie jest zgodny z określoną wartością</item>
+        <item>Niezgodne rozmiary plików</item>
+        <item>Przekroczono maksymalny limit sesji P2P</item>
+        <item>Przekroczono maksymalny limit sesji P2P</item>
+        <item>Brak daty urodzenia</item>
+        <item>Brak daty urodzenia</item>
+        <item>Odbiorca nie obsługuje przesyłania plików</item>
+        <item>Sesja P2P nieobsługiwana</item>
+        <item>Użytkownik musi zarejestrować się w usłudze wiadomości</item>
+        <item>Rejestracja utraciła ważność</item>
+        <item>Nie można zrealizować żądania, ponieważ serwer jest zajęty. Spróbuj ponownie później</item>
+        <item>Serwer zajęty</item>
+        <item>Funkcja VoiceClip nie jest obsługiwana dla tej rozmowy</item>
+        <item>Funkcja klipów głosowych nieobsługiwana</item>
+        <item>W konwersacji na potrzeby przesyłania plików może uczestniczyć tylko dwóch użytkowników</item>
+        <item>Zbyt wielu uczestników</item>
+        <item>Brak uczestników określonej konwersacji</item>
+        <item>Brak obecnych uczestników</item>
+        <item>Logowanie w usłudze Messenger jest niedozwolone przez opiekuna użytkownika</item>
+        <item>Wymagana zgoda opiekuna</item>
+        <item>Identyfikator konwersacji jest nieprawidłowy. Aplikacja kliencka powinna porzucić tę konwersację</item>
+        <item>Nieprawidłowy identyfikator wywołania</item>
+        <item>Podjęto próbę żądania zaproszenia, a stan obecności użytkownika (w urządzeniu klienckim) jest ustawiony na Offline</item>
+        <item>Użytkownik offline</item>
+        <item>Podjęto próbę żądania zaproszenia w celu dodania nieprawidłowego użytkownika</item>
+        <item>Nieznany użytkownik</item>
+        <item>Nie znaleziono konfiguracji dla określonej domeny poczty e-mail</item>
+        <item>Nieznany usługodawca internetowy</item>
+        <item>Ten błąd jest wyświetlany, ponieważ błędy uwierzytelniania na podstawie tokenu są obsługiwane w inny sposób.</item>
+        <item>Uwierzytelnienie na podstawie tokenu nie powiodło się</item>
+        <item>W celu korzystania z tej usługi wymagana jest subskrypcja.</item>
+        <item>Subskrypcja wymagana</item>
+        <item>Brak dostępnej usługi Seven.</item>
+        <item>Brak dostępnych usług</item>
+        <item>You have been signed out because you signed in on a different computer or device</item>
+        <item>Account was overtaken</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Nie można utworzyć konta podczas rejestracji w usłudze Ping</item>
+        <item>Nie można utworzyć konta</item>
+        <item>Nieprawidłowy klucz usługi podczas rejestracji na serwerze głównym</item>
+        <item>nieprawidłowy klucz usługi</item>
+        <item>Nieprawidłowy opis usługi podczas rejestracji na serwerze głównym</item>
+        <item>Nieprawidłowy opis usługi</item>
+        <item>Nieprawidłowe dane niestandardowe podczas rejestracji na serwerze głównym</item>
+        <item>Nieprawidłowe dane niestandardowe</item>
+        <item>Użytkownik jest już zarejestrowany na serwerze głównym</item>
+        <item>Użytkownik jest już zarejestrowany</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Error occured while discovering services. Please try again.</item>
+        <item>Reqest failed</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Wyświetlaj tekst wiadomości bardzo małą czcionką</item>
+        <item>Wyświetlaj tekst wiadomości małą czcionką</item>
+        <item>Wyświetlaj tekst wiadomości normalną czcionką</item>
+        <item>Wyświetlaj tekst wiadomości dużą czcionką</item>
+        <item>Wyświetlaj tekst wiadomości bardzo dużą czcionką</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Display 0 line in message preview</item>
+        <item>Wyświetl wiersz 1 w podglądzie wiad.</item>
+        <item>Display 2 line in message preview</item>
+        <item>Display 3 line in message preview</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Tłumacz z Google</item>
+        <item>Wikipedia</item>
+        <item>Słownik</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Udostępnij jako tekst</item>
+        <item>Udostępnij jako obraz</item>
+    </string-array>
+</resources>

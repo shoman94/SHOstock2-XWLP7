@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:orientation="horizontal" android:background="@color/color_listbounce_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/layout_bounce_update" android:layout_width="fill_parent" android:layout_height="73.0dip" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/layout_last_update" android:layout_width="wrap_content" android:layout_height="49.0dip">
+            <ImageView android:id="@id/img_current_state" android:background="@drawable/socialhub_ic_update" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="9.0dip" />
+            <ProgressBar android:id="@id/progressbar_more" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/spinner" />
+            <TextView android:textSize="24.0sp" android:textColor="@color/message_list_header_text1_color_white_theme" android:id="@id/txt_current_state" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/mailbox_refreshing" android:singleLine="true" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="20.0sp" android:textColor="@color/message_list_header_text2_color_white_theme" android:gravity="center" android:layout_gravity="center" android:id="@id/txt_last_update" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/last_update_string" android:singleLine="true" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="right" android:id="@id/list_Header_shadow" android:background="@drawable/tw_contents_list_bg_left" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+</FrameLayout>

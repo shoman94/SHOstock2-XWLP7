@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/layout_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <Button android:textAppearance="?android:textAppearanceMedium" android:id="@id/spin_left" android:background="@drawable/call_arrow_left" android:layout_width="37.329987dip" android:layout_height="36.669983dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="7.0dip" android:layout_marginBottom="10.0dip" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        <Button android:textAppearance="?android:textAppearanceMedium" android:id="@id/spin_right" android:background="@drawable/call_arrow_right" android:layout_width="37.329987dip" android:layout_height="36.669983dip" android:layout_marginTop="7.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+        <TextView android:textSize="22.0sp" android:gravity="center" android:id="@id/spin_range" android:padding="3.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/spin_right" android:layout_toRightOf="@id/spin_left" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <ImageView android:gravity="fill_horizontal" android:id="@id/titleDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/dialog_divider_horizontal_light" android:scaleType="fitXY" />
+    <ListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:cacheColorHint="#00000000" android:layout_weight="1.0" />
+</LinearLayout>

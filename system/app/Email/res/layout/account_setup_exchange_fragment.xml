@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <View android:layout_width="fill_parent" android:layout_height="10.0dip" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:text="@string/account_setup_exchange_username_label" style="@style/accountSetupEditFieldTextStyle" />
+            <EditText android:id="@id/account_username" android:maxLength="320" android:inputType="textEmailAddress" android:imeOptions="actionNext" style="@style/accountSetupEditFieldValueStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:text="@string/account_setup_incoming_password_label" style="@style/accountSetupEditFieldTextStyle" />
+            <EditText android:id="@id/account_password" android:maxLength="320" android:inputType="textPassword" android:imeOptions="actionNext" style="@style/accountSetupEditFieldValueStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:text="@string/account_setup_exchange_server_label" style="@style/accountSetupEditFieldTextStyle" />
+            <EditText android:id="@id/account_server" android:maxLength="320" android:inputType="textUri" android:imeOptions="actionDone" style="@style/accountSetupEditFieldValueStyle" />
+        </LinearLayout>
+        <View android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/account_ssl_table" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/account_ssl_string" android:text="@string/account_setup_exchange_ssl_label" style="@style/accountSetup2LineTextStyle" />
+                <CheckBox android:id="@id/account_ssl" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+            </LinearLayout>
+            <View android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0px" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/account_trust_certificates_table" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/account_trust_certificates_string" android:text="@string/account_setup_exchange_trust_certificates_label" style="@style/accountSetup2LineTextStyle" />
+                <CheckBox android:id="@id/account_trust_certificates" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+            </LinearLayout>
+            <View android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0px" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/account_use_client_certificates_checkbox_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/account_use_certificates_string" android:text="@string/account_setup_exchange_use_client_certificates_label" style="@style/accountSetup2LineTextStyle" />
+                <CheckBox android:id="@id/account_use_client_certificates" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+            </LinearLayout>
+            <View android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            <Button android:enabled="false" android:id="@id/CBA" android:text="@string/certificate_based_authentication" style="@style/accountSetupSoftButton1Style" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:text="@string/account_setup_exchange_device_id_label" style="@style/accountSetupEditFieldTextStyle" />
+            <TextView android:id="@id/device_id" style="@style/accountSetupEditFieldTextStyle" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

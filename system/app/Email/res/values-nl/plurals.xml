@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d resultaten van %2$s</item>
+        <item quantity="one">%1$d resultaat van %2$s</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Berichten verwijderd</item>
+        <item quantity="one">Bericht is verwijderd</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Berichten verplaatsen</item>
+        <item quantity="one">Bericht verplaatsen</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$d ongelezen (%2$s)</item>
+        <item quantity="one">%1$d ongelezen (%2$s)</item>
+        <item quantity="few">%1$d ongelezen (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">in %d accounts</item>
+        <item quantity="few">in %d accounts</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%d accounts</item>
+        <item quantity="one">%d account</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d geselecteerd</item>
+        <item quantity="one">%d geselecteerd</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">Bijlagen %1$d</item>
+        <item quantity="one">Bijlage %1$d</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Deze berichten weggooien?</item>
+        <item quantity="one">Dit bericht weggooien?</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">%1$d berichten verplaatst naar %2$s</item>
+        <item quantity="one">%1$d bericht verplaatst naar %2$s</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultaten voor %2$s</item>
+        <item quantity="one">%1$s result for \"%2$s\"</item>
+    </plurals>
+</resources>

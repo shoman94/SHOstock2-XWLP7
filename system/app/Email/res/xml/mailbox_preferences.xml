@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:persistent="false" android:entries="@array/account_settings_check_frequency_entries_push_default" android:title="@string/sync_schedule_peak_schedule" android:key="check_frequency_peak" android:dialogTitle="@string/sync_schedule_peak_schedule" android:entryValues="@array/account_settings_check_frequency_values_push_default" />
+    <ListPreference android:persistent="false" android:entries="@array/account_settings_check_frequency_entries_push_default" android:title="@string/sync_schedule_off_peak_schedule" android:key="check_frequency_offpeak" android:dialogTitle="@string/sync_schedule_off_peak_schedule" android:entryValues="@array/account_settings_check_frequency_values_push_default" />
+    <ListPreference android:persistent="false" android:entries="@array/account_settings_mail_window_entries_with_default" android:title="@string/account_setup_options_mail_window_label" android:key="sync_window" android:dialogTitle="@string/account_setup_options_mail_window_label" android:entryValues="@array/account_settings_mail_window_values_with_default" />
+</PreferenceScreen>

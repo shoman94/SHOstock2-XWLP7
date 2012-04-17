@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">%s minūtes nav datu savienojuma</item>
+        <item quantity="one">%s minūti nav datu savienojuma</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Tālrunis darbosies ārkārtas atzvanīšanas režīmā %s minūtes. Šajā režīmā nevar lietot programmas, kas izmanto datu savienojumu. Vai iziet tūlīt?</item>
+        <item quantity="one">Tālrunis ārkārtas atzvanīšanas režīmā darbosies %s minūti. Šajā režīmā nevar lietot programmas, kas izmanto datu savienojumu. Vai iziet tūlīt?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Izvēlētā darbība nav pieejama ārkārtas atzvanīšanas režīmā. Tālrunis darbosies šajā režīmā %s minūtes. Vai iziet tūlīt?</item>
+        <item quantity="one">Izvēlētā darbība nav pieejama ārkārtas atzvanīšanas režīmā. Tālrunis darbosies šajā režīmā 1 minūti. Vai iziet tūlīt?</item>
+    </plurals>
+</resources>

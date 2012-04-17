@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:orientation="horizontal" android:id="@id/row" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="65.29999dip" class="com.sec.android.app.contacts.detail.ContactHistorySelectCheckBoxLayout"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="top" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="65.0dip"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <include android:id="@id/history_list_header_view" android:visibility="gone" layout="@layout/list_separator" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/history_list_item_view" android:background="@drawable/group_list_item_background" android:paddingTop="10.0dip" android:paddingBottom="7.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <ImageView android:id="@id/history_list_row_sendtype_imageview" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginLeft="12.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:scaleType="fitXY" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:textSize="22.0sp" android:textColor="@color/list_item_name_text_color" android:id="@id/history_list_row_time_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                    <TextView android:textSize="17.0sp" android:textColor="@color/history_duration_text_color" android:id="@id/history_list_row_duration_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </LinearLayout>
+                <TextView android:textSize="17.0sp" android:textColor="@color/history_number_text_color" android:ellipsize="end" android:id="@id/history_list_row_number_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip" android:maxLines="1" android:singleLine="true" />
+                <TextView android:textSize="17.0sp" android:textColor="@color/history_contents_text_color" android:ellipsize="end" android:id="@id/history_list_row_subject_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" />
+                <TextView android:textSize="17.0sp" android:textColor="@color/history_contents_text_color" android:ellipsize="end" android:id="@id/history_list_row_content_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <ImageView android:id="@id/history_list_row_type_imageview" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="12.0dip" />
+            </LinearLayout>
+            <CheckBox android:layout_gravity="right|center" android:id="@id/select_list_row_checkbox" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="12.0dip" android:height="34.669983dip" android:width="37.329987dip" />
+        </LinearLayout>
+    </LinearLayout>
+</view>

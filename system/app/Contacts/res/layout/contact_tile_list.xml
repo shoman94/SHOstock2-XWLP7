@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/contact_tile_list_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ListView android:id="@id/contact_tile_list" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@null" />
+        <TextView android:textAppearance="@style/TwMainListNoContactsTextAppearance" android:gravity="center_horizontal" android:id="@id/contact_tile_list_empty" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/empty_message_top_margin" />
+    </FrameLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/custom_bottom_action_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_weight="1.0" android:layout_alignParentBottom="true">
+        <ImageButton android:id="@id/search_button" android:background="@drawable/ic_ab_search_holo_dark" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_ab_search_holo_dark" android:scaleType="center" />
+    </LinearLayout>
+    <View android:id="@id/action_bar_divider" android:background="@color/list_divider_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_above="@id/custom_bottom_action_bar" />
+</RelativeLayout>

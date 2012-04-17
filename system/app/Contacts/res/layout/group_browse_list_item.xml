@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/divider" android:background="@color/list_divider_color" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <include android:id="@id/group_list_header" android:visibility="gone" layout="@layout/group_browse_list_account_header" />
+    <LinearLayout android:paddingLeft="@dimen/list_item_left_padding" android:paddingRight="@dimen/list_item_right_padding" android:layout_width="fill_parent" android:layout_height="@dimen/list_one_line_height">
+        <TextView android:textAppearance="@style/ListPrimaryTextAppearance" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/label" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <TextView android:textAppearance="@style/ListPrimaryTextAppearance" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/count" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    </LinearLayout>
+</LinearLayout>

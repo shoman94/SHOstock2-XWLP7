@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/speed_dial_item" android:background="@drawable/contacts_speeddial_bg" android:layout_width="120.0dip" android:layout_height="69.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/item_bg" android:layout_width="120.0dip" android:layout_height="69.0dip">
+        <ImageView android:id="@id/item_num_add" android:background="@drawable/contacts_speeddial_add" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ImageView android:id="@id/item_photo" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+        <TextView android:textSize="12.0dip" android:typeface="sans" android:textColor="@android:color/white" android:ellipsize="end" android:gravity="bottom|center" android:id="@id/item_name" android:background="@drawable/contacts_speeddial_name_bg" android:paddingLeft="7.5dip" android:paddingRight="7.5dip" android:paddingBottom="6.5dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:singleLine="true" />
+        <ImageView android:id="@id/item_num_photo" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ImageView android:id="@id/item_press" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/contacts_speeddial_press_selector" />
+        <ImageView android:id="@id/item_reorder" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/contacts_speeddial_reorder" />
+    </FrameLayout>
+    <CheckBox android:id="@id/item_delete" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:button="@drawable/contact_btn_check_selector" />
+</RelativeLayout>

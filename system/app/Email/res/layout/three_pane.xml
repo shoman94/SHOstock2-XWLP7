@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.email.activity.ThreePaneLayout android:splitMotionEvents="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment android:name="com.android.email.activity.MailboxListFragment" android:id="@id/left_pane" android:layout_width="0.0dip" android:layout_height="fill_parent" />
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <fragment android:name="com.android.email.activity.MessageListFragment" android:id="@id/middle_pane" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <include android:id="@id/message_sending_progress_in_list" layout="@layout/message_sending_progress_view" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <fragment android:name="com.android.email.activity.MessageViewFragment" android:id="@id/right_pane" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <include android:id="@id/message_command_buttons" layout="@layout/message_command_button_view" />
+        <include android:id="@id/message_sending_progress_in_view" layout="@layout/message_sending_progress_view" />
+    </LinearLayout>
+</com.android.email.activity.ThreePaneLayout>

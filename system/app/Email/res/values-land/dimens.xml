@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="setup_padding_left_button">300.0dip</dimen>
+    <dimen name="setup_padding_right_button">300.0dip</dimen>
+    <dimen name="mailbox_list_padding_left">16.0dip</dimen>
+    <dimen name="mailbox_list_padding_right">24.0dip</dimen>
+    <dimen name="mailbox_list_count_margin_left">16.0dip</dimen>
+    <dimen name="setup_padding_top">16.0dip</dimen>
+    <dimen name="setup_padding_left">142.0dip</dimen>
+    <dimen name="setup_padding_right">142.0dip</dimen>
+    <dimen name="account_setting_fragment_width">685.0dip</dimen>
+</resources>

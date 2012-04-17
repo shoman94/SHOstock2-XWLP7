@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listNumberOfTotalContacts">
+        <item quantity="other">%d контакт көрсетілуде</item>
+        <item quantity="one">1 контакт көрсету</item>
+    </plurals>
+</resources>

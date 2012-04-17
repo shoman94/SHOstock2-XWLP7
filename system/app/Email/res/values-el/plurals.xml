@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d αποτελέσματα από τη διεύθυνση %2$s</item>
+        <item quantity="one">%1$d αποτέλεσμα από %2$s</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Τα μηνύματα διαγράφηκαν</item>
+        <item quantity="one">Το μήνυμα διαγράφηκε</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Μετακίνηση μηνυμάτων</item>
+        <item quantity="one">Μετακίνηση μηνύματος</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$d μη αναγνωσμένα (%2$s)</item>
+        <item quantity="one">%1$d μη αναγνωσμένα (%2$s)</item>
+        <item quantity="few">%1$d μη αναγνωσμένα (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">σε %d λογαριασμούς</item>
+        <item quantity="few">σε %d λογαριασμούς</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%d λογαριασμοί</item>
+        <item quantity="one">%d λογαριασμός</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Επιλέχθηκαν %d</item>
+        <item quantity="one">Επιλέχθηκαν %d</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">Συνημμένα %1$d</item>
+        <item quantity="one">Συνημμένο %1$d</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Απόρριψη αυτών των μηνυμάτων;</item>
+        <item quantity="one">Απόρριψη αυτού του μηνύματος;</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">%1$d μηνύματα μετακινήθηκαν σε %2$s</item>
+        <item quantity="one">%1$d μήνυμα μετακινήθηκε σε %2$s</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s αποτελέσμ. για %2$s</item>
+        <item quantity="one">%1$s result for \"%2$s\"</item>
+    </plurals>
+</resources>

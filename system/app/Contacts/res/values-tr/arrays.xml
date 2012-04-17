@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Organizasyon</item>
+        <item>Not</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Ara</item>
+        <item>Mesaj gönder</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Telefon</item>
+        <item>SIM</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Hepsi</item>
+        <item>Telefon</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Ad, Soyad</item>
+        <item>Soyad, Ad</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Pts</item>
+        <item>Sal</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Cts</item>
+        <item>Paz</item>
+    </string-array>
+</resources>

@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Sikeres végrehajtás</item>
+        <item>Nincs hiba.</item>
+        <item>Túllépte a felhasználók számára vonatkozó, {0} felhasználót engedélyező korlátot.</item>
+        <item>A felhasználószámra vonatkozó korlát túllépve</item>
+        <item>Többször szereplő felhasználó: {0}</item>
+        <item>Többször szereplő felhasználó</item>
+        <item>Többször szereplő készülék: {0}</item>
+        <item>Többször szereplő készülék</item>
+        <item>A következő felhasználó nem található: {0}</item>
+        <item>A felhasználó nem található.</item>
+        <item>Érvénytelen dátumformátum: {0}. A várt formátum: {1}.</item>
+        <item>Érvénytelen dátumformátum</item>
+        <item>Érvénytelen dátumformátum: {0}. A várt formátum: {1}.</item>
+        <item>Érvénytelen dátumformátum</item>
+        <item>Hiányzó kötelező paraméter: {0}</item>
+        <item>Hiányzó kötelező paraméter</item>
+        <item>Hiba történt. Próbálja meg újból.</item>
+        <item>Belső hiba</item>
+        <item>A megadott bejegyzési azonosító ({0}) egyetlen olyan viszonteladónál sem található, amelyet a felhasználó elérhet.</item>
+        <item>A márka nem található.</item>
+        <item>Nincs beállítva lejárati dátum.</item>
+        <item>Nincs beállítva lejárati dátum.</item>
+        <item>Hozzáférés megtagadva</item>
+        <item>Hozzáférés megtagadva</item>
+        <item>Az API-hozzáférés nincs engedélyezve a következő számára: {0}</item>
+        <item>Az API-hozzáférés nincs engedélyezve.</item>
+        <item>Hiba történt. Próbálja meg újból.</item>
+        <item>Helytelen kérelemből eredő hiba</item>
+        <item>Belső hiba: {0}</item>
+        <item>Belső hiba</item>
+        <item>Már létezik előfizetés a megadott adatokkal.</item>
+        <item>Többször szereplő előfizetés</item>
+        <item>Több megfelelő előfizetés található.</item>
+        <item>Több megfelelő előfizetés található.</item>
+        <item>Hiba történt egy munkamenet elindítására tett kísérlet során. Próbálja meg újból.</item>
+        <item>Kapcsolódási hiba</item>
+        <item>A következő lekérdezés nem található: {0}.</item>
+        <item>A lekérdezés nem található.</item>
+        <item>Inkonzisztens paraméterek: {0} és {1}</item>
+        <item>Inkonzisztens paraméterek</item>
+        <item>Érvénytelen formátumú MSISDN: {0}</item>
+        <item>Érvénytelen formátumú MSISDN</item>
+        <item>Érvénytelen termékparaméter: {0}</item>
+        <item>Érvénytelen termékparaméter</item>
+        <item>A csatlakozó nem található. Ellenőrizze a megadott csatlakozási azonosító helyességét.</item>
+        <item>Nem található csatlakozó.</item>
+        <item>Az előfizetés nem található.</item>
+        <item>Az előfizetés nem található.</item>
+        <item>Hiba történt az adatok küldése során. Próbálja meg újból.</item>
+        <item>Adathiba</item>
+        <item>Az AOM platformnak küldött replikációs hívás végrehajtása sikertelen.</item>
+        <item>Az AOM platformnak küldött replikációs hívás végrehajtása sikertelen.</item>
+        <item>A végrehajtás túl hosszú időt vett igénybe, ezért a művelet időkorlátja lejárt. Próbálja meg újból.</item>
+        <item>Időtúllépés</item>
+        <item>Nem lehet kapcsolódni az e-mail fiókhoz. A kapcsolat helyreállításának automatikusan meg kell történnie. Ha a probléma tartósan fennáll, ellenőrizze hálózati beállításait, vagy kérjen segítséget a szolgáltatótól.</item>
+        <item>Kapcsolódási probléma</item>
+        <item>A hálózat átmenetileg nem érhető el, vagy a telefon repülési módban van. Ha a hálózat elérhetővé válik, a kapcsolat automatikusan helyreáll.</item>
+        <item>Sikertelen kapcsolódás</item>
+        <item>A kiszolgáló jelenleg elfoglalt. Próbálja meg újból.</item>
+        <item>A kiszolgáló foglalt.</item>
+        <item>Általános IPC-kérési hiba</item>
+        <item>Sikertelen IPC-kérés</item>
+        <item>Nem sikerült a hitelesítés a következőhöz: {0}</item>
+        <item>Sikertelen hitelesítés</item>
+        <item>Forduljon a szolgáltatóhoz egy érvényes licenc beszerzése érdekében.</item>
+        <item>A licenc elutasítva</item>
+        <item>Az ügyfél-azonosító nem található az SMS tartalmában.</item>
+        <item>Az ügyfél-azonosító nem található az SMS tartalmában.</item>
+        <item>Nem található ügyfél az adott ügyfél-azonosítóval ({0}).</item>
+        <item>Nem található ügyfél a megadott ügyfél-azonosítóval.</item>
+        <item>A megadott MSISDN információ érvénytelen vagy hiányzik: {0}</item>
+        <item>Az MSISDN információ nincs megadva vagy érvénytelen.</item>
+        <item>Érvénytelen formátumú MSISDN: {0}. A program számértéket várt.</item>
+        <item>Érvénytelen formátumú MSISDN</item>
+        <item>Érvénytelen formátumú ügyfél-azonosító: {0}. A program számértéket várt.</item>
+        <item>Érvénytelen formátumú ügyfél-azonosító</item>
+        <item>A várt díjszabási fejléc nem található az érvényesítési kérelemben.</item>
+        <item>A díjszabási fejléc érvényesítése sikertelen.</item>
+        <item>A rendszerben már van MSISDN {0}.</item>
+        <item>Már van MSISDN</item>
+        <item>A rendszerben nincs MSISDN {0}.</item>
+        <item>Nincs MSISDN</item>
+        <item>Ezen [csatlakozó] újratelepítéséhez adja meg ideiglenes jelszavát.</item>
+        <item>Jelszó szükséges.</item>
+        <item>A kiválasztott azonosító már használatban van. Válasszon másik azonosítót.</item>
+        <item>Használatban levő azonosító</item>
+        <item>A megadott ideiglenes jelszó helytelen.</item>
+        <item>Kapcsolódási hiba</item>
+        <item>A csatlakozó le lett tiltva.</item>
+        <item>Csatlakozó letiltva</item>
+        <item>A szolgáltatás nincs engedélyezve.</item>
+        <item>A szolgáltatás nincs engedélyezve.</item>
+        <item>A termékhez megadott kiadás nem egyezik meg a továbbító kiszolgálón telepített kiadással.</item>
+        <item>A termék kiadásával kapcsolatos eltérés</item>
+        <item>A tranzakció végrehajtása ismeretlen okból sikertelen: {0}</item>
+        <item>A tranzakció végrehajtása ismeretlen okból sikertelen.</item>
+        <item>Nem sikerült a hitelesítés a következőhöz: {0}</item>
+        <item>Sikertelen hitelesítés</item>
+        <item>A hozzáférés nem engedélyezett a következő számára: {0}</item>
+        <item>Hozzáférés nem engedélyezett</item>
+        <item>A következő felhasználói fiók le van tiltva: {0}.</item>
+        <item>A fiók letiltva</item>
+        <item>Egy tranzakcióköteg néhány tranzakciójának végrehajtása sikertelen.</item>
+        <item>Egy tranzakcióköteg egy részének végrehajtása sikertelen.</item>
+        <item>A listázási hívás {0} rekordot adott vissza, a korlát {1}.</item>
+        <item>A visszaadott lista a méretkorláton felüli.</item>
+        <item>A kötegelt hívás {0} tranzakciót kérelmezett, a korlát {1}.</item>
+        <item>A kötegelt tranzakciós kérelem a méretkorláton felüli.</item>
+        <item>Az API-hívásból hiányzott egy kötelezően megadandó paraméter: {0}</item>
+        <item>Az API-hívásból hiányzik egy kötelezően megadandó paraméter.</item>
+        <item>A következő paraméter érvénytelen ehhez az API-híváshoz: {0}.</item>
+        <item>Az API-hívás érvénytelen paramétert tartalmazott.</item>
+        <item>Adatbázishiba történt a következő kérelem feldolgozása során: {0}</item>
+        <item>API-hívás által kiváltott adatbázishiba</item>
+        <item>Ezekkel a hozzáférési hitelesítő adatokkal nem használhatók helyettesítő karakterek.</item>
+        <item>Nem engedélyezett módon használt helyettesítő karaktereket.</item>
+        <item>Érvénytelen helyettesítő karakter szerepel a kérelemparaméterben: {0}</item>
+        <item>Érvénytelen helyettesítő karakterek a kérelemben</item>
+        <item>SOAP-kérelem érkezett hiányzó vagy érvénytelen fejléccel.</item>
+        <item>SOAP-kérelem érkezett hiányzó vagy érvénytelen fejléccel.</item>
+        <item>A beérkezett SOAP-kérelemből hiányzott egy kötelezően megadandó fejlécparaméter: {0}</item>
+        <item>SOAP-kérelem érkezett hiányzó fejlécparaméterrel.</item>
+        <item>A SOAP-kérelem a következő IP-címről érkezett: {0}.E cím számára nem engedélyezett az API használata.</item>
+        <item>SOAP-kérelem érkezett egy letiltott IP-címről.</item>
+        <item>Az API-hozzáférés nincs engedélyezve a következő számára: {0}</item>
+        <item>Az API-hozzáférés nincs engedélyezve.</item>
+        <item>A SOAP-kérelem végrehajtása ismeretlen okból sikertelen: {0}</item>
+        <item>A SOAP-kérelem végrehajtása ismeretlen okból sikertelen.</item>
+        <item>A createAccountSubscription API-híváshoz AccountID vagy MSISDN paraméter szükséges.</item>
+        <item>AccountID és MSISDN nélkül hívták meg a createAccountSubscription parancsot.</item>
+        <item>Ha a Product paramétert kívánja használni a listAccountSubscription API-hívásban, akkor az MSISDN, az AccountID és a GroupID közül legalább az egyiket meg kell adnia.</item>
+        <item>A listAccountSubscriptions hívásában szerepelt a Product paraméter, de hiányzott az ID paraméter.</item>
+        <item>Több rekord felel meg a megadott előfizetés-azonosítási feltételeknek. A frissítés nem lett feldolgozva.</item>
+        <item>Több rekord felel meg az előfizetés-azonosítási feltételeknek.</item>
+        <item>A megadott azonosítási paraméterek készlete érvénytelen.</item>
+        <item>A megadott azonosítási paraméterek készlete érvénytelen.</item>
+        <item>Egy updateAccountSubscription API-hívás történt, de nincs frissítendő mező.</item>
+        <item>Nincs megadva frissítendő mező.</item>
+        <item>Egyetlen rekord sem felel meg a megadott előfizetés-azonosítási feltételeknek. Egy frissítés sem lett feldolgozva.</item>
+        <item>Egyetlen rekord sem felel meg az előfizetés-azonosítási feltételeknek.</item>
+        <item>Ha a Product paramétert kívánja használni a deleteAccountSubscription API-hívásban, akkor az MSISDN, az AccountID és a GroupID közül legalább az egyiket meg kell adnia.</item>
+        <item>A deleteAccountSubscriptions hívásában szerepelt a Product paraméter, de hiányzott az ID paraméter.</item>
+        <item>Több rekord felel meg a megadott előfizetés-azonosítási feltételeknek. A frissítés nem lett feldolgozva.</item>
+        <item>Több rekord felel meg az előfizetés-azonosítási feltételeknek.</item>
+        <item>Az updateConnectorSubscription API-híváshoz SubscriptionId vagy ConnectorId paraméter szükséges.</item>
+        <item>A megadott azonosítási paraméterek készlete érvénytelen.</item>
+        <item>Egy updateConnectorSubscription API-hívás történt, de nincs frissítendő mező.</item>
+        <item>Nincs megadva frissítendő mező.</item>
+        <item>Egyetlen rekord sem felel meg a megadott előfizetés-azonosítási feltételeknek. Egy frissítés sem lett feldolgozva.</item>
+        <item>Egyetlen rekord sem felel meg az előfizetés-azonosítási feltételeknek.</item>
+        <item>Ha a createPreProvisionedAccount API-hívás során termékként a CE paramétert választja, akkor meg kell adni egy bejegyzési azonosítót és az internetszolgáltató kiszolgálójának márkaazonosítóját. Ha a termék bármi más, akkor egy csatlakozási azonosítót kell megadni.</item>
+        <item>Érvénytelen paraméterekkel hívták meg a createPreProvisionedAccount parancsot.</item>
+        <item>Vagy a megadott vállalatnév nem található az adatbázisban, vagy a megadott bejegyzési azonosító nem felel meg egyetlen internetszolgáltató vállalatnak sem.</item>
+        <item>Nem található vállalat a megadott paraméterek használatával.</item>
+        <item>Az internetszolgáltató kiszolgálójának márkaazonosítója nem található az adatbázisban.</item>
+        <item>Az internetszolgáltató kiszolgálójának márkaazonosítója nem található az adatbázisban.</item>
+        <item>A bemenetként megadott márkaazonosítóhoz talált internetszolgáltatói kiszolgáló nem támogatja a megadott terméktípust.</item>
+        <item>A bemenetként megadott márkaazonosítóhoz talált internetszolgáltatói kiszolgáló nem támogatja a megadott terméktípust.</item>
+        <item>Több megfelelő frissítendő fiók található. A jelszó nem módosítható.</item>
+        <item>Több fiók felelt meg a changeAccountPassword metódushívásnak.</item>
+        <item>Nem található megfelelő frissítendő fiók. Egyetlen jelszó sem módosul.</item>
+        <item>Egyetlen fiók sem felelt meg a changeAccountPassword metódushívásnak.</item>
+        <item>Hiba történt a jelszómódosítás megkísérlésekor, valószínűleg érvénytelen jelszó megadása miatt.</item>
+        <item>A changeAccountPassword parancs nem tudta módosítani a jelszót.</item>
+        <item>Kérelem érkezett a felhasználói adatok listázására, de a megadott paraméterek nem felelnek meg egyetlen létező felhasználónak sem</item>
+        <item>A getUserInformation parancs nem talál felhasználót a megadott paraméterekkel</item>
+        <item>Az isValidConnectorId hívása már használatban levő azonosítóval történt.</item>
+        <item>Használatban levő csatlakozási azonosító</item>
+        <item>Meghívták a runScript parancsot, de a paraméterek érvénytelenek a megadott SQL-parancsfájlhoz.</item>
+        <item>Érvénytelen paraméterek az SQL-parancsfájlhoz</item>
+        <item>Meghívták a runScript parancsot egy ismeretlen SQL-parancsfájlra.</item>
+        <item>Az SQL-parancsfájl nem található.</item>
+        <item>A letöltési hivatkozás küldésére szolgáló funkció nincs engedélyezve az API-felületen.</item>
+        <item>Kísérlet történt sendDownloadLink hívására, amikor a funkció nincs engedélyezve.</item>
+        <item>Az SMS-átjárónak küldött üzenetkérelem sikertelen.</item>
+        <item>Az SMS-átjárónak küldött üzenetkérelem sikertelen.</item>
+        <item>Nem található ügyfél a megadott paraméterek használatával.</item>
+        <item>Nem található ügyfél a megadott paraméterek használatával.</item>
+        <item>A levelezési teszt végrehajtása sikertelen, mert a megadott levelezési szolgáltató nem található. A POP3, IMAP, POP3S, IMAPS, SMTP és SMTPS protokollok egyikét kell használnia szolgáltatóként.</item>
+        <item>A levelezési szolgáltató nem található.</item>
+        <item>A levelezési teszt végrehajtása sikertelen, mert nem sikerült kapcsolódni a megadott levelezési kiszolgálóhoz. Ellenőrizze a postafiók beállításait.</item>
+        <item>Sikertelen kapcsolódás</item>
+        <item>A levelezési teszt végrehajtása sikertelen, mert nem sikerült kapcsolódni a megadott levelezési kiszolgálóhoz. Ellenőrizze a postafiók beállításait.</item>
+        <item>A Beérkezett üzenetek mappa nem található.</item>
+        <item>A levelezési teszt végrehajtása sikertelen, mert a Beérkezett üzenetek mappában való üzenetkeresés sikertelen volt. Ellenőrizze a postafiók beállításait.</item>
+        <item>A Beérkezett üzenetek mappában való keresés sikertelen.</item>
+        <item>A levelezési teszt végrehajtása egy érvénytelen e-mail cím miatt sikertelen. Ellenőrizze a megadott e-mail címet.</item>
+        <item>Érvénytelen e-mail cím</item>
+        <item>A melléklet mérete meghaladja az engedélyezett maximális méretet.</item>
+        <item>A melléklet túl nagy méretű.</item>
+        <item>Túl nagy az üzenettörzs mérete.</item>
+        <item>Túl nagy a törzs mérete.</item>
+        <item>A bejelentkezési kísérlet érvénytelen {0} és/vagy jelszó miatt sikertelen. A {0} és a jelszó ellenőrzése után próbálja meg újból.</item>
+        <item>Helytelen bejelentkezés</item>
+        <item>A belépés sikertelen, mert a(z) {0} vagy a jelszó érvénytelen, vagy a beállítások nem megfelelőek. Kérjük, ellenőrizze a(z) {0}-t, a jelszavát és internetbeállításait, majd próbálja újra.</item>
+        <item>Helytelen bejelentkezés</item>
+        <item>A bejelentkezési kísérlet érvénytelen {0} miatt sikertelen. A {0} ellenőrzése után próbálja meg újból.</item>
+        <item>A felhasználó nem található.</item>
+        <item>Több regisztráció tartozik a megadott felhasználónévhez. A {0} és a jelszó ellenőrzése után próbálja meg újból.</item>
+        <item>A felhasználó nem található.</item>
+        <item>Nem találhatók a levelezési kiszolgálóhoz szükséges beállítások. A következő képernyőn adja meg fiókja részletes adatait.</item>
+        <item>A kiszolgáló nem található.</item>
+        <item>A bejelentkezés sikertelen. Adja meg az e-mail fiókjához tartozó felhasználónevet, ha az nem egyezik meg e-mail címével.</item>
+        <item>Sikertelen bejelentkezés</item>
+        <item>Az erre a fiókra vonatkozó hitelesítés túl sok alkalommal volt sikertelen. Várjon a tiltás feloldásáig, vagy forduljon a rendszergazdához.</item>
+        <item>A fiók zárolva</item>
+        <item>Ezt a telefonszámot már regisztrálták. Győződjön meg arról, hogy a helyes telefonszámot adta meg, vagy további segítségért forduljon a szolgáltatóhoz.</item>
+        <item>Az előre bejegyzett fiók már létezik.</item>
+        <item>A kapcsolat át lett irányítva egy másik kiszolgálóra a jobb teljesítmény érdekében. Próbálja megismételni a legutóbbi műveletet.</item>
+        <item>Átirányítva</item>
+        <item>Az e-mail kiszolgáló jelenleg nem érhető el. Később próbálja meg újból.</item>
+        <item>Sikertelen bejelentkezés</item>
+        <item>A levelezési teszt végrehajtása {0} hiba miatt sikertelen. Ellenőrizze a postafiók beállításait.</item>
+        <item>Ismeretlen hiba</item>
+        <item>Az erre a fiókra vonatkozó hitelesítés túl sok alkalommal volt sikertelen. A csatlakozó letiltotta a további bejelentkezési kísérleteket. Várjon a tiltás feloldásáig, vagy forduljon a csatlakozó rendszergazdájához, és kérje meg a további bejelentkezési kísérletek engedélyezésére.</item>
+        <item>Bejelentkezések letiltva</item>
+        <item>Kattintson az OK gombra a(z) {0} és a jelszó, valamint az RSA-token ellenőrzéséhez, mielőtt újból megpróbálja.</item>
+        <item>Helytelen RSA-bejelentkezés</item>
+        <item>Ez az e-mail szolgáltató nem tanúsította az ügyfél használt verzióját. Lépjen kapcsolatba a szolgáltatóval, és szerezzen be egy tanúsítvánnyal ellátott ügyfélverziót.</item>
+        <item>Az ügyfél nincs tanúsítva ezen internetszolgáltató használatához.</item>
+        <item>A Microsoft Exchange kiszolgáló megadott címe nem érvényes webcím. Ellenőrizze, hogy helyesen írta-e be a címet, és próbálja meg újból.</item>
+        <item>Microsoft Exchange cím – érvénytelen</item>
+        <item>Szolgáltatója prémium szolgáltatásként érhető el. Térjen vissza a szolgáltatók listájához, és válasszon újból.</item>
+        <item>A megadott URL-cím nem engedélyezett.</item>
+        <item>A távoli végpont nyilvános kulcsa megváltozott. Ez utalhat arra, hogy behatolási kísérlet történt. A rendszer elvetette a távoli végponttól kapott adatokat.</item>
+        <item>Nem egyező nyilvános kulcsok</item>
+        <item>Az ismételt bejelentkezés nem lehetséges. Ez azt jelenti, hogy a felhasználó nem írhat be új hitelesítő adatokat a szolgáltatásba való ismételt bejelentkezéshez, hanem valamilyen más felhasználói művelet szükséges.</item>
+        <item>Az ismételt bejelentkezés nem lehetséges.</item>
+        <item>A megadott címen található kiszolgáló nem válaszol. Virtuális magánhálózat (VPN), illetve SSL-portál alkalmazása esetén a Microsoft Exchange nem használható a munkahelyi e-mailek elérésére. Válassza az OK lehetőséget, hogy beállíthassa a munkahelyi e-mailek elérését a következő csatlakozási módszerrel.</item>
+        <item>Nem válaszoló OWA-cím</item>
+        <item>A megadott címen található kiszolgáló nem Microsoft Exchange kiszolgáló. Ellenőrizze, hogy helyesen írta-e be a Microsoft Exchange kiszolgáló címét, és próbálja meg újból.</item>
+        <item>Microsoft Exchange cím – érvénytelen típus</item>
+        <item>Jelszava lejárt. Számítógép használatával módosítsa jelszavát, majd próbálja meg újból az új jelszó használatával.</item>
+        <item>A jelszó lejárt.</item>
+        <item>Elérte a kezelhető telefonok maximális számát. Lépjen kapcsolatba a rendszergazdával.</item>
+        <item>Túl sok telefon.</item>
+        <item>Nem érhető el Notes azonosítófájl, nem sikerült bejelentkezni. Forduljon a rendszergazdához.</item>
+        <item>Nincs elérhető azonosítófájl.</item>
+        <item>A kért szolgáltatás ideiglenesen nem érhető el. Később próbálja meg újból. Ha a probléma továbbra is fennáll, jelentkezzen be a fiókjába webböngésző használatával.</item>
+        <item>Az internetszolgáltatás átmenetileg nem érhető el</item>
+        <item>Az internetszolgáltató webes bejelentkezést igényel. Jelentkezzen be a fiókba webböngésző használatával.</item>
+        <item>Webes bejelentkezés szükséges</item>
+        <item>Hiba történt az internetszolgáltatónál. Később próbálja meg újból. Ha a probléma továbbra is fennáll, próbáljon bejelentkezni webböngésző használatával.</item>
+        <item>Az internetszolgáltató hibát jelzett.</item>
+        <item>A postafiók jelenleg használatban van. Később próbálja meg újból.</item>
+        <item>A postafiók jelenleg használatban van.</item>
+        <item>Nincs válasz erre a hírcsatorna URL-címre. Módosítsa az URL-címet, vagy pedig próbálkozzon később.</item>
+        <item>Nincs válasz erre a hírcsatorna URL-címre.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Nem lehet kapcsolódni az Exchange Access e-mail fiókhoz. A kapcsolat helyreállításának automatikusan meg kell történnie. Ha a probléma tartósan fennáll, kérjen segítséget a rendszergazdától.</item>
+        <item>Kapcsolódási probléma</item>
+        <item>Nem lehet kapcsolódni a(z) {0} e-mail fiókhoz. A kapcsolat helyreállításának automatikusan meg kell történnie. Ha a probléma tartósan fennáll, kérjen segítséget a következőtől: {0}.</item>
+        <item>Kapcsolódási probléma</item>
+        <item>A megkísérelt fiókmódosítási művelet sikertelen volt. Próbálja meg újból.</item>
+        <item>Sikertelen frissítés</item>
+        <item>Az RPC-kérelemben szereplő XML-kód érvénytelen volt.</item>
+        <item>Helytelen alakú XML az RPC-kérelemben</item>
+        <item>Belső hiba történt az XML RPC API működésében. Próbálja meg újból.</item>
+        <item>Belső hiba az XML RPC API-felületen</item>
+        <item>Érvénytelen vagy hiányzó paraméterek az XML RPC-kérelemben. Ellenőrizze a paramétereket és értéküket.</item>
+        <item>Érvénytelen vagy hiányzó paraméterek</item>
+        <item>A szolgáltatás nem tudta menteni az adatait. Próbálja meg újból.</item>
+        <item>Adatbázishiba</item>
+        <item>Már létezik ilyen nevű szervezet. Válasszon másik nevet.</item>
+        <item>A szervezet már létezik.</item>
+        <item>A megadott csatlakozási azonosító már használatban van. Válasszon másik azonosítót.</item>
+        <item>Használatban levő név</item>
+        <item>A megadott felhasználónév már használatban van. Válasszon másik felhasználónevet.</item>
+        <item>Használatban levő felhasználónév</item>
+        <item>Ez a felhasználó már létezik.</item>
+        <item>A felhasználó már létezik.</item>
+        <item>A létrehozni próbált előre bejegyzett fiók már létezik. Egy új fiók felvétele előtt a csatlakozó rendszergazdájának el kell távolítania ezt a létező fiókot.</item>
+        <item>Az előre bejegyzett fiók már létezik.</item>
+        <item>Nincs megfelelő hozzáférési jogosultsága e művelet elvégzéséhez.</item>
+        <item>Hozzáférés megtagadva</item>
+        <item>Az előfizetése lejárt. Lépjen kapcsolatba a szolgáltatóval az előfizetés megújítása ügyében.</item>
+        <item>Nem lehet bejelentkezni.</item>
+        <item>Előfizetése nem teszi lehetővé további fiókok felvételét. Az előfizetés frissítéséhez keresse fel a következő webhelyet: http://eu020.fra.samsungsocialhub.com.</item>
+        <item>Nem lehet bejelentkezni.</item>
+        <item>A(z) http://eu020.fra.samsungsocialhub.com termékre való előfizetéshez keresse fel a következő webhelyet: Social Hub.</item>
+        <item>Nem lehet bejelentkezni.</item>
+        <item>Probléma merült fel e webhely SSL-tanúsítványával kapcsolatban.</item>
+        <item>Tanúsítvánnyal kapcsolatos probléma</item>
+        <item>A megadott URL cím nem tartozik érvényes Outlook Web Access szolgáltatáshoz. Ellenőrizze, hogy helyesen írta-e be az URL-címet, és próbálja meg újból.</item>
+        <item>Érvénytelen szolgáltatáscím</item>
+        <item>Ez az URL-cím előre be volt állítva. Térjen vissza az előre beállított szolgáltatók listájához, és válassza ki szolgáltatóját a listáról.</item>
+        <item>Hozzáférés megtagadva</item>
+        <item>A partner állapota offline volt, amikor kísérlet történt egy üzenet küldésére.</item>
+        <item>A partner offline állapotú.</item>
+        <item>A partner le volt tiltva, amikor kísérlet történt egy üzenet küldésére.</item>
+        <item>A partner le van tiltva.</item>
+        <item>A fájlátvitel fájlmérete eltér a megadott értéktől.</item>
+        <item>Nem egyező fájlméretek</item>
+        <item>Elérte a maximális társközi munkafolyamatok számát.</item>
+        <item>Elérte a maximális társközi munkafolyamatok számát.</item>
+        <item>Hiányzó születési dátum</item>
+        <item>Hiányzó születési dátum</item>
+        <item>A címzett nem támogatja a fájlátvitelt</item>
+        <item>A társközi munkafolyamat nem támogatott.</item>
+        <item>A felhasználónak regisztrálnia kell az üzenetkezelő szolgáltatásban.</item>
+        <item>A regisztráció lejárt.</item>
+        <item>A kérelem nem hajtható végre, mert a kiszolgáló túlságosan foglalt. Később próbálja meg újból.</item>
+        <item>A kiszolgáló foglalt.</item>
+        <item>Hangklip ennél a párbeszédnél nem támogatott.</item>
+        <item>Hangklip nem támogatott.</item>
+        <item>Egy fájlátviteli műveletre vonatkozó párbeszédben csak két résztvevő engedélyezett.</item>
+        <item>Túl sok a résztvevő.</item>
+        <item>Nincsenek résztvevők a megadott párbeszédben.</item>
+        <item>Nincsenek résztvevők.</item>
+        <item>A Messenger programba történő bejelentkezést a felhasználó szülője nem engedélyezte</item>
+        <item>Szülői engedély szükséges</item>
+        <item>A párbeszéd azonosítója érvénytelen. Az ügyfélalkalmazásnak meg kell szakítania ezt a párbeszédet.</item>
+        <item>A hívásazonosító érvénytelen.</item>
+        <item>Meghívási kérelem küldésére történt kísérlet, és a felhasználó jelenléti állapota (az ügyfélkészüléken) offline állapotba van állítva.</item>
+        <item>A felhasználó offline módban van.</item>
+        <item>Meghívó-kéréssel kísérelt meg érvénytelen felhasználót hozzáadni</item>
+        <item>Ismeretlen felhasználó</item>
+        <item>A megadott e-mail tartományhoz nincs konfiguráció</item>
+        <item>Ismeretlen internetszolgáltató</item>
+        <item>A rendszer másképp kezeli le a sikertelen token alapú hitelesítést, ebből adódik ez a hiba.</item>
+        <item>Sikertelen a token-alapú hitelesítés</item>
+        <item>E szolgáltatás használatához előfizetésre van szükség.</item>
+        <item>Előfizetés szükséges</item>
+        <item>Nem érhető el Seven szolgáltatás.</item>
+        <item>Nincs elérhető szolgáltatás</item>
+        <item>Kijelentkezett, mert bejelentkezett egy másik számítógépről vagy készülékről</item>
+        <item>A fiókot megelőzték</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Sikertelen a fiók létrehozása a Pingbe való regisztráláskor</item>
+        <item>Az új fiók létrehozása sikertelen</item>
+        <item>Érvénytelen szolgáltatáskulcs a gazdakiszolgálón történő regisztráláskor</item>
+        <item>Érvénytelen szolgáltatáskulcs</item>
+        <item>Érvénytelen szolgáltatásleíró a gazdakiszolgálón történő regisztráláskor</item>
+        <item>Érvénytelen szolgáltatásleíró</item>
+        <item>Érvénytelen egyéni adat a gazdakiszolgálón történő regisztráláskor</item>
+        <item>Érvénytelen egyéni adat</item>
+        <item>A felhasználó már regisztrált a gazdakiszolgálón</item>
+        <item>A felhasználó már regisztrálva van</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Hiba történt a szolgáltatások keresése során. Próbálja meg újból.</item>
+        <item>Sikertelen kérés</item>
+        <item>Számlázási hiba történt. További információért forduljon a szolgáltatóhoz.</item>
+        <item>Számlázási hiba.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Üzenetszöveg megjelenítése nagyon kis betűméretben</item>
+        <item>Üzenetszöveg megjelenítése kis betűméretben</item>
+        <item>Üzenetszöveg megjelenítése normál betűméretben</item>
+        <item>Üzenetszöveg megjelenítése nagy betűméretben</item>
+        <item>Üzenetszöveg megjelenítése nagyon nagy betűméretben</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>0 sor megjelenítése az üzenet-villámnézetben</item>
+        <item>1 sor megjelenítése az üzenet előnézetben</item>
+        <item>2 sor megjelenítése az üzenet-villámnézetben</item>
+        <item>3 sor megjelenítése az üzenet-villámnézetben</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Google fordítás</item>
+        <item>Wikipédia</item>
+        <item>Szótár</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Megosztás szövegként</item>
+        <item>Megosztás képként</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/header_btn_background" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:layout_width="48.0dip" android:layout_height="48.0dip">
+        <ImageView android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@drawable/tw_ic_cab_edit_holo_dark" android:contentDescription="@string/menu_editContact" />
+    </LinearLayout>
+</FrameLayout>

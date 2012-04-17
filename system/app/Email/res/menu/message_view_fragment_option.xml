@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/reply" android:orderInCategory="500" android:title="@string/reply_action" android:showAsAction="always" android:actionLayout="@layout/actionbar_button_reply_layout" />
+    <item android:id="@id/reply_popup" android:orderInCategory="500" android:title="@string/reply_all_action" android:showAsAction="always" android:actionLayout="@layout/actionbar_button_replyall_layout" />
+    <item android:id="@id/forward" android:orderInCategory="510" android:title="@string/forward_action" android:showAsAction="always" android:actionLayout="@layout/actionbar_button_forward_layout" />
+    <item android:id="@id/delete" android:orderInCategory="520" android:title="@string/delete_action" android:showAsAction="always" android:actionLayout="@layout/actionbar_button_delete_layout" />
+    <item android:id="@id/mark_as_unread" android:orderInCategory="1000" android:title="@string/mark_as_unread_action" android:showAsAction="never" />
+    <item android:id="@id/move" android:orderInCategory="1100" android:title="@string/move_action" android:showAsAction="never" />
+    <item android:id="@id/save_email" android:orderInCategory="1150" android:title="@string/save_email_action" android:showAsAction="never" />
+    <item android:id="@id/change_bg_color" android:orderInCategory="1700" android:title="@string/bg_color_action" android:showAsAction="never" />
+    <item android:id="@id/mobile_print" android:orderInCategory="1750" android:title="@string/print_action" android:showAsAction="never" />
+    <item android:id="@id/compose_onview" android:orderInCategory="1800" android:title="@string/compose_action" android:showAsAction="never" />
+    <item android:id="@id/change_font_size_onview" android:orderInCategory="1900" android:title="@string/font_size_action" android:showAsAction="never" />
+    <item android:id="@id/remove_irm_protection" android:orderInCategory="900" android:title="@string/remove_irm_protection" android:showAsAction="never" />
+</menu>

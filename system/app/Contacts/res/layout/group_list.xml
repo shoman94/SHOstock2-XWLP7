@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ExpandableListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <View android:id="@id/action_bar_divider" android:background="@color/list_divider_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/custom_bottom_action_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="56.0dip">
+        <ImageButton android:id="@id/search_button" android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_ab_search_holo_dark" android:scaleType="center" android:layout_weight="1.0" />
+        <View android:background="@color/list_divider_color" android:layout_width="0.6dip" android:layout_height="28.0dip" />
+        <ImageButton android:id="@id/create_button" android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_add_group_holo_dark" android:scaleType="center" android:layout_weight="1.0" />
+        <View android:background="@color/list_divider_color" android:layout_width="0.6dip" android:layout_height="28.0dip" />
+        <ImageButton android:id="@id/menu_button" android:layout_width="53.0dip" android:layout_height="fill_parent" android:src="@drawable/list_icon_more_option" android:scaleType="center" android:layout_alignParentRight="true" />
+    </LinearLayout>
+</LinearLayout>

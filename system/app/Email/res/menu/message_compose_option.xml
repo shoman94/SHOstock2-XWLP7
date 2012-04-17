@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/header_button_icon_compose_to_me" android:title="@string/message_compose_compose_to_me" android:showAsAction="never" />
+    <item android:id="@id/header_button_icon_add_ccbcc" android:title="@string/add_cc_bcc_action" android:showAsAction="never" />
+    <item android:id="@id/header_button_icon_remove_ccbcc" android:title="@string/remove_cc_bcc_action" android:showAsAction="never" />
+    <item android:id="@id/header_button_icon_save_as_draft" android:title="@string/save_draft_action" android:showAsAction="never" />
+    <item android:id="@id/header_button_icon_discard" android:title="@string/discard_action" android:showAsAction="never" />
+    <item android:id="@id/header_button_icon_priority" android:title="@string/priority" android:showAsAction="never" />
+    <item android:id="@id/header_button_icon_rdn" android:title="@string/account_settings_receipts" android:showAsAction="never" />
+    <item android:id="@id/header_button_icon_smime" android:title="@string/account_settings_smime_security_options" android:showAsAction="never" />
+    <item android:id="@id/header_button_icon_irm" android:title="@string/permission" android:showAsAction="never" />
+</menu>

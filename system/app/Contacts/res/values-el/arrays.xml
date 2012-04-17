@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Εταιρεία</item>
+        <item>Σημείωση</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Κλήση</item>
+        <item>Αποστ. μην.</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Τηλέφωνο</item>
+        <item>SIM</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Όλα</item>
+        <item>Τηλέφωνο</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Όνομα Επώνυμο</item>
+        <item>Επώνυμο Όνομα</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Δευ.</item>
+        <item>Τρ.</item>
+        <item>Τετ.</item>
+        <item>Πέμ.</item>
+        <item>Παρ.</item>
+        <item>Σάβ.</item>
+        <item>Κυρ.</item>
+    </string-array>
+</resources>

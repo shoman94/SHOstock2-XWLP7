@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/widget_message" android:background="@drawable/widget_unread_conversation_selector" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="36.0px" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="left" android:id="@id/color_chip" android:visibility="visible" android:layout_width="5.0px" android:layout_height="fill_parent" android:layout_marginLeft="3.0px" style="@style/widget_list_item" />
+        <ImageView android:id="@id/widget_attachment" android:layout_width="28.0px" android:layout_height="wrap_content" android:layout_marginTop="8.0px" android:src="@drawable/email_btn_attach" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="7.0px" android:layout_marginBottom="7.0px">
+        <LinearLayout android:orientation="horizontal" android:paddingTop="0.0dip" android:paddingRight="@dimen/widget_list_right_margin" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:typeface="sans" android:ellipsize="end" android:id="@id/widget_subject" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" />
+            <TextView android:typeface="sans" android:gravity="right" android:id="@id/widget_date" android:paddingLeft="18.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:paddingTop="0.0dip" android:paddingRight="@dimen/widget_list_right_margin" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:typeface="sans" android:ellipsize="end" android:id="@id/widget_from" android:paddingRight="18.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" />
+            <ImageView android:id="@id/widget_favorite" android:layout_width="28.0px" android:layout_height="28.0px" android:src="@drawable/email_icon_favorite_activate" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:paddingTop="0.0dip" android:paddingRight="@dimen/widget_list_right_margin" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:typeface="sans" android:ellipsize="end" android:id="@id/widget_snippet" android:paddingRight="18.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

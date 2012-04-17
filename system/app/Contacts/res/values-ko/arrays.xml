@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>조직</item>
+        <item>메모</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>통화</item>
+        <item>메시지 전송</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>휴대폰</item>
+        <item>SIM</item>
+        <item>Google</item>
+        <item>야후</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>전체</item>
+        <item>휴대폰</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>이름 성</item>
+        <item>성 이름</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+        <item>일</item>
+    </string-array>
+</resources>

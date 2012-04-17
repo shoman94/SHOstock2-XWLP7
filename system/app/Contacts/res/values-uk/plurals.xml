@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d контактів із номерами телефону</item>
+        <item quantity="one">1 контакт із номером телефону</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d контактів</item>
+        <item quantity="one">Контактів: 1</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Знайдено %d</item>
+        <item quantity="one">Знайдено 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Знайдено %d</item>
+        <item quantity="one">Знайдено 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">"об'єднано з джерел: %0$d"</item>
+        <item quantity="one">"не об'єднано"</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Груп: %0$d</item>
+        <item quantity="one">Груп: 1</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">У групі %2$s%1$d чол.</item>
+        <item quantity="one">%1$d особа з %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%d людей</item>
+        <item quantity="one">%d людей</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Повідомлень голосової пошти: %d</item>
+        <item quantity="one">Голосова пошта</item>
+    </plurals>
+    <plurals name="listNumberOfTotalContacts">
+        <item quantity="other">Відображення %d контактів</item>
+        <item quantity="one">Відобразити 1 контакт</item>
+    </plurals>
+    <plurals name="copied_N">
+        <item quantity="other">Скопійовано контактів: %d</item>
+        <item quantity="one">Скопійовано %d контакт</item>
+    </plurals>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="email_editor_body_max_length">-1</integer>
+    <integer name="email_editor_subject_max_length">-1</integer>
+    <integer name="signature_max_length">256</integer>
+    <integer name="debug_mode">1</integer>
+    <integer name="sim_card_required">0</integer>
+    <integer name="android_record_system_log">1</integer>
+    <integer name="client_on_device_subscription_renewal_available">1</integer>
+    <integer name="push_android_enable_trigger">0</integer>
+    <integer name="android_use_froyo_sdk">1</integer>
+    <integer name="enable_dynamic_configuration">0</integer>
+    <integer name="instance_brand_settings_update_period">0</integer>
+    <integer name="relogin_status_bar_notify">0</integer>
+    <integer name="bubblebutton_textcolor">200</integer>
+    <integer name="client_on_device_subscription_reminder_delay_minutes">10080</integer>
+</resources>

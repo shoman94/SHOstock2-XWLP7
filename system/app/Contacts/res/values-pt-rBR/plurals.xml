@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listNumberOfTotalContacts">
+        <item quantity="other">Exibindo %d contatos</item>
+        <item quantity="one">Mostrar 1 contato</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Nenhuma conexão de dados durante %s minutos</item>
+        <item quantity="one">Nenhuma conexão de dados durante %s minuto</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">O telefone estará no modo de rediscagem de emergência durante %s minutos. As aplicações que utilizem conexão de dados não podem ser utilizadas neste modo. Sair agora?</item>
+        <item quantity="one">O telefone permanecerá no modo de retorno de chamada de emergência por %s minuto(s). Os aplicativos que usam conexão de dados não podem ser usados durante este modo. Sair agora?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Ação selecionada indisponível no modo de rediscagem de emergência. O telefone estará neste modo durante %s minutos. Sair agora?</item>
+        <item quantity="one">Ação selecionada indisponível no modo rediscagem de emergência. O telefone estará neste modo durante 1 minuto. Sair agora?</item>
+    </plurals>
+</resources>

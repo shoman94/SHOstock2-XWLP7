@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="290.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:text="@string/unc_search_edittext_label" />
+    <EditText android:gravity="center_vertical" android:id="@id/email_search_query_edit_text" android:nextFocusDown="@id/email_search_query_ok_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:singleLine="true" android:layout_weight="1.0" android:imeOptions="actionDone" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@android:style/ButtonBar">
+        <Button android:id="@id/email_search_query_ok_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/ok" android:layout_weight="1.0" />
+        <Button android:id="@id/email_search_query_cancel_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/cancel" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

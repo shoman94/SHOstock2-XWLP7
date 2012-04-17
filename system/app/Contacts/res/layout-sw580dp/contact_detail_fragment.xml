@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/contact_detail" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:ex="http://schemas.android.com/apk/res/com.android.contacts">
+    <include android:id="@android:id/empty" android:visibility="gone" layout="@layout/contact_detail_empty" />
+    <ListView android:id="@android:id/list" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:cacheColorHint="#00000000" android:divider="@null" android:layout_weight="1.0" />
+    <Button android:textSize="24.0dip" android:layout_gravity="center" android:id="@id/contact_quick_fix" android:visibility="gone" android:layout_width="348.0dip" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" />
+</LinearLayout>

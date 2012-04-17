@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listCameraEffectMenuArray">
+        <item>Brak</item>
+        <item>Szary</item>
+        <item>Sepia</item>
+        <item>Zielony</item>
+        <item>Woda</item>
+        <item>Negatyw</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Usuń</item>
+    </string-array>
+    <string-array name="pref_roaming_options_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="default_setup_choices">
+        <item>Automatyczny</item>
+        <item>Ręczny</item>
+    </string-array>
+    <string-array name="default_setup_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Domyślne ustawienia sieci</item>
+        <item>Ukryj numer</item>
+        <item>Pokazuj numer</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>Domyślnie</item>
+        <item>Ukryj</item>
+        <item>Pokazuj</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Global</item>
+        <item>Tylko EVDO</item>
+        <item>CDMA w/o EVDO</item>
+        <item>Automatycznie CDMA/EVDO</item>
+        <item>Automatycznie GSM/WCDMA</item>
+        <item>Tylko WCDMA</item>
+        <item>Tylko GSM</item>
+        <item>Preferowana sieć GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>Francuski</item>
+        <item>Hiszpański</item>
+        <item>Japoński</item>
+        <item>Koreański</item>
+        <item>Chiński</item>
+        <item>hebrajski</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Tylko sieć macierzysta</item>
+        <item>Automatyczny</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Tylko sieć domowa</item>
+        <item>Powiązane sieci</item>
+        <item>Dowolna sieć</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EVDO</item>
+        <item>Tylko CDMA</item>
+        <item>Tylko EVDO</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Tryb TTY wyłączony</item>
+        <item>Pełna usługa TTY</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Norm.</item>
+        <item>Długi</item>
+    </string-array>
+    <string-array name="dtmf_tone_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="quick_contact_top_position">-1.0px</dimen>
+    <dimen name="editor_type_label_width">120.0dip</dimen>
+</resources>

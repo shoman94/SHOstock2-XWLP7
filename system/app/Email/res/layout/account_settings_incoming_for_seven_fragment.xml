@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TableLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="1"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <TableRow android:paddingTop="16.0dip">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_incoming_username_label" />
+                <EditText android:enabled="false" android:id="@id/account_username" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLength="320" android:inputType="textEmailAddress" />
+            </TableRow>
+            <TableRow android:paddingTop="16.0dip">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_incoming_password_label" />
+                <EditText android:id="@id/account_password" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLength="320" android:inputType="textPassword" android:imeOptions="actionDone" />
+            </TableRow>
+        </TableLayout>
+        <View android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <LinearLayout android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="8.0dip" android:layout_marginBottom="8.0dip" android:layout_weight="0.19">
+            <LinearLayout android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <Button android:layout_gravity="bottom" android:id="@id/cancel" android:layout_width="fill_parent" android:layout_height="56.0dip" android:layout_marginRight="4.0dip" android:text="@string/cancel_action" />
+            </LinearLayout>
+            <LinearLayout android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <Button android:layout_gravity="bottom" android:id="@id/done" android:layout_width="145.0dip" android:layout_height="56.0dip" android:layout_marginLeft="4.0dip" android:text="@string/done_action" android:layout_weight="1.64" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

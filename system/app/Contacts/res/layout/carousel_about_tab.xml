@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" class="com.android.contacts.detail.CarouselTab"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/photo" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <View android:layout_width="fill_parent" android:layout_height="@dimen/detail_tab_carousel_tab_label_height" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+    <View android:id="@id/alpha_overlay" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/detail_tab_carousel_tab_label_overlay_height" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <TextView android:gravity="center" android:id="@id/label" android:background="@drawable/detailtab_indicator_holo" android:paddingLeft="@dimen/detail_tab_carousel_tab_label_indent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:singleLine="true" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+    <TextView android:gravity="center" android:id="@id/tw_label" android:paddingLeft="@dimen/detail_tab_carousel_tab_label_indent" android:layout_width="fill_parent" android:layout_height="@dimen/detail_tab_carousel_tab_label_height" android:singleLine="true" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+    <View android:id="@id/touch_intercept_overlay" android:background="?android:selectableItemBackground" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+</view>

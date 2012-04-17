@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/setup_padding_left" android:paddingRight="@dimen/setup_padding_right" android:layout_width="fill_parent" android:layout_height="fill_parent"
+              xmlns:android="http://schemas.android.com/apk/res/android">
+                <TextView android:textAppearance="@style/accountSetupInfoText" android:textSize="18.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="35.0dip" android:layout_marginBottom="23.0dip" android:text="@string/account_setup_names_instructions" />
+                <TextView android:textAppearance="@style/accountSetupInfoText" android:textSize="18.0dip" android:id="@id/instructions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="23.0dip" android:text="@string/account_setup_email_settings_web_help_label" />
+                <View android:id="@id/top_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginTop="5.0dip" />
+                <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:id="@id/account_name_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="11.0dip" android:text="@string/account_setup_names_account_name_label" />
+                <EditText android:id="@id/account_description" android:layout_width="fill_parent" android:layout_height="@dimen/account_setting_field_height" android:layout_marginLeft="14.0dip" android:layout_marginTop="11.0dip" android:layout_marginRight="14.0dip" android:maxLength="320" android:inputType="textCapWords" android:imeOptions="actionNext" />
+                <View android:id="@id/top_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginTop="5.0dip" />
+                <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:id="@id/account_name_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="11.0dip" android:text="@string/account_setup_names_user_name_label" />
+                <EditText android:id="@id/account_name" android:layout_width="fill_parent" android:layout_height="@dimen/account_setting_field_height" android:layout_marginLeft="14.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="14.0dip" android:maxLength="320" android:inputType="textPersonName" android:imeOptions="actionDone" />
+                <View android:id="@id/top_divider2" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginTop="5.0dip" />
+                <CheckBox android:layout_gravity="left" android:id="@id/account_sync_mail" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="19.0dip" android:text="@string/account_setup_options_sync_email_label" />
+                <CheckBox android:layout_gravity="left" android:id="@id/account_sync_contacts" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="19.0dip" android:text="@string/account_setup_options_sync_contacts_label" />
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:background="@drawable/tw_title_bar_shadow" android:layout_width="fill_parent" android:layout_height="10.0dip" />
+    </FrameLayout>
+</ScrollView>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/mailbox_context_item">
+        <item android:id="@id/folder_open" android:title="@string/open_action" />
+        <item android:id="@id/folder_delete" android:title="@string/delete_action" />
+        <item android:id="@id/add_sub_folder" android:title="@string/add_sub_folder_action" />
+        <item android:id="@id/folder_rename" android:title="@string/rename_action" />
+        <item android:id="@id/folder_move" android:title="@string/move_to_folder_dialog_title" />
+        <item android:id="@id/sync_option" android:title="@string/sync_option_action" />
+    </group>
+</menu>

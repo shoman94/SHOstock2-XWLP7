@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Uspešno.</item>
+        <item>Nema greške</item>
+        <item>Ograničenje od {0} broja korisnika je premašeno</item>
+        <item>Ograničenje broja korisnika je premašeno</item>
+        <item>Duplikat korisnika: {0}</item>
+        <item>Duplikat korisnika</item>
+        <item>Duplikat uređaja: {0}</item>
+        <item>Duplikat uređaja</item>
+        <item>Korisnik nije nađen: {0}</item>
+        <item>Korisnik nije pronađen</item>
+        <item>Nevažeći format datuma: {0}. Očekivani {1}.</item>
+        <item>Nevažeći format datuma</item>
+        <item>Nevažeći format datuma: {0}. Očekivani {1}</item>
+        <item>Nevažeći format datuma</item>
+        <item>Nedostaje obavezan parametar: {0}</item>
+        <item>Nedostaje obavezan parametar</item>
+        <item>Došlo je do greške. Pokušajte ponovo.</item>
+        <item>Unutrašnja greška</item>
+        <item>Dati Id obezbeđivanja ({0}) nije nađen kod nijednog preprodavca kome korisnik može da pristupi.</item>
+        <item>Brend nije pronađen</item>
+        <item>Nije podešen datum isteka</item>
+        <item>Nije podešen datum isteka</item>
+        <item>Pristup je zabranjen</item>
+        <item>Pristup je zabranjen</item>
+        <item>API pristup nije omogućen za: {0}</item>
+        <item>API pristup nije omogućen</item>
+        <item>Došlo je do greške. Pokušajte ponovo.</item>
+        <item>Greška pogrešnog zahteva</item>
+        <item>Unutrašnja greška: {0}</item>
+        <item>Unutrašnja greška</item>
+        <item>Pretplata sa priloženim detaljima već postoji</item>
+        <item>Duplikat pretplate</item>
+        <item>Nađeno je više pretplata koje odgovaraju vašem upitu</item>
+        <item>Nađeno je više pretplata koje odgovaraju vašem upitu</item>
+        <item>Došlo je do greške prilikom pokretanja sesije. Pokušajte ponovo.</item>
+        <item>Greška u vezi</item>
+        <item>{0} upita nije nađen</item>
+        <item>Upit nije nađen</item>
+        <item>Nedosledni parametri: {0} i {1}</item>
+        <item>Nedosledni parametri</item>
+        <item>Nevažeći format MSISDN-a: {0}</item>
+        <item>Nevažeći format MSISDN-a</item>
+        <item>Nevažeći parametar proizvoda: {0}</item>
+        <item>Nevažeći parametar proizvoda</item>
+        <item>Vaš konektor nije pronađen. Potvrdite ID konektora koji ste uneli.</item>
+        <item>Konektor nije nađen</item>
+        <item>Pretplata nije pronađena</item>
+        <item>Pretplata nije pronađena</item>
+        <item>Došlo je do greške prilikom slanja podataka. Pokušajte ponovo.</item>
+        <item>Greška podataka</item>
+        <item>Replika poziva upućena AOM platformi nije uspela</item>
+        <item>Replika poziva upućena AOM platformi nije uspela</item>
+        <item>Dovršavanje radnje trajalo je predugo i vreme je isteklo. Pokušajte ponovo.</item>
+        <item>Vreme je isteklo</item>
+        <item>Nije moguće uspostaviti vezu sa vašim nalogom za e-poštu. Veza bi trebalo da se automatski ponovo uspostavi. Ako je problem i dalje prisutan, proverite svoje mrežne postavke ili se obratite dobavljaču usluga za pomoć.</item>
+        <item>Problem sa vezom</item>
+        <item>Mreža je privremeno nedostupna ili je telefon u režimu letenja avionom. Veza će automatski biti ponovo uspostavljena kada mreža postane dostupna.</item>
+        <item>Veza nije uspela</item>
+        <item>Server je trenutno zauzet. Pokušajte ponovo.</item>
+        <item>Server je zauzet</item>
+        <item>Opšta greška IPC zahteva</item>
+        <item>IPC zahtev nije uspeo</item>
+        <item>Provera identiteta nije uspela za: {0}</item>
+        <item>Provera identiteta nije uspela</item>
+        <item>Obratite se svom administratoru ili dobavljaču usluga za važeću licencu.</item>
+        <item>Licenca nije prihvaćena</item>
+        <item>ID klijenta nije nađen u sadržaju SMS-a</item>
+        <item>ID klijenta nije nađen u sadržaju SMS-a</item>
+        <item>Nije nađen nijedan klijent sa klijentskim ID-om ({0}).</item>
+        <item>Nije nađen nijedan klijent sa navedenim ID-em</item>
+        <item>Priložene MSISDN informacije su pogrešne ili nedostaju: {0}</item>
+        <item>MSISDN informacije nisu priložene ili su nevažeće.</item>
+        <item>Nevažeći format MSISDN-a: {0}. Očekivana je numerička vrednost.</item>
+        <item>Nevažeći format MSISDN-a</item>
+        <item>Nevažeći format klijentovog id-a: {0}. Očekivana je numerička vrednost.</item>
+        <item>Nevažeći format klijentovog id-a</item>
+        <item>Zaglavlje sa očekivanom tarifom nije pronađeno u zahtevu za validaciju</item>
+        <item>Validacija zaglavlja sa tarifom nije uspela</item>
+        <item>MSISDN {0} već postoji u sistemu.</item>
+        <item>MSISDN već postoji</item>
+        <item>MSISDN {0} ne postoji u sistemu.</item>
+        <item>MSISDN ne postoji</item>
+        <item>Priložite svoju privremenu lozinku kako bi se ovo [konektor] ponovo instaliralo.</item>
+        <item>Potrebna je lozinka</item>
+        <item>ID koji ste izabrali se već upotrebljava. Izaberite neki drugi.</item>
+        <item>ID se već upotrebljava</item>
+        <item>Privremena lozinka koja je obezbeđena je netačna.</item>
+        <item>Greška u vezi</item>
+        <item>Konektor je onemogućen.</item>
+        <item>Konektor je onemogućen</item>
+        <item>Usluga nije omogućena</item>
+        <item>Usluga nije omogućena</item>
+        <item>Navedeno izdanje proizvoda ne poklapa se sa izdanjem instaliranim na releju</item>
+        <item>Nepoklapanje izdanja proizvoda</item>
+        <item>Transakcija nije uspela iz nepoznatog razloga: {0}</item>
+        <item>Transakcija nije uspela iz nepoznatog razloga</item>
+        <item>Provera identiteta nije uspela za: {0}</item>
+        <item>Provera identiteta nije uspela</item>
+        <item>Pristup nije dozvoljen za: {0}</item>
+        <item>Pristup nije dozvoljen</item>
+        <item>{0} korisničkog naloga je blokiran</item>
+        <item>Nalog je blokiran</item>
+        <item>Neke transakcije iz serije nisu uspele.</item>
+        <item>Deo transakcija iz serije nije izvršen.</item>
+        <item>Poziv sa liste prijavio je {0} zapisa. Dozvoljeno je {1}.</item>
+        <item>Lista rezultata pretrage prekoračuje ograničenje za veličinu</item>
+        <item>Za poziv iz serije potrebno je {0} više transakcija, a dozvoljeno je {1}.</item>
+        <item>Zahtev za seriju transakcija premašuje ograničenje veličine</item>
+        <item>API poziv je upućen bez obaveznog parametra: {0}</item>
+        <item>API pozivu nedostaju obavezni parametri.</item>
+        <item>Parametar {0} je pogrešan za ovaj API poziv.</item>
+        <item>API poziv je sadržao pogrešan parametar.</item>
+        <item>Prilikom obrade ovog zahteva došlo je do greške u bazi podataka: {0}</item>
+        <item>API poziv je izazvao grešku u bazi podataka.</item>
+        <item>Džoker znakovi se ne mogu koristiti sa ovim akreditivima za pristup.</item>
+        <item>Nedozvoljena upotreba džoker znakova.</item>
+        <item>Nevažeći džoker znak u parametru upita: {0}</item>
+        <item>Džoker znakovi zahteva nisu važeći.</item>
+        <item>SOAP zahtev je primljen bez zaglavlja ili sa nevažećim zaglavljem.</item>
+        <item>SOAP zahtev je primljen bez zaglavlja ili sa nevažećim zaglavljem.</item>
+        <item>SOAP zahtev je primljen bez obaveznog parametra zaglavlja: {0}</item>
+        <item>SOAP zahtev je primljen bez parametra zaglavlja.</item>
+        <item>SOAP zahtev je primljen sa IP adrese: {0}. Ovoj adresi nije dozvoljeno korišćenje API-ja.</item>
+        <item>SOAP zahtev je primljen sa blokirane IP adrese.</item>
+        <item>API pristup nije omogućen za: {0}</item>
+        <item>API pristup nije omogućen</item>
+        <item>SOAP zahtev nije uspeo iz nepoznatog razloga: {0}</item>
+        <item>SOAP zahtev nije uspeo iz nepoznatog razloga</item>
+        <item>Za createAccountSubscription API poziv potreban je ID naloga ili MSISDN parametar.</item>
+        <item>createAccountSubscription je pozvan bez ID-a naloga ili MSISDN-a.</item>
+        <item>Za upotrebu parametra proizvoda u listAccountSubscription API pozivu potrebno je priložiti bar jednu od ove tri stavke: MSISDN, ID naloga i ID grupe.</item>
+        <item>listAccountSubscriptions pozvana sa parametrima proizvoda, ali ne sa parametrima ID-a.</item>
+        <item>Navedeni kriterijumi za identifikaciju pretplate podudaraju se sa više zapisa. Ispravka nije obrađena.</item>
+        <item>Kriterijumi za identifikaciju pretplate podudaraju se sa više zapisa.</item>
+        <item>Priložen je nevažeći skup identifikacionih parametara.</item>
+        <item>Obezbeđen je nevažeći skup ID parametara.</item>
+        <item>Upućen je updateAccountSubscription API poziv, pri čemu nije bilo polja za ažuriranje.</item>
+        <item>Polja za ažuriranje nisu data.</item>
+        <item>Navedeni kriterijumi za identifikaciju pretplate ne podudaraju se ni sa jednim zapisom. Nijedna ispravka nije obrađena.</item>
+        <item>Kriterijumi za identifikaciju pretplate ne podudaraju se ni sa jednim zapisom.</item>
+        <item>Za upotrebu parametra proizvoda u deleteAccountSubscription API pozivu potrebno je priložiti bar jednu od ove tri stavke: MSISDN, ID naloga i ID grupe.</item>
+        <item>deleteAccountSubscriptions pozvao je sa parametrom proizvoda, ali ne sa parametrom ID-a.</item>
+        <item>Navedeni kriterijumi za identifikaciju pretplate podudaraju se sa više zapisa. Ispravka nije obrađena.</item>
+        <item>Kriterijumi za identifikaciju pretplate podudaraju se sa više zapisa.</item>
+        <item>Za updateConnectorSubscription API poziv potreban je parametar SubscriptionId ili ConnectorId.</item>
+        <item>Obezbeđen je nevažeći skup ID parametara.</item>
+        <item>Upućen je updateConnectorSubscription API poziv, pri čemu nije bilo polja za ažuriranje.</item>
+        <item>Polja za ažuriranje nisu data.</item>
+        <item>Navedeni kriterijumi za identifikaciju pretplate ne podudaraju se ni sa jednim zapisom. Nijedna ispravka nije obrađena.</item>
+        <item>Kriterijumi za identifikaciju pretplate ne podudaraju se ni sa jednim zapisom.</item>
+        <item>Ako je createPreProvisionedAccount API poziv upućen sa CE-om kao proizvodom, morate priložiti ID obezbeđivanja i zaštićeni ID ISP servera. Ako funkciju proizvoda vrši nešto drugo, morate priložiti ID konektora.</item>
+        <item>Usluga createPreProvisionedAccount je pozvana pomoću nevažećih parametara.</item>
+        <item>Uneseni naziv kompanije nije nađen u bazi podataka ili se uneseni ID obezbeđivanja nije podudarao sa ID-em ISP kompanije.</item>
+        <item>Nije bilo moguće pronaći nijednu kompaniju pomoću ovih parametara.</item>
+        <item>Zaštićeni ID ISP servera nije nađen u bazi podataka.</item>
+        <item>Zaštićeni ID ISP servera nije nađen u bazi podataka.</item>
+        <item>Server ISP-a pronađen kao ID ulaznog brenda ne podržava dati tip proizvoda.</item>
+        <item>Server ISP-a pronađen kao ID ulaznog brenda ne podržava dati tip proizvoda.</item>
+        <item>Više naloga zadovoljava uslove za ažuriranje. Lozinka se ne može ažurirati.</item>
+        <item>changeAccountPassword se poklopio sa više od jednog naloga.</item>
+        <item>Nije nađen nijedan nalog koji zadovoljava uslove za ažuriranje. Nijedna lozinka neće biti ažurirana.</item>
+        <item>changeAccountPassword ne odgovara nijednom nalogu.</item>
+        <item>Došlo je do greške pri pokušaju da se ažurira lozinka, možda zbog nevažeće lozinke.</item>
+        <item>Opcija changeAccountPassword nije uspela da ažurira lozinku.</item>
+        <item>A request made for listing user information but given parameters do not match any existing user</item>
+        <item>getUserInformation cannot find user with given parameters</item>
+        <item>isValidConnectorId pozvao je ID-om koji se već koristi.</item>
+        <item>ID konektora se već upotrebljava.</item>
+        <item>Skripta runScript je pozvana pomoću nevažećih parametara za navedenu SQL skriptu.</item>
+        <item>Nevažeći parametri za SQL skript.</item>
+        <item>runScript je pozvao nepoznati SQL skriptu.</item>
+        <item>SQL skripta nije nađena.</item>
+        <item>Funkcija slanja veze za preuzimanje nije omogućena u API-u.</item>
+        <item>sendDownloadLink se poziva kada funkcija nije omogućena.</item>
+        <item>Zahtev za porukom upućen mrežnom prolazu za SMS nije uspeo.</item>
+        <item>Zahtev za porukom upućen mrežnom prolazu za SMS nije uspeo.</item>
+        <item>Nije bilo moguće naći klijenta po datim parametrima.</item>
+        <item>Nije bilo moguće naći klijenta po datim parametrima.</item>
+        <item>Test pošte nije uspeo zato što navedeni dobavljač usluge e-pošte nije pronađen. Treba da koristite POP3, IMAP, POP3S, IMAPS, SMTP ili SMTPS kao dobavljača</item>
+        <item>Dobavljač pošte nije pronađen</item>
+        <item>Test pošte nije uspeo zato što nije uspela veza sa navedenim serverom za poštu. Proverite postavke poštanskog sandučeta</item>
+        <item>Veza nije uspela</item>
+        <item>Test pošte nije uspeo zato što nije uspela veza sa navedenim serverom za poštu. Proverite postavke poštanskog sandučeta</item>
+        <item>Prijemno poštansko sanduče nije nađeno</item>
+        <item>Test pošte nije uspeo zato što nije uspela pretraga poruka iz prijemnog poštanskog sandučeta. Proverite postavke poštanskog sandučeta</item>
+        <item>Pretraga prijemnog poštanskog sandučeta nije uspela</item>
+        <item>Test pošte nije uspeo zbog nevažeće e-adrese. Proverite priloženu e-adresu</item>
+        <item>Pogrešna e-adresa</item>
+        <item>Prilog premašuje dozvoljenu veličinu.</item>
+        <item>Prilog je prevelik.</item>
+        <item>Telo poruke je preveliko.</item>
+        <item>Telo poruke je preveliko.</item>
+        <item>Pokušaj prijavljivanja nije uspeo zbog nevažećeg {0} i/ili lozinke. Proverite svoje {0} i lozinku i pokušajte ponovo.</item>
+        <item>Netačne informacije za prijavljivanje</item>
+        <item>Pokušaj prijavljivanja nije uspeo zbog nevažećeg {0}, lozinke ili netačnih postavki. Proverite {0}, lozinku i postavke na vebu i pokušajte ponovno.</item>
+        <item>Netačne informacije za prijavljivanje</item>
+        <item>Pokušaj prijavljivanja nije uspeo zbog nevažećeg {0}. Proverite svoj {0} i pokušajte ponovo.</item>
+        <item>Korisnik nije pronađen</item>
+        <item>Postoji više registracija za korisničko ime koje ste priložili. Proverite svoje {0} i lozinku i pokušajte ponovo.</item>
+        <item>Korisnik nije pronađen</item>
+        <item>Podešavanja vašeg servera za poštu nisu pronađena. Definišite detalje naloga na sledećem ekranu.</item>
+        <item>Server nije pronađen:</item>
+        <item>Prijavljivanje nije uspelo. Priložite korisničko ime uz nalog e-pošte ukoliko se ono razlikuje od e-adrese.</item>
+        <item>Prijavljivanje nije uspelo</item>
+        <item>Provera identiteta za ovaj nalog je isuviše često bila neuspešna. Sačekajte otključavanje ili kontaktirajte administratora.</item>
+        <item>Nalog je zaključan</item>
+        <item>Ovaj broj telefona je već registrovan. Potvrdite da ste uneli tačan broj telefona ili kontaktirajte dobavljača usluga za pomoć.</item>
+        <item>Prethodno obezbeđeni nalog već postoji</item>
+        <item>Veza je preusmerena na drugi server radi postizanja boljih performansi. Ponovite poslednju radnju.</item>
+        <item>Preusmereno</item>
+        <item>Server za e-poštu trenutno nije dostupan. Pokušajte ponovo kasnije.</item>
+        <item>Prijavljivanje nije uspelo</item>
+        <item>Test pošte nije uspeo zbog nepoznate greške. Proverite postavke poštanskog sandučeta</item>
+        <item>Nepoznata greška</item>
+        <item>Provera identiteta za ovaj nalog je isuviše često bila neuspešna. Buduća prijavljivanja na konektoru su sprečena. Sačekajte otključavanje ili se obratite administratoru konektora kako biste omogućili pokušaje prijavljivanja u budućnosti.</item>
+        <item>Korisnička imena su onemogućena</item>
+        <item>Kliknite na „U redu“ da biste proverili svoje {0} i lozinku/svoj RSA simbol pre nego što pokušate ponovo.</item>
+        <item>RSA informacije za prijavljivanje nisu tačne</item>
+        <item>Verzija za klijente koju koristite ne poseduje certifikat ovog dobavljača usluge e-pošte. Obratite se dobavljaču kako biste dobili verziju za klijente sa certifikatom.</item>
+        <item>Klijent nema certifikat za ovaj ISP.</item>
+        <item>Navedena adresa Microsoft Exchange servera nije važeća veb adresa. Potvrdite adresu i pokušajte ponovo.</item>
+        <item>Microsoft Exchange adresa - nevažeća</item>
+        <item>Vaš dobavljač je dostupan u okviru usluga sa dodatnim plaćanjem. Vratite se na listu dobavljača i izaberite ponovo.</item>
+        <item>Priložena URL adresa nije dopuštena.</item>
+        <item>Javni ključ udaljene krajnje tačke se promenio. Ovo može da označava pokušaj upada u sistem. Podaci sa udaljene krajnje tačke su odbačeni.</item>
+        <item>Nepoklapanje javnih ključeva.</item>
+        <item>Ponovno prijavljivanje nije moguće. To znači da korisnik ne može da unese nove akreditive kako bi se ponovo prijavio u uslugu, ali je potrebno da preduzme nešto drugo</item>
+        <item>Ponovno prijavljivanje nije moguće</item>
+        <item>Server na adresi koju ste priložili ne reaguje. Microsoft Exchange se ne može koristiti za pristup e-porukama na radnom mestu ako se koristi VPN/SSL portal. Izaberite „U redu“ kako biste pristupili e-pošti na radnom mestu pomoću sledeće opcije za vezu.</item>
+        <item>OWA adresa – ne reaguje</item>
+        <item>Server na adresi koju ste naveli nije Microsoft Exchange server. Potvrdite adresu Microsoft Exchange servera i pokušajte ponovo.</item>
+        <item>Microsoft Exchange adresa - nepravilan tip</item>
+        <item>Vaša lozinka je istekla. Promenite lozinku pomoću računara i pokušajte ponovo sa novom lozinkom.</item>
+        <item>Lozinka je istekla</item>
+        <item>Dostigli ste maksimalni broj telefona koji možete obezbediti. Obratite se svom administratoru.</item>
+        <item>Previše telefona</item>
+        <item>Nije dostupna datoteka sa ID-om za „Napomene“ tako da prijavljivanje nije moguće. Obratite se administratoru.</item>
+        <item>Nije dostupna datoteka sa ID-om</item>
+        <item>Zahtevana usluga trenutno nije dostupna. Pokušajte ponovo kasnije. Ako je problem i dalje prisutan, prijavite se na svoj nalog koristeći veb pregledač.</item>
+        <item>ISP usluga trenutno nije dostupna</item>
+        <item>Zahtevano veb prijavljivanje vraćeno je sa ISP-a. Prijavite se na nalog koristeći veb pregledač.</item>
+        <item>Potrebno je veb prijavljivanje</item>
+        <item>Došlo je do greške ISP-a. Pokušajte ponovo kasnije. Ako se problem ne reši, pokušajte da se prijavite koristeći veb pregledač.</item>
+        <item>ISP je vratio grešku.</item>
+        <item>Mailbox is currently in use. Please try again later.</item>
+        <item>Mailbox is currently in use.</item>
+        <item>No answer for this feed url. Please correct the url or try again later.</item>
+        <item>No answer for this feed url.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Nije moguće uspostaviti vezu sa vašim Exchange Access nalogom za e-poštu. Veza bi trebalo da se automatski ponovo uspostavi. Ako je problem i dalje prisutan, obratite se IT administratoru za pomoć.</item>
+        <item>Problem sa vezom</item>
+        <item>Nije moguće uspostaviti vezu sa vašim {0} nalogom za e-poštu. Veza bi trebalo da se automatski ponovo uspostavi. Ako je problem i dalje prisutan, obratite se {0} za pomoć.</item>
+        <item>Problem sa vezom</item>
+        <item>Ažuriranje naloga koje ste pokušali nije uspelo. Pokušajte ponovo.</item>
+        <item>Ažuriranje nije uspelo</item>
+        <item>XML u RPC zahtevu je bio nevažeći.</item>
+        <item>XML u RPC-u je loše formiran</item>
+        <item>Došlo je do unutrašnje greške u XML RPC API-u. Pokušajte ponovo.</item>
+        <item>Unutrašnja greška u XML RPC API-u</item>
+        <item>U XML RPC zahtevu su nevažeći parametri ili neki parametri nedostaju. Proverite parametre i njihove vrednosti.</item>
+        <item>Nevažeći parametri ili nema parametara</item>
+        <item>Usluga nije mogla da sačuva vaše podatke. Pokušajte ponovo.</item>
+        <item>Greška baze podataka</item>
+        <item>Organizacija ovog imena već postoji. Izaberite neko drugo ime.</item>
+        <item>Organizacija već postoji</item>
+        <item>ID konektora koji ste naveli se već upotrebljava. Izaberite neki drugi.</item>
+        <item>Ime se već upotrebljava</item>
+        <item>Korisničko ime koje ste naveli već se upotrebljava. Izaberite neko drugo korisničko ime.</item>
+        <item>Korisničko ime se već upotrebljava</item>
+        <item>Ovaj korisnik već postoji.</item>
+        <item>Korisnik već postoji.</item>
+        <item>Prethodno dodeljeni nalog koji ste pokušali da otvorite već postoji. Ovaj postojeći nalog mora da ukloni administrator konektore pre dodavanja novog naloga.</item>
+        <item>Prethodno obezbeđeni nalog već postoji</item>
+        <item>Nemate dovoljna prava na pristup da biste izvršili ovu operaciju.</item>
+        <item>Pristup je zabranjen</item>
+        <item>Vaša pretplata je istekla. Obratite se dobavljaču usluga da biste obnovili pretplatu.</item>
+        <item>Prijavljivanje nije moguće</item>
+        <item>Pretplata vam ne dopušta da dodajete naloge. Posetite lokaciju http://eu020.fra.samsungsocialhub.com kako biste nadogradili pretplatu.</item>
+        <item>Prijavljivanje nije moguće</item>
+        <item>Posetite lokaciju http://eu020.fra.samsungsocialhub.com kako biste se pretplatili na softver Social Hub.</item>
+        <item>Prijavljivanje nije moguće</item>
+        <item>Naišli smo na problem sa SSL certifikatima na ovom sajtu.</item>
+        <item>Izdavanje certifikata</item>
+        <item>Priložena URL adresa ne pripada važećoj Outlook Web Access usluzi. Proverite URL adresu i pokušajte ponovo.</item>
+        <item>Pogrešna adresa usluge</item>
+        <item>URL je unapred konfigurisan. Vratite se na listu unapred konfigurisanih dobavljača i izaberite svog dobavljača sa liste.</item>
+        <item>Pristup je zabranjen</item>
+        <item>Kontakt je bio van mreže kada je pokušano slanje poruke</item>
+        <item>Kontakt je van mreže</item>
+        <item>Kontakt je blokiran kada je pokušano slanje poruke</item>
+        <item>Kontakt je blokiran</item>
+        <item>Veličina datoteke prilikom prenosa datoteka nije odgovarala navedenoj vrednosti</item>
+        <item>Nepoklapanje u veličini datoteka</item>
+        <item>Maksimalna dužina p2p sesije je premašena</item>
+        <item>Maksimalna dužina p2p sesije je premašena</item>
+        <item>Nedostaje datum rođenja</item>
+        <item>Nedostaje datum rođenja</item>
+        <item>Primalac ne podržava prenos datoteka</item>
+        <item>p2p sesija nije podržana</item>
+        <item>Korisnik mora da se registruje za uslugu razmene poruka</item>
+        <item>Registracija je istekla</item>
+        <item>Zahtev ne može biti obrađen jer je server prezauzet. Pokušajte ponovo kasnije</item>
+        <item>Server je zauzet</item>
+        <item>VoiceClip nije podržan za ovaj razgovor</item>
+        <item>Voice clip nije podržan</item>
+        <item>U razgovoru za operaciju prenosa datoteka dozvoljena su samo dva učesnika</item>
+        <item>Previše učesnika</item>
+        <item>Nema učesnika u navedenom razgovoru</item>
+        <item>Nije prisutan nijedan učesnik</item>
+        <item>Prijavljivanje u Messenger nije dozvoljeno od strane korisnikovog roditelja</item>
+        <item>Obavezna je dozvola roditelja</item>
+        <item>Identifikator razgovora je nevažeći. Aplikacija klijenta treba da napusti ovaj razgovor</item>
+        <item>Nevažeći ID poziva</item>
+        <item>"Pokušano je slanje zahteva za poziv, a status prisutnosti korisnika (na klijentskom uređaju) je postavljen na „Van mreže“
+"</item>
+        <item>Korisnik je van mreže</item>
+        <item>Došlo je do pokušaja da se nevažeći korisnik doda u zahtev za poziv</item>
+        <item>Nepoznati korisnik</item>
+        <item>Nije pronađena nijedna konfiguracija za navedeni domen e-pošte</item>
+        <item>Nepoznat ISP</item>
+        <item>Neuspešne provere identiteta na osnovu simbola se različito rešavaju zbog čega dolazi do ove greške.</item>
+        <item>Provera identiteta na osnovu simbola nije uspela</item>
+        <item>Potrebna je pretplata da bi se koristila ova usluga.</item>
+        <item>Potrebna je pretplata</item>
+        <item>Nijedna Seven usluga nije dostupna.</item>
+        <item>Nije dostupna nijedna usluga</item>
+        <item>Odjavljeni ste jer ste se prijavili na drugom računaru ili uređaju</item>
+        <item>Nalog je preuzet</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Neuspešno kreiranje naloga prilikom registrovanja u usluzi Ping</item>
+        <item>Neuspešno kreiranje naloga</item>
+        <item>Nevažeći ključ usluge prilikom registracije na host server</item>
+        <item>Nevažeći ključ usluge</item>
+        <item>Nevažeći opis usluge prilikom registracije na host server</item>
+        <item>Nevažeći opis usluge</item>
+        <item>Nevažeći prilagođeni podaci prilikom registracije na host server</item>
+        <item>Nevažeći prilagođeni podaci</item>
+        <item>Korisnik je već registrovan na host serveru</item>
+        <item>Već registrovani korisnik</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Došlo je do greške prilikom otkrivanja usluga. Pokušajte ponovo.</item>
+        <item>Zahtev nije uspeo</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Prikaži tekstualnu poruku u majušnom fontu</item>
+        <item>Prikaži tekstualnu poruku u malom fontu</item>
+        <item>Prikaži tekstualnu poruku u normalom fontu</item>
+        <item>Prikaži tekstualnu poruku u velikom fontu</item>
+        <item>Prikaži tekstualnu poruku u ogromnom fontu</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Prikaži red 0 u pregledu poruke</item>
+        <item>Prikaži 1 red u pregledu poruke</item>
+        <item>Prikaži red 2 u pregledu poruke</item>
+        <item>Prikaži red 3 u pregledu poruke</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Google Translate</item>
+        <item>Wikipedia</item>
+        <item>Rečnik</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Podeli kao tekst</item>
+        <item>Podeli kao sliku</item>
+    </string-array>
+</resources>

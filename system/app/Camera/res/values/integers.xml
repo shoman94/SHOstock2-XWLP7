@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="default_slider_number_of_gauge">9</integer>
+</resources>

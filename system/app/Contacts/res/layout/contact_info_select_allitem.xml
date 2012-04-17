@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:background="@drawable/winset_create_bg" android:layout_width="fill_parent" android:layout_height="56.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/SelectAllTextAppearance" android:gravity="center_vertical" android:paddingLeft="11.0dip" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="56.0dip" android:text="@string/select_all" android:layout_weight="1.0" />
+    <CheckBox android:id="@id/checkbox" android:focusable="false" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="2.7999878dip" />
+</LinearLayout>

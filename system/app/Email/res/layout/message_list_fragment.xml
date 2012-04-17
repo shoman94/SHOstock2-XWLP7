@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/no_messages_image" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="174.0px" android:layout_height="174.0px" android:layout_marginTop="@dimen/messageview_email_nodata_margin_top" android:src="@drawable/email_img_nodata" />
+        <TextView android:textColor="#ff4f4f4f" android:gravity="center_horizontal" android:id="@id/no_messages_panel" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/messageview_email_nodata_text_margin_top" android:text="@string/message_list_no_messages" />
+    </LinearLayout>
+    <FrameLayout android:orientation="vertical" android:id="@id/list_panel" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@android:layout/list_content" />
+        <LinearLayout android:layout_gravity="right" android:id="@id/list_shadow" android:background="@drawable/email_split" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    </FrameLayout>
+</FrameLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/actionshotlayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/actionShotCapturelayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+        <ProgressBar android:id="@id/actionShotCaptureProgress" android:layout_width="345.0dip" android:layout_height="7.3299866dip" android:layout_marginTop="286.0dip" android:progressDrawable="@drawable/tw_progress_horizontal" style="@style/TwHorizontalProgressBar" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/actionShotPostCaptureLayout" android:background="@drawable/tw30_camera_shootingmode_popup_bg" android:visibility="invisible" android:layout_width="293.32812dip" android:layout_height="161.32999dip" android:layout_marginLeft="120.0dip" android:layout_marginTop="56.0dip">
+        <TextView android:textSize="18.0sp" android:gravity="center_horizontal" android:id="@id/actionShotPostProgressText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="38.0dip" android:text="@string/processing_msg" />
+        <ProgressBar android:id="@id/actionShotPostProgress" android:layout_width="232.0dip" android:layout_height="6.669983dip" android:layout_marginTop="122.66998dip" android:progressDrawable="@drawable/tw_progress_horizontal" android:layout_centerHorizontal="true" style="@style/TwHorizontalProgressBar" />
+    </RelativeLayout>
+    <TextView android:textSize="16.0sp" android:textColor="#ffffffff" android:ellipsize="marquee" android:gravity="center_horizontal" android:id="@id/actionshot_helptext" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="292.0dip" android:text="@string/Action_Shot_Helptext" android:singleLine="true" android:shadowColor="#ff000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+</RelativeLayout>

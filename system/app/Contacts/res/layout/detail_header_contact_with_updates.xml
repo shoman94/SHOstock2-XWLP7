@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_width="fill_parent" android:layout_height="wrap_content" ex:direction="widthToHeight" ex:ratio="0.5" class="com.android.contacts.widget.ProportionalLayout"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:ex="http://schemas.android.com/apk/res/com.android.contacts">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</view>

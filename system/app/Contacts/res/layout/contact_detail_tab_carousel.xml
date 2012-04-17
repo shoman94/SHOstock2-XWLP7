@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:scrollbars="none" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.android.contacts.detail.ContactDetailTabCarousel"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/tab_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:id="@id/tab_about" layout="@layout/carousel_about_tab" />
+        <View android:background="@android:color/black" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <include android:id="@id/tab_update" layout="@layout/carousel_updates_tab" />
+    </LinearLayout>
+</view>

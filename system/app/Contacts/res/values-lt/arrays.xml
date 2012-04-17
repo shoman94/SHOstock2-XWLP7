@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Organizacija</item>
+        <item>Pastaba</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Skambutis</item>
+        <item>Siųst žinutę</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Telefonas</item>
+        <item>SIM kortelė</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Visi</item>
+        <item>Telefonas</item>
+        <item>SIM kortelė</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Vardas Pavardė</item>
+        <item>Pavardė Vardas</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Pir.</item>
+        <item>Ant.</item>
+        <item>Tre.</item>
+        <item>Ket.</item>
+        <item>Pen.</item>
+        <item>Šeš.</item>
+        <item>Sek.</item>
+    </string-array>
+</resources>

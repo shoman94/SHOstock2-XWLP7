@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d puhelinnumerollista yhteystietoa</item>
+        <item quantity="one">1 puhelinnumerollinen yhteystieto</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d yhteystietoa</item>
+        <item quantity="one">1 yhteystieto</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Löytyi %d</item>
+        <item quantity="one">Löytyi 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Löytyi %d</item>
+        <item quantity="one">Löytyi 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">yhdistetty %0$d lähteestä</item>
+        <item quantity="one">ei yhdistetty</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d ryhmää</item>
+        <item quantity="one">1 ryhmä</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d henkilöä tilistä %2$s</item>
+        <item quantity="one">%1$d henkilö tilistä %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%d henkilöä</item>
+        <item quantity="one">%d kaveria</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%d vastaajaviestiä</item>
+        <item quantity="one">Vastaaja</item>
+    </plurals>
+    <plurals name="listNumberOfTotalContacts">
+        <item quantity="other">Näytetään %d yhteystietoa</item>
+        <item quantity="one">Näytä 1 yhteystieto</item>
+    </plurals>
+    <plurals name="copied_N">
+        <item quantity="other">%d yhteystietoa kopioitu</item>
+        <item quantity="one">%d yhteystietoa kopioitu</item>
+    </plurals>
+</resources>

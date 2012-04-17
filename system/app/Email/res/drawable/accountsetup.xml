@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:shadowDx="0.0" android:shadowDy="-1.0" android:shadowRadius="0.2" android:color="@color/actionbartitle_text_dim" />
+    <item android:shadowColor="@color/actionbartitle_textshadow" android:shadowDx="0.0" android:shadowDy="-1.0" android:shadowRadius="0.2" android:color="@color/actionbartitle_text" />
+</selector>

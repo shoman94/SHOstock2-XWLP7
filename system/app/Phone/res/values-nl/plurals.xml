@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Geen gegevensverbinding gedurende %s minuten</item>
+        <item quantity="one">Geen gegevensverbinding gedurende %s minuut</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefoon blijft gedurende %s minuten in de terugbelstand voor noodoproep. Applicaties die met een gegevensverbinding werken, kunnen niet in deze stand worden gebruikt. Nu afsluiten?</item>
+        <item quantity="one">Telefoon blijft gedurende %s minuten in de terugbelstand voor noodoproep. Applicaties die met een gegevensverbinding werken, kunnen niet in deze stand worden gebruikt. Nu afsluiten?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Geselecteerde actie is niet beschikbaar in de terugbelstand voor noodoproep. Telefoon blijft gedurende %s minuten in deze stand. Nu afsluiten?</item>
+        <item quantity="one">Geselecteerde actie is niet beschikbaar in de terugbelstand voor noodoproep. Telefoon blijft gedurende 1 minuut in deze stand. Nu afsluiten?</item>
+    </plurals>
+</resources>

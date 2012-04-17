@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d записа с телефонни номера</item>
+        <item quantity="one">1 запис с телефонен номер</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d записа</item>
+        <item quantity="one">1 запис</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d намерени</item>
+        <item quantity="one">1 намерен</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d намерени</item>
+        <item quantity="one">1 намерен</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">обединено от %0$d източник/а</item>
+        <item quantity="one">без обединяване</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d групи</item>
+        <item quantity="one">1 група</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d души от %2$s</item>
+        <item quantity="one">%1$d човек от %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%d човека</item>
+        <item quantity="one">%d души</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%d гласови пощи</item>
+        <item quantity="one">Гласова поща</item>
+    </plurals>
+    <plurals name="listNumberOfTotalContacts">
+        <item quantity="other">Показване на %d записа</item>
+        <item quantity="one">Показване на 1 запис</item>
+    </plurals>
+    <plurals name="copied_N">
+        <item quantity="other">%d записа копирани</item>
+        <item quantity="one">%d запис копиран</item>
+    </plurals>
+</resources>

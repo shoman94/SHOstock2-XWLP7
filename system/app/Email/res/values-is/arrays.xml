@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Árangur.</item>
+        <item>Engin villa</item>
+        <item>Farið yfir notandamörk um {0} notendur</item>
+        <item>Farið yfir notandamörk</item>
+        <item>Tvífaldaður notandi: {0}</item>
+        <item>Tvífaldaður notandi</item>
+        <item>Tvífaldað tæki: {0}</item>
+        <item>Tvífaldað tæki</item>
+        <item>Notandi finnst ekki: {0}</item>
+        <item>Notandi finnst ekki</item>
+        <item>Ógilt dagsetningarsnið: {0}. Væntanlegt {1}.</item>
+        <item>Ógilt dagsetningarsnið</item>
+        <item>Ógilt dagsetningarsnið: {0}. Væntanlegt {1}</item>
+        <item>Ógilt dagsetningarsnið</item>
+        <item>Vantar nauðsynlega færibreytu: {0}</item>
+        <item>Vantar nauðsynlega færibreytu</item>
+        <item>Villa kom upp. Vinsamlegast reyndu aftur.</item>
+        <item>Innri villa</item>
+        <item>Afhent úthlutunarkenni ({0}) fannst ekki á neinum endursöluaðila sem notandinn hefur aðgang að.</item>
+        <item>Vörumerki finnst ekki</item>
+        <item>Engin gildistímadagsetning stillt</item>
+        <item>Engin gildistímadagsetning stillt</item>
+        <item>Aðgangi hafnað</item>
+        <item>Aðgangi hafnað</item>
+        <item>Aðgangur forritaskila ekki virkjaður fyrir: {0}</item>
+        <item>Aðgangur forritaskila ekki virkjaður</item>
+        <item>Villa kom upp. Vinsamlegast reyndu aftur.</item>
+        <item>Villan Slæm beiðni</item>
+        <item>Innri villa: {0}</item>
+        <item>Innri villa</item>
+        <item>Áskrift með uppgefnum ítaratriðum er þegar til staðar</item>
+        <item>Tvífölduð áskrift</item>
+        <item>Margar samsvarandi áskriftir fundnar</item>
+        <item>Margar samsvarandi áskriftir fundnar</item>
+        <item>Villa kom upp þegar reynt var að hefja setu. Vinsamlegast reyndu aftur.</item>
+        <item>Tengingarvilla</item>
+        <item>Fyrirspurn {0} fannst ekki</item>
+        <item>Fyrirspurn fannst ekki</item>
+        <item>Ósamkvæmar færibreytur: {0} og {1}</item>
+        <item>Ósamkvæmar færibreytur</item>
+        <item>Ógilt msisdn snið: {0}</item>
+        <item>Ógilt msisdn snið</item>
+        <item>Ógild færibreyta vöru: {0}</item>
+        <item>Ógild færibreyta vöru</item>
+        <item>Tengillinn þinn fannst ekki. Vinsamlegast staðfestu tengilkennið sem þú slóst inn.</item>
+        <item>Tengill finnst ekki</item>
+        <item>Áskrift finnst ekki</item>
+        <item>Áskrift finnst ekki</item>
+        <item>Villa kom upp meðan gögn voru send. Vinsamlegast reyndu aftur.</item>
+        <item>Gagnavilla</item>
+        <item>Eftirlíkingarhringing til AOM verkvangs mistókst</item>
+        <item>Eftirlíkingarhringing til AOM verkvangs mistókst</item>
+        <item>Það tók of langan tíma að ljúka aðgerðinni þinni og hún tímalokaði. Vinsamlegast reyndu aftur.</item>
+        <item>Tímalokun</item>
+        <item>Get ekki tengst tölvupóstsreikningnum þínum. Tengingin ætti að vera endurreist sjálfkrafa. Ef vandamálið helst áfram skaltu athuga netkerfisstillingarnar eða hafa samband við þjónustuveitandann vegna aðstoðar.</item>
+        <item>Tengingarvandamál</item>
+        <item>Netkerfið er ekki tiltækt í augnablikinu eða síminn í flugstillingu. Tengingu verður komið sjálfkrafa á þegar netkerfið verður tiltækt.</item>
+        <item>Tenging mistókst</item>
+        <item>Netþjónninn er nú upptekinn. Vinsamlegast reyndu aftur.</item>
+        <item>Netþjónn upptekinn</item>
+        <item>Mistök við almenna IPC-beiðni</item>
+        <item>IPC-beiðni mistókst</item>
+        <item>Sannvottun mistókst fyrir: {0}</item>
+        <item>Sannvottun mistókst</item>
+        <item>Vinsamlegast hafðu samband við þjónustuveitanda þinn til að fá gilt skírteini.</item>
+        <item>Skírteini ekki samþykkt</item>
+        <item>Biðlarakenni fannst ekki úr SMS-efni</item>
+        <item>Biðlarakenni finnst ekki úr SMS-efni</item>
+        <item>Enginn biðlari fannst með biðlarakennið ({0}).</item>
+        <item>Enginn biðlari fannst með tilgreinda biðlarakennið</item>
+        <item>Gefnar MSISDN upplýsingar eru ógildar eða vantar: {0}</item>
+        <item>MSISDN upplýsingar ekki gefnar eða ógildar.</item>
+        <item>Ógilt MSISDN snið: {0}. Vænti talnagildis.</item>
+        <item>Ógilt MSISDN snið</item>
+        <item>Ógilt snið biðlarakennis: {0}. Vænti talnagildis.</item>
+        <item>Ógilt snið biðlarakennis</item>
+        <item>Væntanlegur gjaldhaus fannst ekki úr staðfestingarbeiðninni</item>
+        <item>Staðfesting gjaldhauss mistókst</item>
+        <item>MSISDN {0} er þegar til í kerfinu.</item>
+        <item>MSISDN er þegar til</item>
+        <item>MSISDN {0} er ekki til í kerfinu.</item>
+        <item>MSISDN er ekki til</item>
+        <item>Vinsamlegast komdu með bráðabirgðalykilorðið til að endsetja upp þennan [tengil].</item>
+        <item>Lykilorð áskilið</item>
+        <item>Auðkennið sem þú valdið er þegar í notkun. Vinsamlegast veldu annað.</item>
+        <item>Kenni er þegar í notkun.</item>
+        <item>Veitt bráðabirgðaaðgangsorð er rangt.</item>
+        <item>Tengingarvilla</item>
+        <item>Tengill hefur verið afvirkjaður</item>
+        <item>Tengill afvirkjaður</item>
+        <item>Þjónustan er ekki virkjuð</item>
+        <item>Þjónusta ekki virkjuð</item>
+        <item>Vöruútgáfan sem boðið er upp á samsvarar ekki uppsettu útgáfunni a gagnahleypunni</item>
+        <item>Ósamræmi vöruútgáfu</item>
+        <item>Færsla mistókst af ótilgreindri ástæðu: {0}</item>
+        <item>Færsla mistókst af ótilgreindri ástæðu</item>
+        <item>Sannvottun mistókst fyrir: {0}</item>
+        <item>Sannvottun mistókst</item>
+        <item>Aðgangur ekki leyfður fyrir: {0}</item>
+        <item>Aðgangur ekki leyfður</item>
+        <item>Reikningur notanda {0} er útilokaður</item>
+        <item>Reikningur útilokaður</item>
+        <item>Hluti af færslubunka mistókst.</item>
+        <item>Hluti af færslubunka mistókst.</item>
+        <item>Listahringing skilaði {0} skrám, mörkin eru {1}.</item>
+        <item>Skilalisti er yfir stærðarmörkum</item>
+        <item>Bunkahringing bað um {0} færslur, mörkin eru {1}.</item>
+        <item>Bunkafærslubeiðni yfir stærðarmörkum sínum</item>
+        <item>Hringingu forritaskila sem gerð var vantar nauðsynlega færibreytu: {0}</item>
+        <item>Hringingu forritaskila vantar áskilda færibreytu.</item>
+        <item>Færibreyta {0} var ógild fyrir þessa hringingu forritaskila.</item>
+        <item>Hringing forritsskila innihélt ógilda færibreytu.</item>
+        <item>Gagnagrunnsvilla kom upp við vinnslu þessarar beiðnar: {0}</item>
+        <item>Gagnagrunnsvillu varpað með hringingu forritaskila.</item>
+        <item>Ekki er hægt að nota algildisstafi með þessum aðgangsskilríkjum.</item>
+        <item>Ólögleg notkun algildisstafa.</item>
+        <item>Ógildur algildisstafur í umbeðinni færibreytu: {0}</item>
+        <item>Ógildir algildisstafir í beiðni.</item>
+        <item>SOAP-beiðni móttekin með týndum eða ógildum haus.</item>
+        <item>SOAP-beiðni móttekin með týndum eða ógildum haus.</item>
+        <item>SOAP-beiðnin var móttekin með týndri nauðsynlegri hausfæribreytu: {0}</item>
+        <item>SOAP-beiðni móttekin með týndri hausfæribreytu.</item>
+        <item>SOAP-beiðnin var móttekin frá IP-tölu: {0}. Þetta vistfang hefur ekki leyfi til að nota forritaskilin.</item>
+        <item>SOAP-beiðni móttekin frá útilokaðri IP-tölu.</item>
+        <item>Aðgangur forritaskila ekki virkjaður fyrir: {0}</item>
+        <item>Aðgangur forritaskila ekki virkjaður</item>
+        <item>SOAP-beiðni mistókst af ótilgreindri ástæðu: {0}</item>
+        <item>SOAP-beiðni mistókst af ótilgreindri ástæðu</item>
+        <item>Hringing forritaskila fyrir createAccountSubscription útheimtir AccountID eða MSISDN færibreytu.</item>
+        <item>createAccountSubscription hringdi með ekkert AccountID eða MSISDN.</item>
+        <item>Að nota vörufæribreytu í hringingu forritsskilanna listAccountSubscription útheimtir að gefið sé að minnsta kosti eitt af MSISDN, AccountID og GroupID.</item>
+        <item>listAccountSubscriptions hringdi með vörufæribreytu en enga auðkennisfæribreytu.</item>
+        <item>Uppgefin viðmið áskriftarkennis samsvara mörgum skrám. Uppfærsla ekki unnin.</item>
+        <item>Viðmið áskriftarkennis samsvarar mörgum skrám.</item>
+        <item>Ógilt sett auðkennisfæribreyta var veitt.</item>
+        <item>Ógilt sett auðkennisfæribreyta útvegað.</item>
+        <item>Hringing forritaskila fyrir updateAccountSubscription var gerð með engum reitum til að uppfæra.</item>
+        <item>Engir reitir gefnir fyrir uppfærslu.</item>
+        <item>Uppgefin viðmið áskriftarkennis samsvara engum skrám. Engin uppfærsla var unnin.</item>
+        <item>Viðmið áskriftarkennis samsvara engum skrám.</item>
+        <item>Að nota vörufæribreytu í hringingu forritsskilanna deleteAccountSubscription útheimtir að gefið sé að minnsta kosti eitt af MSISDN, AccountID og GroupID.</item>
+        <item>deleteAccountSubscriptions hringdi með vörufæribreytu en enga auðkennisfæribreytu.</item>
+        <item>Uppgefin viðmið áskriftarkennis samsvara mörgum skrám. Uppfærsla ekki unnin.</item>
+        <item>Viðmið áskriftarkennis samsvara mörgum skrám.</item>
+        <item>Hringing forritaskila fyrir updateConnectorSubscription útheimtir SubscriptionId eða ConnectorId færibreytu.</item>
+        <item>Ógilt sett auðkennisfæribreyta útvegað.</item>
+        <item>Hringing forritaskila fyrir updateConnectorSubscription var gerð með engum reitum til að uppfæra.</item>
+        <item>Engir reitir gefnir fyrir uppfærslu.</item>
+        <item>Uppgefin viðmið áskriftarkennis samsvara engum skrám. Engin uppfærsla var unnin.</item>
+        <item>Viðmið áskriftarkennis samsvara engum skrám.</item>
+        <item>Ef hringing forritsskila createPreProvisionedAccount er gerð með CE sem vöru, verður að útvega úthlutunarkenni og vörumerkiskenni netþjóns þjónustuveitu. Ef varan er eitthvað annað verður að útvega kenni tengils.</item>
+        <item>createPreProvisionedAccount hringdi með ógildum færibreytum.</item>
+        <item>Annað hvort fannst innslegið fyrirtækisheiti ekki í gagnagrunninum, eða innslegið úthlutunarkenni passaði ekki við þjónustuveitufyrirtæki.</item>
+        <item>Gat ekki fundið fyrirtæki með færibreytunum.</item>
+        <item>Vörumerkiskenni netþjóns þjónustuveitu finnst ekki í gagnagrunni.</item>
+        <item>Vörumerkiskenni netþjóns þjónustuveitu finnst ekki í gagnagrunni.</item>
+        <item>Netþjónn þjónustuveitu sem fannst fyrir ílagt vörumerkiskenni styður ekki gefna vörutegund.</item>
+        <item>Netþjónn þjónustuveitu sem fannst fyrir ílagt vörumerkiskenni styður ekki gefna vörutegund.</item>
+        <item>Fleiri en einn reikningur passar fyrir uppfærslu. Ekki er hægt að uppfæra aðgangsorð.</item>
+        <item>changeAccountPassword passaði við fleiri en einn reikning.</item>
+        <item>Engir reikningar finnast sem passa fyrir uppfærslu. Engin lykilorð verða uppfærð.</item>
+        <item>changeAccountPassword passar ekki við neinn reikning.</item>
+        <item>Villa kom upp þegar reynt var að uppfæra lykilorðið, mögulega af völdum ógilds lykilorðs.</item>
+        <item>changeAccountPassword mistókst að uppfæra lykilorð.</item>
+        <item>A request made for listing user information but given parameters do not match any existing user</item>
+        <item>getUserInformation cannot find user with given parameters</item>
+        <item>isValidConnectorId hringdi með kenni sem er þegar í notkun.</item>
+        <item>Kenni tengils er þegar í notkun.</item>
+        <item>runScript hringdi með ógildum færibreytum fyrir tiltekna SQL forskrift.</item>
+        <item>Ógildar færibreytur fyrir SQL forskrift.</item>
+        <item>runScript kallaði eftir óþekktri SQL forskrift.</item>
+        <item>SQL forskrift finnst ekki.</item>
+        <item>Sending niðurhalstengingareiginleika er ekki virkjuð í forritaskilum.</item>
+        <item>sendDownloadLink hringdi þegar eiginleiki ekki virkjaður.</item>
+        <item>Skilaboðabeiðni til SMS skeytagáttar mistókst.</item>
+        <item>Skilaboðabeiðni til SMS skeytagáttar mistókst.</item>
+        <item>Biðlari fannst ekki fyrir gefnar færibreytur.</item>
+        <item>Biðlari fannst ekki fyrir gefnar færibreytur.</item>
+        <item>Póstpróf mistókst vegna þess að tiltekni póstveitandinn fannst ekki. Þú þarft að nota POP3, IMAP, POP3S, IMAPS, SMTP eða SMTPS sem veitandann</item>
+        <item>Póstveitandi finnst ekki</item>
+        <item>Póstprófun mistókst af því að tengingin við tiltekna póstþjóninn mistókst. Athugaðu stillingar pósthólfs</item>
+        <item>Tenging mistókst</item>
+        <item>Póstprófun mistókst af því að tengingin við tiltekna póstþjóninn mistókst. Athugaðu stillingar pósthólfs</item>
+        <item>Innhólf fannst ekki</item>
+        <item>Póstprófun mistókst af því að skilaboðaleit úr innhólfi mistókst. Athugaðu stillingar pósthólfs</item>
+        <item>Leit í innhólfi mistókst</item>
+        <item>Póstpróf mistókst vegna ógilds netfangs. Athugaðu gefið netfang</item>
+        <item>Ógilt netfang</item>
+        <item>Viðhengi er yfir hámarksstærð.</item>
+        <item>Stærð viðhengis er of mikil.</item>
+        <item>Stærð meginmáls skilaboða of mikil.</item>
+        <item>Stærð meginmáls er of mikil.</item>
+        <item>Tilraunin til innskráningar mistókst vegna ógilds {0}s og/eða lykilorðs. Vinsamlegast athugaðu {0} og lykilorð og reyndu aftur.</item>
+        <item>Innskráning röng</item>
+        <item>Tilraunin til innskráningar mistókst vegna ógilds {0}, lykilorðs eða rangra stillinga. Vinsamlegast athugaðu {0} þitt, lykilorð og stillingar á vefnum og reyndu aftur.</item>
+        <item>Innskráning röng</item>
+        <item>Tilraunin til innskráningar mistókst vegna ógilds {0}s. Vinsamlegast athugaðu {0} og reyndu aftur.</item>
+        <item>Notandi finnst ekki</item>
+        <item>Það eru margar skráningar fyrir notandanafnið sem þú útvegaðir. Vinsamlegast athugaðu {0} og lykilorð og reyndu aftur.</item>
+        <item>Notandi finnst ekki</item>
+        <item>Stillingar fyrir póstþjóninn þinn fundust ekki. Vinsamlegast skilgreindu reikningsupplýsingar á eftirfarandi skjá.</item>
+        <item>Netþjónn finnst ekki</item>
+        <item>Innskráning mistókst. Vinsamlegast sjáðu tölvupóstsreikningnum þínum fyrir notandanafni ef það er ekki það sama og netfangið þitt.</item>
+        <item>Innskráning mistókst</item>
+        <item>Sannvottun með þessum reikningi hefur mistekist of oft. Vinsamlegast bíddu eftir aflæsingu eða hafðu samband við kerfisstjóra.</item>
+        <item>Reikningur læstur</item>
+        <item>Þetta símanúmer hefur þegar verið skráð. Vinsamlegast staðfestu að þú hafir slegið inn rétt símanúmer eða hafðu samband við þjónustuveitanda vegna aðstoðar.</item>
+        <item>For-úthlutaður reikningur er þegar til</item>
+        <item>Tengingin hefur verið framsend til annars netþjóns til að veita betri afköst. Vinsamlegast reyndu síðustu aðgerð aftur.</item>
+        <item>Framsent</item>
+        <item>Tölvupóstsnetþjónninn er ekki tiltækur í augnablikinu. Vinsamlegast reyndu aftur seinna.</item>
+        <item>Innskráning mistókst</item>
+        <item>Póstprófun mistókst vegna óþekktrar villu. Athugaðu stillingar pósthólfs</item>
+        <item>Óþekkt villa</item>
+        <item>Sannvottun með þessum reikningi hefur mistekist of oft. Frekari innskráningar hafa verið hindraðar frá tenglinum. Vinsamlegast bíddu eftir aflæsingu eða hafðu samband við kerfisstjóra tengilsins til að leyfa frekari innskráningartilraunir.</item>
+        <item>Innskráningar afvirkjaðar</item>
+        <item>Smelltu á OK til að athuga {0} og aðgangsorð/athugaðu RSA-tókann áður en þú reynir aftur.</item>
+        <item>RSA innskráning röng</item>
+        <item>Biðlaraútgáfan sem þú notar er ekki vottuð af þessum póstveitanda. Vinsamlegast hafðu samband við veitandann þinn til að fá vottaða biðlaraútgáfu.</item>
+        <item>Biðlari er ekki vottaður fyrir þessa þjónustuveitu.</item>
+        <item>Vistfang Microsoft Exchange netþjónsins sem þú gafst upp er ekki gilt veffang. Vinsamlegast staðfestu vistfangið og reyndu aftur.</item>
+        <item>Vistfang Microsoft Exchange - ógilt</item>
+        <item>Veitandinn þinn er tiltækur sem úrvalsþjónusta. Vinsamlega farðu aftur í listann yfir veitendur og veldu aftur.</item>
+        <item>Uppgefið veffang er ekki leyft.</item>
+        <item>Dreiflykill fjarenda hefur breyst. Þetta kann að gefa til kynna tilraun til innskots. Gögnum frá fjarenda var fleygt.</item>
+        <item>Ósamræmi dreiflykils.</item>
+        <item>Endurinnskráning ekki möguleg. Þetta gefur til kynna að notandinn geti ekki ritað inn nýju skilríkin til að endurinnskrá að þjónustunni, en einhverrar annarrar aðgerðar er þörf frá notandanum</item>
+        <item>Endurinnskráning ekki möguleg</item>
+        <item>Netþjónninn á vistfanginu sem þú útvegaðir svarar ekki. Ekki er hægt að nota Microsoft Exchange til að fá aðgang að vinnustaðartölvupósti ef VPN/SSL gátt er notuð. Vinsamlegast veldu Í lagi til að fá aðgang að vinnustaðartölvupósti með næsta tengingarvalkosti.</item>
+        <item>OWA vistfang - svarar ekki</item>
+        <item>Netþjónninn á vistfanginu sem þú gafst upp er ekki Microsoft Exchange netþjónn. Vinsamlegast staðfestu vistfang Microsoft Exchange netþjónsins og reyndu aftur.</item>
+        <item>Vistfang Microsoft Exchange - röng tegund</item>
+        <item>Aðgangsorðið þitt er útrunnið. Vinsamlegast breyttu aðgangsorðinu þínu í einkatölvunni og reyndu aftur með nýja aðgangsorðinu.</item>
+        <item>Lykilorð útrunnið</item>
+        <item>Þú hefur náð mörkum þeirra síma sem þú getur ráðstafað. Vinsamlegast hafðu samband við kerfisstjóra.</item>
+        <item>Of margir símar</item>
+        <item>Engin Notes auðkennisskrá er tiltæk, get ekki skráð inn. Vinsamlegast hafðu samband við kerfisstjóra.</item>
+        <item>Engin auðkennisskrá tiltæk</item>
+        <item>Umbeðna þjónustan er tímabundið ótiltæk. Vinsamlegast reyndu aftur seinna. Ef vandamálið helst, vinsamlegast skráðu þig inn í reikninginn með vefvafra.</item>
+        <item>Þjónusta þjónustuveitu tímabundið ótiltæk</item>
+        <item>Áskilinni vefinnskráningu skilað frá þjónustuveitu. Vinsamlegast skráðu þig inn í reikninginn með vefvafra.</item>
+        <item>Vefinnskráning áskilin</item>
+        <item>Villa kom upp í þjónustuveitu. Vinsamlegast reyndu aftur síðar. Ef vandamálið helst skaltu reyna að skrá þig inn gegnum vefvafra.</item>
+        <item>Villu skilað frá þjónustuveitu.</item>
+        <item>Mailbox is currently in use. Please try again later.</item>
+        <item>Mailbox is currently in use.</item>
+        <item>No answer for this feed url. Please correct the url or try again later.</item>
+        <item>No answer for this feed url.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Get ekki tengst Exchange Access netfanginu þínu. Tengingin ætti að vera endurreist sjálfkrafa; ef vandamálið helst áfram skaltu hafa samband við UT kerfistjóra vegna aðstoðar.</item>
+        <item>Tengingarvandamál</item>
+        <item>Get ekki tengst {0} netfanginu þínu. Tengingin ætti að vera endurreist sjálfkrafa; ef vandamálið helst áfram skaltu hafa samband við {0} vegna aðstoðar.</item>
+        <item>Tengingarvandamál</item>
+        <item>Reikningsuppfærsluaðgerðin sem þú reyndir mistókst. Vinsamlegast reyndu aftur.</item>
+        <item>Uppnýjun mistókst</item>
+        <item>XML í RPC-beiðni var ógilt.</item>
+        <item>Gallað XML í RPC</item>
+        <item>Innri villa í forritaskilum XLM RPC kom upp. Vinsamlegast reyndu aftur.</item>
+        <item>Innri villa í forritaskilum XML RPC</item>
+        <item>Ógildar færibreytur eða þær vantar í XML RPC beiðni. Athugaðu færibreytur og gildi þeirra.</item>
+        <item>Ógildar færibreytur eða þær vantar</item>
+        <item>Þjónusta gat ekki vistað gögnin þín. Vinsamlegast reyndu aftur.</item>
+        <item>Gagnagrunnsvilla</item>
+        <item>Stofnun með þetta heiti er þegar til. Vinsamlegast veldu annað heiti.</item>
+        <item>Stofnun er þegar til</item>
+        <item>Tengilkennið sem þú tiltókst er þegar í notkun. Vinsamlegast veldu annað.</item>
+        <item>Nafn þegar í notkun</item>
+        <item>Notandanafnið sem þú tiltókst er þegar í notkun. Vinsamlegast veldu annað notandanafn.</item>
+        <item>Notandanafn þegar í notkun</item>
+        <item>Þessi notandi er þegar til.</item>
+        <item>Notandi er þegar til</item>
+        <item>For-úthlutaði reikningurinn sem þú reyndir að stofna er þegar til. Kerfisstjóri tengils verður að fjarlægja þennan núverandi reikning áður en nýjum er bætt við.</item>
+        <item>For-úthlutaður reikningur er þegar til</item>
+        <item>Þú hefur ekki fullnægjandi aðgangsréttindi til að framkvæma þessa aðgerð.</item>
+        <item>Aðgangi hafnað</item>
+        <item>Áskrift þín er útrunnin. Vinsamlegast hafðu samband við veitanda þinn til að endurnýja áskriftina.</item>
+        <item>Get ekki skráð inn</item>
+        <item>Áskriftin þín leyfir ekki að bætt sé við fleiri reikningum. Vinsamlegast heimsæktu http://eu020.fra.samsungsocialhub.com til að stigbæta áskriftina þína.</item>
+        <item>Get ekki skráð inn</item>
+        <item>Vinsamlegast heimsæktu http://eu020.fra.samsungsocialhub.com til að gerast áskrifandi að Social Hub.</item>
+        <item>Get ekki skráð inn</item>
+        <item>Við lentum í vandræðum með SSL-vottorð á þessu svæði.</item>
+        <item>Vottorðsmál</item>
+        <item>Uppgefið veffang tilheyrir ekki gildri Outlook Web Access þjónustu. Vinsamlegast athugaðu veffangið og reyndu aftur.</item>
+        <item>Ógilt vistfang þjónustu</item>
+        <item>Þetta veffang er forsamskipað. Vinsamlega farðu aftur í listann yfir forsamskipaða veitendur og veldu veitandann þinn úr honum.</item>
+        <item>Aðgangi hafnað</item>
+        <item>Tengiliður var aftengdur þegar reynt var að senda skilaboðin</item>
+        <item>Tengiliður aftengdur</item>
+        <item>Tengiliður var útilokaður þegar reynt var að senda skilaboðin</item>
+        <item>Tengiliður útilokaður</item>
+        <item>Skráarstærð í skráarfærslunni samsvaraði ekki tilgreinda gildinu</item>
+        <item>Ósamræmi í skráarstærð</item>
+        <item>Komið umfram hám. p2p setu</item>
+        <item>Komið umfram hám. p2p setu</item>
+        <item>Vantar fæðingardag</item>
+        <item>Vantar fæðingardag</item>
+        <item>Viðtakandinn styður ekki skráarfærslu</item>
+        <item>p2p seta ekki studd</item>
+        <item>Notandinn verður að skrá sig með skilaboðaþjónustunni</item>
+        <item>Skráning útrunnin</item>
+        <item>Ekki er hægt að ljúka beiðninni þar sem netþjónninn er of upptekinn. Vinsamlegast reyndu aftur síðar</item>
+        <item>Netþjónn upptekinn</item>
+        <item>VoiceClip er ekki stutt fyrir þetta samtal</item>
+        <item>Raddbútur ekki studdur</item>
+        <item>Aðeins tveir þátttakendur eru leyfðir í samtali fyrir skráarfærsluaðgerð</item>
+        <item>Of margir þátttakendur</item>
+        <item>Það eru engir þátttakendur í tilgreinda samtalinu</item>
+        <item>Engir þátttakendur til staðar</item>
+        <item>Innskráning Messenger er ekki leyfð af foreldri notanda</item>
+        <item>Leyfi foreldris áskilið</item>
+        <item>Samtalsauðkennið er ógilt. Biðlaraforritið ætti að hætta við þessa samtal</item>
+        <item>Hringikenni ógilt</item>
+        <item>Beiðni um boð var reynd og núverandi staða notanda (á biðlaratæki) er still á aftengdur</item>
+        <item>Notandi aftengdur</item>
+        <item>Beiðni um boð var reynd til að bæta við ógildum notanda</item>
+        <item>Óþekktur notandi</item>
+        <item>Engin samskipan fannst fyrir tiltekna tölvupóstslénið</item>
+        <item>Óþekkt þjónustuveita</item>
+        <item>Sannvottunarmistök byggð á tókum eru meðhöndluð öðruvísi, þess vegna þessi villa.</item>
+        <item>Sannvottun á tókagrunni mistókst</item>
+        <item>Þörf er á áskrift til að geta notað þessa þjónustu.</item>
+        <item>Áskrift áskilin</item>
+        <item>Það er engin Seven-þjónusta tiltæk.</item>
+        <item>Engin þjónusta tiltæk</item>
+        <item>Þú hefur verið skráð(ur) út vegna þess að þú skráðir þig inn á annarri tölvu eða tæki</item>
+        <item>Reikningur var yfirtekinn</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Mistekst að stofna reikning þegar skráð er á Ping</item>
+        <item>Mistekst að stofna reikning</item>
+        <item>Ógildur þjónustulykill þegar skráð er á hýsinetþjón</item>
+        <item>Ógildur þjónustulykill</item>
+        <item>Ógildur þjónustulýsingur þegar skráð er á hýsinetþjón</item>
+        <item>Ógildur þjónustulýsingur</item>
+        <item>Ógild sérgögn þegar skráð er á hýsinetþjón</item>
+        <item>Ógil sérsniðin gögn</item>
+        <item>Notandinn hefur þegar skráð sig á hýsinetþjón</item>
+        <item>Þegar skráður notandi</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Villa kom upp meðan verið var að finna þjónustu. Vinsamlegast reyndu aftur.</item>
+        <item>Beiðni mistókst</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Birta texta skeyta með örsmáu letri</item>
+        <item>Birta texta skeyta með smáu letri</item>
+        <item>Birta texta skeyta með eðlilegu letri</item>
+        <item>Birta texta skeyta með stóru letri</item>
+        <item>Birta texta skeyta með risastóru letri</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Display 0 line in message preview</item>
+        <item>Birta 1 skilaboð í forskoðun skilaboða</item>
+        <item>Display 2 line in message preview</item>
+        <item>Display 3 line in message preview</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Google þýðingar</item>
+        <item>Wikipedia</item>
+        <item>Orðabók</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Samnýta sem texta</item>
+        <item>Samnýta sem mynd</item>
+    </string-array>
+</resources>

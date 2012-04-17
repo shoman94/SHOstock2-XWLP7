@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.contacts.detail.ActionsViewContainer android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/actions_view_container" android:background="?android:selectableItemBackground" android:focusable="true" android:nextFocusRight="@id/secondary_action_view_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/detail_min_line_item_height">
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/primary_action_view" android:paddingLeft="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textAppearance="@style/TwContactDetailTextAppearanceListTwoLineSecondary" android:layout_gravity="center_vertical" android:id="@id/kind" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorSecondary" android:id="@id/footer" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/joined_contacts_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/presence_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="4.0dip" android:scaleType="centerInside" />
+        <TextView android:textAppearance="@style/TwContactDetailTextAppearanceListTwoLinePrimary" android:id="@id/data" android:paddingRight="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <TextView android:layout_gravity="center_vertical" android:id="@id/type" android:paddingRight="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/ContactDetailItemType" />
+        <View android:layout_gravity="center_vertical" android:id="@id/blacklist_indicator" android:background="@drawable/btn_rejected_call" android:visibility="gone" android:layout_width="20.0dip" android:layout_height="20.0dip" />
+        <View android:layout_gravity="center_vertical" android:id="@id/primary_indicator" android:background="@drawable/btn_multicheck_on" android:visibility="gone" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginLeft="5.0dip" />
+        <ImageView android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/action_icon" android:layout_width="32.0dip" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/detail_item_icon_margin" android:layout_marginRight="@dimen/detail_item_icon_margin" android:scaleType="center" />
+        <View android:id="@id/vertical_divider" android:background="?android:dividerVertical" android:layout_width="1.0px" android:layout_height="fill_parent" android:layout_marginTop="@dimen/detail_vertical_divider_vertical_margin" android:layout_marginBottom="@dimen/detail_vertical_divider_vertical_margin" />
+        <FrameLayout android:id="@id/secondary_action_view_container" android:background="?android:selectableItemBackground" android:paddingLeft="@dimen/detail_item_icon_margin" android:paddingRight="@dimen/detail_item_icon_margin" android:focusable="true" android:nextFocusLeft="@id/actions_view_container" android:duplicateParentState="false" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ImageView android:gravity="center" android:id="@id/secondary_action_button" android:duplicateParentState="false" android:layout_width="32.0dip" android:layout_height="fill_parent" android:scaleType="center" android:layout_centerVertical="true" />
+        </FrameLayout>
+    </com.android.contacts.detail.ActionsViewContainer>
+</FrameLayout>

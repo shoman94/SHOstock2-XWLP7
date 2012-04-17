@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/dialpad_allorientation" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/dialpad_land" />
+    <LinearLayout android:orientation="vertical" android:id="@id/top" android:paddingLeft="@dimen/dialpad_horizontal_margin" android:paddingRight="@dimen/dialpad_horizontal_margin" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="horizontal" android:id="@id/digits_container" android:layout_width="320.0dip" android:layout_height="wrap_content">
+            <com.sec.android.app.dialertab.dialpad.EllipsisTextView android:textSize="43.0sp" android:typeface="sans" android:textColor="#ffffffff" android:gravity="center" android:id="@id/digits" android:background="@android:color/transparent" android:paddingLeft="14.0dip" android:paddingRight="14.0dip" android:nextFocusRight="@id/overflow_menu" android:layout_width="292.0dip" android:layout_height="73.0dip" android:layout_marginTop="7.0dip" android:cursorVisible="false" android:singleLine="true" android:maxLength="100" />
+            <ImageButton android:id="@id/overflow_menu" android:background="@android:color/transparent" android:visibility="gone" android:nextFocusLeft="@id/digits" android:layout_width="43.0dip" android:layout_height="43.0dip" android:layout_marginLeft="12.0dip" android:layout_marginTop="37.0dip" android:src="@drawable/call_icon_more" android:scaleType="fitXY" android:contentDescription="@android:string/action_menu_overflow_description" />
+        </LinearLayout>
+        <include layout="@layout/dialpad_searchview" />
+        <include layout="@layout/dialpad_searchview_land" />
+        <include layout="@layout/dialpad" />
+        <include layout="@layout/dialpad_additional_buttons_land" />
+        <ListView android:id="@id/dialpadChooser" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

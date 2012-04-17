@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <fragment android:id="@id/setup_fragment" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_alignParentTop="true" class="com.android.email.activity.setup.AccountSetupIncomingFragment" />
+    </RelativeLayout>
+</ScrollView>

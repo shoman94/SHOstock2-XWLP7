@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/id_layout_main" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:ex="http://schemas.android.com/apk/res/com.android.contacts">
+    <LinearLayout android:gravity="center_vertical" android:id="@id/tablayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TabHost android:id="@id/tabhost" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <TabWidget android:id="@android:id/tabs" android:layout_width="fill_parent" android:layout_height="48.0dip" />
+                <FrameLayout android:id="@android:id/tabcontent" android:layout_width="wrap_content" android:layout_height="0.0dip" />
+            </LinearLayout>
+        </TabHost>
+    </LinearLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <fragment android:id="@id/contact_editor_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.android.contacts.editor.ContactEditorFragment" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="10.0dip" />
+    </FrameLayout>
+</LinearLayout>

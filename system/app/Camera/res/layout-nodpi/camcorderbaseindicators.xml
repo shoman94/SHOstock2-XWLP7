@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/CamcorderBaseIndicatorLayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.sec.android.app.camera">
+    <com.sec.android.app.camera.widget.TwGuidelineView android:id="@id/guideline" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/CamcorderIndicatorGroup" android:layout_width="640.0px" android:layout_height="480.0px" android:layout_marginLeft="80.0px" android:layout_marginTop="0.0px">
+        <TextView android:textSize="22.0px" android:textColor="#ffffffff" android:gravity="center" android:id="@id/remainingtime_indicator_camcorder" android:layout_width="96.0px" android:layout_height="30.0px" android:layout_marginLeft="450.0px" android:layout_marginTop="9.0px" android:layout_marginRight="2.0px" android:shadowColor="#ff000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+        <com.sec.android.app.camera.widget.TwIndicatorStorage android:id="@id/storage_indicator_camcorder" android:layout_width="32.0px" android:layout_height="32.0px" android:layout_marginLeft="546.0px" android:layout_marginTop="9.0px" />
+        <com.sec.android.app.camera.widget.TwIndicatorBattery android:id="@id/battery_indicator" android:layout_width="32.0px" android:layout_height="32.0px" android:layout_marginLeft="592.0px" android:layout_marginTop="9.0px" />
+    </RelativeLayout>
+    <com.sec.android.app.camera.widget.TwIndicatorFocus android:id="@id/focus_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="205.0px" android:layout_below="@id/CamcorderBaseIndicatorLayout" android:layout_centerHorizontal="true" />
+    <ImageView android:id="@id/lock_indicator" android:background="@drawable/camera_indicator_lock" android:visibility="gone" android:layout_width="32.0px" android:layout_height="32.0px" android:layout_marginLeft="96.0px" android:layout_marginTop="9.0px" android:layout_below="@id/CamcorderBaseIndicatorLayout" />
+    <com.sec.android.app.camera.widget.TwTouchFocusRectView android:id="@id/touchFocusRectView" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ImageView android:background="@drawable/empty" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

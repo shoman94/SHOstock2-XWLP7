@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Veiksmīgi.</item>
+        <item>Nav kļūdu</item>
+        <item>Ir pārsniegts lietotāja ierobežojums {0} lietotājam</item>
+        <item>Lietotāja ierobežojums ir pārsniegts</item>
+        <item>Lietotāja dublikāts: {0}</item>
+        <item>Lietotāja dublikāts</item>
+        <item>Ierīces dublikāts: {0}</item>
+        <item>Ierīces dublikāts</item>
+        <item>Lietotājs nav atrasts: {0}</item>
+        <item>Lietotājs nav atrasts</item>
+        <item>Nederīgs datuma formāts: {0}. Nepieciešams {1}.</item>
+        <item>Nederīgs datuma formāts</item>
+        <item>Nederīgs datuma formāts: {0}. Nepieciešams {1}.</item>
+        <item>Nederīgs datuma formāts</item>
+        <item>Trūkst obligātā parametra: {0}</item>
+        <item>Trūkst obligātā parametra</item>
+        <item>Radās kļūda. Lūdzu, mēģiniet atkal.</item>
+        <item>Iekšējā kļūda</item>
+        <item>Sniegtais nodrošināšanas ID ({0}) netika atrasts nevienam tālākpārdevējam, pie kā lietotājam ir piekļuve.</item>
+        <item>Zīmols nav atrasts</item>
+        <item>Nav iestatīts neviens derīguma termiņa beigu datums</item>
+        <item>Nav iestatīts neviens derīguma termiņa beigu datums</item>
+        <item>Piekļuve liegta</item>
+        <item>Piekļuve liegta</item>
+        <item>API piekļuve nav iespējota: {0}</item>
+        <item>API piekļuve nav iespējota</item>
+        <item>Radās kļūda. Lūdzu, mēģiniet atkal.</item>
+        <item>Nederīga pieprasījuma kļūda</item>
+        <item>Iekšējā kļūda: {0}</item>
+        <item>Iekšējā kļūda</item>
+        <item>Abonements ar sniegto informāciju jau pastāv</item>
+        <item>Abonementa dublikāts</item>
+        <item>Atrasti vairāki atbilstoši abonementi</item>
+        <item>Atrasti vairāki atbilstoši abonementi</item>
+        <item>Mēģinot sākt sesiju, radās kļūda. Lūdzu, vēlāk mēģiniet atkal.</item>
+        <item>Savienojuma kļūda</item>
+        <item>Vaicājums {0} netika atrasts</item>
+        <item>Vaicājums netika atrasts</item>
+        <item>Neatbilstoši parametri: {0} un {1}</item>
+        <item>Neatbilstoši parametri</item>
+        <item>Nederīgs msisdn formāts: {0}</item>
+        <item>Nederīgs msisdn formāts</item>
+        <item>Nederīgs produkta parametrs: {0}</item>
+        <item>Nederīgs produkta parametrs</item>
+        <item>Jūsu savienotāju nevarēja atrast. Lūdzu, pārbaudiet ievadīto savienotāja ID.</item>
+        <item>Savienotājs nav atrasts</item>
+        <item>Abonements nav atrasts</item>
+        <item>Abonements nav atrasts</item>
+        <item>Sūtot datus, radās kļūda. Lūdzu, vēlāk mēģiniet atkal.</item>
+        <item>Datu kļūda</item>
+        <item>AOM platformas replicēšanas izsaukums neizdevās</item>
+        <item>AOM platformas replicēšanas izsaukums neizdevās</item>
+        <item>Jūsu darbība tika veikta pārāk ilgi, un ir iestājusies tās noildze. Lūdzu, mēģiniet atkal.</item>
+        <item>Noildze</item>
+        <item>Nevar izveidot savienojumu ar jūsu e-pasta kontu. Savienojumam būtu jāatjaunojas automātiski. Ja problēma saglabājas, pārbaudiet savus tīkla iestatījumus vai sazinieties ar pakalpojumu sniedzēju, lai saņemtu palīdzību.</item>
+        <item>Savienojuma problēma</item>
+        <item>Tīkls īslaicīgi nav pieejams vai tālrunis ir lidmašīnas režīmā. Kad tīkls būs pieejams, savienojums tiks atjaunots automātiski.</item>
+        <item>Neizdevās izveidot savienojumu</item>
+        <item>Serveris tagad ir aizņemts. Lūdzu, mēģiniet atkal.</item>
+        <item>Serveris ir aizņemts</item>
+        <item>Vispārīgā IPC pieprasījuma kļūme</item>
+        <item>IPC pieprasījums neizdevās</item>
+        <item>Autentifikācija neizdevās: {0}</item>
+        <item>Autentifikācija neizdevās</item>
+        <item>Lūdzu, sazinieties ar savu pakalpojumu sniedzēju, lai saņemtu derīgu licenci.</item>
+        <item>Licence nav pieņemta</item>
+        <item>SMS saturā netika atrasts klienta ID</item>
+        <item>SMS saturā netika atrasts klienta ID</item>
+        <item>Ar klienta ID netika atrasts neviens klients ({0}).</item>
+        <item>Ar norādīto klienta ID netika atrasts neviens klients</item>
+        <item>Sniegtā MSISDN informācija ir nederīga vai tās nav: {0}</item>
+        <item>MSISDN informācija nav sniegta vai ir nederīga.</item>
+        <item>Nederīgs MSISDN formāts: {0}. Nepieciešama skaitliska vērtība.</item>
+        <item>Nederīgs MSISDN formāts</item>
+        <item>Nederīgs klienta identifikatora formāts: {0}. Nepieciešama skaitliska vērtība.</item>
+        <item>Nederīgs klienta identifikatora formāts</item>
+        <item>Pārbaudes pieprasījumā netika atrasta nepieciešamā apmaksas galvene</item>
+        <item>Apmaksas galvenes pārbaude neizdevās</item>
+        <item>MSISDN {0} šajā sistēmā jau pastāv.</item>
+        <item>MSISDN jau pastāv</item>
+        <item>MSISDN {0} šajā sistēmā nepastāv.</item>
+        <item>MSISDN nepastāv</item>
+        <item>Lai atkārtoti instalētu šo [savienotāju], lūdzu, sniedziet savu pagaidu paroli.</item>
+        <item>Nepieciešama parole</item>
+        <item>Jūsu izvēlētais ID jau tiek lietots. Lūdzu, atlasiet citu.</item>
+        <item>ID jau tiek izmantots</item>
+        <item>Sniegtā pagaidu parole nav pareiza.</item>
+        <item>Savienojuma kļūda</item>
+        <item>Savienotājs ir atspējots.</item>
+        <item>Savienotājs atspējots</item>
+        <item>Šis pakalpojums nav iespējots</item>
+        <item>Pakalpojums nav iespējots</item>
+        <item>Sniegtais produkta izdevums neatbilst pārraides serverī instalētajam izdevumam</item>
+        <item>Produktu izdevumu neatbilstība</item>
+        <item>Darbība neizdevās nenorādīta iemesla dēļ: {0}</item>
+        <item>Darbība neizdevās nenorādīta iemesla dēļ</item>
+        <item>Autentifikācija neizdevās: {0}</item>
+        <item>Autentifikācija neizdevās</item>
+        <item>Piekļuve nav atļauta: {0}</item>
+        <item>Piekļuve nav atļauta</item>
+        <item>Lietotāja konts {0} ir bloķēts</item>
+        <item>Konts ir bloķēts</item>
+        <item>Dažas pakešuzdevuma darbības neizdevās.</item>
+        <item>Daļa pakešuzdevuma darbību neizdevās.</item>
+        <item>Saraksta izsaukums atgrieza {0} ierakstus, ierobežojums ir {1}.</item>
+        <item>Atgriešanas saraksts pārsniedz tā lieluma ierobežojumu</item>
+        <item>Pakešuzdevumā tika pieprasītas {0} darbības, ierobežojums ir {1}.</item>
+        <item>Pakešuzdevuma darbības pieprasījums pārsniedz tā lieluma ierobežojumu</item>
+        <item>Tika veikts API izsaukums, kur trūka obligātā parametra: {0}</item>
+        <item>API izsaukumam trūkst obligātā parametra.</item>
+        <item>Šim API izsaukumam parametrs {0} bija nederīgs.</item>
+        <item>API izsaukums saturēja nederīgu parametru.</item>
+        <item>Datubāzes kļūda radās, apstrādājot šo pieprasījumu: {0}</item>
+        <item>API izsaukuma izraisīta datubāzes kļūda.</item>
+        <item>Aizstājējzīmes nevar izmantot ar šiem piekļuves akreditācijas datiem.</item>
+        <item>Neatļauta aizstājējzīmju lietošana.</item>
+        <item>Pieprasījuma parametrā ir nederīga aizstājējzīme: {0}</item>
+        <item>Pieprasījumā ir nederīgas aizstājējzīmes.</item>
+        <item>SOAP pieprasījums tika saņemts ar iztrūkstošu vai nederīgu galveni.</item>
+        <item>SOAP pieprasījums tika saņemts ar iztrūkstošu vai nederīgu galveni.</item>
+        <item>SOAP pieprasījums tika saņemts bez obligātā galvenes parametra: {0}</item>
+        <item>SOAP pieprasījums tika saņemts ar iztrūkstošu galvenes parametru.</item>
+        <item>SOAP pieprasījums tika saņemts no IP adreses: {0}. Šai adresei nav atļauts lietot API.</item>
+        <item>SOAP pieprasījums tika saņemts no bloķētas IP adreses.</item>
+        <item>API piekļuve nav iespējota: {0}</item>
+        <item>API piekļuve nav iespējota</item>
+        <item>SOAP pieprasījums neizdevās nenorādīta iemesla dēļ: {0}</item>
+        <item>SOAP pieprasījums neizdevās nenorādīta iemesla dēļ</item>
+        <item>createAccountSubscription API izsaukumam ir nepieciešams parametrs AccountID vai MSISDN.</item>
+        <item>createAccountSubscription izsaukums tika veikts bez AccountID vai MSISDN.</item>
+        <item>Lai listAccountSubscription API izsaukumā lietotu parametru Produkts, ir jāsniedz vismaz viena no vērtībām MSISDN, AccountID un GroupID.</item>
+        <item>listAccountSubscriptions izsaukums tika veikts ar parametru Produkts, bet bez parametra ID.</item>
+        <item>Sniegtie abonementa identifikācijas kritēriji atbilst vairākiem ierakstiem. Atjauninājums nav apstrādāts.</item>
+        <item>Abonementa identifikācijas kritēriji atbilst vairākiem ierakstiem.</item>
+        <item>Tika sniegta nederīga identifikācijas parametru kopa.</item>
+        <item>Sniegta nederīga ID parametru kopa.</item>
+        <item>updateAccountSubscription API izsaukums tika veikts, nevienu lauku nav paredzēts atjaunināt.</item>
+        <item>Neviens lauks nav iesniegts atjaunināšanai.</item>
+        <item>Sniegtie abonementa identifikācijas kritēriji neatbilst nevienam ierakstam. Neviens atjauninājums netika apstrādāts.</item>
+        <item>Abonementa identifikācijas kritēriji neatbilst nevienam ierakstam.</item>
+        <item>Lai deleteAccountSubscription API izsaukumā lietotu parametru Produkts, ir jāsniedz vismaz viena no vērtībām MSISDN, AccountID un GroupID.</item>
+        <item>deleteAccountSubscriptions izsaukums tika veikts ar parametru Produkts, bet bez parametra ID.</item>
+        <item>Sniegtie abonementa identifikācijas kritēriji atbilst vairākiem ierakstiem. Atjauninājums nav apstrādāts.</item>
+        <item>Abonementa identifikācijas kritēriji atbilst vairākiem ierakstiem.</item>
+        <item>updateConnectorSubscription API izsaukumam ir nepieciešams parametrs SubscriptionId vai ConnectorId.</item>
+        <item>Sniegta nederīga ID parametru kopa.</item>
+        <item>updateConnectorSubscription API izsaukums tika veikts, nevienu lauku nav paredzēts atjaunināt.</item>
+        <item>Neviens lauks nav iesniegts atjaunināšanai.</item>
+        <item>Sniegtie abonementa identifikācijas kritēriji neatbilst nevienam ierakstam. Neviens atjauninājums netika apstrādāts.</item>
+        <item>Abonementa identifikācijas kritēriji neatbilst nevienam ierakstam.</item>
+        <item>Ja createPreProvisionedAccount API izsaukums tiek veikts, kad produkts ir CE, ir jāsniedz nodrošināšanas ID un ISP servera zīmola ID. Ja produkts ir jebkas cits, ir jāsniedz savienotāja ID.</item>
+        <item>createPreProvisionedAccount izsaukums tika veikts ar nederīgiem parametriem.</item>
+        <item>Vai nu ievadītais uzņēmuma nosaukums netika atrasts datubāzē, vai ievadītais nodrošināšanas ID neatbilda ISP uzņēmumam.</item>
+        <item>Nevarēja atrast uzņēmumu, izmantojot šos parametrus.</item>
+        <item>Datubāzē netika atrasts ISP servera zīmola ID.</item>
+        <item>Datubāzē netika atrasts ISP servera zīmola ID.</item>
+        <item>Ievades zīmola identifikatoram atrastais ISP serveris neatbalsta sniegto produkta tipu.</item>
+        <item>Ievades zīmola identifikatoram atrastais ISP serveris neatbalsta sniegto produkta tipu.</item>
+        <item>Atjauninājumam atbilst vairāki konti. Paroli nevar atjaunināt.</item>
+        <item>changeAccountPassword atbilda vairākiem kontiem.</item>
+        <item>Atjauninājumam netika atrasts neviens atbilstošs konts. Neviena parole netiks atjaunināta.</item>
+        <item>changeAccountPassword neatbilda nevienam kontam.</item>
+        <item>Mēģinot atjaunināt paroli, radās kļūda, iespējams, nederīgas paroles dēļ.</item>
+        <item>changeAccountPassword neizdevās atjaunināt paroli.</item>
+        <item>A request made for listing user information but given parameters do not match any existing user</item>
+        <item>getUserInformation cannot find user with given parameters</item>
+        <item>isValidConnectorId izsaukums tika veikts ar ID, kas jau tiek lietots.</item>
+        <item>Savienotāja ID jau tiek izmantots.</item>
+        <item>Norādītajam SQL skriptam tika veikts runScript izsaukums ar nederīgiem parametriem.</item>
+        <item>Nederīgi SQL skripta parametri.</item>
+        <item>runScript izsaukums tika veikts nezināmam SQL skriptam.</item>
+        <item>SQL skripts netika atrasts.</item>
+        <item>Šajā API nav iespējots sūtīšanas lejupielādes saites līdzeklis.</item>
+        <item>sendDownloadLink izsaukums tika veikts, kad līdzeklis nebija iespējots.</item>
+        <item>SMS vārtejas ziņojuma pieprasījums neizdevās.</item>
+        <item>SMS vārtejas ziņojuma pieprasījums neizdevās.</item>
+        <item>Sniegtajiem parametriem nevar atrast klientu.</item>
+        <item>Sniegtajiem parametriem nevar atrast klientu.</item>
+        <item>Pasta pārbaude neizdevās, jo norādītais pasta pakalpojumu sniedzējs netika atrasts. Kā pakalpojumu sniedzēju ir jālieto POP3, IMAP, POP3S, IMAPS, SMTP vai SMTPS</item>
+        <item>Pasta pakalpojumu sniedzējs nav atrasts</item>
+        <item>Pasta pārbaude neizdevās, jo neizdevās izveidot savienojumu ar norādīto pasta serveri. Pārbaudiet savus pastkastes iestatījumus</item>
+        <item>Neizdevās izveidot savienojumu</item>
+        <item>Pasta pārbaude neizdevās, jo neizdevās izveidot savienojumu ar norādīto pasta serveri. Pārbaudiet savus pastkastes iestatījumus</item>
+        <item>Iesūtne nav atrasta</item>
+        <item>Pasta pārbaude neizdevās, jo neizdevās ziņojuma meklēšana no iesūtnes. Pārbaudiet savus pastkastes iestatījumus</item>
+        <item>Iesūtnes meklēšana neizdevās</item>
+        <item>Pasta pārbaude neizdevās nederīgas e-pasta adreses dēļ. Pārbaudiet sniegto e-pasta adresi</item>
+        <item>Nederīga e-pasta adrese</item>
+        <item>Pielikums pārsniedz maksimālo lielumu.</item>
+        <item>Pielikums ir pārāk liels.</item>
+        <item>Ziņojuma pamatteksts ir pārāk liels.</item>
+        <item>Pamatteksts ir pārāk liels.</item>
+        <item>Mēģinājums pierakstīties neizdevās nederīgas {0} vērtības un/vai paroles dēļ. Lūdzu, pārbaudiet savu {0} un paroli un mēģiniet atkal.</item>
+        <item>Pierakstīšanās ir nepareiza</item>
+        <item>Neizdevās pierakstīties, jo {0} un parole nav derīga vai iestatījumi nav pareizi. Lūdzu, pārbaudiet, vai {0}, parole un iestatījumi tīmeklī ir pareizi un mēģiniet vēlreiz.</item>
+        <item>Pierakstīšanās ir nepareiza</item>
+        <item>Mēģinājums pierakstīties neizdevās nederīgas {0} vērtības dēļ. Lūdzu, pārbaudiet savu {0} un mēģiniet atkal.</item>
+        <item>Lietotājs nav atrasts</item>
+        <item>Jūsu sniegtajam lietotājvārdam ir vairākas reģistrācijas. Lūdzu, pārbaudiet savu {0} un paroli un mēģiniet atkal.</item>
+        <item>Lietotājs nav atrasts</item>
+        <item>Jūsu pasta servera iestatījumi netika atrasti. Lūdzu, nākamajā ekrānā definējiet sava konta informāciju.</item>
+        <item>Serveris nav atrasts</item>
+        <item>Pieteikšanās neizdevās. Lūdzu, savam e-pasta kontam sniedziet savu lietotājvārdu, ja tas nav vienāds ar jūsu e-pasta adresi.</item>
+        <item>Pieteikšanās neizdevās</item>
+        <item>Šī konta autentifikācija nav izdevusies pārāk daudzas reizes. Lūdzu, gaidiet atslēgšanu vai sazinieties ar administratoru.</item>
+        <item>Konts ir slēgts</item>
+        <item>Šis tālruņa numurs jau ir reģistrēts. Lūdzu, pārbaudiet, vai ievadījāt pareizo tālruņa numuru, vai sazinieties ar pakalpojuma sniedzēju, lai saņemtu palīdzību.</item>
+        <item>Iepriekš nodrošinātais konts jau pastāv</item>
+        <item>Lai nodrošinātu labāku veiktspēju, savienojums ir novirzīts uz citu serveri. Lūdzu, mēģiniet pēdējo darbību no jauna.</item>
+        <item>Novirzīts</item>
+        <item>E-pasta serveris pašlaik nav pieejams. Lūdzu, vēlāk mēģiniet atkal.</item>
+        <item>Pieteikšanās neizdevās</item>
+        <item>Pasta pārbaude neizdevās nezināmas kļūdas dēļ. Pārbaudiet savus pastkastes iestatījumus</item>
+        <item>Nezināma kļūda</item>
+        <item>Šī konta autentifikācija nav izdevusies pārāk daudzas reizes. Savienotājs novērsa papildu pieteikšanos. Lūdzu, sagaidiet atslēgšanu vai sazinieties ar savienotāja administratoru, lai jums ļautu mēģināt pieteikties vēl.</item>
+        <item>Pieteikšanās ir atspējotas</item>
+        <item>Pirms mēģināt atkal, noklikšķiniet uz Labi, lai pārbaudītu savu {0} un paroli/pārbaudītu savu RSA marķieri.</item>
+        <item>RSA pierakstīšanās ir nepareiza</item>
+        <item>Šis pasta pakalpojumu sniedzējs nav sertificējis jūsu lietoto klienta versiju. Lūdzu, sazinieties ar savu pakalpojumu sniedzēju, lai iegūtu sertificētu klienta versiju.</item>
+        <item>Klients nav sertificēts šim ISP.</item>
+        <item>Sniegtā Microsoft Exchange servera adrese nav derīga tīmekļa adrese. Lūdzu, pārbaudiet šo adresi un mēģiniet atkal.</item>
+        <item>Microsoft Exchange adrese — nederīga</item>
+        <item>Jūsu pakalpojumu sniedzējs ir pieejams kā papildu pakalpojums. Lūdzu, atgriezieties pakalpojumu sniedzēju sarakstā un atlasiet no jauna.</item>
+        <item>Sniegtais vietrādis URL nav atļauts.</item>
+        <item>Attālā galapunkta publiskā atslēga ir mainīta. Tas var norādīt uz iejaukšanās mēģinājumu. Attālā galapunkta dati tika atmesti.</item>
+        <item>Publiskās atslēgas neatbilstība.</item>
+        <item>Atkārtota pieteikšanās nav iespējama. Tas norāda, ka lietotājs nevar ierakstīt jaunos akreditācijas datus, lai no jauna pieteiktos pakalpojumā, bet lietotājam ir jāveic kāda cita darbība</item>
+        <item>Atkārtota pieteikšanās nav iespējama</item>
+        <item>Serveris jūsu sniegtajā adresē neatbild. Ja tiek izmantots VPN/SSL portāls, Microsoft Exchange nevar izmantot, lai piekļūtu darbvietas e-pasta ziņojumiem. Lai ar nākamo savienojuma opciju piekļūtu savam darbvietas e-pasta kontam, lūdzu, izvēlieties Labi.</item>
+        <item>OWA adrese — neatbild</item>
+        <item>Serveris jūsu sniegtajā adresē nav Microsoft Exchange serveris. Lūdzu, pārbaudiet sava Microsoft Exchange servera adresi un mēģiniet atkal.</item>
+        <item>Microsoft Exchange adrese — nepareizs tips</item>
+        <item>Jūsu paroles derīguma termiņš ir beidzies. Lūdzu, mainiet savu paroli, izmantojot personālo datoru, un mēģiniet atkal, lietojot jauno paroli.</item>
+        <item>Paroles derīguma termiņš beidzās</item>
+        <item>Ir sasniegts tālruņu skaita ierobežojums, ko varat nodrošināt. Lūdzu, sazinieties ar savu administratoru.</item>
+        <item>Pārāk daudz tālruņu</item>
+        <item>Nav pieejams fails Notes ID, nevar pieteikties. Lūdzu, sazinieties ar savu administratoru.</item>
+        <item>Nav pieejams ID fails</item>
+        <item>Pieprasītais pakalpojums īslaicīgi nav pieejams. Lūdzu, vēlāk mēģiniet vēlreiz. Ja problēma atkārtojas, lūdzu, piesakieties savā kontā, izmantojot tīmekļa pārlūkprogrammu.</item>
+        <item>ISP pakalpojums īslaicīgi nav pieejams</item>
+        <item>No ISP saņemts pieprasījums pieteikties tīmeklī. Lūdzu, piesakieties kontā, izmantojot tīmekļa pārlūkprogrammu.</item>
+        <item>Nepieciešama pieteikšanās tīmeklī</item>
+        <item>Radās ISP kļūda. Lūdzu, vēlāk mēģiniet vēlreiz. Ja problēma atkārtojas, lūdzu, mēģiniet pieteikties, izmantojot tīmekļa pārlūkprogrammu.</item>
+        <item>No ISP ir saņemta kļūda.</item>
+        <item>Mailbox is currently in use. Please try again later.</item>
+        <item>Mailbox is currently in use.</item>
+        <item>No answer for this feed url. Please correct the url or try again later.</item>
+        <item>No answer for this feed url.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Nevar izveidot savienojumu ar jūsu Exchange Access e-pasta kontu. Savienojumam būtu jāatjaunojas automātiski; ja problēma saglabājas, sazinieties ar savu IT administratoru, lai saņemtu palīdzību.</item>
+        <item>Savienojuma problēma</item>
+        <item>Nevar izveidot savienojumu ar jūsu {0} e-pasta kontu. Savienojumam būtu jāatjaunojas automātiski; ja problēma saglabājas, sazinieties ar {0}, lai saņemtu palīdzību.</item>
+        <item>Savienojuma problēma</item>
+        <item>Jūsu mēģinātā konta atjaunināšanas darbība neizdevās. Lūdzu, mēģiniet atkal.</item>
+        <item>Atjaunināšana neizdevās</item>
+        <item>RPC pieprasījuma XML bija nederīgs.</item>
+        <item>RPC ir nepareizi veidots XML</item>
+        <item>XML RPC API radās iekšēja kļūda. Lūdzu, mēģiniet atkal.</item>
+        <item>Iekšējā XML RPC API kļūda</item>
+        <item>XML RPC pieprasījumā ir nederīgi vai iztrūkstoši parametri. Pārbaudiet parametrus un to vērtības.</item>
+        <item>Nederīgi vai iztrūkstoši parametri</item>
+        <item>Pakalpojums nevarēja saglabāt jūsu datus. Lūdzu, mēģiniet atkal.</item>
+        <item>Datubāzes kļūda</item>
+        <item>Organizācija ar šādu nosaukumu jau pastāv. Lūdzu, atlasiet citu nosaukumu.</item>
+        <item>Organizācija jau pastāv</item>
+        <item>Jūsu norādītais savienotāja ID jau tiek lietots. Lūdzu, atlasiet citu.</item>
+        <item>Vārds jau tiek izmantots</item>
+        <item>Jūsu norādītais lietotājvārds jau tiek izmantots. Lūdzu, atlasiet citu lietotājvārdu.</item>
+        <item>Lietotājvārds jau tiek izmantots</item>
+        <item>Šis lietotājs jau pastāv.</item>
+        <item>Lietotājs jau pastāv</item>
+        <item>Iepriekš nodrošinātais konts, ko mēģinājāt izveidot, jau pastāv. Pirms mēģināt pievienot jaunu, savienotāja administratoram ir jānoņem šis esošais konts.</item>
+        <item>Iepriekš nodrošinātais konts jau pastāv</item>
+        <item>Jums nav pietiekamu piekļuves tiesību, lai veiktu šo darbību.</item>
+        <item>Piekļuve liegta</item>
+        <item>Jūsu abonementa derīguma termiņš ir beidzies. Lūdzu, sazinieties ar savu pakalpojumu sniedzēju, lai abonementu atjaunotu.</item>
+        <item>Nevar pierakstīties</item>
+        <item>Jūsu abonementam nav atļauts pievienot vairāk kontu. Lai jauninātu savu abonementu, apmeklējiet vietni http://eu020.fra.samsungsocialhub.com.</item>
+        <item>Nevar pierakstīties</item>
+        <item>Lai abonētu Social Hub, lūdzu, apmeklējiet http://eu020.fra.samsungsocialhub.com.</item>
+        <item>Nevar pierakstīties</item>
+        <item>Šajā vietnē radās SSL sertifikāta problēma.</item>
+        <item>Sertifikāta problēma</item>
+        <item>Sniegtais vietrādis URL nepieder derīgam Outlook Web Access pakalpojumam. Lūdzu, pārbaudiet vietrādi URL un mēģiniet atkal.</item>
+        <item>Nederīga pakalpojuma adrese</item>
+        <item>Šis vietrādis URL ir konfigurēts iepriekš. Lūdzu, atgriezieties iepriekš konfigurēto pakalpojumu sniedzēju sarakstā un atlasiet savu pakalpojumu sniedzēju no šī saraksta.</item>
+        <item>Piekļuve liegta</item>
+        <item>Kad mēģināja sūtīt ziņojumu, kontakts bija bezsaistē</item>
+        <item>Kontakts ir bezsaistē</item>
+        <item>Kad mēģināja sūtīt ziņojumu, kontakts bija bloķēts</item>
+        <item>Kontakts ir bloķēts</item>
+        <item>Faila pārsūtīšanas faila lielums neatbilda norādītajai vērtībai</item>
+        <item>Faila lieluma neatbilstība</item>
+        <item>Pārsniegts maksimālais p2p sesiju skaits</item>
+        <item>Pārsniegts maksimālais p2p sesiju skaits</item>
+        <item>Trūkst dzimšanas datuma</item>
+        <item>Trūkst dzimšanas datuma</item>
+        <item>Adresāts neatbalsta failu pārsūtīšanu</item>
+        <item>p2p sesija netiek atbalstīta</item>
+        <item>Lietotājam ir jāreģistrējas pakalpojumā Ziņojumapmaiņa</item>
+        <item>Reģistrācijas derīguma termiņš ir beidzies</item>
+        <item>Pieprasījumu nevar pabeigt, jo serveris ir pārāk aizņemts. Lūdzu, vēlāk mēģiniet atkal</item>
+        <item>Serveris ir aizņemts</item>
+        <item>Šai sarunai VoiceClip netiek atbalstīts</item>
+        <item>Balss klips netiek atbalstīts</item>
+        <item>Faila pārsūtīšanas darbības nolūkos sarunā var piedalīties tikai divi dalībnieki</item>
+        <item>Pārāk daudz dalībnieku</item>
+        <item>Norādītajā sarunā nav dalībnieku</item>
+        <item>Nav klātesošu dalībnieku</item>
+        <item>Pieteikšanos Messenger nav atļāvis lietotāja vecāks</item>
+        <item>Nepieciešama vecāku atļauja</item>
+        <item>Sarunas identifikators nav derīgs. Klienta lietojumprogrammai ir jāpamet šī saruna.</item>
+        <item>Izsaukuma ID nav derīgs</item>
+        <item>Tika mēģināts pieprasījums Uzaicināt, un lietotāja (klienta ierīcē) klātbūtnes statuss ir iestatīts kā Bezsaistē</item>
+        <item>Lietotājs ir bezsaistē</item>
+        <item>Ar pieprasījumu Uzaicināt tika mēģināts pievienot nederīgu lietotāju</item>
+        <item>Nezināms lietotājs</item>
+        <item>Norādītajam e-pasta domēnam nav atrasta konfigurācija</item>
+        <item>Nezināms ISP</item>
+        <item>Marķiera autentifikācijas kļūmes tiek apstrādātas citādi, tāpēc radās šī kļūda.</item>
+        <item>Marķiera autentifikācija neizdevās</item>
+        <item>Lai lietotu šo pakalpojumu, ir nepieciešams abonements.</item>
+        <item>Nepieciešams abonements</item>
+        <item>Nav pieejams neviens Seven pakalpojums.</item>
+        <item>Nav pieejams neviens pakalpojums</item>
+        <item>Jūs tikāt izrakstīts, jo pierakstījāties citā datorā vai ierīcē</item>
+        <item>Konts tika pārņemts</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Neizdevās izveidot kontu, reģistrējoties Ping</item>
+        <item>Neizdevās izveidot kontu</item>
+        <item>Nederīga pakalpojuma atslēga, reģistrējot resursserverī</item>
+        <item>Nederīga pakalpojuma atslēga</item>
+        <item>Nederīgs pakalpojuma deskriptors, reģistrējot resursserverī</item>
+        <item>Nederīgs pakalpojuma deskriptors</item>
+        <item>Nederīgi pielāgotie dati, reģistrējot resursserverī</item>
+        <item>Nederīgi pielāgotie dati</item>
+        <item>Lietotājs jau ir reģistrēts resursserverī</item>
+        <item>Jau reģistrēts lietotājs</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Nosakot pakalpojumus, radās kļūda. Lūdzu, mēģiniet vēlreiz.</item>
+        <item>Pieprasījums neizdevās</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Rādīt ziņas tekstu sīkā fontā</item>
+        <item>Rādīt ziņas tekstu mazā fontā</item>
+        <item>Rādīt ziņas tekstu parastā fontā</item>
+        <item>Rādīt ziņas tekstu lielā fontā</item>
+        <item>Rādīt ziņas tekstu ļoti lielā fontā</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Display 0 line in message preview</item>
+        <item>Ziņas priekšskatījumā rādīt 1 rindu</item>
+        <item>Display 2 line in message preview</item>
+        <item>Display 3 line in message preview</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Google tulkotājs</item>
+        <item>Wikipedia</item>
+        <item>Vārdnīca</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Koplietot kā tekstu</item>
+        <item>Koplietot attēlu</item>
+    </string-array>
+</resources>

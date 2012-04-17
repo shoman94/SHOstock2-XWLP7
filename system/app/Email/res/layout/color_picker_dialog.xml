@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="441.0px" android:layout_height="294.0px">
+        <com.android.email.activity.ColorPickerView android:id="@id/color_tile" android:clickable="true" android:layout_width="wrap_content" android:layout_height="114.0px" android:layout_marginLeft="16.0px" android:layout_marginTop="16.0px" android:layout_marginRight="16.0px" android:layout_marginBottom="13.0px" />
+        <LinearLayout android:orientation="vertical" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="138.0px" android:layout_marginLeft="14.0px" android:layout_marginRight="14.0px" android:layout_marginBottom="13.0px">
+            <com.android.email.activity.GradientColorPicker android:id="@id/color_gradience" android:clickable="true" android:layout_width="fill_parent" android:layout_height="130.0px" android:layout_marginLeft="2.0px" android:layout_marginTop="4.0px" android:layout_marginRight="2.0px" android:layout_marginBottom="4.0px" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

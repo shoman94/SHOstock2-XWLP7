@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="viewby_items">
+        <item>@string/viewby_alllogs</item>
+        <item>@string/viewby_allcalls</item>
+        <item>@string/viewby_missedcalls</item>
+        <item>@string/viewby_dialledcalls</item>
+        <item>@string/viewby_receivedcalls</item>
+        <item>@string/viewby_rejectedcalls</item>
+        <item>@string/viewby_allmsg</item>
+        <item>@string/viewby_sentmsg</item>
+        <item>@string/viewby_receivedmsg</item>
+    </array>
+    <array name="viewby_items_kor">
+        <item>@string/viewby_alllogs</item>
+        <item>@string/viewby_allcalls</item>
+        <item>@string/viewby_missedcalls</item>
+        <item>@string/viewby_dialledcalls</item>
+        <item>@string/viewby_receivedcalls</item>
+        <item>@string/viewby_videocalls</item>
+        <item>@string/viewby_rejectedcalls</item>
+        <item>@string/viewby_allmsg</item>
+        <item>@string/viewby_sentmsg</item>
+        <item>@string/viewby_receivedmsg</item>
+    </array>
+    <array name="viewby_items_kor_voip">
+        <item>@string/viewby_alllogs</item>
+        <item>@string/viewby_allcalls</item>
+        <item>@string/viewby_missedcalls</item>
+        <item>@string/viewby_dialledcalls</item>
+        <item>@string/viewby_receivedcalls</item>
+        <item>@string/viewby_videocalls</item>
+        <item>@string/viewby_voipcalls</item>
+        <item>@string/viewby_rejectedcalls</item>
+        <item>@string/viewby_allmsg</item>
+        <item>@string/viewby_sentmsg</item>
+        <item>@string/viewby_receivedmsg</item>
+    </array>
+    <array name="saveto_items">
+        <item>@string/create_contact</item>
+        <item>@string/update_existing</item>
+    </array>
+    <array name="send_email_via_mms">
+        <item>@string/menu_send_email</item>
+        <item>@string/menu_send_message</item>
+    </array>
+    <string-array name="otherLabels">
+        <item>Organization</item>
+        <item>Note</item>
+    </string-array>
+</resources>

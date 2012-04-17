@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="95.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/account_icon" android:paddingLeft="14.0dip" android:paddingTop="5.0dip" android:paddingRight="10.0dip" android:paddingBottom="6.0dip" android:layout_width="108.0dip" android:layout_height="95.0dip" android:minWidth="12.0dip" />
+    <TableLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="0">
+        <TableRow>
+            <LinearLayout android:orientation="vertical" android:id="@id/detail_info" android:paddingTop="19.0dip" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="95.0dip">
+                <TextView android:textSize="24.0sp" android:typeface="sans" android:ellipsize="marquee" android:id="@id/provider_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+                <TextView android:textSize="20.0sp" android:typeface="sans" android:ellipsize="marquee" android:layout_gravity="bottom|left|center" android:id="@id/name" android:paddingTop="4.0dip" android:focusableInTouchMode="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            </LinearLayout>
+            <ImageView android:layout_gravity="right|center" android:id="@id/snc_default" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginTop="31.0dip" android:layout_marginRight="14.0dip" android:layout_marginBottom="31.0dip" android:src="@drawable/btn_radio_off_holo_light" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

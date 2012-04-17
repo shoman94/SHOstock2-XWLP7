@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">Результатів із веб-сайту %2$s: %1$d</item>
+        <item quantity="one">Результатів з %2$s: %1$d</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Повідомлення видалено</item>
+        <item quantity="one">Повідомлення видалено</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Переміщення повідомлень</item>
+        <item quantity="one">Перемістити повідомлення</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$d непрочит. (%2$s)</item>
+        <item quantity="one">%1$d непрочитаних (%2$s)</item>
+        <item quantity="few">%1$d непрочит. (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">у %d облікових записах</item>
+        <item quantity="few">у %d облікових записах</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">Облікових записів: %d</item>
+        <item quantity="one">Облікових записів: %d</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Вибрано %d</item>
+        <item quantity="one">Вибрано %d</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">Вкладення %1$d</item>
+        <item quantity="one">Вкладення %1$d</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Відхилити ці повідомлення?</item>
+        <item quantity="one">Відхилити це повідомлення?</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">Кількість повідомлень, переміщених до %2$s: %1$d</item>
+        <item quantity="one">Кількість повідомлень, переміщених до %2$s: %1$d</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%1$d Б</item>
+        <item quantity="one">%1$d Б</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d Kb</item>
+        <item quantity="one">%d Kb</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d Мб</item>
+        <item quantity="one">%d Мб</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%1$d Гб</item>
+        <item quantity="one">%1$d Гб</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s результатів для %2$s</item>
+        <item quantity="one">%1$s result for \"%2$s\"</item>
+    </plurals>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/contact_set_default" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/list_data" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/detail_set_default_min_line_item_height">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/default_list_row_imageView" android:padding="1.0dip" android:visibility="gone" android:layout_width="51.0dip" android:layout_height="51.0dip" android:layout_marginLeft="12.0dip" android:src="@drawable/ic_contact_picture_holo_light" android:scaleType="fitXY" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:paddingLeft="12.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0">
+            <TextView android:textAppearance="@style/TwContactDetailTextAppearanceListTwoLineSecondary" android:id="@id/upper_text" android:paddingRight="12.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <TextView android:textAppearance="@style/TwContactDetailTextAppearanceListTwoLinePrimary" android:id="@id/upper_text_reverse" android:paddingRight="12.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:id="@id/account_list_row_imageView" android:visibility="gone" android:layout_width="17.0dip" android:layout_height="17.0dip" android:layout_marginRight="5.0dip" android:scaleType="fitXY" />
+                <TextView android:textAppearance="@style/TwContactDetailTextAppearanceListTwoLinePrimary" android:id="@id/main_text" android:paddingRight="12.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+                <TextView android:textAppearance="@style/TwContactDetailTextAppearanceListTwoLineSecondary" android:id="@id/main_text_reverse" android:paddingRight="12.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            </LinearLayout>
+        </LinearLayout>
+        <RadioButton android:layout_gravity="center_vertical" android:id="@id/radio" android:focusable="false" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

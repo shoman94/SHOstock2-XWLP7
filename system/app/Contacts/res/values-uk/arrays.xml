@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Організація</item>
+        <item>Нотатка</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Виклик</item>
+        <item>Надісл. пов.</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Телефон</item>
+        <item>SIM-картка</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Всі</item>
+        <item>Телефон</item>
+        <item>SIM-картка</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Ім’я Прізвище</item>
+        <item>Прізвище Ім’я</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Нд</item>
+    </string-array>
+</resources>

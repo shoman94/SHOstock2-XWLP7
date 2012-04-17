@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.sec.android.app.dialertab.calllog.LogsDeleteActivity$ItemView"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="end" android:id="@id/call_log_date" android:focusable="false" android:clickable="false" android:singleLine="true" android:textAllCaps="true" style="?android:attr/listSeparatorTextViewStyle" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/primary_action_view" android:background="?android:selectableItemBackground" android:nextFocusRight="@id/checkbox_cover" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true">
+        <RelativeLayout android:id="@id/itemlayout" android:layout_width="wrap_content" android:layout_height="65.0dip">
+            <LinearLayout android:id="@id/image1_layout" android:layout_width="@dimen/call_log_list_contact_photo_size" android:layout_height="@dimen/call_log_list_contact_photo_size" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" android:scaleType="fitXY" android:layout_alignParentLeft="true">
+                <ImageView android:id="@id/image1" android:visibility="visible" android:nextFocusRight="@id/primary_action_view" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/contacts_default_image_small" android:scaleType="fitXY" />
+            </LinearLayout>
+            <ImageView android:id="@id/log_type_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginBottom="5.0dip" android:layout_toLeftOf="@id/checkbox_cover" android:layout_alignBottom="@id/nameText" />
+            <TextView android:textAppearance="@style/TwTextAppearanceListTwoLinePrimary" android:id="@id/groupCount" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:singleLine="true" android:layout_toLeftOf="@id/log_type_image" />
+            <TextView android:textAppearance="@style/TwTextAppearanceListTwoLinePrimary" android:ellipsize="marquee" android:id="@id/nameText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginTop="6.0dip" android:singleLine="true" android:layout_toLeftOf="@id/groupCount" android:layout_toRightOf="@id/image1_layout" />
+            <ImageView android:id="@id/call_indi_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/nameText" android:layout_alignLeft="@id/nameText" />
+            <TextView android:textAppearance="@style/TwTextAppearanceListTwoLineSecondary1" android:ellipsize="marquee" android:gravity="left" android:id="@id/numberText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:singleLine="true" android:layout_toLeftOf="@id/timeText" android:layout_toRightOf="@id/call_indi_image" android:layout_alignBottom="@id/call_indi_image" />
+            <TextView android:textAppearance="@style/TwTextAppearanceListTwoLineSecondary1" android:gravity="right" android:id="@id/timeText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_alignRight="@id/log_type_image" android:layout_alignBottom="@id/call_indi_image" />
+            <LinearLayout android:gravity="center_vertical" android:id="@id/checkbox_cover" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentRight="true">
+                <CheckBox android:gravity="center_vertical" android:id="@id/checkbox1" android:focusable="false" android:nextFocusLeft="@id/primary_action_view" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginRight="3.0dip" android:onClick="clickHandler" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <View android:id="@id/call_log_divider" android:background="#55ffffff" android:layout_width="fill_parent" android:layout_height="1.0px" />
+</view>

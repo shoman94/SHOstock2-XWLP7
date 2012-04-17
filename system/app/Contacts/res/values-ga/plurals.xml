@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listNumberOfTotalContacts">
+        <item quantity="other">%d teagmhálaí ar taispeáint</item>
+        <item quantity="one">Taispeáin teagmhálaí amháin</item>
+    </plurals>
+</resources>

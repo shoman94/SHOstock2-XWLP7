@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listNumberOfTotalContacts">
+        <item quantity="other">Sýni %d tengiliði</item>
+        <item quantity="one">Sýna 1 tengilið</item>
+    </plurals>
+</resources>

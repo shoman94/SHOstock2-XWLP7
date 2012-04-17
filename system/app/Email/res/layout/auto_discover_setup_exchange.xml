@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/setup_auto_discover" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RelativeLayout android:id="@id/auto_discover_setup_exchange_basics_common_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0"
+                  xmlns:android="http://schemas.android.com/apk/res/android">
+                    <FrameLayout android:id="@id/common" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_alignParentLeft="true" android:layout_alignParentRight="true">
+                        <include layout="@layout/auto_discover_setup_exchange_basics_common" />
+                    </FrameLayout>
+                </RelativeLayout>
+                <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:background="@drawable/tw_title_bar_shadow" android:layout_width="fill_parent" android:layout_height="10.0dip" />
+    </FrameLayout>
+</ScrollView>

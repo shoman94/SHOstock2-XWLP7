@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_menu_add" android:id="@id/add_quick_response" android:title="@string/spell_check_add" android:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/ic_menu_delete" android:id="@id/delete_quick_response" android:title="@string/delete_action" android:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/ic_menu_done_xl" android:id="@id/done" android:title="@string/delete_action" android:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/ic_menu_cancel" android:id="@id/cancel" android:title="@string/cancel_action" android:showAsAction="ifRoom|withText" />
+</menu>

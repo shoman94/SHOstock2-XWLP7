@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/addmelayout" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.sec.android.app.camera">
+    <RelativeLayout android:id="@id/addmeCapturelayout" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <RelativeLayout android:id="@id/addmePostCapturelayout" android:background="@drawable/tw30_camera_shootingmode_popup_bg" android:visibility="invisible" android:layout_width="440.0px" android:layout_height="242.0px" android:layout_marginLeft="180.0px" android:layout_marginTop="84.0px">
+        <TextView android:textSize="18.0sp" android:gravity="center_horizontal" android:id="@id/addmePostProgressText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="57.0px" android:text="@string/processing_msg" />
+        <ProgressBar android:id="@id/addmePostProgress" android:layout_width="348.0px" android:layout_height="10.0px" android:layout_marginTop="184.0px" android:progressDrawable="@drawable/tw_progress_horizontal" android:layout_centerHorizontal="true" style="@style/TwHorizontalProgressBar" />
+    </RelativeLayout>
+</RelativeLayout>

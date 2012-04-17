@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/menu_edit_number_before_call" android:title="@string/recentCalls_editNumberBeforeCall" />
+    <item android:id="@id/menu_remove_from_call_log" android:title="@string/delete" />
+    <item android:id="@id/send_contact_info" android:title="@string/send_contact_info" />
+    <item android:id="@id/send_log_info" android:title="@string/send_log_info" />
+    <item android:id="@id/add_reject_list" android:title="@string/add_2_block_list" />
+    <item android:id="@id/remove_reject_list" android:title="@string/delete_from_block_list" />
+</menu>

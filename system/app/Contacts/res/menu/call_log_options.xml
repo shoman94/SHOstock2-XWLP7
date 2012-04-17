@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/all_contacts" android:orderInCategory="1" android:title="@string/menu_all_contacts" android:showAsAction="withText" />
+    <item android:id="@id/view_by" android:orderInCategory="1" android:title="@string/view_by" android:showAsAction="withText" />
+    <item android:id="@id/delete" android:orderInCategory="1" android:title="@string/delete" android:showAsAction="withText" />
+    <item android:id="@id/call_duration" android:orderInCategory="1" android:title="@string/call_duration" android:showAsAction="withText" />
+</menu>

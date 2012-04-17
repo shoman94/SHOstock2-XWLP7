@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d rezultatai (-ų) iš %2$s</item>
+        <item quantity="one">%1$d rezultatas iš %2$s</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Žinutės ištrintos</item>
+        <item quantity="one">Žinutė ištrinta</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Perkelti žinutes</item>
+        <item quantity="one">Perkelti žinutę</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$d neperskaityti (-ų) (%2$s)</item>
+        <item quantity="one">Neskaitytų %1$d (%2$s)</item>
+        <item quantity="few">%1$d neperskaityti (-ų) (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">%d abonementuose</item>
+        <item quantity="few">%d abonementuose</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%d paskyros (-ų)</item>
+        <item quantity="one">%d paskyra</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Pasirinkta: %d</item>
+        <item quantity="one">Pasirinkta: %d</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">Priedai %1$d</item>
+        <item quantity="one">Priedas %1$d</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Atmesti šiuos pranešimus?</item>
+        <item quantity="one">Atmesti šį pranešimą?</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">%1$d žinutės (-ių) perkeltos (-a) į %2$s</item>
+        <item quantity="one">%1$d žinutė perkelta į %2$s</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s rezultat. iš %2$s</item>
+        <item quantity="one">%1$s result for \"%2$s\"</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/CamcorderIndicatorLayout" android:layout_width="466.0dip" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.sec.android.app.camera">
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="9.0px" android:layout_centerHorizontal="true">
+        <com.sec.android.app.camera.widget.TwIndicatorResolution android:id="@id/resolution_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="14.0px" />
+        <com.sec.android.app.camera.widget.TwIndicatorWhiteBalance android:id="@id/wb_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="14.0px" />
+        <com.sec.android.app.camera.widget.TwIndicatorTimer android:id="@id/timer_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="14.0px" />
+        <com.sec.android.app.camera.widget.TwIndicatorOutdoorVisibility android:id="@id/outdoorvisibility_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="14.0px" />
+    </LinearLayout>
+</RelativeLayout>

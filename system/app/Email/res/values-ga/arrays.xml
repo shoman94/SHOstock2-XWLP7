@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Rath.</item>
+        <item>Níl earráid ann</item>
+        <item>Teorainn úsaideora {0] sáraithe</item>
+        <item>Teorainn úsáideora sáraithe</item>
+        <item>Úsáideoir dúblach: {0}</item>
+        <item>Úsáideoir dúblach</item>
+        <item>Gléas dúblach: {0}</item>
+        <item>Gléas dúblach</item>
+        <item>Níor aimsíodh úsáideoir: {0}</item>
+        <item>Níor aimsíodh úsáideoir.</item>
+        <item>Formáid dáta neamhbhailí: {0} Ag súil le {1}.</item>
+        <item>Formáid dáta neamhbhailí</item>
+        <item>Formáid Dáta Neamhbhailí: {0}. Ag súil le {1}</item>
+        <item>Formáid Dáta Neamhbhailí</item>
+        <item>Tá Paraiméadar Éigeantach ar iarraidh: {0}</item>
+        <item>Tá Paraiméadar Éigeantach ar iarraidh</item>
+        <item>Bhí earráid ann. Bain triail arís as le do thoil.</item>
+        <item>Earráid inmheánach</item>
+        <item>Ní bhfuarthas an Id soláthraithe {0} a tugadh ar aon Athdhíoltóir a bhfuil rochtain ag an úsáideoir air.</item>
+        <item>Níor Aimsíodh Branda</item>
+        <item>Níl aon dáta as feidhm socraithe</item>
+        <item>Níl aon dáta as feidhm socraithe</item>
+        <item>Séanadh rochtain</item>
+        <item>Séanadh rochtain</item>
+        <item>Níl rochtain API cumasaithe do: {0}</item>
+        <item>Níl rochtain API cumasaithe</item>
+        <item>Bhí earráid ann. Bain triail arís as.</item>
+        <item>Earráid drochiarratais</item>
+        <item>Earráid Inmheánach: {0}</item>
+        <item>Earráid Inmheánach</item>
+        <item>Tá suibscríbhinn leis na sonraí a cuireadh ar fáil ann cheana féin</item>
+        <item>Suibscríbhinn dúblach</item>
+        <item>Aimsíodh go leor suibscríbhinní a bhí ag meaitseáil a chéile</item>
+        <item>Aimsíodh go leor suibscríbhinní a bhí ag meaitseáil a chéile</item>
+        <item>Bhí earráid ann nuair a bhíothas ag iarraidh tús a chur le seisiún. Bain triail as arís le do thoil.</item>
+        <item>Earráid naisc</item>
+        <item>Níor aimsíodh an t-iarratas {0}</item>
+        <item>Níor aimsíodh an t-iarratas</item>
+        <item>Paraiméadair neamhréireacha: {0} agus {1}</item>
+        <item>Paraiméadair neamhréireacha</item>
+        <item>Formáid MSISDN neamhbhailí: {0}</item>
+        <item>Formáid msisdn neamhbhailí</item>
+        <item>Paraiméadar táirge neamhbhailí: {0}</item>
+        <item>Paraiméadar táirge neamhbhailí</item>
+        <item>Ní rabhthas in ann do nascóir a aimsiú. Deimhnigh le do thoil an ID Nascóra a chuir tú isteach.</item>
+        <item>Níor aimsíodh nascóir</item>
+        <item>Níor aimsíodh suibscríbhinn</item>
+        <item>Níor aimsíodh suibscríbhinn</item>
+        <item>Bhí earráid ann le linn do shonraí a bheith á seoladh. Bain triail arís as le do thoil.</item>
+        <item>Earráid sonraí</item>
+        <item>Theip ar an nglaoch macasamhlaithe ag an ardán AOM</item>
+        <item>Theip ar an nglaoch macasamhlaithe chuig an ardán AOM</item>
+        <item>Thóg sé an iomarca ama ort do ghníomh a chur i gcrích agus tá an t-am istigh. Bain triail arís as le do thoil.</item>
+        <item>Am istigh</item>
+        <item>Ní féidir nascadh le do chuntas ríomhphoist. Ba cheart go n-aisghabhfaí an nasc go huathoibríoch. Má leanann an fhadhb ar aghaidh, seiceáil do shocruithe gréasáin nó déan teagmháil le do sholáthróir seirbhíse chun cúnamh a fháil.</item>
+        <item>Fadhb leis an nasc</item>
+        <item>Níl an gréasán ar fáil ar bhonn sealadach nó tá an fón i mód eitilte. Aischuirfear an nasc go huathoibríoch nuair a bheidh fáil ar an ngréasán arís.</item>
+        <item>Theip ar an nasc</item>
+        <item>Tá an freastalaí gnóthach faoi láthair. Bain triail arís as le do thoil.</item>
+        <item>Freastalaí gnóthach</item>
+        <item>Theip ar iarratas IPC ginearálta</item>
+        <item>Theip ar an iarratas IPC</item>
+        <item>Theip ar fhíordheimhniú do: {0}</item>
+        <item>Theip ar fhíordheimhniú</item>
+        <item>Déan teagmháil le do sholáthróir seirbhíse le do thoil chun ceadúnas bailí a fháil.</item>
+        <item>Níor glacadh leis an gceadúnas.</item>
+        <item>Níor aimsíodh an ID Cliaint ón ábhar SMS</item>
+        <item>Níor aimsíodh an ID Cliaint ón ábhar SMS</item>
+        <item>Níor aimsíodh aon Chliant leis an ID cliaint ({0}).</item>
+        <item>Níor aimsíodh aon Chliant leis an ID cliaint a sonraíodh</item>
+        <item>Tá an t-eolas MSISDN a tugadh neamhbhailí nó ar iarraidh: {0}</item>
+        <item>Níor tugadh faisnéis MSISDN nó tá sé neamhbhailí.</item>
+        <item>Formáid MSISDN neamhbhailí: {0} Bhíothas ag súil le luach uimhriúil.</item>
+        <item>Formáid MSISDN neamhbhailí</item>
+        <item>Formáid id an Chliaint neamhbhailí: {0} Bhíothas ag súil le luach uimhriúil.</item>
+        <item>Tá formáid an id Cliaint neamhbhailí</item>
+        <item>Ní bhfuarthas an ceanntásc muirir a rabhthas ag súil leis ón iarratas bailíochtaithe</item>
+        <item>Theip ar bhailíochtú an cheanntásc muirir</item>
+        <item>Tá MSISDN {0} ann sa chóras cheana féin.</item>
+        <item>Tá MSISDN ann cheana féin.</item>
+        <item>Níl ann do MSISDN {0} sa chóras.</item>
+        <item>Ní ann do MSISDN</item>
+        <item>Tabhair do phasfhocal sealadach le do thoil chun an [nascóir] seo a athshuiteáil.</item>
+        <item>Pasfhocal ag teastáil</item>
+        <item>Tá an ID atá roghnaithe agat in úsáid cheana. Roghnaigh ceann eile le do thoil.</item>
+        <item>ID in úsáid cheana</item>
+        <item>Níl an pasfhocal sealadach a tugadh ceart.</item>
+        <item>Earráid naisc</item>
+        <item>Tá an nascóir díchumasaithe.</item>
+        <item>Nascóir díchumasaithe</item>
+        <item>Níl an tseirbhís cumasaithe</item>
+        <item>Níl an tseirbhís cumasaithe</item>
+        <item>Níl an t-eagrán táirge a tugadh ag meaitseáil an t-eagrán a suiteáladh ar an athsheachadán</item>
+        <item>Mímheaitseáil eagráin táirge</item>
+        <item>Theip ar an idirbheart ar chúis nach bhfuil sonraithe:{0}</item>
+        <item>Theip ar an idirbheart ar chúis nach bhfuil sonraithe</item>
+        <item>Theip ar fhíordheimhniú do: {0}</item>
+        <item>Theip ar fhíordheimhniú</item>
+        <item>Níl rochtain ceadaithe do: {0}</item>
+        <item>Níl rochtain ceadaithe</item>
+        <item>Tá cuntas an úsáideora {0} blocáilte.</item>
+        <item>Cuntas blocáilte</item>
+        <item>Theip ar roinnt de bhaisc idirbheart.</item>
+        <item>Theip ar chuid de bhaisc idirbheart.</item>
+        <item>{0} taifead an toradh a bhí ar an nglaoch liosta, is é {1} an teorainn.</item>
+        <item>Sáraíonn an t-aisliosta a theorainn mhéide</item>
+        <item>D’iarr glaoch baisce {0} idirbheart, is é {1} an teorainn.</item>
+        <item>Sáraíonn an t-iarratas baisce idirbheart a theorainn mhéide</item>
+        <item>Rinneadh glaoch API agus paraiméadar éigeantach ar iarraidh: {0}</item>
+        <item>Paraiméadar riachtanach ar iarraidh don ghlaoch API.</item>
+        <item>Bhí paraiméadar {0} neamhbhailí don ghlaoch API seo.</item>
+        <item>Bhí paraiméadar neamhbhailí sa ghlaoch API.</item>
+        <item>Tharla earráid bhunachar sonraí le linn don iarratas seo a bheith á phróiseáil:{0}</item>
+        <item>Earráid bhunachar sonraí de bharr glaoch API.</item>
+        <item>"Ní féidir carachtair saoróige a úsáid leis an bhfaisnéis aitheantais seo.
+"</item>
+        <item>Carachtair saoróige á n-úsáid go neamhdhleathach.</item>
+        <item>"Carachtar saoróige neamhbhailí sa pharaiméadar iarratais
+"</item>
+        <item>Carachtair saoróige neamhbhailí san iarratas.</item>
+        <item>Iarratas SOAP faighte a bhfuil ceanntásc ar iarraidh nó neamhbhailí ann.</item>
+        <item>Iarratas SOAP faighte a bhfuil ceanntásc ar iarraidh nó neamhbhailí ann.</item>
+        <item>Fuarthas an t-iarratas SOAP a bhfhuil paraiméadar ceanntáisc éigeantach ar iarraidh ann: {0}</item>
+        <item>Iarratas SOAP faighte a bhfuil paraiméadar ceanntáisc ar iarraidh ann.</item>
+        <item>Fuarthas an t-iarratas SOAP ó sheoladh IP: {0}. Níl cead ag an seoladh seo an API a úsáid.</item>
+        <item>Iarratas SOAP faighte ó sheoladh IP atá blocáilte.</item>
+        <item>Níl rochtain API cumasaithe do: {0}</item>
+        <item>Níl rochtain API cumasaithe</item>
+        <item>Theip ar iarratas SOAP ar chúis nach bhfuil sonraithe:{0}</item>
+        <item>Theip ar an iarratas SOAP ar chúis nach bhfuil sonraithe</item>
+        <item>Teastaíonn AccountID nó paraiméadar MSISDN ón nglaoch API createAccountSubscription.</item>
+        <item>Glaodh createAccountSubscription gan aon AccountID nó MSISDN.</item>
+        <item>"Ní mór ar a laghad ceann amháin de MSISDN, AccountID, agus GroupID a thabhairt chun paraiméadar Táirge a úsáid sa nglaoch API listAccountSubscription.
+"</item>
+        <item>listAccountSubscriptions glaoite le paraiméadar Táirge ach gan aon pharaiméadar ID.</item>
+        <item>Tá na critéir céannachta suibscríbhinne a tugadh ag meaitseáil go leor taifead. Níor próiseáladh aon nuashonrú.</item>
+        <item>Tá na critéir céannachta suibscríbhinne ag meaitseáil go leor taifead.</item>
+        <item>Tugadh tacar neamhbhailí paraiméadar aitheantais.</item>
+        <item>Tugadh tacar paraiméadar ID neamhbhailí.</item>
+        <item>Rinneadh glaoch API updateAccountSubscription, agus ní raibh aon réimse ann a raibh nuashonrú le déanamh air.</item>
+        <item>Níor tugadh aon réimse don nuashonrú.</item>
+        <item>Níl na critéir céannachta suibscríbhinne a tugadh ag meaitseáil aon taifead. Níor próiseáladh aon nuashonrú.</item>
+        <item>Níl na critéir céannachta suibscríbhinne ag meaitseáil taifead ar bith.</item>
+        <item>Teastaíonn go dtabharfaí ar a laghad ceann amháin de MSISDN, AccountID, agus GroupID chun paraiméadar Táirge a úsáid sa ghlaoch API deleteAccountSubscription.</item>
+        <item>Glaodh deleteAccountSubscriptions le paraiméadar Táirge ach gan paraiméadar ID a bheith ann.</item>
+        <item>Tá na critéir céannachta suibscríbhinne a tugadh ag meaitseáil go leor taifead. Níor próiseáladh aon nuashonrú.</item>
+        <item>Tá na critéir céannachta suibscríbhinne ag meaitseáil go leor taifead.</item>
+        <item>Teastaíonn paraiméadar SubscriptionId nó ConnectorId ón nglaoch API updateConnectorSubscription.</item>
+        <item>Tugadh tacar paraiméadar ID neamhbhailí.</item>
+        <item>Rinneadh glaoch API updateConnectorSubscription, agus ní raibh aon réimse a raibh nuashonrú le déanamh air.</item>
+        <item>Níor tugadh aon réimse don nuashonrú.</item>
+        <item>Níl na critéir chéannachta suibscríbhinn a tugadh ag meaitseáil aon taifead. Níor próiseáladh aon nuashonrú.</item>
+        <item>Níl na critéir céannachta suibscríbhinne ag meaitseáil le taifead ar bith.</item>
+        <item>Má dhéantar an glaoch API createPreProvisionedAccount agus CE mar tháirge aige, ní mór ID soláthraithe agus ID branda freastalaí ISP a thabhairt. Más táirge ar bith eile atá ann, ní mór ID nascóra a thabhairt.</item>
+        <item>Glaodh createPreProvisionedAccount le paraiméadair neamhbhailí.</item>
+        <item>Ní bhfuarthas an t-ainm comhlachta a cuireadh isteadh sa bhunachar sonraí, nó níor mheaitseáil an ID soláthraithe comhlacht ISP.</item>
+        <item>Níorbh fhéidir comhlacht a aimsiú leis na paraiméadair.</item>
+        <item>Níor aimsíodh branda an fhreastalaí ISP sa bhunachar sonraí.</item>
+        <item>Níor aimsíodh branda an fhreastalaí ISP sa bhunachar sonraí.</item>
+        <item>Ní thacaíonn an freastalaí ISP a fuarthas d’ID an bhranda a cuireadh isteach leis an gcineál táirge a tugadh.</item>
+        <item>Ní thacaíonn an freastalaí ISP a fuarthas d’ID an bhranda a cuireadh isteach leis an gcineál táirge a tugadh.</item>
+        <item>Tá níos mó ná cuntas amháin ag meaitseáil don nuashonrú. Ní féidir an pasfhocal a nuashonrú.</item>
+        <item>Bhí changeAccountPassword ag meaitseáil níos mó ná cuntas amháin.</item>
+        <item>Níor aimsíodh aon chuntas a bhí ag meaitseáil don nuashonrú. Ní dhéanfar nuashonrú ar aon phasfhocal.</item>
+        <item>Ní raibh changeAccountPassword ag meaitseáil aon chuntas.</item>
+        <item>"Bhí earráid ann le linn iarrachta an pasfhocal a nuashonrú. D’fhéadfadh pasfhocal neamhbhailí a bheith ina údar dó seo.
+"</item>
+        <item>Theip ar changeAccountPassword an pasfhocal a nuashonrú.</item>
+        <item>A request made for listing user information but given parameters do not match any existing user</item>
+        <item>getUserInformation cannot find user with given parameters</item>
+        <item>isValidConnectorId glaoite le ID atá in úsáid cheana féin.</item>
+        <item>Tá an ID Nascóra in úsáid cheana féin.</item>
+        <item>Glaoch runScript le paraiméadair neamhbhailí don script SQL atá sonraithe.</item>
+        <item>Paraiméadair neamhbhailí don script SQL.</item>
+        <item>runScript glaoite do script SQL anaithid.</item>
+        <item>Níor aimsíodh script SQL.</item>
+        <item>Níl an ghné chun nasc íoslódala a sheoladh cumasaithe in API.</item>
+        <item>Glaodh ar sendDownloadLink nuair nach bhfuil an ghné seo cumasaithe.</item>
+        <item>Theip ar an iarratas teachtaireachata ag an ngeata SMS.</item>
+        <item>Theip ar an iarratas teachtaireachata ag an ngeata SMS.</item>
+        <item>Níorbh fhéidir cliant a aimsiú do na paraiméadair a tugadh.</item>
+        <item>Níorbh fhéidir cliant a aimsiú do na paraiméadair a tugadh.</item>
+        <item>Theip ar an tástáil poist mar nár aimsíodh an soláthróir poist a sonraíodh. Ní mór duit POP3, IMAP, POP3S, IMAPS, SMTP nó SMTPS a úsáid mar sholáthróir</item>
+        <item>Níor aimsíodh an soláthróir ríomhphoist.</item>
+        <item>Theip ar an tástáil ríomhphoist mar gur theip ar an nasc go dtí an freastalaí poist a sonraíodh. Seiceáil socruithe do bhosca ríomhphoist</item>
+        <item>Theip ar an nasc</item>
+        <item>Theip ar an tástáil ríomhphoist mar gur theip ar an nasc go dtí an freastalaí ríomhphoist a sonraíodh. Seiceáil socruithe do bhosca ríomhphoist</item>
+        <item>Níor aimsíodh bosca isteach</item>
+        <item>Theip ar an tástáil poist toisc gur theip ar an gcuardach teachtaireachta ón mbosca isteach. Seiceáil socruithe do bhosca ríomhphoist</item>
+        <item>Theip ar chuardach an bhosca istigh</item>
+        <item>Theip ar thástáil poist i gcás seoladh ríomhphoist neamhbhailí. Seiceáil an seoladh ríomhphoist a tugadh</item>
+        <item>Seoladh ríomhphoist neamhbhailí</item>
+        <item>Tá an ceangaltán níos mó ná an méid is mó atá ceadaithe.</item>
+        <item>Tá méid an cheangaltáin rómhór.</item>
+        <item>Tá méid chorp na teachtaireachta ró-mhór.</item>
+        <item>Tá an méid coirp rómhór.</item>
+        <item>Theip ar an iarracht síniú isteach mar gheall ar {0} agus/nó Pasfhocal neamhbhailí. Seiceáil do {0} agus do Phasfhocal le do thoil agus bain triail arís as.</item>
+        <item>Síniú isteach mícheart</item>
+        <item>Theip ar an iarracht síniú isteach de bharr {0}, Pasfhocal nó socruithe neamhbhailí. Seiceáil do {0}, do Pasfhocal agus do socruithe le do thoil agus bain triail arís as.</item>
+        <item>Síniú isteach mícheart</item>
+        <item>Theip ar an iarracht síniú isteach de bharr {0} neamhbhailí. Seiceáil do {0} le do thoil agus bain triail arís as.</item>
+        <item>Níor aimsíodh an t-úsáideoir.</item>
+        <item>Tá an t-ainm úsáideora atá tugtha agat cláraithe go minic. Seiceáil do {0} agus do Phasfhocal le do thoil agus bain triail arís as.</item>
+        <item>Níor aimsíodh úsáideoir</item>
+        <item>Níor aimsíodh socruithe do do fhreastalaí ríomhphoist. Tabhair do shonraí cuntais le do thoil ar an gcéad scáileán eile.</item>
+        <item>Níor aimsíodh freastalaí</item>
+        <item>Theip ar logáil isteach. Tabhair d’ainm úsáideora do do chuntas ríomhphoist le do thoil mura bhfuil sé mar a chéile le do sheoladh ríomhphoist.</item>
+        <item>Theip ar logáil isteach</item>
+        <item>Theip ar fhíordheimhniú leis an gcuntas seo an iomarca uaireanta. Fan ar dhíghlasáil le do thoil nó déan teagmháil leis an riarthóir.</item>
+        <item>Cuntas glasáilte</item>
+        <item>Tá an uimhir fóin seo cláraithe cheana féin. Deimhnigh le do thoil gur chuir tú isteach an uimhir fóin cheart nó déan teagmháil le do sholáthróir seirbhíse chun cúnamh a fháil.</item>
+        <item>Tá cuntas réamhsholáthraithe ann cheana féin</item>
+        <item>Atreoraíodh an nasc go dtí freastalaí eile chun feidhmíocht níos fearr a chur ar fáil. Bain triail as an ngníomh deireanach arís le do thoil.</item>
+        <item>Atreoraithe</item>
+        <item>Níl fáil ar an bhfreastalaí ríomhphoist faoi láthair. Bain triail arís ar ball as le do thoil.</item>
+        <item>Theip ar logáil isteach</item>
+        <item>Theip ar an tástáil ríomhphoist de bharr earráide anaithide. Seiceáil socruithe do bhosca ríomhphoist</item>
+        <item>Earráid anaithid</item>
+        <item>Theip ar fhíordheimhniú leis an gcuntas seo an iomarca uaireanta. Tá cosc curtha ar logálacha isteach ón nascóir sa todhchaí. Fan ar dhíghlasáil le do thoil nó déan teagmháil leis an riarthóir nascóra chun tuilleadh iarrachtaí logála isteach a cheadú.</item>
+        <item>Logálacha isteach díchumasaithe.</item>
+        <item>Cliceáil OK chun do {0} agus do phasfhocal a sheiceáil/seiceáil do cheadchomhartha sula mbainfidh tú triail arís as.</item>
+        <item>Síniú isteach RSA mícheart</item>
+        <item>Níl an leagan cliaint atá in úsáid agat deimhnithe ag an soláthróir poist seo. Déan teagmháil le do sholáthróir le do thoil chun leagan cliaint atá deimhnithe a fháil.</item>
+        <item>Níl an cliant deimhnithe don ISP seo.</item>
+        <item>Ní seoladh gréasáin bailí an seoladh freastalaí Microsoft Exchange a tugadh. Deimhnigh an seoladh le do thoil agus ansin triail arís é.</item>
+        <item>Microsoft Exchange Address - neamhbhailí</item>
+        <item>Tá do sholáthróir ar fáil mar ardsheirbhís. Téigh ar ais chuig liosta na soláthróirí le do thoil agus roghnaigh arís.</item>
+        <item>Níl an URL a tugadh ceadaithe.</item>
+        <item>Tá eochair phoiblí an chríochphointe chianda athraithe. D’fhéadfadh iarracht ionraidh a bheith i gceist anseo. Cuileáileadh sonraí ón gcríochphointe cianda.</item>
+        <item>Mímheaitseáil eochrach poiblí</item>
+        <item>"Ní féidir logáil isteach arís. Tugann sé seo le fios nach féidir leis an úsáideoir an fhaisnéis aitheantais nua a iontráil chun logáil isteach go dtí an tseirbhís arís, ach go bhfuil gníomh éigin eile ag teastáil ón úsáideoir.
+"</item>
+        <item>Ní féidir logáil isteach arís</item>
+        <item>Níl an freastalaí ag an seoladh a thug tú ag freagairt. Ní féidir Microsoft Exchange a úsáid chun rochtain a fháil ar ríomhphoist ón ionad oibre má tá VPN/SSL in úsáid. Roghnaigh OK chun rochtain a fháil ar ríomhphost ó d’ionad oibre leis an gcéad rogha naisc eile.</item>
+        <item>Seoladh OWA – níl sé ag freagairt</item>
+        <item>Ní freastalaí Microsoft Exchange an freastalaí ag an seoladh atá tugtha agat. Dearbhaigh seoladh do fhreastalaí Microsoft Exchange agus bain triail arís as.</item>
+        <item>=Microsoft Exchange Address – cineál mícheart</item>
+        <item>Tá do phasfhocal imithe as feidhm. Úsáid do ríomhaire le do thoil chun do phasfhocal a athrú agus bain triail as arís le do phasfhocal nua.</item>
+        <item>Pasfhocal as feidhm</item>
+        <item>Tá an líon is airde fón ar féidir leat soláthar a dhéanamh orthu sroichte agat. Déan teagmháil le do riarthóir le do thoil.</item>
+        <item>An iomarca fón</item>
+        <item>Níl aon Chomhad Nótaí ID ar fáil, ní féidir logáil isteach. Déan teagmháil le do riarthóir le do thoil.</item>
+        <item>Níl aon Chomhad ID ar fáil</item>
+        <item>Níl an tseirbhís atá iarrtha ar fáil ar bhonn sealadach. Bain triail as arís ar ball. Má leanann an fhadhb ar aghaidh, logáil isteach ag do chuntas trí úsáid a bhaint as an brabhsálaí gréasáin.</item>
+        <item>Níl seirbhís ISP ar fáil go sealadach</item>
+        <item>Tá an teachtaireacht go bhfuil logáil isteach ón ngréasán ag teastáil tagtha ón ISP. Logáil isteach sa chuntas trí úsáid a bhaint as an brabhsálaí gréasáin.</item>
+        <item>Logáil isteach gréasáin ag teastáil</item>
+        <item>Bhí earráid ISP ann. Bain triail as arís ar ball. Má leanann an fhadhb ar aghaidh, déan iarracht logáil isteach trí úsáid a bhaint as an brabhsálaí gréasáin..</item>
+        <item>Earráid seolta ar ais ón ISP.</item>
+        <item>Tá an bosca ríomhphoist in úsáid faoi láthair. Bain triail as arís ar ball.</item>
+        <item>Tá an bosca ríomhphoist in úsáid faoi láthair.</item>
+        <item>No answer for this feed url. Please correct the url or try again later.</item>
+        <item>No answer for this feed url.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Ní féidir nascadh le do ríomhphost Exchange Access. Ba cheart go n-aischuirfí an nasc go huathoibríoch; má leanann an fhadhb ar aghaidh, déan teagmháil le do riarthóir TF chun cúnamh a fháil.</item>
+        <item>Fadhb naisc</item>
+        <item>Ní féidir nascadh le do {0} ríomhphost. Ba cheart go n-aischuirfí an nasc go huathoibríoch; má leanann an fhadhb ar aghaidh, déan teagmháil le {0} chun cúnamh a fháil.</item>
+        <item>Fadhb naisc</item>
+        <item>Theip ar an ngníomh nuashonraithe cuntais a thriail tú. Bain triail arís as le do thoil.</item>
+        <item>Theip ar an nuashonrú</item>
+        <item>Bhí an XML san iarratas RPC neamhbhailí.</item>
+        <item>míchumtha XML san RPC</item>
+        <item>Tá earráid inmheánach tar éis tarlú in XML RPC API. Bain triail arís as le do thoil.</item>
+        <item>Earráid inmheánach san XML RPC API</item>
+        <item>Paraiméadair neamhbhailí nó ar iarraidh san iarratas XML RPC. Seiceáil na paraiméadair agus a luachanna.</item>
+        <item>Paraiméadair neamhbhailí nó ar iarraidh</item>
+        <item>Ní raibh an tseirbhís in ann do shonraí a shábháil. Bain triail as arís le do thoil.</item>
+        <item>Earráid bhunachar sonraí</item>
+        <item>Tá eagraíocht ann cheana féin leis an ainm seo. Roghnaigh ainm eile le do thoil.</item>
+        <item>Organization alrady exists</item>
+        <item>Tá an ID nascóra atá sonraithe agat in úsáid cheana féin. Roghnaigh ceann eile le do thoil.</item>
+        <item>Tá an t-ainm in úsáid cheana féin</item>
+        <item>Tá an t-ainm úsáideora atá sonraithe agat in úsáid cheana féin. Roghnaigh ainm úsáideora eile le do thoil.</item>
+        <item>Tá an t-ainm úsáideora in úsáid cheana féin</item>
+        <item>Tá an t-úsáideoir seo ann cheana féin.</item>
+        <item>Tá an t-úsáideoir ann cheana féin</item>
+        <item>Tá an cuntas réamh-sholáthraithe a thriail tú a chruthú ann cheana. Ní mór don riarthóir Nascóra an cuntas atá ann cheana féin a bhaint as sula mbeifear in ann ceann nua a chur isteach.</item>
+        <item>Tá cuntas réamhsholáthraithe ann cheana féin</item>
+        <item>Níl dóthain cearta rochtana agat chun an oibríocht seo a dhéanamh.</item>
+        <item>Séanadh rochtain</item>
+        <item>Tá do shuibscríbhinn as feidhm. Déan teagmháil le do sholáthróir le do thoil chun do shuibscríbhinn a athnuachan.</item>
+        <item>Ní rabhthas in ann síniú isteach</item>
+        <item>Ní cheadaíonn do shuibscríbhinn duit tuilleadh cuntas a chur isteach. Déan cuairt ar http://eu020.fra.samsungsocialhub.com le do thoil chun do shuibscríbhinn a uasghrádú.</item>
+        <item>Ní féidir síniú isteach</item>
+        <item>Tabhair cuairt le do thoil ar http://eu020.fra.samsungsocialhub.com chun liostáil le Social Hub</item>
+        <item>Ní rabhthas in ann síniú isteach</item>
+        <item>Bhí fadhb againn leis an teastas SSL ar an suíomh seo.</item>
+        <item>Eisiúint Teastais</item>
+        <item>Ní le seirbhís bhailí Outlook Web Access an URL atá tugtha. Seiceáil an URL le do thoil agus bain triail arís as.</item>
+        <item>Seoladh seirbhíse neamhbhailí</item>
+        <item>Tá an URL seo réamhchumraithe. Téigh ar ais ag liosta na soláthróirí réamhchumraithe le do thoil agus roghnaigh do sholáthróir ón liosta.</item>
+        <item>Séanadh rochtain</item>
+        <item>Bhí an teagmhálaí as líne nuair a triaileadh teachtaireacht a sheoladh</item>
+        <item>Teagmhálaí as líne</item>
+        <item>"Blocáladh an teagmhálaí nuair a rinneadh iarracht teachtaireacht a sheoladh
+"</item>
+        <item>Blocáladh an teagmhálaí</item>
+        <item>Ní raibh méid an chomhaid san aistriú comhad ag meaitseáil leis an luach a sonraíodh</item>
+        <item>Tá mímheaitseáil ann maidir le méid an chomhaid</item>
+        <item>Seisiún p2p is mó sáraithe</item>
+        <item>Seisiún p2p is mó sáraithe</item>
+        <item>Dáta breithe ar iarraidh</item>
+        <item>Dáta breithe ar iarraidh</item>
+        <item>Níl an faighteoir ag tacú le haistriú comhad</item>
+        <item>Ní thacaítear leis an seisiún p2p</item>
+        <item>Ní mór don úsáideoir clárú leis an tseirbhís teachtaireachta</item>
+        <item>Clárú imithe as feidhm</item>
+        <item>Ní féidir an t-iarratas a chríochnú toisc go bhfuil an freastalaí róghnóthach. Bain triail arís ar ball as le do thoil.</item>
+        <item>Freastalaí gnóthach</item>
+        <item>Níl aon tacaíocht ar fáil do Voiceclip sa chomhrá seo</item>
+        <item>Ní thacaítear le Voice Clip</item>
+        <item>Níl cead ach ag beirt rannpháirtithe i gcomhrá d’oibríocht aistrithe comhad</item>
+        <item>An-iomarca rannpháirtithe</item>
+        <item>Níl aon rannpháirtí sa chomhrá atá sonraithe</item>
+        <item>Níl aon rannpháirtí i láthair</item>
+        <item>Níl logáil isteach Messenger ceadaithe ag tuismitheoir an úsáideora</item>
+        <item>Cead tuismitheora ag teastáil</item>
+        <item>Tá an t-aitheantóir comhrá seo neamhbhailí. Ba cheart don fheidhmchlár cliaint éirí as an gcomhrá seo</item>
+        <item>ID Glaoigh neamhbhailí</item>
+        <item>"Baineadh triail as iarratas Invite agus tá stádas láithreachta an úsáideora (ar an ngléas cliaint) As Líne 
+"</item>
+        <item>Tá an úsáideoir as líne</item>
+        <item>Baineadh triail as iarratas Invite chun úsáideoir neamhbhailí a chur leis an liosta</item>
+        <item>Úsáideoir anaithid</item>
+        <item>"Níor aimsíodh aon chumraíocht don fhearann ríomhphoist a sonraíodh.
+"</item>
+        <item>ISP anaithid</item>
+        <item>Láimhseáltar teipeanna fíordheimhnithe atá bunaithe ar cheadchomhartha ar bhealach éagsúil. Is mar gheall air sin atá an earráid seo ann.</item>
+        <item>Theip ar Fhíordheimhniú atá bunaithe ar Cheadchomhartha</item>
+        <item>Tá suibscríbhinn ag teastáil d’fhonn an tseirbhís seo a úsáid.</item>
+        <item>Suibscríbhinn ag Teastáil</item>
+        <item>Níl aon seirbhís Seven ar fáil.</item>
+        <item>Níl aon Seirbhís ar fáil</item>
+        <item>Síníodh amach tú mar gur shínigh tú isteach ar ríomhaire nó ar ghléas éagsúil</item>
+        <item>Scoitheadh an cuntas</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Teipeadh cuntas a chruthu nuair a bhí an clár ar Ping</item>
+        <item>Teipeadh ar an iarracht Cuntas a Chruthú</item>
+        <item>Eochair seirbhíse neamhbhailí nuair atá an clár ar an bhfreastalaí óstaigh</item>
+        <item>Eochair Seirbhíse Neamhbhailí</item>
+        <item>Tuairisceoir seirbhíse neamhbhailí nuair atá an clár ar an bhfreastalaí óstaigh</item>
+        <item>Tuairisceoir Seirbhíse Neamhbhailí</item>
+        <item>Sonraí saincheaptha neamhbhailí nuair atá an clár ar an bhfreastalaí óstaigh</item>
+        <item>Sonraí saincheaptha neamhbhailí</item>
+        <item>Tá an t-úsáideoir cláraithe cheana féin ar an bhfreastalaí óstaigh</item>
+        <item>Úsáideoir cláraithe cheana féin</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Bhí earráid ann le linn seirbhísí a aimsiú. Bain triail as arís le do thoil.</item>
+        <item>Theip ar an iarratas</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Display content of messages in tiny sized text</item>
+        <item>Display content of messages in small sized text</item>
+        <item>Display content of messages in normal sized text</item>
+        <item>Display content of messages in large sized text</item>
+        <item>Display content of messages in huge sized text</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Taispeáin 0 líne le haghaidh réamhamharc na teachtaireachta</item>
+        <item>Taispeáin líne amháin i réamhamharc na teachtaireachta</item>
+        <item>Taispeáin 2 líne le haghaidh réamhamharc na teachtaireachta</item>
+        <item>Taispeáin 3 líne le haghaidh réamhamharc na teachtaireachta</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Aistriúchán ag Google</item>
+        <item>Wikipedia</item>
+        <item>Foclóir</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Comhroinn mar théacs</item>
+        <item>Comhroinn mar íomhá</item>
+    </string-array>
+</resources>

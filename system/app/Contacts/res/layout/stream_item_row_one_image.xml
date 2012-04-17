@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/detail_update_section_between_items_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:ex="http://schemas.android.com/apk/res/com.android.contacts">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="2.0">
+        <view android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="@dimen/detail_update_section_between_items_padding" android:layout_weight="1.0" ex:direction="widthToHeight" ex:ratio="1.0" class="com.android.contacts.widget.ProportionalLayout">
+            <include android:id="@id/stream_item_first_image" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/stream_item_photo" />
+        </view>
+    </LinearLayout>
+</LinearLayout>

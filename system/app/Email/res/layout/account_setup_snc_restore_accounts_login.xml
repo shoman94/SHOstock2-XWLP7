@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/description" android:paddingLeft="@dimen/snc_setup_padding_left" android:paddingRight="@dimen/snc_setup_padding_right" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:textAppearance="@style/accountSetupInfoText" android:textSize="20.0dip" android:id="@id/instructions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="@dimen/snc_setup_padding_top" android:layout_marginBottom="10.0dip" android:text="@string/account_setup_snc_selected" android:layout_alignParentTop="true" />
+        <View android:id="@id/seperator" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="2.0dip" android:layout_below="@id/instructions" />
+        <EditText android:id="@id/account_email" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginLeft="14.0dip" android:layout_marginTop="50.0dip" android:layout_marginRight="14.0dip" android:hint="@string/account_setup_basics_email_hint" android:maxLength="320" android:layout_below="@id/seperator" android:inputType="textEmailAddress" android:imeOptions="actionNext" />
+        <EditText android:id="@id/account_password" android:nextFocusDown="@id/next" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginLeft="14.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="14.0dip" android:hint="@string/account_setup_basics_password_hint" android:maxLength="320" android:layout_below="@id/account_email" android:inputType="textPassword" android:imeOptions="actionDone" />
+        <TableLayout android:id="@id/show_password_table" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="12.0dip" android:stretchColumns="0" android:layout_below="@id/account_password">
+            <TableRow>
+                <TextView android:textSize="18.0dip" android:id="@id/show_password_string" android:paddingTop="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_setup_basic_show_password" />
+                <CheckBox android:layout_gravity="center_vertical" android:id="@id/show_password" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="7.0dip" android:checked="false" />
+            </TableRow>
+        </TableLayout>
+        <View android:id="@id/top_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginTop="6.0dip" android:layout_below="@id/show_password_table" />
+        <TableLayout android:id="@id/account_default_table" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="19.0dip" android:layout_marginRight="12.0dip" android:stretchColumns="0" android:layout_below="@id/top_divider">
+            <TableRow>
+                <TextView android:textSize="18.0dip" android:id="@id/account_default_string" android:layout_width="480.0dip" android:layout_height="wrap_content" android:text="@string/account_setup_basics_default_label" />
+                <CheckBox android:layout_gravity="center_vertical" android:id="@id/account_default" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:checked="false" />
+            </TableRow>
+        </TableLayout>
+        <View android:id="@id/account_default_divider_1" android:background="@drawable/email_contents_line" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginTop="11.0dip" android:layout_below="@id/account_default_table" />
+    </RelativeLayout>
+</ScrollView>

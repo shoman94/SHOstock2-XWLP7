@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_ab_search_holo_dark" android:id="@id/menu_search" android:title="@string/menu_search" android:showAsAction="always" />
+    <item android:icon="@drawable/ic_add_contact_holo_dark" android:id="@id/menu_add_contact" android:title="@string/menu_new_contact_action_bar" android:showAsAction="always" />
+    <item android:icon="@drawable/ic_add_group_holo_dark" android:id="@id/menu_custom_add_group" android:title="@string/menu_new_group_action_bar" android:showAsAction="always" />
+    <item android:icon="@drawable/ic_menu_settings_holo_light" android:id="@id/menu_contacts_filter" android:orderInCategory="1" android:title="@string/menu_contacts_filter" />
+    <item android:icon="@drawable/ic_menu_import_export_holo_light" android:id="@id/menu_import_export" android:orderInCategory="2" android:title="@string/menu_import_export" />
+    <item android:icon="@drawable/ic_menu_accounts_holo_light" android:id="@id/menu_accounts" android:orderInCategory="3" android:title="@string/menu_accounts" />
+    <item android:icon="@drawable/ic_menu_settings_holo_light" android:id="@id/menu_settings" android:orderInCategory="4" android:title="@string/menu_settings" />
+</menu>

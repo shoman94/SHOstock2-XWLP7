@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="20.0sp" android:textColor="?android:textColorPrimary" android:id="@id/instructions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:layout_marginTop="2.0dip" android:text="@string/accounts_welcome" />
+    <TextView android:id="@id/instructions" android:text="@string/auto_discover_setup_exchange_email_address_label" style="@style/accountSetupEditFieldTextStyle" />
+    <LinearLayout android:id="@id/linearLayoutForKOR" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="9.0dip" android:layout_marginRight="8.0dip" android:layout_marginBottom="2.0dip">
+        <EditText android:textSize="16.0sp" android:textColor="@color/account_setup_edit_field_value_color" android:gravity="left|center" android:id="@id/account_email_without_domain" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="43.0dip" android:hint="account" android:singleLine="true" android:maxLength="320" android:layout_weight="1.0" android:inputType="textEmailAddress" android:imeOptions="actionNext" />
+        <TextView android:textSize="18.0sp" android:layout_width="wrap_content" android:layout_height="48.0dip" android:text="@string/account_setup_basics_at_label" />
+        <Button android:textSize="16.0sp" android:id="@id/domain" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="43.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+    <EditText android:id="@id/account_email" android:hint="@string/account_setup_basics_email_hint" android:maxLength="320" android:inputType="textEmailAddress" android:imeOptions="actionNext" style="@style/accountSetupEditFieldValueStyle" />
+    <TextView android:id="@id/pass_instructions" android:text="@string/account_setup_basics_password_hint" style="@style/accountSetupEditFieldTextStyle" />
+    <EditText android:id="@id/account_password" android:nextFocusDown="@id/next" android:hint="@string/account_setup_basics_password_hint" android:maxLength="320" android:inputType="textPassword" android:imeOptions="actionDone" style="@style/accountSetupEditFieldValueStyle" />
+    <View android:id="@id/account_premium_table_line" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/account_premium_table" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <CheckBox android:id="@id/account_premium" android:checked="false" style="@style/accountSetupButtonCheckBoxStyleForLeft" />
+        <TextView android:id="@id/account_premium_string" android:text="@string/set_as_premium_account" style="@style/accountSetup2LineTextStyleForLeft" />
+    </LinearLayout>
+    <View android:id="@id/account_default_table_line" android:background="@drawable/email_contents_line" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/account_default_table" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <CheckBox android:id="@id/account_default" android:checked="false" style="@style/accountSetupButtonCheckBoxStyleForLeft" />
+        <TextView android:id="@id/account_default_string" android:text="@string/account_setup_basics_default_label" style="@style/accountSetup2LineTextStyleForLeft" />
+    </LinearLayout>
+    <View android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/show_password_table" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <CheckBox android:id="@id/show_password" android:checked="false" style="@style/accountSetupButtonCheckBoxStyleForLeft" />
+        <TextView android:id="@id/show_password_string" android:text="@string/account_setup_basic_show_password" style="@style/accountSetup2LineTextStyleForLeft" />
+    </LinearLayout>
+    <View android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+</LinearLayout>

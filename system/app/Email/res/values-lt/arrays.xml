@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Pavyko.</item>
+        <item>Nėra klaidos</item>
+        <item>Viršytas {0} vartotojų apribojimas</item>
+        <item>Viršytas vartotojų apribojimas</item>
+        <item>Identiškas vartotojas: {0}</item>
+        <item>Identiškas vartotojas</item>
+        <item>Identiškas įrenginys:{0}</item>
+        <item>Identiškas įrenginys</item>
+        <item>Vartotojas nerastas: {0}</item>
+        <item>Vartotojas nerastas</item>
+        <item>Netinkamas datos formatas: {0}. Tikėtina {1}.</item>
+        <item>Netinkamas datos formatas</item>
+        <item>Netinkamas datos formatas: {0}. Tikėtina {1}</item>
+        <item>Netinkamas datos formatas</item>
+        <item>Trūksta privalomo parametro: {0}</item>
+        <item>Trūksta privalomo parametro</item>
+        <item>Įvyko klaida. Pabandykite dar kartą.</item>
+        <item>Vidinė klaida</item>
+        <item>Pateiktas konfigūravimo ID ({0}) nerastas jokiam pardavėjui, prie kurio vartotojas turi prieigą.</item>
+        <item>Prekės ženklas nerastas</item>
+        <item>Nenustatyta galiojimo data</item>
+        <item>Nenustatyta galiojimo data</item>
+        <item>Prieiga atmesta</item>
+        <item>Prieiga atmesta</item>
+        <item>API prieiga neįgalinta: {0}</item>
+        <item>API prieiga neįgalinta</item>
+        <item>Įvyko klaida. Pabandykite dar kartą.</item>
+        <item>Blogos užklausos klaida</item>
+        <item>Vidinė klaida: {0}</item>
+        <item>Vidinė klaida</item>
+        <item>Prenumerata su pateikta informacija jau yra</item>
+        <item>Identiška prenumerata</item>
+        <item>Rasta keletas sutampančių prenumeratų</item>
+        <item>Rasta keletas sutampančių prenumeratų</item>
+        <item>Įvyko klaida mėginant paleisti seansą. Pabandykite dar kartą.</item>
+        <item>Ryšio klaida</item>
+        <item>Užklausa {0} nerasta</item>
+        <item>Užklausa nerasta</item>
+        <item>Nenuoseklūs parametrai: {0} ir {1}</item>
+        <item>Nenuoseklūs parametrai</item>
+        <item>Netinkamas MSISDN formatas:{0}</item>
+        <item>Netinkamas msisdn formatas</item>
+        <item>Netinkamas produkto parametras: {0}</item>
+        <item>Netinkamas produkto parametras</item>
+        <item>Jūsų jungties nepavyko rasti. Patvirtinkite įvestą jungties ID.</item>
+        <item>Jungtis nerasta</item>
+        <item>Prenumerata nerasta</item>
+        <item>Prenumerata nerasta</item>
+        <item>Siunčiant duomenis įvyko klaida. Pabandykite dar kartą.</item>
+        <item>Duomenų klaida</item>
+        <item>Nesėkmingas identiškas skambutis į AOM platformą</item>
+        <item>Nesėkmingas identiškas skambutis į AOM platformą</item>
+        <item>Jūsų veiksmas pernelyg užtruko ir baigėsi skirtasis laikas. Pabandykite dar kartą.</item>
+        <item>Skirtasis laikas</item>
+        <item>Nepavyksta prisijungti prie jūsų el. pašto abonemento. Ryšys turėtų būti atkurtas automatiškai. Jei problema išlieka, patikrinkite savo tinklo parametrus arba pagalbos kreipkitės į savo paslaugų teikėją.</item>
+        <item>Ryšio problema</item>
+        <item>Tinklas laikinai nepasiekiamas arba telefone nustatytas skrydžio režimas. Ryšys bus automatiškai atkurtas, kai tik tinklas taps pasiekiamas.</item>
+        <item>Prisijungti nepavyko</item>
+        <item>Serveris dabar užimtas. Pabandykite dar kartą vėliau.</item>
+        <item>Serveris užimtas</item>
+        <item>Bendrosios IPC užklausos triktis</item>
+        <item>IPC užklausa nesėkminga</item>
+        <item>Nepavyko autentifikuoti: {0}</item>
+        <item>Nepavyko autentifikuoti</item>
+        <item>Dėl tinkamos licencijos kreipkitės į savo paslaugų teikėją.</item>
+        <item>Licencija nepriimta</item>
+        <item>Kliento ID nerastas SMS turinyje</item>
+        <item>Kliento ID nerastas SMS turinyje</item>
+        <item>Nerasta kliento su kliento ID ({0}).</item>
+        <item>Nerastas klientas su nurodytu kliento ID</item>
+        <item>Pateikta netinkama MSISDN informacija arba jos nėra: {0}</item>
+        <item>MSISDN informacija nepateikta arba netinkama.</item>
+        <item>Netinkamas MSISDN formatas: {0}. Tikėtina skaitinė vertė.</item>
+        <item>Netinkamas MSISDN formatas</item>
+        <item>Netinkamas kliento ID formatas: {0}. Tikėtina skaitinė vertė.</item>
+        <item>Netinkamas kliento ID formatas</item>
+        <item>Tikėtina mokėjimo antraštė nerasta iš tikrinimo užklausos</item>
+        <item>Nepavyko patikrinti mokėjimo antraštės</item>
+        <item>MSISDN {0} jau yra sistemoje.</item>
+        <item>MSISDN jau yra</item>
+        <item>MSISDN {0} nėra sistemoje.</item>
+        <item>MSISDN neegzistuoja</item>
+        <item>Pateikite savo laikiną slaptažodį, norėdami iš naujo įdiegti šią [jungtį].</item>
+        <item>Būtinas slaptažodis</item>
+        <item>Jūsų pasirinktas ID jau naudojamas. Pasirinkite kitą.</item>
+        <item>ID jau naudojamas</item>
+        <item>Pateiktas laikinas slaptažodis yra neteisingas.</item>
+        <item>Ryšio klaida</item>
+        <item>Jungtis išjungta.</item>
+        <item>Jungtis išjungta</item>
+        <item>Paslauga neįgalinta</item>
+        <item>Paslauga neįgalinta</item>
+        <item>Pateiktas produkto leidimas neatitinka retransliatoriuje įdiegto leidimo</item>
+        <item>Produkto leidimo neatitiktis</item>
+        <item>Operacija nesėkminga dėl nenustatytos priežasties: {0}</item>
+        <item>Operacija nesėkminga dėl nenustatytos priežasties</item>
+        <item>Nepavyko autentifikuoti: {0}</item>
+        <item>Nepavyko autentifikuoti</item>
+        <item>Prieiga neleidžiama: {0}</item>
+        <item>Prieiga neleidžiama</item>
+        <item>Vartotojo abonementas {0} užblokuotas</item>
+        <item>Abonementas užblokuotas</item>
+        <item>Kai kurių operacijų paketų vykdyti nepavyko.</item>
+        <item>Nesėkminga operacijų paketo dalis.</item>
+        <item>Sąrašo iškvietimas pateikė {0} įrašų, riba yra {1}.</item>
+        <item>Grąžinimo sąrašas viršija dydžio ribą</item>
+        <item>Paketinis iškvietimas reikalavo {0} operacijų, riba yra {1}.</item>
+        <item>Paketinės operacijos užklausa viršija dydžio apribojimą</item>
+        <item>Atliktas API iškvietimas, bet trūksta privalomo parametro: {0}</item>
+        <item>API iškvietime trūksta reikalingo parametro.</item>
+        <item>Parametras {0} netinkamas šiam API iškvietimui.</item>
+        <item>API iškvietime buvo netinkamas parametras.</item>
+        <item>Įvyko duomenų bazės klaida mėginant apdoroti šią užklausą: {0}</item>
+        <item>Duomenų bazės klaidą pateikė API iškvietimas.</item>
+        <item>Pakaitos simbolių negalima naudoti su šiais prieigos kredencialais.</item>
+        <item>Neleistinas pakaitos simbolių naudojimas.</item>
+        <item>Netinkamas pakaitos simbolis reikalingame parametre: {0}</item>
+        <item>Netinkami pageidaujami pakaitos simboliai.</item>
+        <item>SOAP užklausa gauta be antraštės arba su netinkama antrašte.</item>
+        <item>SOAP užklausa gauta be antraštės arba su netinkama antrašte.</item>
+        <item>SOAP užklausa gavo trūkstamą privalomą antraštės parametrą: {0}</item>
+        <item>SOAP užklausa gauta be antraštės parametro.</item>
+        <item>SOAP užklausa buvo gauta iš IP adreso: {0}. Šiam adresui neleidžiama naudoti API.</item>
+        <item>SOAP užklausa gauta iš užblokuoto IP adreso.</item>
+        <item>API prieiga neįgalinta: {0}</item>
+        <item>API prieiga neįgalinta</item>
+        <item>SOAP užklausa nesėkminga dėl nenustatytos priežasties: {0}</item>
+        <item>SOAP užklausa nesėkminga dėl nenustatytos priežasties</item>
+        <item>createAccountSubscription API iškvietimas reikalauja AccountID arba MSISDN parametro.</item>
+        <item>createAccountSubscription iškviesta be AccountID arba MSISDN.</item>
+        <item>Norint listAccountSubscription API iškvietime naudoti produkto parametrą, reikia pateikti bent vieną MSISDN, AccountID ir GroupID.</item>
+        <item>listAccountSubscriptions iškviesti su produkto parametru, bet ne su ID parametru.</item>
+        <item>Pateikti prenumeratos identifikavimo kriterijai atitinka keletą įrašų. Naujinimas neatliktas.</item>
+        <item>Prenumeratos identifikavimo kriterijai atitinka keletą įrašų.</item>
+        <item>Pateiktas netinkamas identifikavimo parametrų rinkinys.</item>
+        <item>Pateiktas netinkamas ID parametrų rinkinys.</item>
+        <item>Atliktas updateAccountSubscription API iškvietimas, neatnaujintas joks laukas.</item>
+        <item>Naujinti nepateiktas joks laukas.</item>
+        <item>Pateikti prenumeratos identifikavimo kriterijai neatitinka jokio įrašo. Joks naujinimas neatliktas.</item>
+        <item>Prenumeratos identifikavimo kriterijai neatitinka jokio įrašo.</item>
+        <item>Norint deleteAccountSubscription API iškvietime naudoti produkto parametrą, reikia pateikti bent vieną MSISDN, AccountID ir GroupID.</item>
+        <item>deleteAccountSubscriptions iškviesta su produkto parametru, bet ne su ID parametru.</item>
+        <item>Pateikti prenumeratos identifikavimo kriterijai atitinka keletą įrašų. Naujinimas neatliktas.</item>
+        <item>Prenumeratos identifikavimo kriterijai atitinka keletą įrašų.</item>
+        <item>updateConnectorSubscription API iškvietimas reikalauja SubscriptionId arba ConnectorId parametro.</item>
+        <item>Pateiktas netinkamas ID parametrų rinkinys.</item>
+        <item>Atliktas updateConnectorSubscription API iškvietimas, neatnaujintas joks laukas.</item>
+        <item>Naujinti nepateiktas joks laukas.</item>
+        <item>Pateikti prenumeratos identifikavimo kriterijai neatitinka jokio įrašo. Joks naujinimas neatliktas.</item>
+        <item>Prenumeratos identifikavimo kriterijai neatitinka jokio įrašo.</item>
+        <item>Jei createPreProvisionedAccount API iškvietimas atliekamas su CE (kaip su produktu), reikia pateikti konfigūravimo ID ir ISP serverio prekės ženklo ID. Jei produktas kitas, reikia pateikti jungties ID.</item>
+        <item>createPreProvisionedAccount iškviesta su netinkamais parametrais.</item>
+        <item>Arba duomenų bazėje nerastas įvestas įmonės pavadinimas, arba įvestas konfigūravimo ID neatitinka ISP įmonės.</item>
+        <item>Nepavyko rasti įmonės naudojant parametrus.</item>
+        <item>ISP serverio prekės ženklo ID nerastas duomenų bazėje.</item>
+        <item>ISP serverio prekės ženklo ID nerastas duomenų bazėje.</item>
+        <item>Surastas įvesties prekės ženklo ID ISP serveris nepalaiko pateikto produkto tipo.</item>
+        <item>Surastas įvesties prekės ženklo ID ISP serveris nepalaiko pateikto produkto tipo.</item>
+        <item>Daugiau kaip vienas abonementas tinkamas naujinti. Slaptažodžio negalima atnaujinti.</item>
+        <item>changeAccountPassword atitiko daugiau kaip vieną abonementą.</item>
+        <item>Nerasta atnaujinti tinkamų abonementų. Nebus atnaujintas joks slaptažodis.</item>
+        <item>changeAccountPassword neatitiko jokio abonemento.</item>
+        <item>Įvyko klaida mėginant atnaujinti slaptažodį – tikriausiai dėl netinkamo slaptažodžio.</item>
+        <item>changeAccountPassword nepavyko atnaujinti slaptažodžio.</item>
+        <item>A request made for listing user information but given parameters do not match any existing user</item>
+        <item>getUserInformation cannot find user with given parameters</item>
+        <item>isValidConnectorId iškviestas su ID, kuris jau naudojamas.</item>
+        <item>Jungties ID jau naudojamas.</item>
+        <item>runScript iškviestas su netinkamais nurodyto SQL scenarijaus parametrais.</item>
+        <item>Netinkami SQL scenarijaus parametrai.</item>
+        <item>runScript iškvietė nežinomą SQL scenarijų.</item>
+        <item>SQL scenarijus nerastas.</item>
+        <item>Atsisiuntimo saito siuntimo funkcija nepalaikoma API.</item>
+        <item>sendDownloadLink iškviesta, kai funkcija neįgalinta.</item>
+        <item>Pranešimo užklausa, skirta SMS šliuzui, nesėkminga.</item>
+        <item>Pranešimo užklausa, skirta SMS šliuzui, nesėkminga.</item>
+        <item>Nepavyko rasti kliento, turinčio pateiktus parametrus.</item>
+        <item>Nepavyko rasti kliento, turinčio pateiktus parametrus.</item>
+        <item>Pašto patikrinti nepavyko, nes nerastas nurodytas pašto paslaugų teikėjas. Kaip teikėją turite naudoti POP3, IMAP, POP3S, IMAPS, SMTP arba SMTPS</item>
+        <item>Pašto paslaugų teikėjas nerastas</item>
+        <item>Pašto patikrinti nepavyko, nes neišėjo sukurti ryšio su nurodytu pašto serveriu. Patikrinkite pašto dėžutės parametrus</item>
+        <item>Prisijungti nepavyko</item>
+        <item>Pašto patikrinti nepavyko, nes neišėjo sukurti ryšio su nurodytu pašto serveriu. Patikrinkite pašto dėžutės parametrus</item>
+        <item>Aplankas Gaunami laiškai nerastas</item>
+        <item>Pašto patikrinti nepavyko, nes neišėjo atlikti laiškų ieškos aplanke Gaunami laiškai. Patikrinkite pašto dėžutės parametrus</item>
+        <item>Nesėkminga ieška aplanke Gaunami laiškai</item>
+        <item>Pašto tikrinimas nesėkmingas dėl netinkamo el. pašto adreso. Patikrinkite pateiktą el. pašto adresą</item>
+        <item>Netinkamas el. pašto adresas</item>
+        <item>Priedas viršija didžiausią leistiną dydį.</item>
+        <item>Priedas yra per didelis.</item>
+        <item>Pranešimo tekstas per ilgas.</item>
+        <item>Teksto dydis per didelis.</item>
+        <item>Nepavyko prisijungti dėl netinkamo {0} vardo ir / arba slaptažodžio. Patikrinkite {0} savo vardą bei slaptažodį ir pabandykite dar kartą.</item>
+        <item>Neteisingas prisijungimas</item>
+        <item>Bandymas prisijungti nepavyko dėl negaliojančio {0}, slaptažodžio arba netinkamų parametrų. Patikrinkite savo {0}, slaptažodį ir tinklo nustatymus, tada bandykite dar kartą.</item>
+        <item>Neteisingas prisijungimas</item>
+        <item>Nepavyko prisijungti dėl netinkamo {0}. Patikrinkite savo {0} ir pabandykite dar kartą.</item>
+        <item>Vartotojas nerastas</item>
+        <item>Yra keletas pateikto vartotojo vardo registracijų. Patikrinkite savo {0} ir slaptažodį, tada pabandykite dar kartą.</item>
+        <item>Vartotojas nerastas</item>
+        <item>Nerasta jūsų pašto serverio parametrų. Apibrėžkite savo abonemento informaciją pateiktame ekrane.</item>
+        <item>Serveris nerastas</item>
+        <item>Nepavyko prisijungti. Pateikite savo el. pašto abonemento vartotojo vardą, jeigu jis nesutampa su el. pašto adresu.</item>
+        <item>Prisijungti nepavyko</item>
+        <item>Autentifikuoti naudojant šį abonementą nepavyko pernelyg daug kartų. Palaukite, kol bus atrakinta, arba kreipkitės į administratorių.</item>
+        <item>Abonementas užrakintas</item>
+        <item>Šis telefono numeris jau užregistruotas. Patikrinkite, ar įvedėte teisingą telefono numerį, arba pagalbos kreipkitės į savo paslaugos teikėją.</item>
+        <item>Iš anksto sukonfigūruotas abonementas jau yra</item>
+        <item>Ryšys peradresuotas į kitą serverį, kad būtų didesnis našumas. Pakartokite paskutinį veiksmą.</item>
+        <item>Peradresuota</item>
+        <item>El. pašto serveris šiuo metu nepasiekiamas. Pabandykite dar kartą vėliau.</item>
+        <item>Prisijungti nepavyko</item>
+        <item>Pašto patikrinti nepavyko dėl nežinomos klaidos. Patikrinkite savo pašto dėžutės parametrus</item>
+        <item>Nežinoma klaida</item>
+        <item>Per daug kartų nesėkmingai bandyta autentifikuoti naudojant šį abonementą. Daugiau prisijungti iš jungties neleidžiama. Palaukite, kol bus atrakinta, arba kreipkitės į jungties administratorių, kad toliau būtų leidžiama mėginti prisijungti.</item>
+        <item>Prisijungimai išjungti</item>
+        <item>Spustelėkite Gerai, norėdami patikrinti savo {0} ir slaptažodį / prieš bandydami dar kartą patikrinkite savo RSA atpažinimo ženklą.</item>
+        <item>Neteisingas RSA prisijungimas</item>
+        <item>Jūsų naudojama kliento versija nėra patvirtinta pašto paslaugų teikėjo. Kreipkitės į savo teikėją, norėdami gauti patvirtintą kliento versiją.</item>
+        <item>Klientas nepatvirtintas šiam ISP.</item>
+        <item>Pateiktas „Microsoft Exchange“ serverio adresas nėra galiojantis žiniatinklio adresas. Patikrinkite adresą ir pabandykite dar kartą.</item>
+        <item>„Microsoft Exchange“ adresas – netinkamas</item>
+        <item>Jūsų teikėjas pasiekiamas kaip papildoma paslauga. Grįžkite į teikėjų sąrašą ir pasirinkite dar kartą.</item>
+        <item>Pateiktas URL neleidžiamas.</item>
+        <item>Pakeistas nuotolinio galinio punkto viešasis raktas. Tai gali rodyti mėginimą įsilaužti. Atmesti duomenys iš nuotolinio galinio punkto.</item>
+        <item>Viešojo rakto neatitiktis.</item>
+        <item>Pakartotinai prisijungti negalima. Tai rodo, kad vartotojas negali įvesti naujų kredencialų, kad pakartotinai prisijungtų prie paslaugos, tačiau reikalingas kitoks jo veiksmas</item>
+        <item>Pakartotinai prisijungti negalima</item>
+        <item>Serveris pateiktu adresu neatsako. „Microsoft Exchange“ negalima naudoti norint pasiekti darbo vietos el. laiškus, jei naudojamas VPN/SSL portalas. Pasirinkite Gerai, norėdami pasiekti darbo vietos el. paštą, kai jungsitės kitą kartą.</item>
+        <item>OWA adresas – neatsako</item>
+        <item>Jūsų pateiktu adresu esantis serveris nėra „Microsoft Exchange“ serveris. Patikrinkite savo „Microsoft Exchange“ serverio adresą ir pabandykite dar kartą.</item>
+        <item>„Microsoft Exchange“ adresas – neteisingas tipas</item>
+        <item>Baigėsi jūsų slaptažodžio galiojimas. Pakeiskite slaptažodį naudodami kompiuterį ir pamėginkite dar kartą naudodami naująjį slaptažodį.</item>
+        <item>Baigėsi slaptažodžio galiojimo laikas</item>
+        <item>Pasiekėte telefonų, kuriuos galite konfigūruoti, skaičiaus ribą. Kreipkitės į administratorių.</item>
+        <item>Per daug telefonų</item>
+        <item>Nėra jokio pastabų ID failo, nepavyksta prisijungti. Kreipkitės į administratorių.</item>
+        <item>Nėra jokio ID failo</item>
+        <item>Pageidaujama paslauga laikinai nepasiekiama. Pabandykite dar kartą vėliau. Jei problema išlieka, prisijunkite prie savo abonemento naudodami žiniatinklio naršyklę.</item>
+        <item>ISP paslauga laikinai nepasiekiama</item>
+        <item>ISP nurodė, kad būtina prisijungti žiniatinklyje. Prisijunkite prie abonemento naudodami žiniatinklio naršyklę.</item>
+        <item>Būtina prisijungti žiniatinklyje</item>
+        <item>Įvyko ISP klaida. Pabandykite dar kartą vėliau. Jei problema išlieka, pabandykite prisijungti naudodami žiniatinklio naršyklę.</item>
+        <item>ISP nurodė klaidą.</item>
+        <item>Mailbox is currently in use. Please try again later.</item>
+        <item>Mailbox is currently in use.</item>
+        <item>No answer for this feed url. Please correct the url or try again later.</item>
+        <item>No answer for this feed url.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>Nepavyksta prisijungti prie jūsų Exchange Access el. pašto. Ryšys turėtų būti atkurtas automatiškai; jei problema išlieka, pagalbos kreipkitės į savo IT administratorių.</item>
+        <item>Ryšio problema</item>
+        <item>Nepavyksta prisijungti prie jūsų {0} el. pašto. Ryšys turėtų būti atkurtas automatiškai; jei problema išlieka, pagalbos kreipkitės į {0}.</item>
+        <item>Ryšio problema</item>
+        <item>Nepavyko atlikti abonemento naujinimo veiksmo. Pabandykite dar kartą.</item>
+        <item>Nepavyko atnaujinti</item>
+        <item>RPC užklausos XML buvo netinkama.</item>
+        <item>RPC neteisingai suformuotas XML</item>
+        <item>XML RPC API įvyko vidinė klaida. Pabandykite dar kartą.</item>
+        <item>Vidinė XML RPC API klaida</item>
+        <item>Netinkami XML RPC užklausos parametrai arba jų trūksta. Patikrinkite parametrus ir jų vertes.</item>
+        <item>Netinkami parametrai arba jų trūksta</item>
+        <item>Paslauga negalėjo įrašyti jūsų duomenų. Pabandykite dar kartą.</item>
+        <item>Duomenų bazės klaida</item>
+        <item>Jau yra organizacija šiuo pavadinimu. Pasirinkite kitą pavadinimą.</item>
+        <item>Organizacija jau yra</item>
+        <item>Jūsų nurodytas jungties ID jau naudojamas. Pasirinkite kitą.</item>
+        <item>Vardas jau naudojamas</item>
+        <item>Jūsų nurodytas vartotojo vardas jau naudojamas. Pasirinkite kitą vartotojo vardą.</item>
+        <item>Vartotojo vardas jau naudojamas</item>
+        <item>Šis vartotojas jau yra.</item>
+        <item>Vartotojas jau yra</item>
+        <item>Jau yra iš anksto sukonfigūruotas abonementas, kurį mėginote sukurti. Šį esamą abonementą turi pašalinti jungties administratorius, tik tada bus galima įtraukti naują.</item>
+        <item>Iš anksto sukonfigūruotas abonementas jau yra</item>
+        <item>Neturite pakankamų prieigos teisių šiai operacijai atlikti.</item>
+        <item>Prieiga atmesta</item>
+        <item>Baigėsi jūsų prenumeratos galiojimo laikas. Norėdami atnaujinti prenumeratą, susisiekite su savo paslaugų teikėju.</item>
+        <item>Nepavyksta prisijungti</item>
+        <item>Jūsų prenumerata neleidžia įtraukti daugiau abonementų. Apsilankykite http://eu020.fra.samsungsocialhub.com norėdami atnaujinti savo prenumeratą.</item>
+        <item>Nepavyksta prisijungti</item>
+        <item>Apsilankykite http://eu020.fra.samsungsocialhub.com norėdami užsiprenumeruoti Social Hub.</item>
+        <item>Nepavyksta prisijungti</item>
+        <item>Šioje svetainėje susidūrėme su SSL sertifikato problema.</item>
+        <item>Sertifikato triktis</item>
+        <item>Pateiktas URL nepriklauso galiojančiai „Outlook Web Access“ tarnybai. Patikrinkite URL ir pabandykite dar kartą.</item>
+        <item>Netinkamas paslaugos adresas</item>
+        <item>Šis URL yra iš anksto sukonfigūruotas. Grįžkite į iš anksto sukonfigūruotų teikėjų sąrašą ir jame pasirinkite savo teikėją.</item>
+        <item>Prieiga atmesta</item>
+        <item>Kontaktas nebuvo prisijungęs mėginant išsiųsti pranešimą</item>
+        <item>Kontaktas atsijungęs</item>
+        <item>Kontaktas buvo užblokuotas mėginant išsiųsti pranešimą</item>
+        <item>Kontaktas užblokuotas</item>
+        <item>Failo dydis perduodant failą neatitinka nurodytos vertės</item>
+        <item>Failo dydžio neatitiktis</item>
+        <item>Viršytas maks. p2p seansas</item>
+        <item>Viršytas maks. p2p seansas</item>
+        <item>Trūksta gimimo datos</item>
+        <item>Trūksta gimimo datos</item>
+        <item>Gavėjas nepalaiko failų perdavimo</item>
+        <item>p2p seansas nepalaikomas</item>
+        <item>Vartotojas turi užsiregistruoti pranešimų paslaugoje</item>
+        <item>Baigėsi registracijos laikas</item>
+        <item>Užklausos nepavyko įvykdyti, nes serveris pernelyg užimtas. Pabandykite dar kartą vėliau</item>
+        <item>Serveris užimtas</item>
+        <item>VoiceClip nepalaikomas šiame pokalbyje</item>
+        <item>Balso įrašas nepalaikomas</item>
+        <item>Norint perduoti failą pokalbyje gali dalyvauti tik du dalyviai</item>
+        <item>Per daug dalyvių</item>
+        <item>Nėra dalyvių nurodytame pokalbyje</item>
+        <item>Nėra dalyvių</item>
+        <item>Prisijungti prie „Messenger“ neleidžia vartotojo tėvai</item>
+        <item>Būtinas tėvų leidimas</item>
+        <item>Pokalbio identifikatorius netinkamas. Kliento programa turėtų atsisakyti šio pokalbio</item>
+        <item>Skambučio ID netinkamas</item>
+        <item>Pamėginta pateikti kvietimo užklausą, o vartotojo (kliento įrenginyje) buvimo būsena yra Atsijungęs</item>
+        <item>Vartotojas atsijungęs</item>
+        <item>Kvietimo užklausa pamėgino įtraukti netinkamą vartotoją</item>
+        <item>Nežinomas vartotojas</item>
+        <item>Nerasta nurodyto el. pašto domeno konfigūracija</item>
+        <item>Nežinomas ISP</item>
+        <item>Atpažinimo ženklu pagrįstos autentifikavimo triktys taisomos skirtingai, taip pat – ir ši klaida.</item>
+        <item>Nepavyko autentifikuoti remiantis atpažinimo ženklu</item>
+        <item>Norint naudotis šia paslauga, būtina ją užsiprenumeruoti.</item>
+        <item>Būtina prenumerata</item>
+        <item>Nėra pasiekiamos paslaugos „Seven“.</item>
+        <item>Negalima jokia paslauga</item>
+        <item>Jūs buvote atjungti, nes prisijungėte naudodamiesi kitu kompiuteriu arba įrenginiu</item>
+        <item>Abonementas perimtas</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>Nepavyko sukurti abonemento registruojantis „Ping“</item>
+        <item>Nepavyko sukurti abonemento</item>
+        <item>Netinkamas paslaugos raktas registruojantis pagrindiniame serveryje</item>
+        <item>Netinkamas paslaugos kodas</item>
+        <item>Netinkamas paslaugos aprašas registruojantis pagrindiniame serveryje</item>
+        <item>Netinkamas paslaugos aprašas</item>
+        <item>Netinkami pasirinktiniai duomenys registruojantis pagrindiniame serveryje</item>
+        <item>Netinkami pasirinktiniai duomenys</item>
+        <item>Vartotojas jau užsiregistravęs pagrindiniame serveryje</item>
+        <item>Jau užsiregistruotas vartotojas</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>Surandant paslaugas įvyko klaida. Bandykite dar kartą.</item>
+        <item>Užklausa nesėkminga</item>
+        <item>Billing error has occurred. Please contact carrier for more information.</item>
+        <item>Billing error.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Rodyti žinutės tekstą labai mažu šriftu</item>
+        <item>Rodyti žinutės tekstą mažu šriftu</item>
+        <item>Rodyti žinutės tekstą normaliu šriftu</item>
+        <item>Rodyti žinutės tekstą dideliu šriftu</item>
+        <item>Rodyti žinutės tekstą labai dideliu šriftu</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Display 0 line in message preview</item>
+        <item>Žinutės peržiūroje rodyti 1 eilutę</item>
+        <item>Display 2 line in message preview</item>
+        <item>Display 3 line in message preview</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Versti naudojantis Google</item>
+        <item>Vikipedija</item>
+        <item>Žodynas</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Bendrinti kaip tekstą</item>
+        <item>Bendrinti kaip vaizdą</item>
+    </string-array>
+</resources>

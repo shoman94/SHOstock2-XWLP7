@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Apresentar mensagem com uma fonte muito pequena</item>
+        <item>Apresentar mensagem com uma fonte pequena</item>
+        <item>Apresentar mensagem com uma fonte normal</item>
+        <item>Apresentar mensagem com uma fonte grande</item>
+        <item>Apresentar mensagem com uma fonte muito grande</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Display 0 line in message preview</item>
+        <item>Apresentar 1 linha na pré-visualização da mensagem</item>
+        <item>Display 2 line in message preview</item>
+        <item>Display 3 line in message preview</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Google Tradutor</item>
+        <item>Wikipedia</item>
+        <item>Dicionário</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Partilhar como texto</item>
+        <item>Partilhar como imagem</item>
+    </string-array>
+</resources>

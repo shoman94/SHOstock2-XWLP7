@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/layout_root" android:layout_width="480.0px" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:background="@drawable/popup_top_dark" android:layout_width="fill_parent" android:layout_height="92.0px">
+        <ImageView android:gravity="left" android:id="@id/popup_spin_l" android:layout_width="26.0px" android:layout_height="26.0px" android:layout_marginLeft="15.0px" android:src="@drawable/email_popup_tab_left" />
+        <TextView android:textSize="33.0px" android:typeface="sans" android:textColor="@color/amoled_color1" android:gravity="center_horizontal" android:id="@id/titletext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" />
+        <ImageView android:gravity="right" android:id="@id/popup_spin_r" android:layout_width="26.0px" android:layout_height="26.0px" android:layout_marginRight="15.0px" android:src="@drawable/email_popup_tab_right" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:background="@drawable/popup_center_bright" android:layout_width="fill_parent" android:layout_height="132.0px">
+        <ImageView android:id="@id/image" android:background="@drawable/image_border_selector" android:layout_width="80.0px" android:layout_height="80.0px" android:layout_marginLeft="15.0px" android:src="@drawable/email_noimage" android:scaleType="fitCenter" />
+        <ScrollView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="22.0px" android:layout_marginTop="20.0px" android:layout_marginRight="15.0px" android:layout_marginBottom="20.0px">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <TextView android:textSize="28.0px" android:typeface="sans" android:textStyle="bold" android:textColor="@color/amoled_color2" android:gravity="left" android:id="@id/nametext" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="false" />
+                <TextView android:textSize="24.0px" android:typeface="sans" android:textColor="@color/amoled_color2" android:gravity="left" android:id="@id/text2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="false" />
+                <TextView android:textSize="24.0px" android:typeface="sans" android:textColor="@color/amoled_color2" android:gravity="left" android:id="@id/text3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="false" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:background="@drawable/popup_bottom_medium" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textSize="24.0px" android:textColor="@drawable/function_btn_text_selector" android:gravity="center" android:id="@id/button" android:background="@drawable/popup_button_background" android:layout_width="200.0px" android:layout_height="wrap_content" android:layout_marginTop="5.0px" android:layout_marginRight="10.0px" android:minHeight="80.0px" android:maxLines="2" />
+        <Button android:textSize="24.0px" android:textColor="@drawable/function_btn_text_selector" android:gravity="center" android:id="@id/button2" android:background="@drawable/popup_button_background" android:layout_width="200.0px" android:layout_height="wrap_content" android:layout_marginTop="5.0px" android:minHeight="80.0px" android:maxLines="2" />
+    </LinearLayout>
+</LinearLayout>

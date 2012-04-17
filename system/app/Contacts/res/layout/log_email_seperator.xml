@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="25.329987dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="end" android:id="@id/logdelete_selector_title2" android:focusable="false" android:clickable="false" android:singleLine="true" style="?android:attr/listSeparatorTextViewStyle" />
+</RelativeLayout>

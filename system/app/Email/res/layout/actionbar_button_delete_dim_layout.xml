@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="14.0px">
+        <ImageView android:background="@drawable/header_button_right_background_selector" android:duplicateParentState="true" android:layout_width="87.0px" android:layout_height="54.0px" android:src="@drawable/email_icon_04_dim" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</LinearLayout>

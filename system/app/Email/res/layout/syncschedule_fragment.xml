@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="1"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:scrollbarStyle="outsideInset" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/sync_schedule_peak_schedule" />
+            <Spinner android:id="@id/sync_schedule_peak_spinner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minWidth="@dimen/button_minWidth" />
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/sync_schedule_off_peak_schedule" />
+            <Spinner android:id="@id/sync_schedule_off_peak_spinner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minWidth="@dimen/button_minWidth" />
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <include layout="@layout/day_of_the_week_widget" />
+            </FrameLayout>
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/sync_schedule_peak_start_time" />
+            <Button android:id="@id/sync_schedule_start_time_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/button_minWidth" />
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/sync_schedule_peak_end_time" />
+            <Button android:id="@id/sync_schedule_end_time_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/button_minWidth" />
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:id="@id/sync_schedule_roaming_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/sync_schedule_while_roaming" />
+            <Spinner android:entries="@array/sync_schedule_roaming_entries" android:id="@id/sync_schedule_roaming" android:layout_width="fill_parent" android:layout_height="wrap_content" android:entryValues="@array/sync_chedule_roaming_values" />
+        </LinearLayout>
+    </ScrollView>
+</TableLayout>

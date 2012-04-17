@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Display 0 line in message preview</item>
+        <item>Display 1 line in message preview</item>
+        <item>Display 2 line in message preview</item>
+        <item>Display 3 line in message preview</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Google tarjima</item>
+        <item>Wikipedia</item>
+        <item>Lug‘at</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Matn sifatida baham ko‘rish</item>
+        <item>Tasvir sifatida baham ko‘rish</item>
+    </string-array>
+</resources>

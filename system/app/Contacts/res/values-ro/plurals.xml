@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d (de) contacte cu numere de telefon</item>
+        <item quantity="one">1 contact cu număr de telefon</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d (de) contacte</item>
+        <item quantity="one">1 contact</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Au fost găsite %d (de) persoane din agendă</item>
+        <item quantity="one">A fost găsită 1 persoană din agendă</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Au fost găsite %d (de) persoane din agendă</item>
+        <item quantity="one">A fost găsită 1 persoană din agendă</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">au fost îmbinate din %0$d surse</item>
+        <item quantity="one">nu au fost îmbinate</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d grupuri</item>
+        <item quantity="one">1 grup</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d (de) persoane din %2$s</item>
+        <item quantity="one">%1$d persoană din %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%d (de) persoane</item>
+        <item quantity="one">%d pers.</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%d (de) mesaje vocale</item>
+        <item quantity="one">Mesagerie vocală</item>
+    </plurals>
+    <plurals name="listNumberOfTotalContacts">
+        <item quantity="other">Se afişează %d (de) contacte</item>
+        <item quantity="one">Afişaţi 1 contact</item>
+    </plurals>
+    <plurals name="copied_N">
+        <item quantity="other">%d contacte copiate</item>
+        <item quantity="one">%d contact copiat</item>
+    </plurals>
+</resources>

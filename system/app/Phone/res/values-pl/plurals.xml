@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Brak połączenia danych przez %s minut</item>
+        <item quantity="one">Brak połączenia danych przez minut: %s</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon będzie działał w trybie awaryjnego połączenia z nadawcą przez minut: %s. Aplikacje korzystające z połączenia danych nie mogą być używane w tym trybie. Wyjść teraz?</item>
+        <item quantity="one">Telefon będzie działał w trybie awaryjnego połączenia z nadawcą przez minut: %s. Aplikacje korzystające z połączenia danych nie mogą być używane w tym trybie. Wyjść teraz?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Wybrana operacja jest niedostępna w trybie alarmowego połączenia z nadawcą. Telefon będzie w tym trybie przez minut: %s. Wyjść teraz?</item>
+        <item quantity="one">Wybrana operacja jest niedostępna w trybie alarmowego połączenia z nadawcą. Telefon będzie w tym trybie przez 1 min. Wyjść teraz?</item>
+    </plurals>
+</resources>

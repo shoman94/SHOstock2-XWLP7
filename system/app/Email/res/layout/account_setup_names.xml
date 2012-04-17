@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/setup_name" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:textSize="17.0dip" android:textColor="?android:textColorPrimary" android:id="@id/instructions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="13.0dip" android:layout_marginRight="12.0dip" android:layout_marginBottom="4.0dip" android:minHeight="43.0dip" android:text="@string/account_setup_names_headline" />
+        <TextView android:text="@string/account_setup_names_account_name_label" style="@style/accountSetupEditFieldTextStyle" />
+        <EditText android:id="@id/account_description" android:maxLength="320" android:inputType="textCapWords" android:imeOptions="actionNext" style="@style/accountSetupEditFieldValueStyle" />
+        <View android:id="@id/top_divider" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0px" />
+        <TextView android:id="@id/account_name_label" android:text="@string/account_setup_names_user_name_label" style="@style/accountSetupEditFieldTextStyle" />
+        <EditText android:id="@id/account_name" android:maxLength="320" android:inputType="textPersonName" android:imeOptions="actionDone" style="@style/accountSetupEditFieldValueStyle" />
+        <View android:id="@id/top_divider2" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0px" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/im_prov_login_body_checked_box_table" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/im_prov_login_body_checked_box_string" android:text="@string/sso_email_to_im" style="@style/accountSetup2LineTextStyle" />
+            <CheckBox android:id="@id/im_prov_login_body_checked_box" android:checked="false" style="@style/accountSetupButtonCheckBoxStyle" />
+        </LinearLayout>
+        <View android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:background="@drawable/email_softkeyview_bg" android:paddingLeft="66.0px" android:paddingTop="10.0px" android:paddingRight="66.0px" android:layout_width="fill_parent" android:layout_height="89.0px">
+            <Button android:gravity="center" android:id="@id/done" android:layout_width="fill_parent" android:layout_height="75.0px" android:layout_marginLeft="0.0px" android:layout_marginRight="0.0px" android:text="@string/done_action" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

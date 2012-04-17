@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Organisation</item>
+        <item>Bemærkning</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Opkald</item>
+        <item>Send besked</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Telefon</item>
+        <item>SIM-kort</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Alle</item>
+        <item>Telefon</item>
+        <item>SIM-kort</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Fornavn Efternavn</item>
+        <item>Efternavn Fornavn</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Man</item>
+        <item>Tir</item>
+        <item>Ons</item>
+        <item>Tor</item>
+        <item>Fre</item>
+        <item>Lør</item>
+        <item>Søn</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/user_profile_header" android:paddingLeft="?list_item_padding_left" android:paddingTop="@dimen/contact_browser_list_top_margin" android:paddingRight="?list_item_padding_right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?list_item_header_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="?list_item_header_text_size" android:textStyle="bold" android:textColor="?list_item_header_text_color" android:ellipsize="end" android:gravity="left|center" android:id="@id/profile_title" android:background="@drawable/dark_header" android:paddingLeft="?list_item_header_text_indent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/user_profile_contacts_list_header" android:singleLine="true" android:layout_weight="1.0" android:textAllCaps="true" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="12.0sp" android:textColor="?list_item_contacts_count_text_color" android:ellipsize="end" android:layout_gravity="right|center" android:id="@id/contacts_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+</LinearLayout>

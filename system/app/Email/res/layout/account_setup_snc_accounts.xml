@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/description" android:paddingLeft="@dimen/snc_setup_padding_left" android:paddingRight="@dimen/snc_setup_padding_right" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/accountSetupInfoText" android:textSize="20.0dip" android:id="@id/instructions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="@dimen/snc_setup_padding_top" android:layout_marginBottom="10.0dip" android:text="@string/snc_account_setup_text" android:layout_alignParentTop="true" />
+    <View android:id="@id/seperator" android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="2.0dip" android:layout_marginBottom="@dimen/snc_setup_padding_bottom" android:layout_below="@id/instructions" />
+    <GridView android:layout_gravity="center" android:id="@id/gridview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="38.0dip" android:layout_marginRight="10.0dip" android:horizontalSpacing="40.0dip" android:verticalSpacing="20.0dip" android:stretchMode="columnWidth" android:columnWidth="84.0dip" android:numColumns="auto_fit" android:layout_below="@id/seperator"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_menu_done_xl" android:id="@id/oof_settings_ok" android:title="@string/oof_set" android:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/ic_menu_cancel" android:id="@id/oof_settings_cancel" android:title="@string/oof_cancel" android:showAsAction="ifRoom|withText" />
+</menu>

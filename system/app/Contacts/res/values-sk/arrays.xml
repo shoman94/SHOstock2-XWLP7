@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Organizácia</item>
+        <item>Poznámka</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Hovor</item>
+        <item>Odos. správu</item>
+    </string-array>
+    <string-array name="save_new_contacts_to_array">
+        <item>Telefón</item>
+        <item>SIM</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>MSN</item>
+    </string-array>
+    <string-array name="view_contacts_from_array">
+        <item>Všetko</item>
+        <item>Telefón</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="order_of_display_name_array">
+        <item>Krstné meno Priezvisko</item>
+        <item>Priezvisko Krstné meno</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Po</item>
+        <item>Ut</item>
+        <item>St</item>
+        <item>Št</item>
+        <item>Pi</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+</resources>

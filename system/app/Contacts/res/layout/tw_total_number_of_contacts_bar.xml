@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:background="@drawable/contactslist_more_info_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="14.0dip" android:textColor="@color/total_number_of_contacts_text_color" android:ellipsize="marquee" android:gravity="center" android:id="@id/totalContactsText" android:layout_width="fill_parent" android:layout_height="25.0dip" android:singleLine="true" android:layout_centerVertical="true" />
+</LinearLayout>

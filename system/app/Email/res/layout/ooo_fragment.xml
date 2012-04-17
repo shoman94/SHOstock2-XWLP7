@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/oof_on_off_checkbox_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/oof_on_off_label" android:text="@string/auto_reply_label" style="@style/accountSetup1LineTextStyle" />
+            <CheckBox android:id="@id/oof_on_off_check" style="@style/accountSetupButtonCheckBoxStyle" />
+        </LinearLayout>
+        <View android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0px" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/oof_time_checkbox_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:text="@string/oof_time_checkbox_label" style="@style/accountSetup2LineTextStyle" />
+            <CheckBox android:id="@id/oof_enable_dates_cb" style="@style/accountSetupButtonCheckBoxStyle" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/startTime_label" android:text="@string/oof_start_time" style="@style/accountSetupEditFieldTextStyle" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <Button android:id="@id/oof_StartDate_button" android:layout_width="195.0dip" android:layout_height="43.0dip" android:layout_marginLeft="13.0dip" android:text="@string/oof_date" style="@style/accountSetupSoftButton1Style" />
+                <Button android:id="@id/oof_StartTime_button" android:layout_width="96.0dip" android:layout_height="43.0dip" android:layout_marginLeft="7.0dip" android:text="@string/oof_time" style="@style/accountSetupSoftButton1Style" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/endTime_label" android:text="@string/oof_end_time" style="@style/accountSetupEditFieldTextStyle" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <Button android:id="@id/oof_EndDate_button" android:layout_width="195.0dip" android:layout_height="43.0dip" android:layout_marginLeft="13.0dip" android:text="@string/oof_date" style="@style/accountSetupSoftButton1Style" />
+                <Button android:id="@id/oof_EndTime_button" android:layout_width="96.0dip" android:layout_height="43.0dip" android:layout_marginLeft="7.0dip" android:text="@string/oof_time" style="@style/accountSetupSoftButton1Style" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/oof_internal_msg_label" android:text="@string/oof_internal_msg_label" style="@style/accountSetupEditFieldTextStyle" />
+            <EditText android:id="@id/oof_internal_msg" android:maxLength="10000" style="@style/accountSetupEditFieldValueStyle" />
+        </LinearLayout>
+        <View android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0px" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/oof_external_set_checkbox_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:text="@string/oof_external_set_chk_label" style="@style/accountSetup2LineTextStyle" />
+            <CheckBox android:id="@id/oof_external_settings_cb" style="@style/accountSetupButtonCheckBoxStyle" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/rb_known_list_radiobutton_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RadioButton android:id="@id/rb_known_list" android:layout_marginLeft="20.0dip" style="@style/accountSetupButtonCheckBoxStyleForLeft" />
+            <TextView android:text="@string/rb_known" style="@style/accountSetup2LineTextStyleForLeft" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/rb_unknown_list_radiobutton_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RadioButton android:id="@id/rb_unknown_list" android:layout_marginLeft="20.0dip" style="@style/accountSetupButtonCheckBoxStyleForLeft" />
+            <TextView android:text="@string/rb_unknown" style="@style/accountSetup2LineTextStyleForLeft" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/linearLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/off_external_msg_label" android:text="@string/oof_external_msg_label" style="@style/accountSetupEditFieldTextStyle" />
+            <EditText android:id="@id/off_external_msg" android:maxLength="10000" style="@style/accountSetupEditFieldValueStyle" />
+        </LinearLayout>
+        <View android:background="@drawable/email_contents_line" android:layout_width="fill_parent" android:layout_height="1.0px" />
+    </LinearLayout>
+</ScrollView>

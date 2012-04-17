@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/VideoRecordingMenu" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.sec.android.app.camera">
+    <com.sec.android.app.camera.widget.TwGuidelineView android:id="@id/recording_guideline" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/RecordingIndicatorLayout" android:layout_width="720.0px" android:layout_height="480.0px" android:layout_marginLeft="0.0px" android:layout_marginTop="0.0px">
+        <TextView android:textSize="22.0px" android:textColor="#ffffffff" android:gravity="center" android:id="@id/VRRecTimeText" android:layout_width="110.0px" android:layout_height="32.0px" android:layout_marginLeft="516.0px" android:layout_marginTop="9.0px" android:shadowColor="#ff000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+        <ImageView android:id="@id/VRRecIcon" android:layout_width="32.0px" android:layout_height="32.0px" android:layout_marginLeft="626.0px" android:layout_marginTop="9.0px" />
+        <com.sec.android.app.camera.widget.TwIndicatorBattery android:id="@id/VRbattery_indicator" android:layout_width="32.0px" android:layout_height="32.0px" android:layout_marginLeft="672.0px" android:layout_marginTop="9.0px" />
+    </RelativeLayout>
+    <com.sec.android.app.camera.widget.TwImageButton android:id="@id/VRStopLightButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="720.0px" android:layout_marginTop="161.0px" custom:twimagebutton_image_width="79.0px" custom:twimagebutton_image_height="156.0px" custom:twimagebutton_image_n="@drawable/camcorder_recording_shutter_normal" custom:twimagebutton_image_p="@drawable/camcorder_standby_shutter_press" custom:twimagebutton_image_d="@drawable/camcorder_standby_shutter_press" />
+    <com.sec.android.app.camera.widget.TwImageButton android:id="@id/VRStopDarkButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="720.0px" android:layout_marginTop="161.0px" custom:twimagebutton_image_width="79.0px" custom:twimagebutton_image_height="156.0px" custom:twimagebutton_image_n="@drawable/camcorder_standby_shutter_normal" custom:twimagebutton_image_p="@drawable/camcorder_standby_shutter_press" custom:twimagebutton_image_d="@drawable/camcorder_standby_shutter_press" />
+    <RelativeLayout android:id="@id/RecCurSizeLayout" android:layout_width="720.0px" android:layout_height="480.0px" android:layout_marginLeft="0.0px" android:layout_marginTop="0.0px">
+        <TextView android:textSize="24.0px" android:textColor="#ffffffff" android:gravity="right" android:id="@id/VRRecCurSize" android:layout_width="300.0px" android:layout_height="33.0px" android:layout_marginLeft="400.0px" android:layout_marginTop="434.0px" android:shadowColor="#ff000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/VRLayoutMMS" android:layout_width="500.0px" android:layout_height="480.0px" android:layout_marginLeft="140.0px" android:layout_marginTop="0.0px">
+        <TextView android:textSize="24.0px" android:textColor="#ffffffff" android:gravity="right" android:id="@id/VRRecMMSCurSize" android:layout_width="70.0px" android:layout_height="wrap_content" android:layout_marginLeft="0.0px" android:layout_marginTop="436.0px" android:shadowColor="#ff000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+        <ProgressBar android:id="@id/VRRecProgressBar" android:layout_width="350.0px" android:layout_height="10.0px" android:layout_marginLeft="75.0px" android:layout_marginTop="448.0px" android:progressDrawable="@drawable/tw_progress_horizontal" style="@style/TwHorizontalProgressBar" />
+        <TextView android:textSize="24.0px" android:textColor="#ffffffff" android:id="@id/VRRecMaxSize" android:layout_width="110.0px" android:layout_height="wrap_content" android:layout_marginLeft="433.0px" android:layout_marginTop="436.0px" android:text="@string/MaxRecordingSizeMMS" android:shadowColor="#ff000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+    </RelativeLayout>
+    <ImageView android:background="@drawable/empty" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

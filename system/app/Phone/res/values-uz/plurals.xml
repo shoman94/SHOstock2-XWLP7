@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">%s daqiqa davomida ma’lumot ulanishi mavjud bo‘lmaydi</item>
+        <item quantity="one">%s daqiqa davomida ma’lumot ulanishi mavjud bo‘lmaydi</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon %s daqiqa davomida Favqulodda qaytarish qo‘ng‘iroqlari rejimida bo‘ladi. Ma’lumotlar ulanishidan foydalanuvchi ilovalarni ushbu rejimda ishlatib bo‘lmaydi. Hozir chiqilsinmi?</item>
+        <item quantity="one">Telefon %s daqiqa davomida Favqulodda qaytarish qo‘ng‘iroqlari rejimida bo‘ladi. Ma’lumotlar ulanishidan foydalanuvchi ilovalarni ushbu rejimda ishlatib bo‘lmaydi. Hozir chiqilsinmi?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Tanlangan amalni Favqulodda qaytarish qo‘ng‘iroqlari rejimida bajarib bo‘lmaydi. Telefon %s daqiqa davomida ushbu rejimda bo‘ladi. Hozir chiqilsinmi?</item>
+        <item quantity="one">Tanlangan amalni Favqulodda qaytarish qo‘ng‘iroqlari rejimida bajarib bo‘lmaydi. Telefon 1 daqiqa davomida ushbu rejimda bo‘ladi. Hozir chiqilsinmi?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="client_on_device_subscription_reminder_delay_minutes">10080</integer>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_ab_search_holo_dark" android:id="@id/menu_search" android:title="@string/menu_search" />
+    <item android:icon="@drawable/ic_add_contact_holo_dark" android:id="@id/menu_add_contact" android:title="@string/menu_new_contact_action_bar" />
+    <item android:icon="@drawable/ic_add_group_holo_dark" android:id="@id/menu_add_group" android:title="@string/menu_new_group_action_bar" />
+    <item android:id="@id/menu_multiple_delete" android:title="@string/menu_multiple_delete" />
+    <item android:icon="@drawable/ic_menu_import_export_holo_light" android:id="@id/menu_import_export" android:title="@string/menu_import_export" />
+    <item android:id="@id/menu_merge_with_google" android:title="@string/menu_merge_with_google" />
+    <item android:icon="@drawable/ic_menu_accounts_holo_light" android:id="@id/menu_accounts" android:title="@string/menu_accounts" />
+    <item android:id="@id/menu_speed_dial_setting" android:title="@string/menu_speed_dial_setting" />
+    <item android:id="@id/menu_send_email" android:title="@string/menu_send_email" />
+    <item android:id="@id/menu_send_message" android:title="@string/menu_send_message" />
+    <item android:icon="@drawable/ic_menu_settings_holo_light" android:id="@id/menu_contacts_filter" android:title="@string/menu_contacts_filter" />
+    <item android:icon="@drawable/ic_menu_settings_holo_light" android:id="@id/menu_settings" android:title="@string/menu_settings" />
+    <item android:id="@id/menu_change_order" android:title="@string/change_order" />
+    <item android:id="@id/menu_add_favorite" android:title="@string/menu_addStar" />
+    <item android:id="@id/menu_delete_favorite" android:title="@string/menu_removeStar" />
+</menu>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Nema podatkovne veze %s min</item>
+        <item quantity="one">Nema podatkovne veze %s min</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon će biti u načinu hitnog poziva %s min. Aplikacije koje koristite podatkovnu vezu ne mogu se koristiti u tom načinu. Prekid?</item>
+        <item quantity="one">Telefon će biti u načinu hitnog poziva %s min. Aplikacije koje koriste podatkovnu vezu ne mogu se koristiti u tom načinu. Prekid?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Odabrana akcija nedostupna u načinu hitnog poziva. Telefon ostaje u tom načinu %s min. Prekid?</item>
+        <item quantity="one">Odabrana akcija nedostupna u načinu hitnog pov. poziva. Telefon ostaje u tom načinu 1 minutu. Prekid?</item>
+    </plurals>
+</resources>

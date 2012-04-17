@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/policiesListLayout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:id="@id/adminDescription" android:text="@string/security_policies_list_title" style="@style/listDescriptionTextViewStyle" />
+        <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:orientation="vertical" android:id="@id/devicePoliciesListLayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:id="@id/mDeviceText" android:text="@string/Policy_list_device" style="?android:attr/listSeparatorTextViewStyle" />
+                    <ListView android:gravity="center_vertical" android:id="@id/devicePoliciesList" android:clickable="false" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/accountPoliciesListLayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:id="@id/mAccountText" style="?android:attr/listSeparatorTextViewStyle" />
+                    <ListView android:gravity="center_vertical" android:id="@id/accountPoliciesList" android:clickable="false" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/noPoliciesListLayout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <ImageView android:id="@id/noPoliciesListImg" android:background="@drawable/email_img_nodata" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:text="@string/Policy_list_no_policies" style="@style/noDataTextViewStyle" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sec.android.app.contacts.preference.OnlyContactsWithPhonesPreference android:title="@string/showFilterPhones" android:key="only_phones" android:summary="@string/showFilterPhonesDescrip" />
+    <com.android.contacts.preference.SortOrderPreference android:title="@string/display_options_sort_list_by" android:key="sortOrder" android:dialogTitle="@string/display_options_sort_list_by" />
+    <com.android.contacts.preference.DisplayOrderPreference android:title="@string/display_options_view_names_as" android:key="displayOrder" android:dialogTitle="@string/display_options_view_names_as" />
+    <Preference android:title="@string/service_numbers" android:key="serviceNumbers">
+        <intent android:action="android.intent.action.SERVICE_NUMBER" />
+    </Preference>
+    <Preference android:title="@string/send_contact" android:key="sendContact">
+        <intent android:action="android.intent.action.SEND_CONTACT" />
+    </Preference>
+    <Preference android:title="@string/vcard_charset_settings" android:key="vcardSettings">
+        <intent android:action="com.sec.android.app.contacts.activities.VcardCharsetSettingsActivity" />
+    </Preference>
+</PreferenceScreen>

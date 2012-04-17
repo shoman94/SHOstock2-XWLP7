@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_menu_manual" android:id="@id/manual_setup" android:title="@string/account_setup_basics_manual_setup_action" android:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/ic_menu_next" android:id="@id/next" android:title="@string/next_action" android:showAsAction="ifRoom|withText" />
+</menu>

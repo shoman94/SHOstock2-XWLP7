@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/LinearLayout02" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/ImageView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_menu_attachment" />
+        <LinearLayout android:orientation="vertical" android:id="@id/LinearLayout01" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <RelativeLayout android:orientation="horizontal" android:id="@id/LinearLayout02" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textAppearance="?android:textAppearanceSmall" android:id="@id/attachment_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/att_details_size" android:singleLine="true" android:layout_alignParentRight="true" />
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:ellipsize="end" android:id="@id/attachment_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/att_details_name" android:singleLine="true" android:layout_toLeftOf="@id/attachment_size" android:layout_alignParentLeft="true" />
+            </RelativeLayout>
+            <TextView android:ellipsize="end" android:id="@id/attachment_type" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/att_details_type" android:singleLine="true" />
+        </LinearLayout>
+    </LinearLayout>
+    <ProgressBar android:id="@id/progress_horizontal" android:paddingLeft="9.0dip" android:paddingTop="9.0dip" android:paddingRight="9.0dip" android:paddingBottom="6.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:max="100" android:progress="0" style="?android:attr/progressBarStyleHorizontal" />
+    <EditText android:id="@id/newName" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:maxLength="256" android:inputType="text" android:imeOptions="actionDone" />
+    <LinearLayout android:gravity="center" android:paddingLeft="9.0dip" android:paddingRight="9.0dip" android:paddingBottom="9.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" orientation="horizontal">
+        <Button android:id="@id/attachment_cancel_download" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/attachment_cancel_download" style="@style/Z7.Theme.Button" />
+        <Button android:id="@id/attachment_close" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/attachment_close" style="@style/Z7.Theme.Button" />
+    </LinearLayout>
+</LinearLayout>

@@ -1601,12 +1601,6 @@ for account %s"</string>
     <string name="zzz_dual_clock_city_seoul">Seoul</string>
     <string name="zzz_dual_clock_city_local">Local time</string>
     <string name="wifi_on_vt_not_allowed_msg">Video Telephony is impossible during Wi-Fi on</string>
-    <string name="cutAll">Cut all</string>
-    <string name="copyAll">Copy all</string>
-    <string name="undo">Undo</string>
-    <string name="redo">Redo</string>
-    <string name="operation_not_allowed">Operation Not Allowed</string>
-    <string name="exceeded_maxlength">Maximum message size exceeded</string>
     <item type="string" name="APKTOOL_DUMMY_062d">false</item>
     <item type="string" name="APKTOOL_DUMMY_062e">false</item>
     <item type="string" name="APKTOOL_DUMMY_062f">false</item>
@@ -1635,4 +1629,12 @@ for account %s"</string>
     <item type="string" name="APKTOOL_DUMMY_0648">false</item>
     <item type="string" name="APKTOOL_DUMMY_0649">false</item>
     <item type="string" name="APKTOOL_DUMMY_064a">false</item>
+    <string name="cutAll">Cut all</string>
+    <string name="copyAll">Copy all</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="operation_not_allowed">Operation Not Allowed</string>
+    <string name="exceeded_maxlength">Maximum message size exceeded</string>
+    <string name="reboot_recovery">Recovery</string>
+    <string name="reboot_download">Download</string>
 </resources>

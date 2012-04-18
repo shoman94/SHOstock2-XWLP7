@@ -4370,19 +4370,6 @@
     <public type="string" name="zzz_dual_clock_city_seoul" id="0x01040627" />
     <public type="string" name="zzz_dual_clock_city_local" id="0x01040628" />
     <public type="string" name="wifi_on_vt_not_allowed_msg" id="0x01040629" />
-    <public type="string" name="cutAll" id="0x0104064b" />
-    <public type="string" name="copyAll" id="0x0104064c" />
-    <public type="string" name="undo" id="0x0104064d" />
-    <public type="string" name="redo" id="0x0104064e" />
-    <public type="string" name="operation_not_allowed" id="0x0104064f" />
-    <public type="string" name="exceeded_maxlength" id="0x01040650" />
-    <public type="string" name="abbrev_wday_day_abbrev_month_no_year" id="0x010400b3" />
-    <public type="string" name="abbrev_wday_abbrev_month_day_no_year" id="0x010400b4" />
-    <public type="string" name="wifi_p2p_pbc_go_negotiation_request_message" id="0x0104062a" />
-    <public type="string" name="wifi_p2p_pin_go_negotiation_request_message" id="0x0104062b" />
-    <public type="string" name="wifi_p2p_pin_display_message" id="0x0104062c" />
-    <public type="string" name="policylab_allow_htmlemail" id="0x01040632" />
-    <public type="string" name="policydesc_allow_htmlemail" id="0x01040633" />
     <public type="string" name="APKTOOL_DUMMY_062d" id="0x0104062d" />
     <public type="string" name="APKTOOL_DUMMY_062e" id="0x0104062e" />
     <public type="string" name="APKTOOL_DUMMY_062f" id="0x0104062f" />
@@ -4411,6 +4398,21 @@
     <public type="string" name="APKTOOL_DUMMY_0648" id="0x01040648" />
     <public type="string" name="APKTOOL_DUMMY_0649" id="0x01040649" />
     <public type="string" name="APKTOOL_DUMMY_064a" id="0x0104064a" />
+    <public type="string" name="cutAll" id="0x0104064b" />
+    <public type="string" name="copyAll" id="0x0104064c" />
+    <public type="string" name="undo" id="0x0104064d" />
+    <public type="string" name="redo" id="0x0104064e" />
+    <public type="string" name="operation_not_allowed" id="0x0104064f" />
+    <public type="string" name="exceeded_maxlength" id="0x01040650" />
+    <public type="string" name="reboot_recovery" id="0x01040651" />
+    <public type="string" name="reboot_download" id="0x01040652" />
+    <public type="string" name="abbrev_wday_day_abbrev_month_no_year" id="0x010400b3" />
+    <public type="string" name="abbrev_wday_abbrev_month_day_no_year" id="0x010400b4" />
+    <public type="string" name="wifi_p2p_pbc_go_negotiation_request_message" id="0x0104062a" />
+    <public type="string" name="wifi_p2p_pin_go_negotiation_request_message" id="0x0104062b" />
+    <public type="string" name="wifi_p2p_pin_display_message" id="0x0104062c" />
+    <public type="string" name="policylab_allow_htmlemail" id="0x01040632" />
+    <public type="string" name="policydesc_allow_htmlemail" id="0x01040633" />
     <public type="dimen" name="app_icon_size" id="0x01050000" />
     <public type="dimen" name="thumbnail_height" id="0x01050001" />
     <public type="dimen" name="thumbnail_width" id="0x01050002" />
@@ -4489,6 +4491,7 @@
     <public type="dimen" name="default_app_widget_padding_right" id="0x0105004b" />
     <public type="dimen" name="default_app_widget_padding_bottom" id="0x0105004c" />
     <public type="dimen" name="action_button_min_width" id="0x0105004d" />
+    <public type="dimen" name="APKTOOL_DUMMY_004e" id="0x0105004e" />
     <public type="dimen" name="webselect_port_content_height" id="0x01050051" />
     <public type="dimen" name="webselect_land_content_height" id="0x01050052" />
     <public type="dimen" name="webmagnifier_width" id="0x01050053" />
@@ -4498,7 +4501,6 @@
     <public type="dimen" name="tw_action_bar_title_text_size" id="0x01050057" />
     <public type="dimen" name="keyguard_pattern_unlock_clock_font_size" id="0x0105004f" />
     <public type="dimen" name="keyguard_pattern_unlock_status_line_font_size" id="0x01050050" />
-    <public type="dimen" name="APKTOOL_DUMMY_004e" id="0x0105004e" />
     <public type="color" name="darker_gray" id="0x01060000" />
     <public type="color" name="primary_text_dark" id="0x01060001" />
     <public type="color" name="primary_text_dark_nodisable" id="0x01060002" />
@@ -4817,6 +4819,7 @@
     <public type="drawable" name="ic_btn_square_browser_zoom_page_overview" id="0x010802b8" />
     <public type="drawable" name="ic_clear" id="0x010802c0" />
     <public type="drawable" name="ic_clear_holo_light" id="0x010802c2" />
+    <public type="drawable" name="APKTOOL_DUMMY_02c6" id="0x010802c6" />
     <public type="drawable" name="ic_lockscreen_answer" id="0x010802e6" />
     <public type="drawable" name="ic_lockscreen_camera" id="0x010802ea" />
     <public type="drawable" name="ic_lockscreen_decline" id="0x010802f1" />
@@ -4933,6 +4936,7 @@
     <public type="drawable" name="switch_inner_holo_light" id="0x0108056e" />
     <public type="drawable" name="switch_track_holo_dark" id="0x01080577" />
     <public type="drawable" name="switch_track_holo_light" id="0x01080578" />
+    <public type="drawable" name="APKTOOL_DUMMY_057d" id="0x0108057d" />
     <public type="drawable" name="tab_bottom_left" id="0x01080595" />
     <public type="drawable" name="tab_bottom_left_v4" id="0x01080596" />
     <public type="drawable" name="tab_bottom_right" id="0x01080597" />
@@ -4941,6 +4945,10 @@
     <public type="drawable" name="tab_indicator_ab_holo" id="0x0108059d" />
     <public type="drawable" name="tab_indicator_holo" id="0x0108059e" />
     <public type="drawable" name="tab_indicator_v4" id="0x0108059f" />
+    <public type="drawable" name="APKTOOL_DUMMY_05b8" id="0x010805b8" />
+    <public type="drawable" name="APKTOOL_DUMMY_05bb" id="0x010805bb" />
+    <public type="drawable" name="APKTOOL_DUMMY_05bc" id="0x010805bc" />
+    <public type="drawable" name="APKTOOL_DUMMY_05bd" id="0x010805bd" />
     <public type="drawable" name="textfield_search" id="0x010805dd" />
     <public type="drawable" name="textfield_search_empty" id="0x010805e1" />
     <public type="drawable" name="textfield_searchview_holo_dark" id="0x010805ed" />
@@ -4961,18 +4969,25 @@
     <public type="drawable" name="tw_grid_selector_background" id="0x01080631" />
     <public type="drawable" name="tw_ic_cab_done_holo_dark" id="0x01080635" />
     <public type="drawable" name="tw_ic_clear_holo_light" id="0x01080638" />
+    <public type="drawable" name="APKTOOL_DUMMY_063d" id="0x0108063d" />
     <public type="drawable" name="tw_ic_menu_clipboard_holo_dark" id="0x01080641" />
     <public type="drawable" name="tw_ic_menu_copy_holo_dark" id="0x01080644" />
     <public type="drawable" name="tw_ic_menu_cut_holo_dark" id="0x01080647" />
     <public type="drawable" name="tw_ic_menu_moreoverflow_holo_dark" id="0x0108064a" />
+    <public type="drawable" name="APKTOOL_DUMMY_064c" id="0x0108064c" />
     <public type="drawable" name="tw_ic_menu_paste_holo_dark" id="0x0108064e" />
     <public type="drawable" name="tw_ic_menu_selectall_holo_dark" id="0x01080651" />
     <public type="drawable" name="tw_ic_menu_share_holo_dark" id="0x01080654" />
     <public type="drawable" name="tw_item_background_holo_dark" id="0x01080659" />
     <public type="drawable" name="tw_light_header_dither" id="0x0108065b" />
+    <public type="drawable" name="APKTOOL_DUMMY_065f" id="0x0108065f" />
     <public type="drawable" name="tw_list_selector_background" id="0x01080661" />
+    <public type="drawable" name="APKTOOL_DUMMY_0662" id="0x01080662" />
+    <public type="drawable" name="APKTOOL_DUMMY_0665" id="0x01080665" />
+    <public type="drawable" name="APKTOOL_DUMMY_0668" id="0x01080668" />
     <public type="drawable" name="tw_list_selector_background_transition" id="0x01080669" />
     <public type="drawable" name="tw_list_selector_background_transition_holo_dark" id="0x0108066a" />
+    <public type="drawable" name="APKTOOL_DUMMY_066b" id="0x0108066b" />
     <public type="drawable" name="tw_numberpicker_down_btn" id="0x0108066f" />
     <public type="drawable" name="tw_numberpicker_input" id="0x01080675" />
     <public type="drawable" name="tw_numberpicker_up_btn" id="0x0108067a" />
@@ -4993,6 +5008,33 @@
     <public type="drawable" name="tw_textfield_searchview_holo_dark" id="0x010806db" />
     <public type="drawable" name="tw_textfield_searchview_right_holo_dark" id="0x010806dc" />
     <public type="drawable" name="tw_title_bar" id="0x010806de" />
+    <public type="drawable" name="APKTOOL_DUMMY_06eb" id="0x010806eb" />
+    <public type="drawable" name="APKTOOL_DUMMY_06ec" id="0x010806ec" />
+    <public type="drawable" name="APKTOOL_DUMMY_0703" id="0x01080703" />
+    <public type="drawable" name="APKTOOL_DUMMY_0710" id="0x01080710" />
+    <public type="drawable" name="APKTOOL_DUMMY_072f" id="0x0108072f" />
+    <public type="drawable" name="APKTOOL_DUMMY_074b" id="0x0108074b" />
+    <public type="drawable" name="APKTOOL_DUMMY_074c" id="0x0108074c" />
+    <public type="drawable" name="APKTOOL_DUMMY_074d" id="0x0108074d" />
+    <public type="drawable" name="APKTOOL_DUMMY_074e" id="0x0108074e" />
+    <public type="drawable" name="APKTOOL_DUMMY_074f" id="0x0108074f" />
+    <public type="drawable" name="APKTOOL_DUMMY_0750" id="0x01080750" />
+    <public type="drawable" name="APKTOOL_DUMMY_0751" id="0x01080751" />
+    <public type="drawable" name="APKTOOL_DUMMY_0752" id="0x01080752" />
+    <public type="drawable" name="APKTOOL_DUMMY_0753" id="0x01080753" />
+    <public type="drawable" name="APKTOOL_DUMMY_0754" id="0x01080754" />
+    <public type="drawable" name="APKTOOL_DUMMY_0755" id="0x01080755" />
+    <public type="drawable" name="APKTOOL_DUMMY_0756" id="0x01080756" />
+    <public type="drawable" name="APKTOOL_DUMMY_0757" id="0x01080757" />
+    <public type="drawable" name="APKTOOL_DUMMY_0758" id="0x01080758" />
+    <public type="drawable" name="APKTOOL_DUMMY_076d" id="0x0108076d" />
+    <public type="drawable" name="APKTOOL_DUMMY_076e" id="0x0108076e" />
+    <public type="drawable" name="APKTOOL_DUMMY_076f" id="0x0108076f" />
+    <public type="drawable" name="APKTOOL_DUMMY_0770" id="0x01080770" />
+    <public type="drawable" name="APKTOOL_DUMMY_0771" id="0x01080771" />
+    <public type="drawable" name="APKTOOL_DUMMY_0772" id="0x01080772" />
+    <public type="drawable" name="APKTOOL_DUMMY_0773" id="0x01080773" />
+    <public type="drawable" name="APKTOOL_DUMMY_0774" id="0x01080774" />
     <public type="drawable" name="zzzz_tw_popup_btn_check" id="0x01080797" />
     <public type="drawable" name="zzzz_tw_popup_btn_radio" id="0x010807a2" />
     <public type="drawable" name="zzzz_webselect_btn_bg" id="0x010807aa" />
@@ -6655,51 +6697,13 @@
     <public type="drawable" name="zzzzzzzzz_pcw_icon_call_normal" id="0x010807c3" />
     <public type="drawable" name="zzzzzzzzz_pcw_icon_call_press" id="0x010807c4" />
     <public type="drawable" name="zzzzzzzzz_pcw_line" id="0x010807c5" />
+    <public type="drawable" name="ic_lock_download" id="0x010807d0" />
+    <public type="drawable" name="ic_lock_recovery" id="0x010807d1" />
     <public type="drawable" name="unlock_default" id="0x010806fb" />
     <public type="drawable" name="unlock_halo" id="0x01080704" />
     <public type="drawable" name="unlock_ring" id="0x01080729" />
     <public type="drawable" name="unlock_wave" id="0x01080731" />
     <public type="drawable" name="btn_lock_normal" id="0x01080168" />
-    <public type="drawable" name="APKTOOL_DUMMY_02c6" id="0x010802c6" />
-    <public type="drawable" name="APKTOOL_DUMMY_057d" id="0x0108057d" />
-    <public type="drawable" name="APKTOOL_DUMMY_05b8" id="0x010805b8" />
-    <public type="drawable" name="APKTOOL_DUMMY_05bb" id="0x010805bb" />
-    <public type="drawable" name="APKTOOL_DUMMY_05bc" id="0x010805bc" />
-    <public type="drawable" name="APKTOOL_DUMMY_05bd" id="0x010805bd" />
-    <public type="drawable" name="APKTOOL_DUMMY_063d" id="0x0108063d" />
-    <public type="drawable" name="APKTOOL_DUMMY_064c" id="0x0108064c" />
-    <public type="drawable" name="APKTOOL_DUMMY_065f" id="0x0108065f" />
-    <public type="drawable" name="APKTOOL_DUMMY_0662" id="0x01080662" />
-    <public type="drawable" name="APKTOOL_DUMMY_0665" id="0x01080665" />
-    <public type="drawable" name="APKTOOL_DUMMY_0668" id="0x01080668" />
-    <public type="drawable" name="APKTOOL_DUMMY_066b" id="0x0108066b" />
-    <public type="drawable" name="APKTOOL_DUMMY_06eb" id="0x010806eb" />
-    <public type="drawable" name="APKTOOL_DUMMY_06ec" id="0x010806ec" />
-    <public type="drawable" name="APKTOOL_DUMMY_0703" id="0x01080703" />
-    <public type="drawable" name="APKTOOL_DUMMY_0710" id="0x01080710" />
-    <public type="drawable" name="APKTOOL_DUMMY_072f" id="0x0108072f" />
-    <public type="drawable" name="APKTOOL_DUMMY_074b" id="0x0108074b" />
-    <public type="drawable" name="APKTOOL_DUMMY_074c" id="0x0108074c" />
-    <public type="drawable" name="APKTOOL_DUMMY_074d" id="0x0108074d" />
-    <public type="drawable" name="APKTOOL_DUMMY_074e" id="0x0108074e" />
-    <public type="drawable" name="APKTOOL_DUMMY_074f" id="0x0108074f" />
-    <public type="drawable" name="APKTOOL_DUMMY_0750" id="0x01080750" />
-    <public type="drawable" name="APKTOOL_DUMMY_0751" id="0x01080751" />
-    <public type="drawable" name="APKTOOL_DUMMY_0752" id="0x01080752" />
-    <public type="drawable" name="APKTOOL_DUMMY_0753" id="0x01080753" />
-    <public type="drawable" name="APKTOOL_DUMMY_0754" id="0x01080754" />
-    <public type="drawable" name="APKTOOL_DUMMY_0755" id="0x01080755" />
-    <public type="drawable" name="APKTOOL_DUMMY_0756" id="0x01080756" />
-    <public type="drawable" name="APKTOOL_DUMMY_0757" id="0x01080757" />
-    <public type="drawable" name="APKTOOL_DUMMY_0758" id="0x01080758" />
-    <public type="drawable" name="APKTOOL_DUMMY_076d" id="0x0108076d" />
-    <public type="drawable" name="APKTOOL_DUMMY_076e" id="0x0108076e" />
-    <public type="drawable" name="APKTOOL_DUMMY_076f" id="0x0108076f" />
-    <public type="drawable" name="APKTOOL_DUMMY_0770" id="0x01080770" />
-    <public type="drawable" name="APKTOOL_DUMMY_0771" id="0x01080771" />
-    <public type="drawable" name="APKTOOL_DUMMY_0772" id="0x01080772" />
-    <public type="drawable" name="APKTOOL_DUMMY_0773" id="0x01080773" />
-    <public type="drawable" name="APKTOOL_DUMMY_0774" id="0x01080774" />
     <public type="layout" name="activity_list_item" id="0x01090000" />
     <public type="layout" name="expandable_list_content" id="0x01090001" />
     <public type="layout" name="preference_category" id="0x01090002" />

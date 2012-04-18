@@ -521,6 +521,9 @@
 
     invoke-virtual {v0, v7}, Landroid/preference/PreferenceCategory;->addPreference(Landroid/preference/Preference;)Z
 
+    .line 379
+    invoke-virtual {v4, v0}, Landroid/preference/PreferenceScreen;->removePreference(Landroid/preference/Preference;)Z
+
     .line 342
     const v7, 0x7f05002f
 

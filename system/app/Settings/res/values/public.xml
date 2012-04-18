@@ -3723,6 +3723,10 @@
     <public type="style" name="AccessibilityTutorialIcon" id="0x7f0e001d" />
     <public type="style" name="Theme.WifiDialog" id="0x7f0e001e" />
     <public type="style" name="Theme.AccessibilityTutorialActivity" id="0x7f0e001f" />
+    <public type="string" name="disable_ampm" id="0x7f0b0923" />
+    <public type="string" name="disable_ampm_text" id="0x7f0b0924" />
+    <public type="string" name="disable_time" id="0x7f0b0925" />
+    <public type="string" name="disable_time_text" id="0x7f0b0926" />
     <public type="menu" name="data_usage" id="0x7f0f0000" />
     <public type="menu" name="misc_files_menu" id="0x7f0f0001" />
 </resources>

@@ -7,7 +7,7 @@
     <bool name="world_phone">false</bool>
     <bool name="config_enable_dialer_key_vibration">true</bool>
     <bool name="tty_enabled">false</bool>
-    <bool name="hac_enabled">false</bool>
+    <bool name="hac_enabled">true</bool>
     <bool name="dtmf_type_enabled">false</bool>
     <bool name="auto_retry_enabled">false</bool>
     <bool name="allow_local_dtmf_tones">false</bool>

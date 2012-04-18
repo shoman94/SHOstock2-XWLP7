@@ -28,6 +28,8 @@
 
 .field private static mReboot:Z
 
+.field public static mReboot:I
+
 .field private static mRebootReason:Ljava/lang/String;
 
 .field private static mRebootResult:Z
@@ -1311,9 +1313,35 @@
     invoke-static {v4, v5}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 844
+    sget v1, Lcom/android/internal/app/ShutdownThread;->mReboot:I
+
+    const/4 v2, 0x1
+
+    if-eq v1, v2, :rebootRecovery
+
+    const/4 v2, 0x2
+
+    if-eq v1, v2, :rebootDownload
+
     invoke-static {}, Landroid/os/Power;->shutdown()V
 
     .line 845
+    return-void
+
+    :rebootRecovery
+
+    const-string v4, "recovery"
+
+    invoke-static {v4}, Landroid/os/Power;->reboot(Ljava/lang/String;)V
+
+    return-void
+
+    :rebootDownload
+
+    const-string v4, "download"
+
+    invoke-static {v4}, Landroid/os/Power;->reboot(Ljava/lang/String;)V
+
     return-void
 
     .line 822
@@ -1512,7 +1540,7 @@
     invoke-static {v6, v7}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 182
-    if-eqz p1, :cond_5
+    goto :cond_5
 
     .line 183
     const-string v6, "ShutdownThread"

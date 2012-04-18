@@ -237,6 +237,88 @@
     return-void
 .end method
 
+.method private setButtonsInvisible()V
+    .locals 3
+
+    .prologue
+    const/4 v0, 0x1
+
+    const/16 v2, 0x8
+
+    .line 115
+    iget v1, p0, Lcom/android/phone/EndCallButtonsView;->mOrientation:I
+
+    if-ne v1, v0, :cond_1
+
+    .line 117
+    .local v0, isPortrait:Z
+    :goto_0
+    if-eqz v0, :cond_2
+
+    .line 119
+    iget-object v1, p0, Lcom/android/phone/EndCallButtonsView;->mPortrait:Landroid/view/View;
+
+    invoke-virtual {v1, v2}, Landroid/view/View;->setVisibility(I)V
+
+    .line 120
+    iget-object v1, p0, Lcom/android/phone/EndCallButtonsView;->mLandscape:Lcom/android/phone/EndCallButtonsViewLand;
+
+    if-eqz v1, :cond_0
+
+    .line 121
+    iget-object v1, p0, Lcom/android/phone/EndCallButtonsView;->mLandscape:Lcom/android/phone/EndCallButtonsViewLand;
+
+    invoke-virtual {v1, v2}, Lcom/android/phone/EndCallButtonsViewLand;->setVisibility(I)V
+
+    .line 132
+    :cond_0
+    :goto_1
+    return-void
+
+    .line 115
+    .end local v0           #isPortrait:Z
+    :cond_1
+    const/4 v0, 0x0
+
+    goto :goto_0
+
+    .line 123
+    .restart local v0       #isPortrait:Z
+    :cond_2
+    iget-object v1, p0, Lcom/android/phone/EndCallButtonsView;->mLandscape:Lcom/android/phone/EndCallButtonsViewLand;
+
+    if-nez v1, :cond_3
+
+    .line 124
+    const v1, 0x7f09009f
+
+    invoke-virtual {p0, v1}, Lcom/android/phone/EndCallButtonsView;->findViewById(I)Landroid/view/View;
+
+    move-result-object v1
+
+    check-cast v1, Lcom/android/phone/EndCallButtonsViewLand;
+
+    iput-object v1, p0, Lcom/android/phone/EndCallButtonsView;->mLandscape:Lcom/android/phone/EndCallButtonsViewLand;
+
+    .line 126
+    :cond_3
+    iget-object v1, p0, Lcom/android/phone/EndCallButtonsView;->mLandscape:Lcom/android/phone/EndCallButtonsViewLand;
+
+    if-eqz v1, :cond_0
+
+    .line 128
+    iget-object v1, p0, Lcom/android/phone/EndCallButtonsView;->mLandscape:Lcom/android/phone/EndCallButtonsViewLand;
+
+    invoke-virtual {v1, v2}, Lcom/android/phone/EndCallButtonsViewLand;->setVisibility(I)V
+
+    .line 129
+    iget-object v1, p0, Lcom/android/phone/EndCallButtonsView;->mPortrait:Landroid/view/View;
+
+    invoke-virtual {v1, v2}, Landroid/view/View;->setVisibility(I)V
+
+    goto :goto_1
+.end method
+
 
 # virtual methods
 .method public disableAllButton()V
@@ -1166,7 +1248,7 @@
 
     move-object/from16 v17, v0
 
-    const/16 v18, 0x0
+    const/16 v18, 0x8
 
     invoke-virtual/range {v17 .. v18}, Landroid/widget/Button;->setVisibility(I)V
 

@@ -83,6 +83,10 @@
 
 .field private mRestart:Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;
 
+.field private mRecovery:Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;
+
+.field private mDownload:Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;
+
 .field mSilentModeClickListener:Landroid/content/DialogInterface$OnClickListener;
 
 .field private mSilentModeToggle:Lcom/android/internal/policy/impl/GlobalActions$ToggleAction;
@@ -897,8 +901,28 @@
 
     iput-object v0, p0, Lcom/android/internal/policy/impl/GlobalActions;->mRestart:Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;
 
+    new-instance v0, Lcom/android/internal/policy/impl/GlobalActions$15;
+
+    const v1, 0x10807d1 # recovery icon id
+
+    const v2, 0x1040651 # recovery string id
+
+    invoke-direct {v0, p0, v1, v2}, Lcom/android/internal/policy/impl/GlobalActions$15;-><init>(Lcom/android/internal/policy/impl/GlobalActions;II)V
+
+    iput-object v0, p0, Lcom/android/internal/policy/impl/GlobalActions;->mRecovery:Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;
+
+    new-instance v0, Lcom/android/internal/policy/impl/GlobalActions$16;
+
+    const v1, 0x10807d0 # download icon id
+
+    const v2, 0x1040652 # download string id
+
+    invoke-direct {v0, p0, v1, v2}, Lcom/android/internal/policy/impl/GlobalActions$16;-><init>(Lcom/android/internal/policy/impl/GlobalActions;II)V
+
+    iput-object v0, p0, Lcom/android/internal/policy/impl/GlobalActions;->mDownload:Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;
+
     .line 333
-    const/4 v0, 0x6
+    const/16 v0, 0x8
 
     new-array v0, v0, [Lcom/android/internal/policy/impl/GlobalActions$Action;
 
@@ -933,6 +957,18 @@
     const/4 v1, 0x5
 
     iget-object v2, p0, Lcom/android/internal/policy/impl/GlobalActions;->mRestart:Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;
+
+    aput-object v2, v0, v1
+
+    const/4 v1, 0x6
+
+    iget-object v2, p0, Lcom/android/internal/policy/impl/GlobalActions;->mRecovery:Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;
+
+    aput-object v2, v0, v1
+
+    const/4 v1, 0x7
+
+    iget-object v2, p0, Lcom/android/internal/policy/impl/GlobalActions;->mDownload:Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;
 
     aput-object v2, v0, v1
 
@@ -1049,7 +1085,7 @@
     .line 371
     iget-object v2, p0, Lcom/android/internal/policy/impl/GlobalActions;->mDialog:Landroid/app/AlertDialog;
 
-    const v3, 0x1040164
+    const v3, 0x1040019
 
     invoke-virtual {v2, v3}, Landroid/app/AlertDialog;->setTitle(I)V
 

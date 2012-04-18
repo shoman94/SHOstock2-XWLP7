@@ -5,6 +5,7 @@
     <LinearLayout android:id="@id/quicksetting_scroller" android:layout_width="fill_parent" android:layout_height="wrap_content"
       xmlns:android="http://schemas.android.com/apk/res/android"
       xmlns:systemui="http://schemas.android.com/apk/res/com.android.systemui">
+        <com.android.wanam.systemui.StBar.PowerWidget android:id="@id/exp_power_stat" android:layout_width="fill_parent" android:layout_height="wrap_content" />
         <LinearLayout android:orientation="horizontal" android:id="@id/quicksetting_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
             <LinearLayout android:orientation="horizontal" android:id="@id/quickpanel_wifi_btn_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
                 <com.android.systemui.statusbar.policy.QuickSettingButton android:id="@id/quickpanel_wifi_btn" android:background="@drawable/tw_quicksetting_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" systemui:buttonText="@string/quickpanel_wifi_text" systemui:onIcon="@drawable/tw_quick_panel_icon_wifi_on" systemui:offIcon="@drawable/tw_quick_panel_icon_wifi_off" systemui:dimIcon="@drawable/tw_quick_panel_icon_wifi_dim" />

@@ -844,4 +844,5 @@
     <public type="id" name="close_button" id="0x7f0e00b9" />
     <public type="id" name="recent_remove_item" id="0x7f0e00ba" />
     <public type="id" name="recent_inspect_item" id="0x7f0e00bb" />
+    <public type="id" name="exp_power_stat" id="0x7f0e00bc" />
 </resources>

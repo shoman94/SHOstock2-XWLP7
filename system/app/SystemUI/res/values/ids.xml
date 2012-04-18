@@ -188,4 +188,5 @@
     <item type="id" name="close_button">false</item>
     <item type="id" name="recent_remove_item">false</item>
     <item type="id" name="recent_inspect_item">false</item>
+    <item type="id" name="exp_power_stat">false</item>
 </resources>

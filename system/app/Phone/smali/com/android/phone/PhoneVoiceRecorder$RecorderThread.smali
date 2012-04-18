@@ -1061,6 +1061,8 @@
     move-result-object v3
 
     invoke-virtual {v3}, Landroid/media/MediaRecorder;->prepare()V
+
+    invoke-virtual {v3}, Landroid/media/MediaRecorder;->start()V
     :try_end_0
     .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
 

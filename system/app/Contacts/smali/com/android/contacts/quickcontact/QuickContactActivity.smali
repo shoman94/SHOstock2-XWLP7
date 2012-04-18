@@ -738,7 +738,7 @@
 
     move-result v10
 
-    if-eqz v10, :cond_9
+    goto :cond_9
 
     .line 472
     new-instance v9, Lcom/android/contacts/quickcontact/DataAction;

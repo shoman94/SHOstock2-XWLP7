@@ -2723,7 +2723,7 @@
 
     iget-boolean v2, v0, Lcom/android/contacts/detail/ContactDetailFragment;->mHasVideoCall:Z
 
-    if-eqz v2, :cond_2b
+    goto :cond_2b
 
     .line 932
     invoke-direct/range {p0 .. p0}, Lcom/android/contacts/detail/ContactDetailFragment;->makeVideoCallEntry()V

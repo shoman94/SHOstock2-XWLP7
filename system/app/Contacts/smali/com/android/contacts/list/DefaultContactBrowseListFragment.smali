@@ -5015,7 +5015,7 @@
     .prologue
     const/16 v2, 0x8
 
-    const/4 v1, 0x0
+    const/16 v1, 0x8
 
     .line 812
     iget-object v3, p0, Lcom/android/contacts/list/DefaultContactBrowseListFragment;->mProfileHeaderContainer:Landroid/widget/FrameLayout;

@@ -318,13 +318,6 @@
 
     iput-object v5, p0, Lcom/android/internal/policy/impl/CircleLockScreen;->mHelpText:Landroid/widget/TextView;
 
-    .line 178
-    iget-object v5, p0, Lcom/android/internal/policy/impl/CircleLockScreen;->mHelpText:Landroid/widget/TextView;
-
-    const v6, 0x10405f8
-
-    invoke-virtual {v5, v6}, Landroid/widget/TextView;->setText(I)V
-
     .line 179
     iget-object v5, p0, Lcom/android/internal/policy/impl/CircleLockScreen;->mHelpText:Landroid/widget/TextView;
 

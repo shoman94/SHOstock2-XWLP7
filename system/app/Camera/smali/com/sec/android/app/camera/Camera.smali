@@ -1549,7 +1549,6 @@
     invoke-virtual {p0}, Lcom/sec/android/app/camera/Camera;->finishTimerCount()V
 
     .line 2859
-    invoke-virtual {p0}, Lcom/sec/android/app/camera/Camera;->handleLowBattery()V
 
     .line 2881
     :cond_3
@@ -10501,7 +10500,6 @@
     goto/16 :goto_0
 
     .line 1550
-    :sswitch_4
     iget-object v3, p0, Lcom/sec/android/app/camera/Camera;->mCameraEngine:Lcom/sec/android/app/camera/CameraEngine;
 
     invoke-virtual {v3}, Lcom/sec/android/app/camera/CameraEngine;->isPreviewStarted()Z
@@ -10605,8 +10603,8 @@
     .sparse-switch
         0x4 -> :sswitch_1
         0x17 -> :sswitch_3
-        0x18 -> :sswitch_4
-        0x19 -> :sswitch_4
+        0x18 -> :sswitch_3
+        0x19 -> :sswitch_3
         0x1a -> :sswitch_1
         0x1b -> :sswitch_3
         0x42 -> :sswitch_3
@@ -11039,7 +11037,7 @@
 
     goto/16 :goto_1
 
-    :sswitch_3
+
     move v0, v1
 
     .line 1687
@@ -11134,9 +11132,9 @@
     .sparse-switch
         0x4 -> :sswitch_0
         0x17 -> :sswitch_2
-        0x18 -> :sswitch_3
-        0x19 -> :sswitch_3
-        0x1a -> :sswitch_3
+        0x18 -> :sswitch_2
+        0x19 -> :sswitch_2
+        0x1a -> :sswitch_0
         0x1b -> :sswitch_2
         0x42 -> :sswitch_2
         0x50 -> :sswitch_4

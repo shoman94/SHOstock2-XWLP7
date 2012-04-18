@@ -1008,7 +1008,6 @@
     invoke-virtual {p0}, Lcom/sec/android/app/camera/Camcorder;->finishTimerCount()V
 
     .line 2018
-    invoke-virtual {p0}, Lcom/sec/android/app/camera/Camcorder;->handleLowBattery()V
 
     .line 2040
     :cond_2

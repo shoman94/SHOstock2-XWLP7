@@ -470,6 +470,8 @@
 
     iput-boolean v2, p0, Lcom/sec/android/app/camera/AbstractCameraActivity;->mCheckCalling:Z
 
+    goto :goto_0
+
     .line 1114
     :try_start_0
     const-string v2, "phone"
@@ -1568,6 +1570,8 @@
     new-instance v0, Landroid/app/AlertDialog$Builder;
 
     invoke-direct {v0, p0}, Landroid/app/AlertDialog$Builder;-><init>(Landroid/content/Context;)V
+
+    return-void
 
     .line 1442
     .local v0, dialog:Landroid/app/AlertDialog$Builder;

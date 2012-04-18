@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="DialtactsTheme" parent="@android:style/Theme.DeviceDefault">
+    <style name="DialtactsTheme" parent="@android:style/Theme.DeviceDefault.Wallpaper">
         <item name="android:textColorSecondary">@color/dialtacts_secondary_text_color</item>
+        <item name="android:windowBackground">@drawable/dial_bg</item>
         <item name="android:actionBarStyle">@style/DialtactsActionBarStyle</item>
         <item name="android:windowActionBarOverlay">true</item>
         <item name="contact_browser_list_padding_left">16.0dip</item>

@@ -743,11 +743,7 @@
     .line 619
     iget-object v7, p0, Lcom/android/systemui/power/PowerUI;->mFullBatteryNotification:Landroid/app/Notification;
 
-    iget v7, v7, Landroid/app/Notification;->icon:I
-
     iget-object v8, p0, Lcom/android/systemui/power/PowerUI;->mFullBatteryNotification:Landroid/app/Notification;
-
-    invoke-virtual {v2, v7, v8}, Landroid/app/NotificationManager;->notify(ILandroid/app/Notification;)V
 
     .line 621
     iget-object v7, p0, Lcom/android/systemui/SystemUI;->mContext:Landroid/content/Context;
@@ -786,8 +782,6 @@
     .line 628
     .local v0, fullBatteryScreenDimLock:Landroid/os/PowerManager$WakeLock;
     const-wide/16 v7, 0x4e20
-
-    invoke-virtual {v0, v7, v8}, Landroid/os/PowerManager$WakeLock;->acquire(J)V
 
     goto :goto_0
 .end method

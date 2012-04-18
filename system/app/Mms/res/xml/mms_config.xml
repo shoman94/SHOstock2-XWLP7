@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mms_config version="4">
     <bool name="enabledMMS">true</bool>
-    <int name="maxMessageSize">307200</int>
-    <int name="ATTmaxMessageSize">614400</int>
+    <int name="maxMessageSize">1048576</int>
+    <int name="ATTmaxMessageSize">1024000</int>
     <int name="TMOmaxMessageSize">1024000</int>
     <int name="mmsHeaderSize">5120</int>
-    <int name="maxImageHeight">480</int>
-    <int name="maxImageWidth">640</int>
+    <int name="maxImageHeight">1536</int>
+    <int name="maxImageWidth">2048</int>
     <int name="defaultSMSMessagesPerThread">200</int>
     <int name="defaultMMSMessagesPerThread">20</int>
     <int name="minMessageCountPerThread">10</int>
@@ -14,8 +14,8 @@
     <int name="mMaxTextViewSize">5000</int>
     <string name="uaProfUrl">http://wap.samsungmobile.com/uaprof/GT-I9100.xml</string>
     <string name="userAgent">SAMSUNG-GT-I9100-Mms</string>
-    <int name="recipientLimit">10</int>
-    <int name="smsToMmsTextThreshold">4</int>
+    <int name="recipientLimit">200</int>
+    <int name="smsToMmsTextThreshold">20</int>
     <string name="USAATTUserAgent">%s Mozilla/5.0 SMM-MMS/1.2.0</string>
     <string name="USATMOUserAgent">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</string>
     <string name="USAATTuaProfUrl">http://wap.samsungmobile.com/uaprof/%s.xml</string>

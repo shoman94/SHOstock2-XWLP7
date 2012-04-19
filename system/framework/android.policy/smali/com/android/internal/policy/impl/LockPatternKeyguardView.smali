@@ -149,7 +149,7 @@
     iput-boolean v1, p0, Lcom/android/internal/policy/impl/LockPatternKeyguardView;->GLASSLOCK_MODE:Z
 
     .line 115
-    iput-boolean v2, p0, Lcom/android/internal/policy/impl/LockPatternKeyguardView;->CIRCLELOCK_MODE:Z
+    iput-boolean v1, p0, Lcom/android/internal/policy/impl/LockPatternKeyguardView;->CIRCLELOCK_MODE:Z
 
     .line 124
     iput-boolean v1, p0, Lcom/android/internal/policy/impl/LockPatternKeyguardView;->mScreenOn:Z

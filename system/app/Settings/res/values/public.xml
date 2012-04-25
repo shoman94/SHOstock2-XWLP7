@@ -3727,6 +3727,8 @@
     <public type="string" name="disable_ampm_text" id="0x7f0b0924" />
     <public type="string" name="disable_time" id="0x7f0b0925" />
     <public type="string" name="disable_time_text" id="0x7f0b0926" />
+    <public type="string" name="enable_aosp_lock" id="0x7f0b0927" />
+    <public type="string" name="enable_aosp_lock_text" id="0x7f0b0928" />
     <public type="menu" name="data_usage" id="0x7f0f0000" />
     <public type="menu" name="misc_files_menu" id="0x7f0f0001" />
 </resources>

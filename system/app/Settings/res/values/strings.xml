@@ -2197,4 +2197,6 @@ Do you want to continue?"</string>
     <string name="disable_time_text">Remove time from status bar</string>
     <string name="disable_ampm">Hide AM/PM</string>
     <string name="disable_ampm_text">Remove AM/PM from time in status bar</string>
+    <string name="enable_aosp_lock">Enable AOSP lockscreen</string>
+    <string name="enable_aosp_lock_text">Enable AOSP lockscreen in place of circle lockscreen</string>
 </resources>

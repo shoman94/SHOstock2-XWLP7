@@ -2949,9 +2949,22 @@
 
     .line 1043
     .local v0, lockView:Landroid/view/View;
-    iget-boolean v1, p0, Lcom/android/internal/policy/impl/LockPatternKeyguardView;->CIRCLELOCK_MODE:Z
+#    iget-boolean v1, p0, Lcom/android/internal/policy/impl/LockPatternKeyguardView;->CIRCLELOCK_MODE:Z
+    iget-object v5, p0, Lcom/android/internal/policy/impl/LockPatternKeyguardView;->mContext:Landroid/content/Context;
 
-    if-eqz v1, :cond_0
+    invoke-virtual {v5}, Landroid/content/Context;->getContentResolver()Landroid/content/ContentResolver;
+
+    move-result-object v5
+
+    const-string v4, "enable_aosp_lock"
+
+    invoke-static {v5, v4, v0}, Landroid/provider/Settings$System;->getInt(Landroid/content/ContentResolver;Ljava/lang/String;I)I
+
+    move-result v5
+
+    if-nez v5, :cond_0
+
+#    if-eqz v1, :cond_0
 
     .line 1044
     new-instance v0, Lcom/android/internal/policy/impl/CircleLockScreen;

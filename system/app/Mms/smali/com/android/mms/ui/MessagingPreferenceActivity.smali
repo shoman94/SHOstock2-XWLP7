@@ -2100,8 +2100,6 @@
 
     move-result-object v4
 
-    invoke-direct {p0, v3, v4}, Lcom/android/mms/ui/MessagingPreferenceActivity;->removePreference(Landroid/preference/PreferenceGroup;Landroid/preference/Preference;)V
-
     .line 410
     :cond_3
     const-string v3, "pref_notification_settings"
@@ -2120,16 +2118,12 @@
 
     move-result-object v3
 
-    invoke-direct {p0, v0, v3}, Lcom/android/mms/ui/MessagingPreferenceActivity;->removePreference(Landroid/preference/PreferenceGroup;Landroid/preference/Preference;)V
-
     .line 412
     const-string v3, "pref_key_backlight"
 
     invoke-virtual {p0, v3}, Lcom/android/mms/ui/MessagingPreferenceActivity;->findPreference(Ljava/lang/CharSequence;)Landroid/preference/Preference;
 
     move-result-object v3
-
-    invoke-direct {p0, v0, v3}, Lcom/android/mms/ui/MessagingPreferenceActivity;->removePreference(Landroid/preference/PreferenceGroup;Landroid/preference/Preference;)V
 
     .line 418
     const-string v3, "ATL"

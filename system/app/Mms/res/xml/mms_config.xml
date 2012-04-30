@@ -31,11 +31,11 @@
     <bool name="enable_prefix_fwd">false</bool>
     <bool name="enable_auth_mdn">false</bool>
     <bool name="enable_save_empty_recipient">false</bool>
-    <bool name="enable_screen_onoff_option">false</bool>
-    <bool name="enable_signature_settings">false</bool>
-    <bool name="enable_vibration_option">false</bool>
+    <bool name="enable_screen_onoff_option">true</bool>
+    <bool name="enable_signature_settings">true</bool>
+    <bool name="enable_vibration_option">true</bool>
     <bool name="enable_email_segmented_sms">false</bool>
-    <bool name="enable_signature">false</bool>
+    <bool name="enable_signature">true</bool>
     <bool name="enable_callback_option">false</bool>
     <bool name="SubjectSMS">false</bool>
     <bool name="International_SMS_Guard">false</bool>

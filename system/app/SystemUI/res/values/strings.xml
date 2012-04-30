@@ -181,4 +181,5 @@ Unplug charger"</string>
     <string name="screen_capture_fail_for_storage_capacity">Memory is full. Delete some items</string>
     <item type="string" name="APKTOOL_DUMMY_00ac">false</item>
     <item type="string" name="APKTOOL_DUMMY_00ad">false</item>
+    <string name="recent_apps_title">Recent apps</string>
 </resources>

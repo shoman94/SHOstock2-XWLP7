@@ -541,6 +541,12 @@
 
     invoke-virtual {v2, v1}, Landroid/widget/ImageView;->setImageMatrix(Landroid/graphics/Matrix;)V
 
+    iget-object v2, p1, Lcom/android/systemui/recent/RecentsPanelView$ViewHolder;->thumbnailViewImage:Landroid/widget/ImageView;
+
+    const/high16 v3, 0x41a0
+
+    invoke-virtual {v2, v3}, Landroid/widget/ImageView;->setRotationY(F)V
+
     goto :goto_0
 .end method
 

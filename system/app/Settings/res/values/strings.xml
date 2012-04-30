@@ -2199,4 +2199,6 @@ Do you want to continue?"</string>
     <string name="disable_ampm_text">Remove AM/PM from time in status bar</string>
     <string name="enable_aosp_lock">Enable AOSP lockscreen</string>
     <string name="enable_aosp_lock_text">Enable AOSP lockscreen in place of circle lockscreen</string>
+    <string name="crtanimation_title">Enable CRT Animation</string>
+    <string name="crtanimation_summary">Animation when powering off screen</string>
 </resources>

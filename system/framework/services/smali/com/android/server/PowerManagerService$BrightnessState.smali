@@ -332,11 +332,31 @@
     .line 2454
     .local v3, turningOff:Z
     :goto_0
-    iget-object v6, p0, Lcom/android/server/PowerManagerService$BrightnessState;->this$0:Lcom/android/server/PowerManagerService;
+#    iget-object v6, p0, Lcom/android/server/PowerManagerService$BrightnessState;->this$0:Lcom/android/server/PowerManagerService;
 
-    iget-boolean v6, v6, Lcom/android/server/PowerManagerService;->mAnimateScreenLights:Z
+#    iget-boolean v6, v6, Lcom/android/server/PowerManagerService;->mAnimateScreenLights:Z
 
-    if-nez v6, :cond_0
+    iget-object v0, p0, Lcom/android/server/PowerManagerService$BrightnessState;->this$0:Lcom/android/server/PowerManagerService;
+
+    invoke-static {v0}, Lcom/android/server/PowerManagerService;->access$4300(Lcom/android/server/PowerManagerService;)Landroid/content/Context;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Landroid/content/Context;->getContentResolver()Landroid/content/ContentResolver;
+
+    move-result-object v0
+
+    const-string v1, "crt_animation"
+
+    const/4 v4, 0x0
+
+    invoke-static {v0, v1, v4}, Landroid/provider/Settings$System;->getInt(Landroid/content/ContentResolver;Ljava/lang/String;I)I
+
+    move-result v6
+
+    if-eqz v6, :cond_0
+
+#    if-nez v6, :cond_0
 
     if-nez v3, :cond_3
 

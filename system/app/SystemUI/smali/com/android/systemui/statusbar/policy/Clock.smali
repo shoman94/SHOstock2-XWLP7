@@ -160,15 +160,15 @@
 
     invoke-static {v2, v7, v0}, Landroid/provider/Settings$System;->getInt(Landroid/content/ContentResolver;Ljava/lang/String;I)I
 
-    move-result v7	
+    move-result v7
 
     const/4 v0, 0x0
 
-    if-eqz v7, :cond_nohide
+    if-eqz v7, :cond_0
 
     const/16 v0, 0x8
 
-    :cond_nohide
+    :cond_0
     const v1, 0x7f0e0027
 
     invoke-virtual {p0, v1}, Lcom/android/systemui/statusbar/phone/PhoneStatusBarView;->findViewById(I)Landroid/view/View;
@@ -183,7 +183,7 @@
 
     .line 192
     .local v2, b24:Z
-    if-eqz v2, :cond_1
+    if-eqz v2, :cond_3
 
     .line 193
     const v5, 0x104007e
@@ -203,7 +203,7 @@
 
     move-result-object v4
 
-    if-nez v2, :cond_continue
+    if-nez v2, :cond_1
 
     invoke-virtual {v3}, Landroid/content/Context;->getContentResolver()Landroid/content/ContentResolver;
 
@@ -219,30 +219,29 @@
 
     move v2, v7
 
-    if-eqz v2, :cond_continue
+    if-eqz v2, :cond_1
 
     const-string v4, "h:mm"
 
-    :cond_continue
-
     .line 214
     .local v4, format:Ljava/lang/String;
+    :cond_1
     iget-object v8, p0, Lcom/android/systemui/statusbar/policy/Clock;->mClockFormatString:Ljava/lang/String;
 
     invoke-virtual {v4, v8}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
 
     move-result v8
 
-    if-eqz v8, :cond_0
+    if-eqz v8, :cond_2
 
-    if-nez v2, :cond_2
+    if-nez v2, :cond_4
 
     iget-boolean v8, p0, Lcom/android/systemui/statusbar/policy/Clock;->mLocaleChanged:Z
 
-    if-eqz v8, :cond_2
+    if-eqz v8, :cond_4
 
     .line 215
-    :cond_0
+    :cond_2
     const/4 v8, 0x0
 
     iput-boolean v8, p0, Lcom/android/systemui/statusbar/policy/Clock;->mLocaleChanged:Z
@@ -281,7 +280,7 @@
     .end local v5           #res:I
     .end local v6           #result:Ljava/lang/String;
     .end local v7           #sdf:Ljava/text/SimpleDateFormat;
-    :cond_1
+    :cond_3
     const v5, 0x104007d
 
     .restart local v5       #res:I
@@ -291,7 +290,7 @@
     .restart local v0       #MAGIC1:C
     .restart local v1       #MAGIC2:C
     .restart local v4       #format:Ljava/lang/String;
-    :cond_2
+    :cond_4
     iget-object v7, p0, Lcom/android/systemui/statusbar/policy/Clock;->mClockFormat:Ljava/text/SimpleDateFormat;
 
     .restart local v7       #sdf:Ljava/text/SimpleDateFormat;

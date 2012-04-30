@@ -8294,10 +8294,10 @@
     move-result-object v1
 
     .line 1485
-    if-eqz v1, :cond_0
+    if-eqz v1, :cond_1
 
     .line 1486
-    if-eqz p1, :cond_1
+    if-eqz p1, :cond_2
 
     const/4 v0, 0x0
 
@@ -8307,25 +8307,26 @@
 
     move-result-object v2
 
-    const-string v3, "hide_time"
+    const-string p0, "hide_time"
 
-    invoke-static {v2, v3, v0}, Landroid/provider/Settings$System;->getInt(Landroid/content/ContentResolver;Ljava/lang/String;I)I
+    invoke-static {v2, p0, v0}, Landroid/provider/Settings$System;->getInt(Landroid/content/ContentResolver;Ljava/lang/String;I)I
 
     move-result v2
 
-    if-eqz v2, :goto_0
+    if-eqz v2, :cond_0
 
     const/16 v0, 0x8
 
+    :cond_0
     :goto_0
     invoke-virtual {v1, v0}, Landroid/view/View;->setVisibility(I)V
 
     .line 1488
-    :cond_0
+    :cond_1
     return-void
 
     .line 1486
-    :cond_1
+    :cond_2
     const/16 v0, 0x8
 
     goto :goto_0
